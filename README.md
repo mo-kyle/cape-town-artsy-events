@@ -10,7 +10,7 @@ There is no server. A Node script fetches and classifies events, writes `docs/da
 | --- | --- | --- |
 | [Quicket](https://www.quicket.co.za) | Its public Algolia search index (the same one the website's own search box uses) | Richest local source. Filtered to `Region: Western Cape`. |
 | [Webtickets](https://www.webtickets.co.za) | Category listing pages for the Western Cape, then each promising event's detail page | Workshops & Classes, Art/Design, Food & Drink, Wellness, Education, Family, Nature, Other. |
-| [Eventbrite](https://www.eventbrite.com/d/south-africa--cape-town/events/) | The JSON embedded in Cape Town category search pages | About 20 keyword/category searches, a few pages each. |
+| [Eventbrite](https://www.eventbrite.com/d/south-africa--cape-town/events/) | The JSON embedded in Cape Town category search pages | Sparse for this niche in Cape Town, rate-limits aggressively, and blocks GitHub's runners (HTTP 405), so it contributes little in the scheduled run. Kept for local runs. |
 | [Meetup](https://www.meetup.com/find/?location=za--Cape%20Town) | The Next.js data embedded in the "find events" page | Keyword searches; in-person events only. |
 
 Looked at and skipped for now: Howler (single-page app with no discoverable public API), Cape Town Magazine and Cape Town ETC (editorial articles rather than structured events), Facebook and Airbnb Experiences (block automated access).
