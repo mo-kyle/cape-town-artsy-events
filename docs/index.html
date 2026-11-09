@@ -11,15 +11,19 @@
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E%F0%9F%8F%BA%3C/text%3E%3C/svg%3E">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="styles.css">
+<script>try{const t=localStorage.getItem('theme');if(t)document.documentElement.dataset.theme=t;}catch{}</script>
 </head>
 <body>
 <header class="site-header">
-  <div class="wrap">
-    <h1><span class="mark">🏺</span> Artsy Cape Town</h1>
-    <p class="tagline">Hands-on classes and workshops around the Cape: pottery, cooking, scent, paint, textiles and more. Pulled from several ticketing sites and refreshed daily.</p>
-    <p class="meta" id="meta">Loading…</p>
+  <div class="wrap header-row">
+    <div>
+      <h1><span class="mark">🏺</span> Artsy Cape Town</h1>
+      <p class="tagline">Hands-on classes and workshops around the Cape: pottery, cooking, scent, paint, textiles and more. Pulled from several ticketing sites and refreshed daily.</p>
+      <p class="meta" id="meta">Loading…</p>
+    </div>
+    <button class="theme-toggle" id="theme" type="button" title="Switch theme" aria-label="Switch theme">◐</button>
   </div>
 </header>
 
@@ -31,53 +35,104 @@
         <input id="q" type="search" placeholder="Search events, venues, organisers…" autocomplete="off">
       </label>
       <label class="select">
-        <span class="sr-only">When</span>
-        <select id="when">
-          <option value="all">Any time</option>
-          <option value="today">Today</option>
-          <option value="week">Next 7 days</option>
-          <option value="weekend">This weekend</option>
-          <option value="month">Next 30 days</option>
-        </select>
-      </label>
-      <label class="select">
         <span class="sr-only">Area</span>
         <select id="area"><option value="all">Whole Western Cape</option></select>
       </label>
-      <label class="check"><input id="free" type="checkbox"> Free only</label>
+      <label class="select">
+        <span class="sr-only">Price</span>
+        <select id="price">
+          <option value="all">Any price</option>
+          <option value="free">Free</option>
+          <option value="lt200">Under R200</option>
+          <option value="200-500">R200 – R500</option>
+          <option value="500-1000">R500 – R1 000</option>
+          <option value="gt1000">Over R1 000</option>
+        </select>
+      </label>
+      <label class="select">
+        <span class="sr-only">Sort</span>
+        <select id="sort">
+          <option value="date">Soonest first</option>
+          <option value="price-asc">Cheapest first</option>
+          <option value="price-desc">Priciest first</option>
+          <option value="new">Recently added</option>
+        </select>
+      </label>
     </div>
+
+    <div class="row dates">
+      <div class="presets" role="group" aria-label="Quick dates">
+        <button type="button" class="preset" data-preset="all">Any time</button>
+        <button type="button" class="preset" data-preset="today">Today</button>
+        <button type="button" class="preset" data-preset="weekend">This weekend</button>
+        <button type="button" class="preset" data-preset="week">Next 7 days</button>
+        <button type="button" class="preset" data-preset="month">Next 30 days</button>
+      </div>
+      <div class="range">
+        <label><span>From</span><input id="from" type="date"></label>
+        <label><span>To</span><input id="to" type="date"></label>
+      </div>
+    </div>
+
+    <div class="daystrip" id="daystrip" aria-label="Events per day"></div>
+
     <div class="chips" id="chips" role="group" aria-label="Categories"></div>
   </section>
 
   <p class="summary" id="summary"></p>
   <div id="list" class="list" aria-live="polite"></div>
-  <p class="empty" id="empty" hidden>Nothing matches those filters. Try widening the dates or clearing a category.</p>
+  <p class="empty" id="empty" hidden>Nothing matches those filters. Try widening the dates, the price band, or clearing a category.</p>
 </main>
 
 <footer class="site-footer">
   <div class="wrap">
     <h2>Where this comes from</h2>
     <ul id="sources" class="sources"></ul>
-    <p>Listings belong to their organisers and the ticketing sites linked above. Dates, prices and availability can change, so check the source before you go. The site rebuilds every morning from an automated fetch. Missing a venue or studio? <a href="https://github.com/mo-kyle/cape-town-artsy-events" id="repo-link">Open an issue or add a source</a>.</p>
+    <p>Listings belong to their organisers and the ticketing sites linked above. Dates, prices and availability can change, so check the source before you go. Prices show the cheapest to the most expensive ticket type. The site rebuilds every morning from an automated fetch. Missing a venue or studio? <a href="https://github.com/mo-kyle/cape-town-artsy-events">Open an issue or add a source</a>.</p>
   </div>
 </footer>
 
-<template id="card-tpl">
-  <article class="card">
-    <a class="card-link" target="_blank" rel="noopener">
-      <div class="thumb"><img loading="lazy" alt=""><span class="thumb-emoji" aria-hidden="true"></span></div>
-      <div class="body">
-        <div class="tags"></div>
-        <h3 class="title"></h3>
-        <p class="when"></p>
-        <p class="where"></p>
-        <p class="desc"></p>
-        <div class="foot">
-          <span class="price"></span>
-          <span class="source"></span>
-        </div>
+<dialog id="detail" class="detail">
+  <article>
+    <button class="close" type="button" aria-label="Close" data-close>×</button>
+    <div class="d-thumb"><img alt=""><span class="thumb-emoji" aria-hidden="true"></span></div>
+    <div class="d-body">
+      <div class="tags"></div>
+      <h2 class="d-title"></h2>
+      <dl class="facts">
+        <div><dt>When</dt><dd class="d-when"></dd></div>
+        <div><dt>Where</dt><dd class="d-where"></dd></div>
+        <div><dt>Price</dt><dd class="d-price"></dd></div>
+        <div class="d-org-row"><dt>By</dt><dd class="d-org"></dd></div>
+      </dl>
+      <div class="d-dates" hidden><h3>All upcoming dates</h3><ul></ul></div>
+      <p class="d-desc"></p>
+      <div class="d-actions">
+        <a class="btn primary d-tickets" target="_blank" rel="noopener">Get tickets</a>
+        <a class="btn d-map" target="_blank" rel="noopener">Open in Maps</a>
+        <span class="d-also"></span>
       </div>
-    </a>
+    </div>
+  </article>
+</dialog>
+
+<template id="card-tpl">
+  <article class="card" tabindex="0" role="button">
+    <div class="thumb">
+      <img loading="lazy" alt=""><span class="thumb-emoji" aria-hidden="true"></span>
+      <span class="datebadge"><b class="dd"></b><span class="mm"></span></span>
+    </div>
+    <div class="body">
+      <div class="tags"></div>
+      <h3 class="title"></h3>
+      <p class="when"></p>
+      <p class="where"></p>
+      <p class="desc"></p>
+      <div class="foot">
+        <span class="price"></span>
+        <span class="source"></span>
+      </div>
+    </div>
   </article>
 </template>
 

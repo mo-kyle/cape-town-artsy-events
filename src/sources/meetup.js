@@ -8,6 +8,20 @@ const KEYWORDS = [
   'sewing', 'creative', 'sound bath',
 ];
 
+// Meetup only stores a fee when the organiser sets one. With no fee we only call an
+// event free when it says so itself; otherwise the price is unknown (null).
+export function meetupPrice(fee, title = '', description = '') {
+  if (fee && Number(fee.amount) > 0) {
+    const cur = fee.currency === 'USD' ? '$' : fee.currency === 'ZAR' ? 'R' : `${fee.currency} `;
+    return { text: `${cur}${fee.amount}${fee.accepts === 'CASH' ? ' (cash on the day)' : ''}`, amount: Number(fee.amount), currency: fee.currency, free: false };
+  }
+  const text = `${title}\n${description.slice(0, 600)}`;
+  const saysFree = /(^|[^a-z-])free( event| entry| to attend| to join| of charge| session| class| workshop|!|\.|,|:|$)/im.test(text) || /\bno (charge|cost|fee)\b/i.test(text) || /^free\b/i.test(title);
+  const notFree = /free[- ]?dive|freestyle|free[- ]range|free spirit|free parking|free wifi|alcohol[- ]free|gluten[- ]free/i;
+  if (saysFree && !notFree.test(title)) return { text: 'Free', amount: 0, currency: 'ZAR', free: true };
+  return null;
+}
+
 function parseNextData(html) {
   const m = html.match(/<script id="__NEXT_DATA__" type="application\/json">([\s\S]*?)<\/script>/);
   if (!m) return null;
@@ -55,7 +69,7 @@ export const source = {
         address: v ? [v.address, v.city].filter(Boolean).join(', ') : null,
         city: v?.city || null,
         organiser: e._group?.name || null,
-        price: fee?.amount ? { text: `${fee.currency} ${fee.amount}`, amount: fee.amount, currency: fee.currency, free: false } : null,
+        price: meetupPrice(fee, e.title, e.description),
         sourceCategories: [],
       });
     }

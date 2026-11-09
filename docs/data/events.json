@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-09T10:18:11.762Z",
+ "generatedAt": "2026-11-09T10:22:41.753Z",
  "region": "Western Cape, South Africa",
  "sources": [
   {
@@ -8,7 +8,7 @@
    "url": "https://www.quicket.co.za",
    "fetched": 1344,
    "kept": 73,
-   "ms": 10054,
+   "ms": 6153,
    "error": null
   },
   {
@@ -17,25 +17,25 @@
    "url": "https://www.webtickets.co.za/v2/category.aspx?itemid=1605050915&city=western-cape&when=anytime",
    "fetched": 3,
    "kept": 3,
-   "ms": 7232,
+   "ms": 2753,
    "error": null
   },
   {
    "id": "eventbrite",
    "name": "Eventbrite",
    "url": "https://www.eventbrite.com/d/south-africa--cape-town/workshops--events/",
-   "fetched": 0,
+   "fetched": 47,
    "kept": 0,
-   "ms": 25282,
+   "ms": 95564,
    "error": null
   },
   {
    "id": "meetup",
    "name": "Meetup",
    "url": "https://www.meetup.com/find/?location=za--Cape%20Town&source=EVENTS",
-   "fetched": 106,
+   "fetched": 111,
    "kept": 2,
-   "ms": 1381,
+   "ms": 34152,
    "error": null
   }
  ],
@@ -126,7 +126,7 @@
    "allDay": false,
    "timezone": "Africa/Johannesburg",
    "venue": "Amara Moon Forest Sanctuary",
-   "address": "10a Connemara Drive, , Cape Town, 7806, Cape Town, Western Cape, South Africa",
+   "address": "10a Connemara Drive, Cape Town, 7806, Cape Town, Western Cape, South Africa",
    "city": "Cape Town",
    "area": "cape-town",
    "lat": -34.01348,
@@ -145,7 +145,8 @@
     "wellness"
    ],
    "score": 3,
-   "alsoOn": []
+   "alsoOn": [],
+   "firstSeen": "2026-11-09T10:22:41.753Z"
   },
   {
    "id": "quicket:359091",
@@ -415,7 +416,8 @@
     "painting"
    ],
    "score": 10,
-   "alsoOn": []
+   "alsoOn": [],
+   "firstSeen": "2026-11-09T10:22:41.753Z"
   },
   {
    "id": "quicket:405423",
@@ -431,7 +433,7 @@
    "allDay": false,
    "timezone": "Africa/Johannesburg",
    "venue": "Canvas and Craft",
-   "address": "108 Raats Drive, , Table View, 7441, Cape Town, Western Cape, South Africa",
+   "address": "108 Raats Drive, Table View, 7441, Cape Town, Western Cape, South Africa",
    "city": "Cape Town",
    "area": "cape-town",
    "lat": -33.8195763,
@@ -451,7 +453,8 @@
     "craft"
    ],
    "score": 4,
-   "alsoOn": []
+   "alsoOn": [],
+   "firstSeen": "2026-11-09T10:22:41.753Z"
   },
   {
    "id": "quicket:404033",
@@ -486,7 +489,8 @@
     "painting"
    ],
    "score": 3,
-   "alsoOn": []
+   "alsoOn": [],
+   "firstSeen": "2026-11-09T10:22:41.753Z"
   },
   {
    "id": "quicket:405201",
@@ -502,7 +506,7 @@
    "allDay": false,
    "timezone": "Africa/Johannesburg",
    "venue": "160 Sir Lowry Rd",
-   "address": "160 Sir Lowry Road, , Woodstock, 7925, Cape Town, Western Cape, South Africa",
+   "address": "160 Sir Lowry Road, Woodstock, 7925, Cape Town, Western Cape, South Africa",
    "city": "Cape Town",
    "area": "cape-town",
    "lat": -33.9280128,
@@ -521,7 +525,8 @@
     "craft"
    ],
    "score": 7,
-   "alsoOn": []
+   "alsoOn": [],
+   "firstSeen": "2026-11-09T10:22:41.753Z"
   },
   {
    "id": "quicket:406913",
@@ -537,7 +542,7 @@
    "allDay": false,
    "timezone": "Africa/Johannesburg",
    "venue": "Canvas and Craft",
-   "address": "108 Raats Drive, , Table View, 7441, Cape Town, Western Cape, South Africa",
+   "address": "108 Raats Drive, Table View, 7441, Cape Town, Western Cape, South Africa",
    "city": "Cape Town",
    "area": "cape-town",
    "lat": -33.8195763,
@@ -557,7 +562,8 @@
     "craft"
    ],
    "score": 11,
-   "alsoOn": []
+   "alsoOn": [],
+   "firstSeen": "2026-11-09T10:22:41.753Z"
   },
   {
    "id": "quicket:406914",
@@ -581,16 +587,17 @@
    ],
    "timezone": "Africa/Johannesburg",
    "venue": "Canvas and Craft",
-   "address": "108 Raats Drive, , Table View, 7441, Cape Town, Western Cape, South Africa",
+   "address": "108 Raats Drive, Table View, 7441, Cape Town, Western Cape, South Africa",
    "city": "Cape Town",
    "area": "cape-town",
    "lat": -33.8195763,
    "lng": 18.5037365,
    "price": {
-    "text": "R0 – R105",
+    "text": "Free – R105",
     "amount": 0,
     "currency": "ZAR",
-    "free": true
+    "free": false,
+    "hasFreeOption": true
    },
    "organiser": "Canvas and Craft",
    "sourceCategories": [
@@ -602,7 +609,8 @@
     "painting"
    ],
    "score": 7,
-   "alsoOn": []
+   "alsoOn": [],
+   "firstSeen": "2026-11-09T10:22:41.753Z"
   },
   {
    "id": "quicket:407125",
@@ -618,7 +626,7 @@
    "allDay": false,
    "timezone": "Africa/Johannesburg",
    "venue": "78 Arcadia Rd",
-   "address": "78 Arcadia Road, , Bantry Bay, 8005, Cape Town, Western Cape, South Africa",
+   "address": "78 Arcadia Road, Bantry Bay, 8005, Cape Town, Western Cape, South Africa",
    "city": "Cape Town",
    "area": "cape-town",
    "lat": -33.9314957,
@@ -637,7 +645,8 @@
     "wellness"
    ],
    "score": 5,
-   "alsoOn": []
+   "alsoOn": [],
+   "firstSeen": "2026-11-09T10:22:41.753Z"
   },
   {
    "id": "meetup:317117943",
@@ -658,14 +667,20 @@
    "area": "cape-town",
    "lat": null,
    "lng": null,
-   "price": null,
+   "price": {
+    "text": "Free",
+    "amount": 0,
+    "currency": "ZAR",
+    "free": true
+   },
    "organiser": "Meditate in Cape Town",
    "sourceCategories": [],
    "categories": [
     "wellness"
    ],
    "score": 6,
-   "alsoOn": []
+   "alsoOn": [],
+   "firstSeen": "2026-11-09T10:22:41.753Z"
   },
   {
    "id": "quicket:404611",
@@ -701,7 +716,8 @@
     "floral"
    ],
    "score": 5,
-   "alsoOn": []
+   "alsoOn": [],
+   "firstSeen": "2026-11-09T10:22:41.753Z"
   },
   {
    "id": "webtickets:1561334797",
@@ -723,7 +739,7 @@
    "lat": null,
    "lng": null,
    "price": {
-    "text": "R750 - R2250",
+    "text": "R750 – R2250",
     "amount": 750,
     "currency": "ZAR",
     "free": false
@@ -737,7 +753,8 @@
     "craft"
    ],
    "score": 6.5,
-   "alsoOn": []
+   "alsoOn": [],
+   "firstSeen": "2026-11-09T10:22:41.753Z"
   },
   {
    "id": "quicket:406917",
@@ -753,7 +770,7 @@
    "allDay": false,
    "timezone": "Africa/Johannesburg",
    "venue": "Canvas and Craft",
-   "address": "108 Raats Drive, , Table View, 7441, Cape Town, Western Cape, South Africa",
+   "address": "108 Raats Drive, Table View, 7441, Cape Town, Western Cape, South Africa",
    "city": "Cape Town",
    "area": "cape-town",
    "lat": -33.8195763,
@@ -772,7 +789,8 @@
     "painting"
    ],
    "score": 6,
-   "alsoOn": []
+   "alsoOn": [],
+   "firstSeen": "2026-11-09T10:22:41.753Z"
   },
   {
    "id": "quicket:403355",
@@ -788,7 +806,7 @@
    "allDay": false,
    "timezone": "Africa/Johannesburg",
    "venue": "Muizenberg Beach Huts",
-   "address": "Beach Road, , Muizenberg, 7945, Cape Town, Western Cape, South Africa",
+   "address": "Beach Road, Muizenberg, 7945, Cape Town, Western Cape, South Africa",
    "city": "Cape Town",
    "area": "cape-town",
    "lat": -34.1067123,
@@ -807,7 +825,8 @@
     "paper"
    ],
    "score": 4,
-   "alsoOn": []
+   "alsoOn": [],
+   "firstSeen": "2026-11-09T10:22:41.753Z"
   },
   {
    "id": "quicket:383815",
@@ -842,7 +861,8 @@
     "craft"
    ],
    "score": 5.5,
-   "alsoOn": []
+   "alsoOn": [],
+   "firstSeen": "2026-11-09T10:22:41.753Z"
   },
   {
    "id": "quicket:401247",
@@ -877,7 +897,8 @@
     "cooking"
    ],
    "score": 7,
-   "alsoOn": []
+   "alsoOn": [],
+   "firstSeen": "2026-11-09T10:22:41.753Z"
   },
   {
    "id": "quicket:400761",
@@ -912,7 +933,8 @@
     "craft"
    ],
    "score": 7,
-   "alsoOn": []
+   "alsoOn": [],
+   "firstSeen": "2026-11-09T10:22:41.753Z"
   },
   {
    "id": "quicket:353496",
@@ -933,7 +955,7 @@
    ],
    "timezone": "Africa/Johannesburg",
    "venue": "The Paint Pouring People - Durbanville",
-   "address": "Coucou Street 4, Chantecler, 7550, Durbanville  , Western Cape, South Africa",
+   "address": "Coucou Street 4, Chantecler, 7550, Durbanville , Western Cape, South Africa",
    "city": "Durbanville  ",
    "area": "cape-town",
    "lat": -33.8622131,
@@ -952,7 +974,8 @@
     "painting"
    ],
    "score": 7,
-   "alsoOn": []
+   "alsoOn": [],
+   "firstSeen": "2026-11-09T10:22:41.753Z"
   },
   {
    "id": "quicket:401077",
@@ -989,7 +1012,8 @@
     "jewellery"
    ],
    "score": 9,
-   "alsoOn": []
+   "alsoOn": [],
+   "firstSeen": "2026-11-09T10:22:41.753Z"
   },
   {
    "id": "quicket:405340",
@@ -1024,7 +1048,8 @@
     "painting"
    ],
    "score": 6,
-   "alsoOn": []
+   "alsoOn": [],
+   "firstSeen": "2026-11-09T10:22:41.753Z"
   },
   {
    "id": "quicket:404984",
@@ -1060,7 +1085,8 @@
     "painting"
    ],
    "score": 7,
-   "alsoOn": []
+   "alsoOn": [],
+   "firstSeen": "2026-11-09T10:22:41.753Z"
   },
   {
    "id": "quicket:400626",
@@ -1076,7 +1102,7 @@
    "allDay": false,
    "timezone": "Africa/Johannesburg",
    "venue": "Milestone Recording Studio",
-   "address": "21 Bloem Street, , Cape Town City Centre, 8000, Cape Town, Western Cape, South Africa",
+   "address": "21 Bloem Street, Cape Town City Centre, 8000, Cape Town, Western Cape, South Africa",
    "city": "Cape Town",
    "area": "cape-town",
    "lat": -33.92546,
@@ -1095,7 +1121,8 @@
     "scent"
    ],
    "score": 5,
-   "alsoOn": []
+   "alsoOn": [],
+   "firstSeen": "2026-11-09T10:22:41.753Z"
   },
   {
    "id": "quicket:398470",
@@ -1130,7 +1157,8 @@
     "paper"
    ],
    "score": 7,
-   "alsoOn": []
+   "alsoOn": [],
+   "firstSeen": "2026-11-09T10:22:41.753Z"
   },
   {
    "id": "quicket:384496",
@@ -1165,7 +1193,8 @@
     "craft"
    ],
    "score": 5.5,
-   "alsoOn": []
+   "alsoOn": [],
+   "firstSeen": "2026-11-09T10:22:41.753Z"
   },
   {
    "id": "quicket:406745",
@@ -1181,16 +1210,17 @@
    "allDay": false,
    "timezone": "Africa/Johannesburg",
    "venue": "Erin Hall",
-   "address": "8 Erin Road, , Rondebosch, 7700, Cape Town, Western Cape, South Africa",
+   "address": "8 Erin Road, Rondebosch, 7700, Cape Town, Western Cape, South Africa",
    "city": "Cape Town",
    "area": "cape-town",
    "lat": -33.9600067,
    "lng": 18.47681,
    "price": {
-    "text": "R0 – R350",
+    "text": "Free – R350",
     "amount": 0,
     "currency": "ZAR",
-    "free": true
+    "free": false,
+    "hasFreeOption": true
    },
    "organiser": "Cape Town Stitch to Resist NPO",
    "sourceCategories": [
@@ -1200,7 +1230,8 @@
     "textiles"
    ],
    "score": 7,
-   "alsoOn": []
+   "alsoOn": [],
+   "firstSeen": "2026-11-09T10:22:41.753Z"
   },
   {
    "id": "quicket:405204",
@@ -1216,7 +1247,7 @@
    "allDay": false,
    "timezone": "Africa/Johannesburg",
    "venue": "160 Sir Lowry Rd",
-   "address": "160 Sir Lowry Road, , Woodstock, 7925, Cape Town, Western Cape, South Africa",
+   "address": "160 Sir Lowry Road, Woodstock, 7925, Cape Town, Western Cape, South Africa",
    "city": "Cape Town",
    "area": "cape-town",
    "lat": -33.9280128,
@@ -1235,7 +1266,8 @@
     "craft"
    ],
    "score": 7,
-   "alsoOn": []
+   "alsoOn": [],
+   "firstSeen": "2026-11-09T10:22:41.753Z"
   },
   {
    "id": "webtickets:1606532119",
@@ -1270,7 +1302,8 @@
     "painting"
    ],
    "score": 8,
-   "alsoOn": []
+   "alsoOn": [],
+   "firstSeen": "2026-11-09T10:22:41.753Z"
   },
   {
    "id": "quicket:400948",
@@ -1291,7 +1324,7 @@
    ],
    "timezone": "Africa/Johannesburg",
    "venue": "Observatory Community Recreation Centre",
-   "address": "Rawson Street, , Observatory, 7925, Cape Town, Western Cape, South Africa",
+   "address": "Rawson Street, Observatory, 7925, Cape Town, Western Cape, South Africa",
    "city": "Cape Town",
    "area": "cape-town",
    "lat": -33.9371719,
@@ -1310,7 +1343,8 @@
     "craft"
    ],
    "score": 5,
-   "alsoOn": []
+   "alsoOn": [],
+   "firstSeen": "2026-11-09T10:22:41.753Z"
   },
   {
    "id": "quicket:398273",
@@ -1326,7 +1360,7 @@
    "allDay": false,
    "timezone": "Africa/Johannesburg",
    "venue": "Creme and Croissant",
-   "address": "4 Drake Street, , Observatory, 7925, Cape Town, Western Cape, South Africa",
+   "address": "4 Drake Street, Observatory, 7925, Cape Town, Western Cape, South Africa",
    "city": "Cape Town",
    "area": "cape-town",
    "lat": -33.9371,
@@ -1345,7 +1379,8 @@
     "cooking"
    ],
    "score": 3.5,
-   "alsoOn": []
+   "alsoOn": [],
+   "firstSeen": "2026-11-09T10:22:41.753Z"
   },
   {
    "id": "quicket:396198",
@@ -1382,7 +1417,8 @@
     "craft"
    ],
    "score": 8,
-   "alsoOn": []
+   "alsoOn": [],
+   "firstSeen": "2026-11-09T10:22:41.753Z"
   },
   {
    "id": "quicket:395353",
@@ -1423,7 +1459,8 @@
     "wellness"
    ],
    "score": 3,
-   "alsoOn": []
+   "alsoOn": [],
+   "firstSeen": "2026-11-09T10:22:41.753Z"
   },
   {
    "id": "quicket:397031",
@@ -1458,7 +1495,8 @@
     "cooking"
    ],
    "score": 5.5,
-   "alsoOn": []
+   "alsoOn": [],
+   "firstSeen": "2026-11-09T10:22:41.753Z"
   },
   {
    "id": "quicket:405860",
@@ -1493,7 +1531,8 @@
     "floral"
    ],
    "score": 5.5,
-   "alsoOn": []
+   "alsoOn": [],
+   "firstSeen": "2026-11-09T10:22:41.753Z"
   },
   {
    "id": "quicket:401663",
@@ -1509,7 +1548,7 @@
    "allDay": false,
    "timezone": "Africa/Johannesburg",
    "venue": "CURIOCITY Green Point Cape Town",
-   "address": "153 Main Road, , Green Point, 8005, Cape Town, Western Cape, South Africa",
+   "address": "153 Main Road, Green Point, 8005, Cape Town, Western Cape, South Africa",
    "city": "Cape Town",
    "area": "cape-town",
    "lat": -33.90769,
@@ -1528,7 +1567,8 @@
     "painting"
    ],
    "score": 6,
-   "alsoOn": []
+   "alsoOn": [],
+   "firstSeen": "2026-11-09T10:22:41.753Z"
   },
   {
    "id": "quicket:405642",
@@ -1563,7 +1603,8 @@
     "painting"
    ],
    "score": 6,
-   "alsoOn": []
+   "alsoOn": [],
+   "firstSeen": "2026-11-09T10:22:41.753Z"
   },
   {
    "id": "quicket:407114",
@@ -1579,7 +1620,7 @@
    "allDay": false,
    "timezone": "Africa/Johannesburg",
    "venue": "Prom Park Cafe",
-   "address": "Beach Road, , Mouille Point, 8001, Cape Town, Western Cape, South Africa",
+   "address": "Beach Road, Mouille Point, 8001, Cape Town, Western Cape, South Africa",
    "city": "Cape Town",
    "area": "cape-town",
    "lat": -33.9041824,
@@ -1598,7 +1639,8 @@
     "painting"
    ],
    "score": 5.5,
-   "alsoOn": []
+   "alsoOn": [],
+   "firstSeen": "2026-11-09T10:22:41.753Z"
   },
   {
    "id": "meetup:317052377",
@@ -1620,7 +1662,7 @@
    "lat": null,
    "lng": null,
    "price": {
-    "text": "USD 1",
+    "text": "$1 (cash on the day)",
     "amount": 1,
     "currency": "USD",
     "free": false
@@ -1631,7 +1673,8 @@
     "pottery"
    ],
    "score": 6,
-   "alsoOn": []
+   "alsoOn": [],
+   "firstSeen": "2026-11-09T10:22:41.753Z"
   },
   {
    "id": "quicket:385953",
@@ -1647,7 +1690,7 @@
    "allDay": false,
    "timezone": "Africa/Johannesburg",
    "venue": "Creme and Croissant",
-   "address": "4 Drake Street, , Observatory, 7925, Cape Town, Western Cape, South Africa",
+   "address": "4 Drake Street, Observatory, 7925, Cape Town, Western Cape, South Africa",
    "city": "Cape Town",
    "area": "cape-town",
    "lat": -33.9371,
@@ -1666,7 +1709,8 @@
     "cooking"
    ],
    "score": 3,
-   "alsoOn": []
+   "alsoOn": [],
+   "firstSeen": "2026-11-09T10:22:41.753Z"
   },
   {
    "id": "quicket:383824",
@@ -1701,7 +1745,8 @@
     "craft"
    ],
    "score": 9.5,
-   "alsoOn": []
+   "alsoOn": [],
+   "firstSeen": "2026-11-09T10:22:41.753Z"
   },
   {
    "id": "quicket:405739",
@@ -1717,7 +1762,7 @@
    "allDay": false,
    "timezone": "Africa/Johannesburg",
    "venue": "8 Bermuda St",
-   "address": "8 Bermuda Street, , Paarden Eiland, 7405, Cape Town, Western Cape, South Africa",
+   "address": "8 Bermuda Street, Paarden Eiland, 7405, Cape Town, Western Cape, South Africa",
    "city": "Cape Town",
    "area": "cape-town",
    "lat": -33.91223,
@@ -1737,7 +1782,8 @@
     "craft"
    ],
    "score": 4.5,
-   "alsoOn": []
+   "alsoOn": [],
+   "firstSeen": "2026-11-09T10:22:41.753Z"
   },
   {
    "id": "quicket:406046",
@@ -1753,7 +1799,7 @@
    "allDay": false,
    "timezone": "Africa/Johannesburg",
    "venue": "Bokaap Deli",
-   "address": "114 Church Street, , Bokaap, 8001, Cape Town, Western Cape, South Africa",
+   "address": "114 Church Street, Bokaap, 8001, Cape Town, Western Cape, South Africa",
    "city": "Cape Town",
    "area": "cape-town",
    "lat": -33.920723,
@@ -1772,7 +1818,8 @@
     "scent"
    ],
    "score": 3,
-   "alsoOn": []
+   "alsoOn": [],
+   "firstSeen": "2026-11-09T10:22:41.753Z"
   },
   {
    "id": "quicket:406416",
@@ -1788,7 +1835,7 @@
    "allDay": false,
    "timezone": "Africa/Johannesburg",
    "venue": "Prom Park",
-   "address": "160 Beach Road, , Mouille Point, 8001, Cape Town, Western Cape, South Africa",
+   "address": "160 Beach Road, Mouille Point, 8001, Cape Town, Western Cape, South Africa",
    "city": "Cape Town",
    "area": "cape-town",
    "lat": -33.90419,
@@ -1807,7 +1854,8 @@
     "wellness"
    ],
    "score": 5,
-   "alsoOn": []
+   "alsoOn": [],
+   "firstSeen": "2026-11-09T10:22:41.753Z"
   },
   {
    "id": "quicket:367861",
@@ -1823,7 +1871,7 @@
    "allDay": false,
    "timezone": "Africa/Johannesburg",
    "venue": "145 Sir Lowry Rd",
-   "address": "145 Sir Lowry Road, , Woodstock, 8001, Cape Town, Western Cape, South Africa",
+   "address": "145 Sir Lowry Road, Woodstock, 8001, Cape Town, Western Cape, South Africa",
    "city": "Cape Town",
    "area": "cape-town",
    "lat": -33.9271965,
@@ -1843,7 +1891,8 @@
     "craft"
    ],
    "score": 4,
-   "alsoOn": []
+   "alsoOn": [],
+   "firstSeen": "2026-11-09T10:22:41.753Z"
   },
   {
    "id": "quicket:396611",
@@ -1880,7 +1929,8 @@
     "craft"
    ],
    "score": 8,
-   "alsoOn": []
+   "alsoOn": [],
+   "firstSeen": "2026-11-09T10:22:41.753Z"
   },
   {
    "id": "quicket:396613",
@@ -1917,7 +1967,8 @@
     "craft"
    ],
    "score": 8,
-   "alsoOn": []
+   "alsoOn": [],
+   "firstSeen": "2026-11-09T10:22:41.753Z"
   },
   {
    "id": "quicket:406083",
@@ -1953,7 +2004,8 @@
     "painting"
    ],
    "score": 8,
-   "alsoOn": []
+   "alsoOn": [],
+   "firstSeen": "2026-11-09T10:22:41.753Z"
   },
   {
    "id": "quicket:403577",
@@ -1989,7 +2041,8 @@
     "textiles"
    ],
    "score": 7,
-   "alsoOn": []
+   "alsoOn": [],
+   "firstSeen": "2026-11-09T10:22:41.753Z"
   },
   {
    "id": "quicket:387506",
@@ -2025,7 +2078,8 @@
     "craft"
    ],
    "score": 8.5,
-   "alsoOn": []
+   "alsoOn": [],
+   "firstSeen": "2026-11-09T10:22:41.753Z"
   },
   {
    "id": "quicket:390237",
@@ -2041,7 +2095,7 @@
    "allDay": false,
    "timezone": "Africa/Johannesburg",
    "venue": "Four & Twenty Cafe",
-   "address": "23 Wolfe Street, , Wynberg, 7800, Cape Town, Western Cape, South Africa",
+   "address": "23 Wolfe Street, Wynberg, 7800, Cape Town, Western Cape, South Africa",
    "city": "Cape Town",
    "area": "cape-town",
    "lat": -34.00675,
@@ -2060,7 +2114,8 @@
     "textiles"
    ],
    "score": 4,
-   "alsoOn": []
+   "alsoOn": [],
+   "firstSeen": "2026-11-09T10:22:41.753Z"
   },
   {
    "id": "quicket:383816",
@@ -2095,7 +2150,8 @@
     "craft"
    ],
    "score": 5.5,
-   "alsoOn": []
+   "alsoOn": [],
+   "firstSeen": "2026-11-09T10:22:41.753Z"
   },
   {
    "id": "quicket:391147",
@@ -2111,7 +2167,7 @@
    "allDay": false,
    "timezone": "Africa/Johannesburg",
    "venue": "CAPE TOWN ATHENAEUM",
-   "address": "off Campground Road, , Newlands, 7700, Cape Town, Western Cape, South Africa",
+   "address": "off Campground Road, Newlands, 7700, Cape Town, Western Cape, South Africa",
    "city": "Cape Town",
    "area": "cape-town",
    "lat": -33.975544,
@@ -2130,7 +2186,8 @@
     "paper"
    ],
    "score": 6,
-   "alsoOn": []
+   "alsoOn": [],
+   "firstSeen": "2026-11-09T10:22:41.753Z"
   },
   {
    "id": "quicket:403889",
@@ -2146,7 +2203,7 @@
    "allDay": false,
    "timezone": "Africa/Johannesburg",
    "venue": "Canvas and Craft",
-   "address": "108 Raats Drive, , Table View, 7441, Cape Town, Western Cape, South Africa",
+   "address": "108 Raats Drive, Table View, 7441, Cape Town, Western Cape, South Africa",
    "city": "Cape Town",
    "area": "cape-town",
    "lat": -33.8195763,
@@ -2165,7 +2222,8 @@
     "craft"
    ],
    "score": 7,
-   "alsoOn": []
+   "alsoOn": [],
+   "firstSeen": "2026-11-09T10:22:41.753Z"
   },
   {
    "id": "quicket:405935",
@@ -2200,7 +2258,8 @@
     "textiles"
    ],
    "score": 4,
-   "alsoOn": []
+   "alsoOn": [],
+   "firstSeen": "2026-11-09T10:22:41.753Z"
   },
   {
    "id": "quicket:402399",
@@ -2216,7 +2275,7 @@
    "allDay": false,
    "timezone": "Africa/Johannesburg",
    "venue": "19 Belvedere Rd",
-   "address": "19 Belvedere Road, , Claremont, 7708, Cape Town, Western Cape, South Africa",
+   "address": "19 Belvedere Road, Claremont, 7708, Cape Town, Western Cape, South Africa",
    "city": "Cape Town",
    "area": "cape-town",
    "lat": -33.9767456,
@@ -2234,7 +2293,8 @@
     "paper"
    ],
    "score": 3,
-   "alsoOn": []
+   "alsoOn": [],
+   "firstSeen": "2026-11-09T10:22:41.753Z"
   },
   {
    "id": "quicket:405938",
@@ -2270,7 +2330,8 @@
     "textiles"
    ],
    "score": 8,
-   "alsoOn": []
+   "alsoOn": [],
+   "firstSeen": "2026-11-09T10:22:41.753Z"
   },
   {
    "id": "quicket:404316",
@@ -2305,7 +2366,8 @@
     "craft"
    ],
    "score": 5.5,
-   "alsoOn": []
+   "alsoOn": [],
+   "firstSeen": "2026-11-09T10:22:41.753Z"
   },
   {
    "id": "quicket:400696",
@@ -2341,7 +2403,8 @@
     "wellness"
    ],
    "score": 7,
-   "alsoOn": []
+   "alsoOn": [],
+   "firstSeen": "2026-11-09T10:22:41.753Z"
   },
   {
    "id": "webtickets:1602743495",
@@ -2378,7 +2441,8 @@
     "cooking"
    ],
    "score": 10.5,
-   "alsoOn": []
+   "alsoOn": [],
+   "firstSeen": "2026-11-09T10:22:41.753Z"
   },
   {
    "id": "quicket:400698",
@@ -2414,7 +2478,8 @@
     "wellness"
    ],
    "score": 7,
-   "alsoOn": []
+   "alsoOn": [],
+   "firstSeen": "2026-11-09T10:22:41.753Z"
   },
   {
    "id": "quicket:404318",
@@ -2449,7 +2514,8 @@
     "craft"
    ],
    "score": 5.5,
-   "alsoOn": []
+   "alsoOn": [],
+   "firstSeen": "2026-11-09T10:22:41.753Z"
   },
   {
    "id": "quicket:403578",
@@ -2485,7 +2551,8 @@
     "textiles"
    ],
    "score": 7,
-   "alsoOn": []
+   "alsoOn": [],
+   "firstSeen": "2026-11-09T10:22:41.753Z"
   },
   {
    "id": "quicket:396691",
@@ -2522,7 +2589,8 @@
     "craft"
    ],
    "score": 8,
-   "alsoOn": []
+   "alsoOn": [],
+   "firstSeen": "2026-11-09T10:22:41.753Z"
   },
   {
    "id": "quicket:396695",
@@ -2559,7 +2627,8 @@
     "craft"
    ],
    "score": 8,
-   "alsoOn": []
+   "alsoOn": [],
+   "firstSeen": "2026-11-09T10:22:41.753Z"
   },
   {
    "id": "quicket:403003",
@@ -2575,7 +2644,7 @@
    "allDay": false,
    "timezone": "Africa/Johannesburg",
    "venue": "Moosh Artspace",
-   "address": "Buchanan Square, , Woodstock, 7925, Cape Town, Western Cape, South Africa",
+   "address": "Buchanan Square, Woodstock, 7925, Cape Town, Western Cape, South Africa",
    "city": "Cape Town",
    "area": "cape-town",
    "lat": -33.9280128,
@@ -2595,7 +2664,8 @@
     "pottery"
    ],
    "score": 7,
-   "alsoOn": []
+   "alsoOn": [],
+   "firstSeen": "2026-11-09T10:22:41.753Z"
   },
   {
    "id": "quicket:404777",
@@ -2631,7 +2701,8 @@
     "craft"
    ],
    "score": 8.5,
-   "alsoOn": []
+   "alsoOn": [],
+   "firstSeen": "2026-11-09T10:22:41.753Z"
   },
   {
    "id": "quicket:396697",
@@ -2668,7 +2739,8 @@
     "craft"
    ],
    "score": 8,
-   "alsoOn": []
+   "alsoOn": [],
+   "firstSeen": "2026-11-09T10:22:41.753Z"
   },
   {
    "id": "quicket:396699",
@@ -2705,7 +2777,8 @@
     "craft"
    ],
    "score": 8,
-   "alsoOn": []
+   "alsoOn": [],
+   "firstSeen": "2026-11-09T10:22:41.753Z"
   },
   {
    "id": "quicket:396702",
@@ -2742,7 +2815,8 @@
     "craft"
    ],
    "score": 8,
-   "alsoOn": []
+   "alsoOn": [],
+   "firstSeen": "2026-11-09T10:22:41.753Z"
   },
   {
    "id": "quicket:396705",
@@ -2779,7 +2853,8 @@
     "craft"
    ],
    "score": 8,
-   "alsoOn": []
+   "alsoOn": [],
+   "firstSeen": "2026-11-09T10:22:41.753Z"
   },
   {
    "id": "quicket:396707",
@@ -2816,7 +2891,8 @@
     "craft"
    ],
    "score": 8,
-   "alsoOn": []
+   "alsoOn": [],
+   "firstSeen": "2026-11-09T10:22:41.753Z"
   },
   {
    "id": "quicket:396709",
@@ -2853,7 +2929,8 @@
     "craft"
    ],
    "score": 8,
-   "alsoOn": []
+   "alsoOn": [],
+   "firstSeen": "2026-11-09T10:22:41.753Z"
   },
   {
    "id": "quicket:397298",
@@ -2890,7 +2967,8 @@
     "craft"
    ],
    "score": 8,
-   "alsoOn": []
+   "alsoOn": [],
+   "firstSeen": "2026-11-09T10:22:41.753Z"
   },
   {
    "id": "quicket:397301",
@@ -2927,7 +3005,8 @@
     "craft"
    ],
    "score": 8,
-   "alsoOn": []
+   "alsoOn": [],
+   "firstSeen": "2026-11-09T10:22:41.753Z"
   },
   {
    "id": "quicket:404779",
@@ -2963,7 +3042,8 @@
     "craft"
    ],
    "score": 8.5,
-   "alsoOn": []
+   "alsoOn": [],
+   "firstSeen": "2026-11-09T10:22:41.753Z"
   },
   {
    "id": "quicket:397510",
@@ -3000,7 +3080,8 @@
     "craft"
    ],
    "score": 8,
-   "alsoOn": []
+   "alsoOn": [],
+   "firstSeen": "2026-11-09T10:22:41.753Z"
   },
   {
    "id": "quicket:397511",
@@ -3037,7 +3118,8 @@
     "craft"
    ],
    "score": 8,
-   "alsoOn": []
+   "alsoOn": [],
+   "firstSeen": "2026-11-09T10:22:41.753Z"
   },
   {
    "id": "quicket:404891",
@@ -3073,7 +3155,8 @@
     "craft"
    ],
    "score": 8.5,
-   "alsoOn": []
+   "alsoOn": [],
+   "firstSeen": "2026-11-09T10:22:41.753Z"
   },
   {
    "id": "quicket:405161",
@@ -3109,7 +3192,8 @@
     "craft"
    ],
    "score": 8.5,
-   "alsoOn": []
+   "alsoOn": [],
+   "firstSeen": "2026-11-09T10:22:41.753Z"
   },
   {
    "id": "quicket:406583",
@@ -3145,7 +3229,8 @@
     "craft"
    ],
    "score": 8.5,
-   "alsoOn": []
+   "alsoOn": [],
+   "firstSeen": "2026-11-09T10:22:41.753Z"
   }
  ]
 }

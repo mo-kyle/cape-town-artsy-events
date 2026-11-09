@@ -2,7 +2,7 @@
 // docs/data/events.json for the static site. Usage:
 //   node src/fetch.js                 # all sources
 //   node src/fetch.js --source quicket
-import { mkdir, writeFile } from 'node:fs/promises';
+import { mkdir, writeFile, readFile } from 'node:fs/promises';
 import { fileURLToPath } from 'node:url';
 import path from 'node:path';
 import { classify } from './classify.js';
@@ -64,6 +64,14 @@ async function main() {
   }
 
   const events = dedupe(kept).sort((a, b) => a.start.localeCompare(b.start));
+
+  // Remember when each event was first seen so the site can sort by "recently added".
+  let previous = {};
+  try {
+    const prev = JSON.parse(await readFile(OUT, 'utf8'));
+    for (const e of prev.events || []) if (e.firstSeen) previous[e.id] = e.firstSeen;
+  } catch { /* first run */ }
+  for (const e of events) e.firstSeen = previous[e.id] || now.toISOString();
   const payload = {
     generatedAt: now.toISOString(),
     region: 'Western Cape, South Africa',

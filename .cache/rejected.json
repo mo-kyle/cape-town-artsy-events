@@ -99,6 +99,16 @@
   "url": "https://www.meetup.com/cape-town-hobbyists-meetup-group/events/317326992/"
  },
  {
+  "title": "Spiritualism and its Evidential Theologies",
+  "source": "meetup",
+  "score": 1,
+  "reasons": [
+   "wellness:desc:guided meditations",
+   "hands-on:desc:experience,guided,classes"
+  ],
+  "url": "https://www.meetup.com/cape-spiritual-growth-meetup-group/events/317353328/"
+ },
+ {
   "title": "IMMERSION series | 7 minutes of bliss | Secret Sunrise Cape Town",
   "source": "quicket",
   "score": 0.5,
@@ -7503,6 +7513,15 @@
   "url": "https://www.quicket.co.za/events/356296-a-lipizzaner-christmas-celebration/"
  },
  {
+  "title": "aKing Live at The Brass Bell",
+  "source": "quicket",
+  "score": 0,
+  "reasons": [
+   "no-category"
+  ],
+  "url": "https://www.quicket.co.za/events/407690-aking-live-at-the-brass-bell/"
+ },
+ {
   "title": "The Billy Joel Experience live in Jongensfontein",
   "source": "quicket",
   "score": 0,
@@ -9996,6 +10015,15 @@
   "url": "https://www.eventbrite.com/e/global-roar-for-all-nations-2026-tickets-1992690498924"
  },
  {
+  "title": "Meet Inextrix at Africa Tech Festival 2026 in Cape Town and Johannesburg",
+  "source": "eventbrite",
+  "score": 0,
+  "reasons": [
+   "no-category"
+  ],
+  "url": "https://www.eventbrite.com/e/meet-inextrix-at-africa-tech-festival-2026-in-cape-town-and-johannesburg-tickets-2004416008238"
+ },
+ {
   "title": "Calix AfricaCom Industry Dinner - Invitation Only!",
   "source": "eventbrite",
   "score": 0,
@@ -10014,13 +10042,13 @@
   "url": "https://www.eventbrite.com/e/ebenezerthe-sound-of-gratitude-tickets-1993799039599"
  },
  {
-  "title": "Liquid Sunday",
+  "title": "Test Questions Event",
   "source": "eventbrite",
   "score": 0,
   "reasons": [
    "no-category"
   ],
-  "url": "https://www.eventbrite.com/e/liquid-sunday-tickets-1986359493717"
+  "url": "https://www.eventbrite.co.uk/e/test-questions-event-tickets-2004064286228"
  },
  {
   "title": "Scientology Friday Graduation",
@@ -10032,22 +10060,13 @@
   "url": "https://www.eventbrite.com/e/scientology-friday-graduation-tickets-2003350797163"
  },
  {
-  "title": "Meet Inextrix at Africa Tech Festival 2026 in Cape Town and Johannesburg",
+  "title": "Liquid Sunday",
   "source": "eventbrite",
   "score": 0,
   "reasons": [
    "no-category"
   ],
-  "url": "https://www.eventbrite.com/e/meet-inextrix-at-africa-tech-festival-2026-in-cape-town-and-johannesburg-tickets-2004416008238"
- },
- {
-  "title": "Test Questions Event",
-  "source": "eventbrite",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.eventbrite.co.uk/e/test-questions-event-tickets-2004064286228"
+  "url": "https://www.eventbrite.com/e/liquid-sunday-tickets-1986359493717"
  },
  {
   "title": "Test Bug",

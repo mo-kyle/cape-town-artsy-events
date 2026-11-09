@@ -16,6 +16,13 @@ export function detectArea(...fields) {
   return null;
 }
 
+/** Collapse ", ," and stray whitespace in free-text addresses. */
+export function cleanAddress(a) {
+  if (!a) return null;
+  const out = String(a).replace(/\s+/g, ' ').replace(/(,\s*)+,/g, ',').replace(/^\s*,\s*|\s*,\s*$/g, '').trim();
+  return out || null;
+}
+
 /** Unix seconds or ms, Date, or ISO string -> ISO string (or null). */
 export function toIso(v) {
   if (v == null || v === '') return null;
@@ -51,7 +58,7 @@ export function makeEvent(p, opts = {}) {
     dates: Array.isArray(p.dates) ? p.dates.map(toIso).filter(Boolean) : undefined,
     timezone: TIMEZONE,
     venue: p.venue || null,
-    address: p.address || null,
+    address: cleanAddress(p.address),
     city: p.city || null,
     area,
     lat: p.lat ?? null,

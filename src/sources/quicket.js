@@ -33,13 +33,15 @@ function parseEventLd(html) {
   return null;
 }
 
-function priceFromOffers(offers) {
+/** Free only when every ticket type is R0; a R0 tier next to paid tiers is shown as "Free – Rx". */
+export function priceFromOffers(offers) {
   const list = (Array.isArray(offers) ? offers : offers ? [offers] : []).map((o) => Number(o.price)).filter((n) => Number.isFinite(n));
   if (!list.length) return null;
   const min = Math.min(...list), max = Math.max(...list);
-  if (max === 0) return { text: 'Free', amount: 0, currency: 'ZAR', free: true };
   const fmt = (n) => 'R' + (Number.isInteger(n) ? n : n.toFixed(2));
-  return { text: min === max ? fmt(min) : `${fmt(min)} – ${fmt(max)}`, amount: min, currency: 'ZAR', free: min === 0 };
+  if (max === 0) return { text: 'Free', amount: 0, currency: 'ZAR', free: true };
+  if (min === 0) return { text: `Free – ${fmt(max)}`, amount: 0, currency: 'ZAR', free: false, hasFreeOption: true };
+  return { text: min === max ? fmt(min) : `${fmt(min)} – ${fmt(max)}`, amount: min, currency: 'ZAR', free: false };
 }
 
 export const source = {

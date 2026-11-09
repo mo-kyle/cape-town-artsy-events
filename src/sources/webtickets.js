@@ -51,9 +51,13 @@ export function parseDateText(text, now = new Date()) {
 function parsePrice(text) {
   const t = (text || '').replace(/\s+/g, ' ').trim();
   if (!t) return null;
-  if (/free/i.test(t)) return { text: 'Free', amount: 0, currency: 'ZAR', free: true };
-  const nums = [...t.matchAll(/R\s?([\d\s,]+(?:\.\d+)?)/g)].map((m) => Number(m[1].replace(/[\s,]/g, '')));
-  return { text: t, amount: nums.length ? Math.min(...nums) : null, currency: 'ZAR', free: false };
+  if (/^free$/i.test(t)) return { text: 'Free', amount: 0, currency: 'ZAR', free: true };
+  const nums = [...t.matchAll(/R\s?([\d\s,]+(?:\.\d+)?)/g)].map((m) => Number(m[1].replace(/[\s,]/g, ''))).filter((n) => Number.isFinite(n));
+  if (!nums.length) return null;
+  const min = Math.min(...nums), max = Math.max(...nums);
+  if (max === 0) return null; // "R0 -" means the price is not published yet
+  if (min === 0) return { text: `Free – R${max}`, amount: 0, currency: 'ZAR', free: false, hasFreeOption: true };
+  return { text: t.replace(/\s*-\s*/g, ' – '), amount: min, currency: 'ZAR', free: false };
 }
 
 async function mapLimit(items, limit, fn) {
