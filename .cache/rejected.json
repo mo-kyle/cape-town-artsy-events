@@ -2062,6 +2062,15 @@
   "url": "https://www.quicket.co.za/events/405246-rhenish-primary-pre-primary-the-toy-box/"
  },
  {
+  "title": "Woolworths TASTE exclusive culinary event with Abigail Donnelly and Grana Padano",
+  "source": "quicket",
+  "score": 0,
+  "reasons": [
+   "no-category"
+  ],
+  "url": "https://www.quicket.co.za/events/406382-woolworths-taste-exclusive-culinary-event-with-abigail-donnelly-and-grana-padano/"
+ },
+ {
   "title": "FROM IDEAS TO IMPACT",
   "source": "quicket",
   "score": 0,
@@ -3167,9 +3176,7 @@
   "source": "quicket",
   "score": 0,
   "reasons": [
-   "cooking:desc:culinary",
-   "hands-on:desc:experiences,experience",
-   "hard-negative:desc:entrepreneur"
+   "no-category"
   ],
   "url": "https://www.quicket.co.za/events/400363-cape-town-the-first-taste-by-hush-in-my-kitchen/"
  },

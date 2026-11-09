@@ -15,8 +15,9 @@ export function decodeEntities(s = '') {
 
 /** Strip HTML tags and collapse whitespace. */
 export function stripHtml(html = '') {
+  // Decode first too: some sources double-escape their markup (&lt;span&gt;).
   return decodeEntities(
-    String(html)
+    decodeEntities(String(html))
       .replace(/<(script|style)[\s\S]*?<\/\1>/gi, ' ')
       .replace(/<br\s*\/?>|<\/p>|<\/li>|<\/h[1-6]>/gi, '\n')
       .replace(/<[^>]+>/g, ' ')

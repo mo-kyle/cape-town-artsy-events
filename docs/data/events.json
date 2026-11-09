@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-09T10:13:24.654Z",
+ "generatedAt": "2026-11-09T10:16:06.877Z",
  "region": "Western Cape, South Africa",
  "sources": [
   {
@@ -7,8 +7,8 @@
    "name": "Quicket",
    "url": "https://www.quicket.co.za",
    "fetched": 1343,
-   "kept": 74,
-   "ms": 8859,
+   "kept": 73,
+   "ms": 6480,
    "error": null
   },
   {
@@ -17,7 +17,7 @@
    "url": "https://www.webtickets.co.za/v2/category.aspx?itemid=1605050915&city=western-cape&when=anytime",
    "fetched": 3,
    "kept": 3,
-   "ms": 3171,
+   "ms": 3177,
    "error": null
   },
   {
@@ -26,7 +26,7 @@
    "url": "https://www.eventbrite.com/d/south-africa--cape-town/workshops--events/",
    "fetched": 47,
    "kept": 0,
-   "ms": 99690,
+   "ms": 105103,
    "error": null
   },
   {
@@ -35,7 +35,7 @@
    "url": "https://www.meetup.com/find/?location=za--Cape%20Town&source=EVENTS",
    "fetched": 106,
    "kept": 2,
-   "ms": 33671,
+   "ms": 4527,
    "error": null
   }
  ],
@@ -110,7 +110,7 @@
    "label": "Rest of Western Cape"
   }
  ],
- "count": 79,
+ "count": 78,
  "events": [
   {
    "id": "quicket:406959",
@@ -1098,41 +1098,6 @@
    "alsoOn": []
   },
   {
-   "id": "quicket:406382",
-   "source": "quicket",
-   "sourceName": "Quicket",
-   "sourceId": "406382",
-   "title": "Woolworths TASTE exclusive culinary event with Abigail Donnelly and Grana Padano",
-   "description": "ABOUT Exclusive culinary event brought to you by Woolworths TASTE and Grana Padano\nWe are delighted to present an unforgettable evening of dining and culinary expertise, proudly sponsored by Grana Padano. This exceptional event will showcase the rich flavours and versatility of Grana Padano cheese, which will be expertly integrated into each course.\nEvent programmeUpon arrival, guests will be welcomed with a festive cocktail or mocktail, choosing from a classic espresso martini with vodka or a negroni, a glass of Cap Classique, or a refreshing non-alcoholic alternative. This relaxed reception will set the tone for an unforgettable evening of Italian-inspired hospitality. Guests will then…",
-   "url": "https://www.quicket.co.za/events/406382-woolworths-taste-exclusive-culinary-event-with-abigail-donnelly-and-grana-padano/",
-   "image": "https://images.quicket.co.za/1016243_247_247.jpeg",
-   "start": "2026-11-19T15:00:00.000Z",
-   "end": "2026-11-19T18:30:00.000Z",
-   "allDay": false,
-   "timezone": "Africa/Johannesburg",
-   "venue": "The Grace at Food Fanatics & The Homestead Venue",
-   "address": "23 Bardia Road, Plumstead, 7801, Cape Town, Western Cape, South Africa",
-   "city": "Cape Town",
-   "area": "cape-town",
-   "lat": -34.0149956,
-   "lng": 18.4659138,
-   "price": {
-    "text": "R1000",
-    "amount": 1000,
-    "currency": "ZAR",
-    "free": false
-   },
-   "organiser": "Media24 (Pty) Ltd",
-   "sourceCategories": [
-    "Food & Drink"
-   ],
-   "categories": [
-    "cooking"
-   ],
-   "score": 3,
-   "alsoOn": []
-  },
-  {
    "id": "quicket:398470",
    "source": "quicket",
    "sourceName": "Quicket",
@@ -1875,10 +1840,9 @@
    ],
    "categories": [
     "pottery",
-    "cooking",
     "craft"
    ],
-   "score": 5,
+   "score": 4,
    "alsoOn": []
   },
   {

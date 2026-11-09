@@ -21,7 +21,7 @@ export const CATEGORIES = [
     emoji: '🍳',
     keywords: [
       'cooking class', 'cooking course', 'cooking workshop', 'cooking lesson', 'cooking experience', 'cookery',
-      'cook-along', 'cook along', 'culinary', 'baking class', 'baking workshop', 'baking course', 'bake-along',
+      'cook-along', 'cook along', 'culinary class', 'culinary workshop', 'culinary course', 'culinary school', 'baking class', 'baking workshop', 'baking course', 'bake-along',
       'bread making', 'bread baking', 'sourdough', 'pasta making', 'pasta class', 'pasta workshop', 'sushi making',
       'sushi class', 'sushi workshop', 'dumpling', 'dim sum class', 'pastry class', 'pastry workshop', 'patisserie',
       'chocolate making', 'chocolate workshop', 'chocolate masterclass', 'cheese making', 'cheesemaking',
