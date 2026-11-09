@@ -1,14 +1,14 @@
 {
- "generatedAt": "2026-11-09T10:34:17.422Z",
+ "generatedAt": "2026-11-09T10:36:26.529Z",
  "region": "Western Cape, South Africa",
  "sources": [
   {
    "id": "quicket",
    "name": "Quicket",
    "url": "https://www.quicket.co.za",
-   "fetched": 1345,
+   "fetched": 1346,
    "kept": 162,
-   "ms": 16020,
+   "ms": 22820,
    "error": null
   },
   {
@@ -17,16 +17,16 @@
    "url": "https://www.webtickets.co.za/v2/category.aspx?itemid=1605050915&city=western-cape&when=anytime",
    "fetched": 16,
    "kept": 15,
-   "ms": 4960,
+   "ms": 12453,
    "error": null
   },
   {
    "id": "eventbrite",
    "name": "Eventbrite",
    "url": "https://www.eventbrite.com/d/south-africa--cape-town/workshops--events/",
-   "fetched": 47,
-   "kept": 3,
-   "ms": 104462,
+   "fetched": 0,
+   "kept": 0,
+   "ms": 25213,
    "error": null
   },
   {
@@ -35,7 +35,7 @@
    "url": "https://www.meetup.com/find/?location=za--Cape%20Town&source=EVENTS",
    "fetched": 111,
    "kept": 2,
-   "ms": 6009,
+   "ms": 1798,
    "error": null
   }
  ],
@@ -125,7 +125,7 @@
    "label": "Rest of Western Cape"
   }
  ],
- "count": 182,
+ "count": 179,
  "events": [
   {
    "id": "webtickets:1600185548",
@@ -6152,44 +6152,6 @@
    "firstSeen": "2026-11-09T10:22:41.753Z"
   },
   {
-   "id": "eventbrite:2003706587341",
-   "source": "eventbrite",
-   "sourceName": "Eventbrite",
-   "sourceId": "2003706587341",
-   "title": "Pavement Art Revisited | Goodman Gallery Cape Town",
-   "description": "A workshop inspired by a happening in 1968, when 17 artists worked directly onto the pavement outside Goodman's first public gallery space.",
-   "url": "https://www.eventbrite.com/e/pavement-art-revisited-goodman-gallery-cape-town-tickets-2003706587341",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196268228%2F3012794343688%2F1%2Foriginal.20261021-114110?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=19a04c0aa22b78054ffafa0712771d50",
-   "start": "2026-12-12T11:00:00.000Z",
-   "end": "2026-12-12T13:00:00.000Z",
-   "allDay": false,
-   "timezone": "Africa/Johannesburg",
-   "venue": "Goodman Gallery Cape Town",
-   "address": "37A Somerset Road, Cape Town, WC 8051",
-   "city": "Cape Town",
-   "area": "cape-town",
-   "lat": -33.9146996,
-   "lng": 18.4177847,
-   "price": null,
-   "organiser": null,
-   "sourceCategories": [
-    "Painting",
-    "Performing & Visual Arts",
-    "Attraction",
-    "pavementart",
-    "streetartshow",
-    "goodmangallery",
-    "urbancreativity",
-    "capetownart"
-   ],
-   "categories": [
-    "exhibitions"
-   ],
-   "score": 6,
-   "alsoOn": [],
-   "firstSeen": "2026-11-09T10:31:44.896Z"
-  },
-  {
    "id": "quicket:403889",
    "source": "quicket",
    "sourceName": "Quicket",
@@ -7314,43 +7276,6 @@
    "firstSeen": "2026-11-09T10:22:41.753Z"
   },
   {
-   "id": "eventbrite:2000624196828",
-   "source": "eventbrite",
-   "sourceName": "Eventbrite",
-   "sourceId": "2000624196828",
-   "title": "Africa Is a Country Festival",
-   "description": "We're back with our second festival of ideas, this time in Cape Town, South Africa.",
-   "url": "https://www.eventbrite.com/e/africa-is-a-country-festival-tickets-2000624196828",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1193263236%2F454617261434%2F1%2Foriginal.20260911-145212?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=676e10c263b6429b3cfe9b1f0daeaf27",
-   "start": "2027-01-15T08:00:00.000Z",
-   "end": "2027-01-15T16:00:00.000Z",
-   "allDay": false,
-   "timezone": "Africa/Johannesburg",
-   "venue": "Homecoming Centre",
-   "address": "15 Buitenkant Street, Cape Town, WC 7800",
-   "city": "Cape Town",
-   "area": "cape-town",
-   "lat": -33.9270926,
-   "lng": 18.4245148,
-   "price": null,
-   "organiser": null,
-   "sourceCategories": [
-    "Nationality",
-    "Community & Culture",
-    "Festival or Fair",
-    "Africanarts",
-    "cape_town",
-    "culturecelebration",
-    "africa_is_a_country"
-   ],
-   "categories": [
-    "festivals"
-   ],
-   "score": 5,
-   "alsoOn": [],
-   "firstSeen": "2026-11-09T10:31:44.896Z"
-  },
-  {
    "id": "quicket:403908",
    "source": "quicket",
    "sourceName": "Quicket",
@@ -8381,49 +8306,6 @@
    "score": 8.5,
    "alsoOn": [],
    "firstSeen": "2026-11-09T10:22:41.753Z"
-  },
-  {
-   "id": "eventbrite:1995176914861",
-   "source": "eventbrite",
-   "sourceName": "Eventbrite",
-   "sourceId": "1995176914861",
-   "title": "TECHSPO Cape Town 2027 Technology Expo (AI ~ SaaS ~ AdTech ~ MarTech)",
-   "description": "TECHSPO Cape Town Technology Expo (AI ~ SaaS ~ Internet ~ Mobile ~ AdTech ~ MarTech) - October 7, 2027  - Cape Town, South Africa",
-   "url": "https://www.eventbrite.com/e/techspo-cape-town-2027-technology-expo-ai-saas-adtech-martech-tickets-1995176914861",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196025982%2F167645577512%2F1%2Foriginal.20261018-022948?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=1c6f722434818c75b50ab97f0cc6dce8",
-   "start": "2027-10-07T07:00:00.000Z",
-   "end": "2027-10-07T15:00:00.000Z",
-   "allDay": false,
-   "timezone": "Africa/Johannesburg",
-   "venue": "Cape Town",
-   "address": "Dock Rd, Victoria & Alfred Waterfront, Cape Town, 8001",
-   "city": "Cape Town",
-   "area": "cape-town",
-   "lat": -33.9107029,
-   "lng": 18.4191167,
-   "price": null,
-   "organiser": null,
-   "sourceCategories": [
-    "Sales & Marketing",
-    "Business & Professional",
-    "Tradeshow, Consumer Show, or Expo",
-    "Marketing",
-    "Tech",
-    "Technology",
-    "Ai",
-    "Saas",
-    "Expo",
-    "Internet",
-    "Martech",
-    "Adtech",
-    "Capetown"
-   ],
-   "categories": [
-    "festivals"
-   ],
-   "score": 4,
-   "alsoOn": [],
-   "firstSeen": "2026-11-09T10:31:44.896Z"
   }
  ]
 }
