@@ -1,0 +1,3187 @@
+{
+ "generatedAt": "2026-11-09T10:13:24.654Z",
+ "region": "Western Cape, South Africa",
+ "sources": [
+  {
+   "id": "quicket",
+   "name": "Quicket",
+   "url": "https://www.quicket.co.za",
+   "fetched": 1343,
+   "kept": 74,
+   "ms": 8859,
+   "error": null
+  },
+  {
+   "id": "webtickets",
+   "name": "Webtickets",
+   "url": "https://www.webtickets.co.za/v2/category.aspx?itemid=1605050915&city=western-cape&when=anytime",
+   "fetched": 3,
+   "kept": 3,
+   "ms": 3171,
+   "error": null
+  },
+  {
+   "id": "eventbrite",
+   "name": "Eventbrite",
+   "url": "https://www.eventbrite.com/d/south-africa--cape-town/workshops--events/",
+   "fetched": 47,
+   "kept": 0,
+   "ms": 99690,
+   "error": null
+  },
+  {
+   "id": "meetup",
+   "name": "Meetup",
+   "url": "https://www.meetup.com/find/?location=za--Cape%20Town&source=EVENTS",
+   "fetched": 106,
+   "kept": 2,
+   "ms": 33671,
+   "error": null
+  }
+ ],
+ "categories": [
+  {
+   "id": "pottery",
+   "label": "Pottery & ceramics",
+   "emoji": "🏺"
+  },
+  {
+   "id": "cooking",
+   "label": "Cooking & baking",
+   "emoji": "🍳"
+  },
+  {
+   "id": "scent",
+   "label": "Aromatherapy & scent",
+   "emoji": "🌿"
+  },
+  {
+   "id": "candles-soap",
+   "label": "Candles & soap",
+   "emoji": "🕯️"
+  },
+  {
+   "id": "painting",
+   "label": "Painting & drawing",
+   "emoji": "🎨"
+  },
+  {
+   "id": "textiles",
+   "label": "Textiles & fibre",
+   "emoji": "🧶"
+  },
+  {
+   "id": "jewellery",
+   "label": "Jewellery & resin",
+   "emoji": "💍"
+  },
+  {
+   "id": "paper",
+   "label": "Paper, print & lettering",
+   "emoji": "✍️"
+  },
+  {
+   "id": "floral",
+   "label": "Floral & botanical",
+   "emoji": "💐"
+  },
+  {
+   "id": "craft",
+   "label": "Craft & making",
+   "emoji": "🛠️"
+  },
+  {
+   "id": "wellness",
+   "label": "Wellness & ritual",
+   "emoji": "🧘"
+  }
+ ],
+ "areas": [
+  {
+   "id": "cape-town",
+   "label": "Cape Town"
+  },
+  {
+   "id": "winelands",
+   "label": "Winelands"
+  },
+  {
+   "id": "western-cape",
+   "label": "Rest of Western Cape"
+  }
+ ],
+ "count": 79,
+ "events": [
+  {
+   "id": "quicket:406959",
+   "source": "quicket",
+   "sourceName": "Quicket",
+   "sourceId": "406959",
+   "title": "Women New Moon Circle",
+   "description": "NEW MOON IN SCORPIO | INTO THE DEPTHS\nHello beautiful sisters,\nHave you ever felt that something within you is ready to change, but you are not quite sure what it is yet?This New Moon in Scorpio invites us to turn inward, meet the parts of ourselves we have been holding onto, and gently release what no longer feels aligned.Perhaps there are old patterns, fears, or versions of ourselves we are ready to outgrow. Perhaps we are simply longing to reconnect with our inner strength and make space for something new.\nTogether, we will gather in sacred sisterhood to reflect, release, set intentions, and honour the woman we are becoming.\nINTO THE DEPTHSReleasing, Reclaiming & Rising\nA space to slow…",
+   "url": "https://www.quicket.co.za/events/406959-women-new-moon-circle/",
+   "image": "https://images.quicket.co.za/Q6_247_247.jpg",
+   "start": "2026-11-09T16:30:00.000Z",
+   "end": "2026-11-09T18:00:00.000Z",
+   "allDay": false,
+   "timezone": "Africa/Johannesburg",
+   "venue": "Amara Moon Forest Sanctuary",
+   "address": "10a Connemara Drive, , Cape Town, 7806, Cape Town, Western Cape, South Africa",
+   "city": "Cape Town",
+   "area": "cape-town",
+   "lat": -34.01348,
+   "lng": 18.3774185,
+   "price": {
+    "text": "R200",
+    "amount": 200,
+    "currency": "ZAR",
+    "free": false
+   },
+   "organiser": "Sacred Moon",
+   "sourceCategories": [
+    "Faith & Spirituality"
+   ],
+   "categories": [
+    "wellness"
+   ],
+   "score": 3,
+   "alsoOn": []
+  },
+  {
+   "id": "quicket:359091",
+   "source": "quicket",
+   "sourceName": "Quicket",
+   "sourceId": "359091",
+   "title": "Brush & Brew – Sip & Paint Experience at Life Is Good Café (Woodstock, Cape Town)",
+   "description": "Step into the world of Brush & Brew at Life Is Good Café — where art, connection, and flavour meet under one roof in the heart of Woodstock.\nThis is more than a paint session. It’s a curated creative escape designed for those who want to slow down, sip intentionally, and rediscover the joy of creating with their own hands.\nLed by an experienced host, the session is relaxed, beginner-friendly, and welcoming to seasoned creatives alike. You’ll be guided step-by-step through a featured artwork while enjoying a freshly prepared meal and drink from our halal-friendly café.\nWhether you’re celebrating a birthday, planning a date, hosting a team-building session, or simply exploring Cape Town’s…",
+   "url": "https://www.quicket.co.za/events/359091-brush-brew-sip-paint-experience-at-life-is-good-caf-woodstock-cape-town/",
+   "image": "https://images.quicket.co.za/0879028_247_247.jpeg",
+   "start": "2026-11-10T09:00:00.000Z",
+   "end": null,
+   "allDay": false,
+   "dates": [
+    "2026-11-10T09:00:00.000Z",
+    "2026-11-11T09:00:00.000Z",
+    "2026-11-12T09:00:00.000Z",
+    "2026-11-13T09:00:00.000Z",
+    "2026-11-14T09:00:00.000Z",
+    "2026-11-15T09:00:00.000Z",
+    "2026-11-16T09:00:00.000Z",
+    "2026-11-17T09:00:00.000Z",
+    "2026-11-18T09:00:00.000Z",
+    "2026-11-19T09:00:00.000Z",
+    "2026-11-20T09:00:00.000Z",
+    "2026-11-21T09:00:00.000Z",
+    "2026-11-22T09:00:00.000Z",
+    "2026-11-23T09:00:00.000Z",
+    "2026-11-24T09:00:00.000Z",
+    "2026-11-25T09:00:00.000Z",
+    "2026-11-26T09:00:00.000Z",
+    "2026-11-27T09:00:00.000Z",
+    "2026-11-28T09:00:00.000Z",
+    "2026-11-29T09:00:00.000Z",
+    "2026-11-30T09:00:00.000Z",
+    "2026-12-01T09:00:00.000Z",
+    "2026-12-02T09:00:00.000Z",
+    "2026-12-03T09:00:00.000Z",
+    "2026-12-04T09:00:00.000Z",
+    "2026-12-05T09:00:00.000Z",
+    "2026-12-06T09:00:00.000Z",
+    "2026-12-07T09:00:00.000Z",
+    "2026-12-08T09:00:00.000Z",
+    "2026-12-09T09:00:00.000Z",
+    "2026-12-10T09:00:00.000Z",
+    "2026-12-11T09:00:00.000Z",
+    "2026-12-12T09:00:00.000Z",
+    "2026-12-13T09:00:00.000Z",
+    "2026-12-14T09:00:00.000Z",
+    "2026-12-15T09:00:00.000Z",
+    "2026-12-16T09:00:00.000Z",
+    "2026-12-17T09:00:00.000Z",
+    "2026-12-18T09:00:00.000Z",
+    "2026-12-19T09:00:00.000Z",
+    "2026-12-20T09:00:00.000Z",
+    "2026-12-21T09:00:00.000Z",
+    "2026-12-22T09:00:00.000Z",
+    "2026-12-23T09:00:00.000Z",
+    "2026-12-24T09:00:00.000Z",
+    "2026-12-25T09:00:00.000Z",
+    "2026-12-26T09:00:00.000Z",
+    "2026-12-27T09:00:00.000Z",
+    "2026-12-28T09:00:00.000Z",
+    "2026-12-29T09:00:00.000Z",
+    "2026-12-30T09:00:00.000Z",
+    "2026-12-31T09:00:00.000Z",
+    "2027-01-01T09:00:00.000Z",
+    "2027-01-02T09:00:00.000Z",
+    "2027-01-03T09:00:00.000Z",
+    "2027-01-04T09:00:00.000Z",
+    "2027-01-05T09:00:00.000Z",
+    "2027-01-06T09:00:00.000Z",
+    "2027-01-07T09:00:00.000Z",
+    "2027-01-08T09:00:00.000Z",
+    "2027-01-09T09:00:00.000Z",
+    "2027-01-10T09:00:00.000Z",
+    "2027-01-11T09:00:00.000Z",
+    "2027-01-12T09:00:00.000Z",
+    "2027-01-13T09:00:00.000Z",
+    "2027-01-14T09:00:00.000Z",
+    "2027-01-15T09:00:00.000Z",
+    "2027-01-16T09:00:00.000Z",
+    "2027-01-17T09:00:00.000Z",
+    "2027-01-18T09:00:00.000Z",
+    "2027-01-19T09:00:00.000Z",
+    "2027-01-20T09:00:00.000Z",
+    "2027-01-21T09:00:00.000Z",
+    "2027-01-22T09:00:00.000Z",
+    "2027-01-23T09:00:00.000Z",
+    "2027-01-24T09:00:00.000Z",
+    "2027-01-25T09:00:00.000Z",
+    "2027-01-26T09:00:00.000Z",
+    "2027-01-27T09:00:00.000Z",
+    "2027-01-28T09:00:00.000Z",
+    "2027-01-29T09:00:00.000Z",
+    "2027-01-30T09:00:00.000Z",
+    "2027-01-31T09:00:00.000Z",
+    "2027-02-01T09:00:00.000Z",
+    "2027-02-02T09:00:00.000Z",
+    "2027-02-03T09:00:00.000Z",
+    "2027-02-04T09:00:00.000Z",
+    "2027-02-05T09:00:00.000Z",
+    "2027-02-06T09:00:00.000Z",
+    "2027-02-07T09:00:00.000Z",
+    "2027-02-08T09:00:00.000Z",
+    "2027-02-09T09:00:00.000Z",
+    "2027-02-10T09:00:00.000Z",
+    "2027-02-11T09:00:00.000Z",
+    "2027-02-12T09:00:00.000Z",
+    "2027-02-13T09:00:00.000Z",
+    "2027-02-14T09:00:00.000Z",
+    "2027-02-15T09:00:00.000Z",
+    "2027-02-16T09:00:00.000Z",
+    "2027-02-17T09:00:00.000Z",
+    "2027-02-18T09:00:00.000Z",
+    "2027-02-19T09:00:00.000Z",
+    "2027-02-20T09:00:00.000Z",
+    "2027-02-21T09:00:00.000Z",
+    "2027-02-22T09:00:00.000Z",
+    "2027-02-23T09:00:00.000Z",
+    "2027-02-24T09:00:00.000Z",
+    "2027-02-25T09:00:00.000Z",
+    "2027-02-26T09:00:00.000Z",
+    "2027-02-27T09:00:00.000Z",
+    "2027-02-28T09:00:00.000Z",
+    "2027-03-01T09:00:00.000Z",
+    "2027-03-02T09:00:00.000Z",
+    "2027-03-03T09:00:00.000Z",
+    "2027-03-04T09:00:00.000Z",
+    "2027-03-05T09:00:00.000Z",
+    "2027-03-06T09:00:00.000Z",
+    "2027-03-07T09:00:00.000Z",
+    "2027-03-08T09:00:00.000Z",
+    "2027-03-09T09:00:00.000Z",
+    "2027-03-10T09:00:00.000Z",
+    "2027-03-11T09:00:00.000Z",
+    "2027-03-12T09:00:00.000Z",
+    "2027-03-13T09:00:00.000Z",
+    "2027-03-14T09:00:00.000Z",
+    "2027-03-15T09:00:00.000Z",
+    "2027-03-16T09:00:00.000Z",
+    "2027-03-17T09:00:00.000Z",
+    "2027-03-18T09:00:00.000Z",
+    "2027-03-19T09:00:00.000Z",
+    "2027-03-20T09:00:00.000Z",
+    "2027-03-21T09:00:00.000Z",
+    "2027-03-22T09:00:00.000Z",
+    "2027-03-23T09:00:00.000Z",
+    "2027-03-24T09:00:00.000Z",
+    "2027-03-25T09:00:00.000Z",
+    "2027-03-26T09:00:00.000Z",
+    "2027-03-27T09:00:00.000Z",
+    "2027-03-28T09:00:00.000Z",
+    "2027-03-29T09:00:00.000Z",
+    "2027-03-30T09:00:00.000Z",
+    "2027-03-31T09:00:00.000Z",
+    "2027-04-01T09:00:00.000Z",
+    "2027-04-02T09:00:00.000Z",
+    "2027-04-03T09:00:00.000Z",
+    "2027-04-04T09:00:00.000Z",
+    "2027-04-05T09:00:00.000Z",
+    "2027-04-06T09:00:00.000Z",
+    "2027-04-07T09:00:00.000Z",
+    "2027-04-08T09:00:00.000Z",
+    "2027-04-09T09:00:00.000Z",
+    "2027-04-10T09:00:00.000Z",
+    "2027-04-11T09:00:00.000Z",
+    "2027-04-12T09:00:00.000Z",
+    "2027-04-13T09:00:00.000Z",
+    "2027-04-14T09:00:00.000Z",
+    "2027-04-15T09:00:00.000Z",
+    "2027-04-16T09:00:00.000Z",
+    "2027-04-17T09:00:00.000Z",
+    "2027-04-18T09:00:00.000Z",
+    "2027-04-19T09:00:00.000Z",
+    "2027-04-20T09:00:00.000Z",
+    "2027-04-21T09:00:00.000Z",
+    "2027-04-22T09:00:00.000Z",
+    "2027-04-23T09:00:00.000Z",
+    "2027-04-24T09:00:00.000Z",
+    "2027-04-25T09:00:00.000Z",
+    "2027-04-26T09:00:00.000Z",
+    "2027-04-27T09:00:00.000Z",
+    "2027-04-28T09:00:00.000Z",
+    "2027-04-29T09:00:00.000Z",
+    "2027-04-30T09:00:00.000Z",
+    "2027-05-01T09:00:00.000Z",
+    "2027-05-02T09:00:00.000Z",
+    "2027-05-03T09:00:00.000Z",
+    "2027-05-04T09:00:00.000Z",
+    "2027-05-05T09:00:00.000Z",
+    "2027-05-06T09:00:00.000Z",
+    "2027-05-07T09:00:00.000Z",
+    "2027-05-08T09:00:00.000Z",
+    "2027-05-09T09:00:00.000Z",
+    "2027-05-10T09:00:00.000Z",
+    "2027-05-11T09:00:00.000Z",
+    "2027-05-12T09:00:00.000Z",
+    "2027-05-13T09:00:00.000Z",
+    "2027-05-14T09:00:00.000Z",
+    "2027-05-15T09:00:00.000Z",
+    "2027-05-16T09:00:00.000Z",
+    "2027-05-17T09:00:00.000Z",
+    "2027-05-18T09:00:00.000Z",
+    "2027-05-19T09:00:00.000Z",
+    "2027-05-20T09:00:00.000Z",
+    "2027-05-21T09:00:00.000Z",
+    "2027-05-22T09:00:00.000Z",
+    "2027-05-23T09:00:00.000Z",
+    "2027-05-24T09:00:00.000Z",
+    "2027-05-25T09:00:00.000Z",
+    "2027-05-26T09:00:00.000Z",
+    "2027-05-27T09:00:00.000Z",
+    "2027-05-28T09:00:00.000Z",
+    "2027-05-29T09:00:00.000Z",
+    "2027-05-30T09:00:00.000Z",
+    "2027-05-31T09:00:00.000Z",
+    "2027-06-01T09:00:00.000Z",
+    "2027-06-02T09:00:00.000Z",
+    "2027-06-03T09:00:00.000Z",
+    "2027-06-04T09:00:00.000Z",
+    "2027-06-05T09:00:00.000Z",
+    "2027-06-06T09:00:00.000Z",
+    "2027-06-07T09:00:00.000Z",
+    "2027-06-08T09:00:00.000Z",
+    "2027-06-09T09:00:00.000Z",
+    "2027-06-10T09:00:00.000Z",
+    "2027-06-11T09:00:00.000Z",
+    "2027-06-12T09:00:00.000Z",
+    "2027-06-13T09:00:00.000Z",
+    "2027-06-14T09:00:00.000Z",
+    "2027-06-15T09:00:00.000Z",
+    "2027-06-16T09:00:00.000Z",
+    "2027-06-17T09:00:00.000Z",
+    "2027-06-18T09:00:00.000Z",
+    "2027-06-19T09:00:00.000Z",
+    "2027-06-20T09:00:00.000Z",
+    "2027-06-21T09:00:00.000Z",
+    "2027-06-22T09:00:00.000Z",
+    "2027-06-23T09:00:00.000Z",
+    "2027-06-24T09:00:00.000Z",
+    "2027-06-25T09:00:00.000Z",
+    "2027-06-26T09:00:00.000Z",
+    "2027-06-27T09:00:00.000Z",
+    "2027-06-28T09:00:00.000Z",
+    "2027-06-29T09:00:00.000Z",
+    "2027-06-30T09:00:00.000Z"
+   ],
+   "timezone": "Africa/Johannesburg",
+   "venue": "Life Is Good Cafe",
+   "address": "349 Albert Road, Woodstock, 7925, Cape Town, Western Cape, South Africa",
+   "city": "Cape Town",
+   "area": "cape-town",
+   "lat": -33.9273529,
+   "lng": 18.4558735,
+   "price": {
+    "text": "R450",
+    "amount": 450,
+    "currency": "ZAR",
+    "free": false
+   },
+   "organiser": "Life Is Good Cafe",
+   "sourceCategories": [
+    "Arts & Culture"
+   ],
+   "categories": [
+    "painting"
+   ],
+   "score": 10,
+   "alsoOn": []
+  },
+  {
+   "id": "quicket:405423",
+   "source": "quicket",
+   "sourceName": "Quicket",
+   "sourceId": "405423",
+   "title": "Nautical Fridge Magnets In Resin",
+   "description": "Bring the glossy beauty of the coast into your home with our upcoming UV Resin Nautical Fridge Magnets workshop at Canvas and Craft! Step into our cosy studio for a hands-on morning where you will design and create a gorgeous set of three coastal-inspired fridge magnets using UV resin. Whether you love sparkling ocean blues, tiny seashells, marine motifs, or soothing beach hues, this relaxing session will help you create. Enjoy guidance, all materials provided, and a community atmosphere. You will leave with three glossy handmade keepsakes that add a touch of seaside charm to any kitchen! Spaces are limited, so reserve your spot today!",
+   "url": "https://www.quicket.co.za/events/405423-nautical-fridge-magnets-in-resin/",
+   "image": "https://images.quicket.co.za/1011637_247_247.png",
+   "start": "2026-11-11T08:00:00.000Z",
+   "end": "2026-11-11T11:00:00.000Z",
+   "allDay": false,
+   "timezone": "Africa/Johannesburg",
+   "venue": "Canvas and Craft",
+   "address": "108 Raats Drive, , Table View, 7441, Cape Town, Western Cape, South Africa",
+   "city": "Cape Town",
+   "area": "cape-town",
+   "lat": -33.8195763,
+   "lng": 18.5037365,
+   "price": {
+    "text": "R300",
+    "amount": 300,
+    "currency": "ZAR",
+    "free": false
+   },
+   "organiser": "Canvas and Craft",
+   "sourceCategories": [
+    "Arts & Culture"
+   ],
+   "categories": [
+    "jewellery",
+    "craft"
+   ],
+   "score": 4,
+   "alsoOn": []
+  },
+  {
+   "id": "quicket:404033",
+   "source": "quicket",
+   "sourceName": "Quicket",
+   "sourceId": "404033",
+   "title": "Shades & Sips",
+   "description": "Good vibes. Great company. Unforgettable nights.\nEnjoy good music, cocktails, dancing, making new friends an reconnecting with old ones.",
+   "url": "https://www.quicket.co.za/events/404033-shades-sips/",
+   "image": "https://images.quicket.co.za/1019535_247_247.jpeg",
+   "start": "2026-11-11T16:00:00.000Z",
+   "end": "2026-11-11T19:00:00.000Z",
+   "allDay": false,
+   "timezone": "Africa/Johannesburg",
+   "venue": "VDM Bistro",
+   "address": "52 Main Service Road, Sedgefield, 6573, Sedgefield, Western Cape, South Africa",
+   "city": "Sedgefield",
+   "area": "western-cape",
+   "lat": -34.016304,
+   "lng": 22.8062973,
+   "price": {
+    "text": "R150 – R360",
+    "amount": 150,
+    "currency": "ZAR",
+    "free": false
+   },
+   "organiser": "The 9pm Club",
+   "sourceCategories": [
+    "Other"
+   ],
+   "categories": [
+    "painting"
+   ],
+   "score": 3,
+   "alsoOn": []
+  },
+  {
+   "id": "quicket:405201",
+   "source": "quicket",
+   "sourceName": "Quicket",
+   "sourceId": "405201",
+   "title": "The Craft Social",
+   "description": "The Craft Social is a Craft Café Experience.\nYou choose your project from our craft menu, enjoy a complimentary beverage, and spend time creating something of your own.No experience needed. All materials and guidance are provided.\nPrefer to work on your own project? Choose our BYOC (Bring Your Own Craft) ticket and enjoy crafting in good company.\nPlease note: If you purchase a Junk Journaling ticket, you'll need to bring your own journal. We provide all other materials needed for the session.\nAddress: 160 Sir Lowry Road, The Armoury 4, Buchanan Square, Woodstock, Cape Town, 7925\nCheck out our Instagram: @minimalistmakerza",
+   "url": "https://www.quicket.co.za/events/405201-the-craft-social/",
+   "image": "https://images.quicket.co.za/1011050_247_247.png",
+   "start": "2026-11-11T16:30:00.000Z",
+   "end": "2026-11-11T19:30:00.000Z",
+   "allDay": false,
+   "timezone": "Africa/Johannesburg",
+   "venue": "160 Sir Lowry Rd",
+   "address": "160 Sir Lowry Road, , Woodstock, 7925, Cape Town, Western Cape, South Africa",
+   "city": "Cape Town",
+   "area": "cape-town",
+   "lat": -33.9280128,
+   "lng": 18.4370289,
+   "price": {
+    "text": "R120 – R320",
+    "amount": 120,
+    "currency": "ZAR",
+    "free": false
+   },
+   "organiser": "Minimalist Maker Workshops",
+   "sourceCategories": [
+    "Hobbies & Interests"
+   ],
+   "categories": [
+    "craft"
+   ],
+   "score": 7,
+   "alsoOn": []
+  },
+  {
+   "id": "quicket:406913",
+   "source": "quicket",
+   "sourceName": "Quicket",
+   "sourceId": "406913",
+   "title": "UV Resin Crafting Workshop: Jewellery & Charms",
+   "description": "Discover the magic of crafting! Join us for a fun, hands-on workshop where you will learn the art of designing and creating your own personalized pendants, earrings, bag charms, or key rings using versatile UV resin.Unlike traditional epoxy, UV resin cures in minutes under a UV lamp, allowing you to complete and wear your projects on the day. Inspired by the beauty of nature, this session will focus on crafting intricate leaf designs, incorporating pressed botanicals, glitters, and pigments.Whether you are looking for a relaxing new hobby, exploring the potential of a home-based creative industry, or wanting to make truly unique, personalized gifts, this workshop is the perfect starting…",
+   "url": "https://www.quicket.co.za/events/406913-uv-resin-crafting-workshop-jewellery-charms/",
+   "image": "https://images.quicket.co.za/1017925_247_247.png",
+   "start": "2026-11-12T08:00:00.000Z",
+   "end": "2026-11-12T11:00:00.000Z",
+   "allDay": false,
+   "timezone": "Africa/Johannesburg",
+   "venue": "Canvas and Craft",
+   "address": "108 Raats Drive, , Table View, 7441, Cape Town, Western Cape, South Africa",
+   "city": "Cape Town",
+   "area": "cape-town",
+   "lat": -33.8195763,
+   "lng": 18.5037365,
+   "price": {
+    "text": "R500",
+    "amount": 500,
+    "currency": "ZAR",
+    "free": false
+   },
+   "organiser": "Canvas and Craft",
+   "sourceCategories": [
+    "Arts & Culture"
+   ],
+   "categories": [
+    "jewellery",
+    "craft"
+   ],
+   "score": 11,
+   "alsoOn": []
+  },
+  {
+   "id": "quicket:406914",
+   "source": "quicket",
+   "sourceName": "Quicket",
+   "sourceId": "406914",
+   "title": "Coffee & Create: Community Craft Circle",
+   "description": "Join us for TLC Coffee & Create every Thursday, a weekly open studio session designed for artists, crafters, and creatives who want time, space, and community to work on their own projects.Bring along your current work-in-progress — whether it’s painting, knitting, embroidery, sketching, journaling, or any other creative pursuit — and enjoy a calm, social environment surrounded by fellow creatives.This is a non-guided session. There is no formal instruction, just the joy of creating together, staying accountable to your craft, and sharing a creative space.\nWhat’s Included? A cappuccino per person? A welcoming, creative environment? Community connection? The satisfaction of supporting a good…",
+   "url": "https://www.quicket.co.za/events/406914-coffee-create-community-craft-circle/",
+   "image": "https://images.quicket.co.za/1017929_247_247.png",
+   "start": "2026-11-12T08:00:00.000Z",
+   "end": null,
+   "allDay": false,
+   "dates": [
+    "2026-11-12T08:00:00.000Z",
+    "2026-11-19T08:00:00.000Z",
+    "2026-11-26T08:00:00.000Z",
+    "2026-12-03T08:00:00.000Z",
+    "2026-12-10T08:00:00.000Z",
+    "2026-12-17T08:00:00.000Z"
+   ],
+   "timezone": "Africa/Johannesburg",
+   "venue": "Canvas and Craft",
+   "address": "108 Raats Drive, , Table View, 7441, Cape Town, Western Cape, South Africa",
+   "city": "Cape Town",
+   "area": "cape-town",
+   "lat": -33.8195763,
+   "lng": 18.5037365,
+   "price": {
+    "text": "R0 – R105",
+    "amount": 0,
+    "currency": "ZAR",
+    "free": true
+   },
+   "organiser": "Canvas and Craft",
+   "sourceCategories": [
+    "Charity & Causes"
+   ],
+   "categories": [
+    "craft",
+    "textiles",
+    "painting"
+   ],
+   "score": 7,
+   "alsoOn": []
+  },
+  {
+   "id": "quicket:407125",
+   "source": "quicket",
+   "sourceName": "Quicket",
+   "sourceId": "407125",
+   "title": "Orah Inner Circle · Gathering 02: Breathwork",
+   "description": "Some evenings are for doing. This one is for breathing.\nGathering 02 of the Orah Inner Circle is a guided breathwork session with Kira from Revive You breathwork held at sunset on the slopes of Lion's Head.\nWe'll slow down together, let go of whatever the week left in us, and reset. No experience needed, just yourself and a bit of curiosity.\nInner Circle gatherings are small, at sunset, in beautiful places in nature. Orah doesn't end in December. Meeting point: top of Arcadia Road, Fresnaye Thursday 12 November 2026 5:00 PM sharp. Please arrive on time so we can start walking at 5:15PM together. Bring a yoga mat and something comfy. Wear good walking shoes, no flip flops or sandals.",
+   "url": "https://www.quicket.co.za/events/407125-orah-inner-circle-gathering-02-breathwork/",
+   "image": "https://images.quicket.co.za/1018862_247_247.png",
+   "start": "2026-11-12T15:00:00.000Z",
+   "end": "2026-11-12T16:30:00.000Z",
+   "allDay": false,
+   "timezone": "Africa/Johannesburg",
+   "venue": "78 Arcadia Rd",
+   "address": "78 Arcadia Road, , Bantry Bay, 8005, Cape Town, Western Cape, South Africa",
+   "city": "Cape Town",
+   "area": "cape-town",
+   "lat": -33.9314957,
+   "lng": 18.3812447,
+   "price": {
+    "text": "R250",
+    "amount": 250,
+    "currency": "ZAR",
+    "free": false
+   },
+   "organiser": "Orah Inner Circle Events",
+   "sourceCategories": [
+    "Health & Wellness"
+   ],
+   "categories": [
+    "wellness"
+   ],
+   "score": 5,
+   "alsoOn": []
+  },
+  {
+   "id": "meetup:317117943",
+   "source": "meetup",
+   "sourceName": "Meetup",
+   "sourceId": "317117943",
+   "title": "Free Friday Lunchtime Guided Meditation in Observatory",
+   "description": "Get prepared for the weekend. Free lunchtime guided meditation and Buddhist teachings addressing our modern challenges. Perfect for relaxation and reflection.",
+   "url": "https://www.meetup.com/meditate-in-cape-town/events/317117943/",
+   "image": "https://secure.meetupstatic.com/photos/event/3/5/7/2/highres_532033682.jpeg",
+   "start": "2026-11-13T10:30:00.000Z",
+   "end": null,
+   "allDay": false,
+   "timezone": "Africa/Johannesburg",
+   "venue": "47 Trill Rd",
+   "address": "47 Trill Rd, Cape Town",
+   "city": "Cape Town",
+   "area": "cape-town",
+   "lat": null,
+   "lng": null,
+   "price": null,
+   "organiser": "Meditate in Cape Town",
+   "sourceCategories": [],
+   "categories": [
+    "wellness"
+   ],
+   "score": 6,
+   "alsoOn": []
+  },
+  {
+   "id": "quicket:404611",
+   "source": "quicket",
+   "sourceName": "Quicket",
+   "sourceId": "404611",
+   "title": "Reset Wellness Retreat - Sound Healing Private Nature Reserve",
+   "description": "RESET WELLNESS RETREAT13–15 November 2026 | Fairhill Private Nature Reserve | Overberg\nCOUPLES & FRIENDS SPECIALR3,500 per person sharing | R7,000 for a private roomBring your partner or a friend and enjoy a full wellness retreat together for R3,500 per person.You'll share a spacious en-suite room with just one other person. That's R7,000 for both guests, including two nights' accommodation, all meals and the full retreat programme.Prefer your own space? Book an entire en-suite room exclusively for yourself for R7,000.\nBoth prices cover the complete three-day, two-night retreat.\nThree days to rest, reconnect and rechargeStep away from your everyday responsibilities and spend a weekend…",
+   "url": "https://www.quicket.co.za/events/404611-reset-wellness-retreat-sound-healing-private-nature-reserve/",
+   "image": "https://images.quicket.co.za/1009480_247_247.png",
+   "start": "2026-11-13T12:00:00.000Z",
+   "end": "2026-11-15T09:00:00.000Z",
+   "allDay": false,
+   "timezone": "Africa/Johannesburg",
+   "venue": "Fairhill Guest House",
+   "address": "South Africa, Western Cape, South Africa",
+   "city": null,
+   "area": "cape-town",
+   "lat": -34.507206,
+   "lng": 19.4195061,
+   "price": {
+    "text": "R950 – R7000",
+    "amount": 950,
+    "currency": "ZAR",
+    "free": false
+   },
+   "organiser": "Spirit Mamma (Trisha Packham + Belinda Takamori)",
+   "sourceCategories": [
+    "Health & Wellness"
+   ],
+   "categories": [
+    "wellness",
+    "floral"
+   ],
+   "score": 5,
+   "alsoOn": []
+  },
+  {
+   "id": "webtickets:1561334797",
+   "source": "webtickets",
+   "sourceName": "Webtickets",
+   "sourceId": "1561334797",
+   "title": "Turkish Mosaic Lamp Workshop",
+   "description": "Turkish Mosaic Lamp Workshops: Create, Connect, and Shine!\nUnleash your creativity and experience the magic of Turkish mosaic art!\nOur Mosaic Lamp Workshops offer a unique, hands-on opportunity to craft your very own stunning mosaic lamp. Perfect for all skill levels, these workshops combine art, culture, and fun in a warm and welcoming environment.\n-Design and assemble a stunning lamp , guided by skilled instructors.\n-Ideal for team-building, celebrations, or a fun day out.\nCandle Holder R500\nMini Table Lamp R950\nTable Lamp R1250\nSwan Lamp R1650\nAladdin Lamp R1750\nMini Moon Lamp R1850\nMoon Lamp R2050\nAll Lamp options Click here to see the lamp options",
+   "url": "https://www.webtickets.co.za/v2/event.aspx?itemid=1561334797",
+   "image": "https://content.webtickets.co.za/TurquoiseHarmonyInstitute/panel_mosiactq_20250106_140621.jpg",
+   "start": "2026-11-14T07:30:00.000Z",
+   "end": null,
+   "allDay": false,
+   "timezone": "Africa/Johannesburg",
+   "venue": "Johannesburg, Prison Break Market",
+   "address": "Johannesburg, Prison Break Market",
+   "city": null,
+   "area": "western-cape",
+   "lat": null,
+   "lng": null,
+   "price": {
+    "text": "R750 - R2250",
+    "amount": 750,
+    "currency": "ZAR",
+    "free": false
+   },
+   "organiser": "TurquoiseHarmonyInstitute",
+   "sourceCategories": [
+    "Art, Design, Literature",
+    "Workshops & Classes"
+   ],
+   "categories": [
+    "craft"
+   ],
+   "score": 6.5,
+   "alsoOn": []
+  },
+  {
+   "id": "quicket:406917",
+   "source": "quicket",
+   "sourceName": "Quicket",
+   "sourceId": "406917",
+   "title": "Rock Painting - November",
+   "description": "R100 for 3 rocksAll materials includedJoin us for a joyful, colour-filled morning of rock painting at Canvas and Craft. This playful, relaxing workshop is perfect for all ages — a chance to slow down, get creative, and transform simple stones into bright, beautiful little artworks.Whether you love bold patterns, tiny characters, florals, or uplifting messages, you’ll have plenty of time to explore your own style while enjoying a warm, welcoming studio atmosphere.\n? Your creative morning includes:All paints, brushes and tools3 rocks to design and decorateGentle guidance and inspirationComplimentary tea and coffeeCappuccino available at an additional cost\nA relaxed, friendly space to unwind…",
+   "url": "https://www.quicket.co.za/events/406917-rock-painting-november/",
+   "image": "https://images.quicket.co.za/1019259_247_247.png",
+   "start": "2026-11-14T08:00:00.000Z",
+   "end": "2026-11-14T10:30:00.000Z",
+   "allDay": false,
+   "timezone": "Africa/Johannesburg",
+   "venue": "Canvas and Craft",
+   "address": "108 Raats Drive, , Table View, 7441, Cape Town, Western Cape, South Africa",
+   "city": "Cape Town",
+   "area": "cape-town",
+   "lat": -33.8195763,
+   "lng": 18.5037365,
+   "price": {
+    "text": "R100",
+    "amount": 100,
+    "currency": "ZAR",
+    "free": false
+   },
+   "organiser": "Canvas and Craft",
+   "sourceCategories": [
+    "Arts & Culture"
+   ],
+   "categories": [
+    "painting"
+   ],
+   "score": 6,
+   "alsoOn": []
+  },
+  {
+   "id": "quicket:403355",
+   "source": "quicket",
+   "sourceName": "Quicket",
+   "sourceId": "403355",
+   "title": "CREATE YOUR OWN BOTANICAL OR BEACH-INSPIRED SCARF",
+   "description": "Sun, sea and cyanotype — a morning of creative fun!\nJoin artists Mandy Johnston and Adéle Prins for a relaxed, creative morning by the sea. Experiment with kelp, seaweed, shells, flowers and other natural forms to create beautiful blue cyanotype prints — and your very own 100% white, cotton scarf.Cyanotype is an early photographic process that uses sunlight and light-sensitive chemicals to create striking blue images.\nWhat will we do?We'll begin with a short demonstration, then experiment with coastal and botanical materials, making prints on paper and cloth. You will create a couple of artworks on paper for about an hour and or cloth with the sun and the sea and will be able to take these…",
+   "url": "https://www.quicket.co.za/events/403355-create-your-own-botanical-or-beach-inspired-scarf/",
+   "image": "https://images.quicket.co.za/1005826_247_247.png",
+   "start": "2026-11-14T08:00:00.000Z",
+   "end": "2026-11-14T10:30:00.000Z",
+   "allDay": false,
+   "timezone": "Africa/Johannesburg",
+   "venue": "Muizenberg Beach Huts",
+   "address": "Beach Road, , Muizenberg, 7945, Cape Town, Western Cape, South Africa",
+   "city": "Cape Town",
+   "area": "cape-town",
+   "lat": -34.1067123,
+   "lng": 18.47412,
+   "price": {
+    "text": "R1150",
+    "amount": 1150,
+    "currency": "ZAR",
+    "free": false
+   },
+   "organiser": "Mothership Studios",
+   "sourceCategories": [
+    "Hobbies & Interests"
+   ],
+   "categories": [
+    "paper"
+   ],
+   "score": 4,
+   "alsoOn": []
+  },
+  {
+   "id": "quicket:383815",
+   "source": "quicket",
+   "sourceName": "Quicket",
+   "sourceId": "383815",
+   "title": "Woodcarving workshop at Soil for Life (November)",
+   "description": "Explore the joy of finding the forms of beauty within a wizened piece of wood, with hand tools.Note: No under 10 year olds.\nYou will be taught about the fundamentals of woodcarving and whittling, from the grain to the tools, and many of the forms of carving.\nI aim to get you to understand the grain of wood a bit better so that you might gain more insight into how trees grow, and how they experience life and stress.My tools are almost all either heirloom tools from the previous century or hand-forged ones I have made. All are meticulously maintained and sharpened.I wish to instil in you a greater reverence for wood, and a deeper respect and appreciation for the wooden articles you have in…",
+   "url": "https://www.quicket.co.za/events/383815-woodcarving-workshop-at-soil-for-life-november/",
+   "image": "https://images.quicket.co.za/1008620_247_247.jpeg",
+   "start": "2026-11-14T08:00:00.000Z",
+   "end": "2026-11-14T12:00:00.000Z",
+   "allDay": false,
+   "timezone": "Africa/Johannesburg",
+   "venue": "Soil for Life",
+   "address": "Brounger Road 9, 7806, Cape Town, Western Cape, South Africa",
+   "city": "Cape Town",
+   "area": "cape-town",
+   "lat": -34.0288849,
+   "lng": 18.4369144,
+   "price": {
+    "text": "R550 – R600",
+    "amount": 550,
+    "currency": "ZAR",
+    "free": false
+   },
+   "organiser": "Barefoot Carpenter",
+   "sourceCategories": [
+    "Hobbies & Interests"
+   ],
+   "categories": [
+    "craft"
+   ],
+   "score": 5.5,
+   "alsoOn": []
+  },
+  {
+   "id": "quicket:401247",
+   "source": "quicket",
+   "sourceName": "Quicket",
+   "sourceId": "401247",
+   "title": "Fermenting with the Sea with Zayaan Khan and Veld & Sea - 14 November",
+   "description": "Saturday 14 November 10am - 3pm\nA day immersed in the ocean: harvesting seawater, making salt, exploring fermentation, tasting, cooking and learning how to bring the sea into your pantry.Join us for a hands-on exploration of seawater as the original brine and one of our most ancient pantry ingredients.\nWe’ll explore where salt comes from, why we are all sea creatures, how to responsibly harvest from the ocean, and the many ways seawater can be used in food and drink. The focus of the workshop is fermentation exploring the relationship between salt, seawater, time and microorganisms, with plenty of tasting and hands-on making along the way.\nWHAT TO EXPECT:We’ll begin with introductions and a…",
+   "url": "https://www.quicket.co.za/events/401247-fermenting-with-the-sea-with-zayaan-khan-and-veld-sea-14-november/",
+   "image": "https://images.quicket.co.za/0999349_247_247.jpeg",
+   "start": "2026-11-14T08:00:00.000Z",
+   "end": "2026-11-14T13:00:00.000Z",
+   "allDay": false,
+   "timezone": "Africa/Johannesburg",
+   "venue": "Veld and Sea HQ",
+   "address": "7976 Plateau Road, Cape Peninsula, 7976, Cape Town, Western Cape, South Africa",
+   "city": "Cape Town",
+   "area": "cape-town",
+   "lat": -34.22109,
+   "lng": 18.4089317,
+   "price": {
+    "text": "R950",
+    "amount": 950,
+    "currency": "ZAR",
+    "free": false
+   },
+   "organiser": "Veld + Sea",
+   "sourceCategories": [
+    "Food & Drink"
+   ],
+   "categories": [
+    "cooking"
+   ],
+   "score": 7,
+   "alsoOn": []
+  },
+  {
+   "id": "quicket:400761",
+   "source": "quicket",
+   "sourceName": "Quicket",
+   "sourceId": "400761",
+   "title": "Introduction to Woodworking",
+   "description": "Scandinavian-Inspired woodworking workshop\nCraft a beautiful, functional piece from wood under the guidance of a woodworking master. This hands-on workshop introduces participants to the fundamentals of woodworking through focused practical projects that combine clean design, careful craftsmanship and everyday functionality.\nNew participants will create a Scandinavian-style designer lamp while learning the proper use and maintenance of basic hand tools. Through carefully guided exercises, they will practise essential skills such as measuring, marking out, cutting and assembly, developing accuracy, control and an understanding of the broader making process.\nMore experienced and returning…",
+   "url": "https://www.quicket.co.za/events/400761-introduction-to-woodworking/",
+   "image": "https://images.quicket.co.za/0998079_247_247.png",
+   "start": "2026-11-14T08:00:00.000Z",
+   "end": "2026-11-14T14:00:00.000Z",
+   "allDay": false,
+   "timezone": "Africa/Johannesburg",
+   "venue": "Cape Town Creative Academy",
+   "address": "2nd Floor, Silo 5, South Arm Road, Victoria & Alfred Waterfront, 8001, Cape Town, Western Cape, South Africa",
+   "city": "Cape Town",
+   "area": "cape-town",
+   "lat": -33.90908,
+   "lng": 18.4229336,
+   "price": {
+    "text": "R1500",
+    "amount": 1500,
+    "currency": "ZAR",
+    "free": false
+   },
+   "organiser": "Cape Town Creative Academy",
+   "sourceCategories": [
+    "Hobbies & Interests"
+   ],
+   "categories": [
+    "craft"
+   ],
+   "score": 7,
+   "alsoOn": []
+  },
+  {
+   "id": "quicket:353496",
+   "source": "quicket",
+   "sourceName": "Quicket",
+   "sourceId": "353496",
+   "title": "Paint Pouring Workshops - 2026",
+   "description": "Acrylic Paint Pouring - the art form that stands out from the crowd!!\nDiscover a fun, easy artistic technique & a form of abstract art. It is known for its incredible mesmerizing process and stunning results!!Instead of using paint brushes, we pour the paint & a medium on a canvas. The acrylic paints react with each other when combined to create extraordinary patterns and designs (differently & entirely unique each time) – with guaranteed “WOW’s” all around!This is not 'painting' as you know it..... It is swiping tools, chains, hairdryers, silicone & lots of paint reactions!\nAn art enthusiast or a beginner - doesn't matter - Our paint pouring events are a creative outlet and…",
+   "url": "https://www.quicket.co.za/events/353496-paint-pouring-workshops-2026/",
+   "image": "https://images.quicket.co.za/0859169_247_247.png",
+   "start": "2026-11-14T09:00:00.000Z",
+   "end": null,
+   "allDay": false,
+   "dates": [
+    "2026-11-14T09:00:00.000Z",
+    "2026-11-21T09:00:00.000Z",
+    "2026-11-28T09:00:00.000Z"
+   ],
+   "timezone": "Africa/Johannesburg",
+   "venue": "The Paint Pouring People - Durbanville",
+   "address": "Coucou Street 4, Chantecler, 7550, Durbanville  , Western Cape, South Africa",
+   "city": "Durbanville  ",
+   "area": "cape-town",
+   "lat": -33.8622131,
+   "lng": 18.6579,
+   "price": {
+    "text": "R400 – R500",
+    "amount": 400,
+    "currency": "ZAR",
+    "free": false
+   },
+   "organiser": "The Paint Pouring People",
+   "sourceCategories": [
+    "Hobbies & Interests"
+   ],
+   "categories": [
+    "painting"
+   ],
+   "score": 7,
+   "alsoOn": []
+  },
+  {
+   "id": "quicket:401077",
+   "source": "quicket",
+   "sourceName": "Quicket",
+   "sourceId": "401077",
+   "title": "SPRING Festival Craft Workshops",
+   "description": "*SPRING HAS SPRUNG — AND CREATIVITY IS IN FULL BLOOM*\n*Spring Festival Craft Workshops | Presented by CK BeSpoke BoTique & Solomon's Art Studios*\nSpring is the season of new beginnings, fresh colour, and blooming ideas — and we’re inviting you to create something beautiful with your own hands.\nWelcome to our *Spring Festival Craft Workshops* — a joyful, hands-on festival where YOU choose your craft from our many art activities. No rules, no pressure, just pure creativity.\n*Choose Your Bloom:*\n? *Chunky Crochet Bags* — stitch your own statement red woven bag? *Cement Art* — elegant trays, planters and candles? *Bedazzled Sneakers* — up-cycle your forgotten pair into a sparkling masterpiece?…",
+   "url": "https://www.quicket.co.za/events/401077-spring-festival-craft-workshops/",
+   "image": "https://images.quicket.co.za/1004990_247_247.png",
+   "start": "2026-11-14T09:00:00.000Z",
+   "end": "2026-11-14T15:00:00.000Z",
+   "allDay": false,
+   "timezone": "Africa/Johannesburg",
+   "venue": "Solomon's Art Studios ",
+   "address": "37 Lower Rochester Road, Observatory, 7925, Cape Town, Western Cape, South Africa",
+   "city": "Cape Town",
+   "area": "cape-town",
+   "lat": -33.9312363,
+   "lng": 18.4663486,
+   "price": {
+    "text": "R75 – R200",
+    "amount": 75,
+    "currency": "ZAR",
+    "free": false
+   },
+   "organiser": "CK B'Spoke BoTique",
+   "sourceCategories": [
+    "Arts & Culture"
+   ],
+   "categories": [
+    "craft",
+    "textiles",
+    "jewellery"
+   ],
+   "score": 9,
+   "alsoOn": []
+  },
+  {
+   "id": "quicket:405340",
+   "source": "quicket",
+   "sourceName": "Quicket",
+   "sourceId": "405340",
+   "title": "Flavours And Frequencies Presents Sip and Paint with Theko Boshomane",
+   "description": "FLAVOURS AND FREQUENCIES PRESENTS SIP & PAINT WITH THEKO BOSHOMANI\nWhere Art Meets Good Vibes!\nReady to unleash your creativity, enjoy a good drink, and connect with great people? Join us for an unforgettable Sip & Paint experience with Theko Boshomani, where art, music, and socialising come together in a relaxed and inspiring atmosphere.Whether you're an experienced artist or picking up a paintbrush for the very first time, this experience is for EVERYONE! No artistic skills are required—just bring your imagination, your energy, and a willingness to have fun.\nWHAT TO EXPECTA guided painting session with Theko BoshomaniDrinks and refreshments in a vibrant settingGreat music and a relaxed…",
+   "url": "https://www.quicket.co.za/events/405340-flavours-and-frequencies-presents-sip-and-paint-with-theko-boshomane/",
+   "image": "https://images.quicket.co.za/1012301_247_247.jpeg",
+   "start": "2026-11-14T10:00:00.000Z",
+   "end": "2026-11-14T18:00:00.000Z",
+   "allDay": false,
+   "timezone": "Africa/Johannesburg",
+   "venue": "Gallery South",
+   "address": "19 Atlantic Road, Muizenberg, 7950, Cape Town, Western Cape, South Africa",
+   "city": "Cape Town",
+   "area": "cape-town",
+   "lat": -34.10646,
+   "lng": 18.4700165,
+   "price": {
+    "text": "R200",
+    "amount": 200,
+    "currency": "ZAR",
+    "free": false
+   },
+   "organiser": "Flavours and frequencies",
+   "sourceCategories": [
+    "Arts & Culture"
+   ],
+   "categories": [
+    "painting"
+   ],
+   "score": 6,
+   "alsoOn": []
+  },
+  {
+   "id": "quicket:404984",
+   "source": "quicket",
+   "sourceName": "Quicket",
+   "sourceId": "404984",
+   "title": "Coffee & Crafts Crafternoon",
+   "description": "A cosy creative experience for all the creative souls! Come spend a few relaxing hours painting and enjoying a delicious slice of cake & cappuccino, surrounded by a wonderful creative community.The theme this month is watercolour wonders! We'll be practicing some basics to start off, and then turn these beautiful creations into a card, gift tag or bookmark!All art supplies will be provided, as well as inspiration and guidance throughout the afternoon. This lovely crafternoon will be taking place at Shift Espresso Bar- Old Cape Quarter, Cape Town.Time: 2:30pm - 5pmYour experience includes:All art materials (including extra bits & bobs to create your gift tag, cards & bookmarks)Ideas for…",
+   "url": "https://www.quicket.co.za/events/404984-coffee-crafts-crafternoon/",
+   "image": "https://images.quicket.co.za/1010573_247_247.jpeg",
+   "start": "2026-11-14T12:30:00.000Z",
+   "end": "2026-11-14T15:00:00.000Z",
+   "allDay": false,
+   "timezone": "Africa/Johannesburg",
+   "venue": "Shift Espresso Bar | Old Cape Quarter",
+   "address": "68 Waterkant Street, Green Point, 8001, Cape Town, Western Cape, South Africa",
+   "city": "Cape Town",
+   "area": "cape-town",
+   "lat": -33.91657,
+   "lng": 18.41761,
+   "price": {
+    "text": "R380",
+    "amount": 380,
+    "currency": "ZAR",
+    "free": false
+   },
+   "organiser": "Kind of Crafty",
+   "sourceCategories": [
+    "Arts & Culture"
+   ],
+   "categories": [
+    "craft",
+    "painting"
+   ],
+   "score": 7,
+   "alsoOn": []
+  },
+  {
+   "id": "quicket:400626",
+   "source": "quicket",
+   "sourceName": "Quicket",
+   "sourceId": "400626",
+   "title": "Sensory Sanctum: Sound, Scent and Sight Bath",
+   "description": "Sensory Sanctum invites you to a unique soundbath experience. Find solace of the iconic Milestone Recording Studio, hosted by ambient musicians Sonhum and Floatspace\nThrough sub-frequencies and the integration of live and electronic spatial instrumentation, the space offers an opportunity to ground through sound. You can also connect with sight and smell.\nCome as you are.\nExplore sound and its relationship to the senses. We offer you a low-light environment with soporific visuals accompanying the music, and a scent bar of organic essential oils for you to enjoy before and after the soundbath.\nYou are welcome to use this time to:\nJournalReadMeditateStretch gentlyRest\nOr simply listen to and…",
+   "url": "https://www.quicket.co.za/events/400626-sensory-sanctum-sound-scent-and-sight-bath/",
+   "image": "https://images.quicket.co.za/0997848_247_247.jpeg",
+   "start": "2026-11-15T12:00:00.000Z",
+   "end": "2026-11-15T14:00:00.000Z",
+   "allDay": false,
+   "timezone": "Africa/Johannesburg",
+   "venue": "Milestone Recording Studio",
+   "address": "21 Bloem Street, , Cape Town City Centre, 8000, Cape Town, Western Cape, South Africa",
+   "city": "Cape Town",
+   "area": "cape-town",
+   "lat": -33.92546,
+   "lng": 18.41513,
+   "price": {
+    "text": "R300",
+    "amount": 300,
+    "currency": "ZAR",
+    "free": false
+   },
+   "organiser": "Sonhum",
+   "sourceCategories": [
+    "Music"
+   ],
+   "categories": [
+    "scent"
+   ],
+   "score": 5,
+   "alsoOn": []
+  },
+  {
+   "id": "quicket:406382",
+   "source": "quicket",
+   "sourceName": "Quicket",
+   "sourceId": "406382",
+   "title": "Woolworths TASTE exclusive culinary event with Abigail Donnelly and Grana Padano",
+   "description": "ABOUT Exclusive culinary event brought to you by Woolworths TASTE and Grana Padano\nWe are delighted to present an unforgettable evening of dining and culinary expertise, proudly sponsored by Grana Padano. This exceptional event will showcase the rich flavours and versatility of Grana Padano cheese, which will be expertly integrated into each course.\nEvent programmeUpon arrival, guests will be welcomed with a festive cocktail or mocktail, choosing from a classic espresso martini with vodka or a negroni, a glass of Cap Classique, or a refreshing non-alcoholic alternative. This relaxed reception will set the tone for an unforgettable evening of Italian-inspired hospitality. Guests will then…",
+   "url": "https://www.quicket.co.za/events/406382-woolworths-taste-exclusive-culinary-event-with-abigail-donnelly-and-grana-padano/",
+   "image": "https://images.quicket.co.za/1016243_247_247.jpeg",
+   "start": "2026-11-19T15:00:00.000Z",
+   "end": "2026-11-19T18:30:00.000Z",
+   "allDay": false,
+   "timezone": "Africa/Johannesburg",
+   "venue": "The Grace at Food Fanatics & The Homestead Venue",
+   "address": "23 Bardia Road, Plumstead, 7801, Cape Town, Western Cape, South Africa",
+   "city": "Cape Town",
+   "area": "cape-town",
+   "lat": -34.0149956,
+   "lng": 18.4659138,
+   "price": {
+    "text": "R1000",
+    "amount": 1000,
+    "currency": "ZAR",
+    "free": false
+   },
+   "organiser": "Media24 (Pty) Ltd",
+   "sourceCategories": [
+    "Food & Drink"
+   ],
+   "categories": [
+    "cooking"
+   ],
+   "score": 3,
+   "alsoOn": []
+  },
+  {
+   "id": "quicket:398470",
+   "source": "quicket",
+   "sourceName": "Quicket",
+   "sourceId": "398470",
+   "title": "Printmaking",
+   "description": "Lino Print Workshop\nYou will carve, ink, roll, press, and reveal, and work directly with materials to bring your ideas into form. You will learn how line, texture, and contrast are cut into a surface and transferred onto paper or cloth.\nPrintmaking builds patience and control. It encourages experimentation and a clear understanding of process.\nWhether you are a beginner or an experienced creative, you will work in a focused studio environment that supports making and exploration. You will leave with finished prints, practical skills, and greater confidence in your work.\nThere is a particular value in creating multiples — in seeing one idea take shape again and again, refined through each…",
+   "url": "https://www.quicket.co.za/events/398470-printmaking/",
+   "image": "https://images.quicket.co.za/0990673_247_247.png",
+   "start": "2026-11-21T08:00:00.000Z",
+   "end": "2026-11-21T14:00:00.000Z",
+   "allDay": false,
+   "timezone": "Africa/Johannesburg",
+   "venue": "Cape Town Creative Academy",
+   "address": "2nd Floor, Silo 5, South Arm Road, Victoria & Alfred Waterfront, 8001, Cape Town, Western Cape, South Africa",
+   "city": "Cape Town",
+   "area": "cape-town",
+   "lat": -33.90908,
+   "lng": 18.4229336,
+   "price": {
+    "text": "R1000",
+    "amount": 1000,
+    "currency": "ZAR",
+    "free": false
+   },
+   "organiser": "Cape Town Creative Academy",
+   "sourceCategories": [
+    "Hobbies & Interests"
+   ],
+   "categories": [
+    "paper"
+   ],
+   "score": 7,
+   "alsoOn": []
+  },
+  {
+   "id": "quicket:384496",
+   "source": "quicket",
+   "sourceName": "Quicket",
+   "sourceId": "384496",
+   "title": "Woodcarving workshop in Scarborough (November)",
+   "description": "Explore the joy of finding the forms of beauty within a wizened piece of wood, with hand tools.Age restriction: 10+\nYou will be taught about the fundamentals of woodcarving and whittling, from the grain to the tools, and many of the forms of carving.\nI aim to get you to understand the grain of wood better so that you might gain more insight into how trees grow, and how they experience life and stress.My tools are almost all either heirloom tools from the previous century, or hand-forged tools I have made. All are meticulously maintained and sharpened.I wish to instil in you a greater reverence for wood, and a deeper respect and appreciation for the wooden articles you have in your life.\nYou…",
+   "url": "https://www.quicket.co.za/events/384496-woodcarving-workshop-in-scarborough-november/",
+   "image": "https://images.quicket.co.za/1008622_247_247.jpeg",
+   "start": "2026-11-21T08:00:00.000Z",
+   "end": "2026-11-21T12:00:00.000Z",
+   "allDay": false,
+   "timezone": "Africa/Johannesburg",
+   "venue": "Scarborough Community Centre",
+   "address": "10 Melkhout Street, Scarborough, 7975, Cape Town, Western Cape, South Africa",
+   "city": "Cape Town",
+   "area": "cape-town",
+   "lat": -34.1959076,
+   "lng": 18.3748341,
+   "price": {
+    "text": "R550 – R600",
+    "amount": 550,
+    "currency": "ZAR",
+    "free": false
+   },
+   "organiser": "Barefoot Carpenter",
+   "sourceCategories": [
+    "Hobbies & Interests"
+   ],
+   "categories": [
+    "craft"
+   ],
+   "score": 5.5,
+   "alsoOn": []
+  },
+  {
+   "id": "quicket:406745",
+   "source": "quicket",
+   "sourceName": "Quicket",
+   "sourceId": "406745",
+   "title": "Stitching Heritage Chapter 5: Indonesian Batik and Cape Malay Heritage",
+   "description": "STITCHING HERITAGE CHAPTER FIVE:INDONESIAN BATIK & CAPE MALAY HERITAGE\nTransformation Through Layers, Resistance Through Remembrance\nWhat parts of our ancestors' journeys continue to live within us?When people are displaced, what travels with them that cannot be taken away?What does it mean to reclaim the stories, knowledge and traditions that history has pushed to the margins?\nJoin Cape Town Stitch to Resist for the fifth chapter of Stitching Heritage, exploring the histories and cultural connections between the Indonesian archipelago and the Cape.Through historical conversations and textile-making, we explore the journeys of people from the Indonesian archipelago, colonialism, forced…",
+   "url": "https://www.quicket.co.za/events/406745-stitching-heritage-chapter-5-indonesian-batik-and-cape-malay-heritage/",
+   "image": "https://images.quicket.co.za/1017324_247_247.jpeg",
+   "start": "2026-11-21T08:30:00.000Z",
+   "end": "2026-11-21T11:30:00.000Z",
+   "allDay": false,
+   "timezone": "Africa/Johannesburg",
+   "venue": "Erin Hall",
+   "address": "8 Erin Road, , Rondebosch, 7700, Cape Town, Western Cape, South Africa",
+   "city": "Cape Town",
+   "area": "cape-town",
+   "lat": -33.9600067,
+   "lng": 18.47681,
+   "price": {
+    "text": "R0 – R350",
+    "amount": 0,
+    "currency": "ZAR",
+    "free": true
+   },
+   "organiser": "Cape Town Stitch to Resist NPO",
+   "sourceCategories": [
+    "Arts & Culture"
+   ],
+   "categories": [
+    "textiles"
+   ],
+   "score": 7,
+   "alsoOn": []
+  },
+  {
+   "id": "quicket:405204",
+   "source": "quicket",
+   "sourceName": "Quicket",
+   "sourceId": "405204",
+   "title": "The Craft Social",
+   "description": "The Craft Social is a Craft Café Experience.A creative afternoon where you choose your project from our craft menu, enjoy a complimentary beverage, and spend time creating something of your own.No experience needed. All materials and guidance are provided.\nPrefer to work on your own project? Choose our BYOC (Bring Your Own Craft) ticket and enjoy crafting in good company.\nPlease note: If you purchase a Junk Journaling ticket, you'll need to bring your own journal. We provide all other materials needed for the session.\nAddress: 160 Sir Lowry Road, The Armoury 4, Buchanan Square, Woodstock, Cape Town, 7925\nCheck out our Instagram: @minimalistmakerza",
+   "url": "https://www.quicket.co.za/events/405204-the-craft-social/",
+   "image": "https://images.quicket.co.za/1011053_247_247.png",
+   "start": "2026-11-21T12:00:00.000Z",
+   "end": "2026-11-21T15:00:00.000Z",
+   "allDay": false,
+   "timezone": "Africa/Johannesburg",
+   "venue": "160 Sir Lowry Rd",
+   "address": "160 Sir Lowry Road, , Woodstock, 7925, Cape Town, Western Cape, South Africa",
+   "city": "Cape Town",
+   "area": "cape-town",
+   "lat": -33.9280128,
+   "lng": 18.4370289,
+   "price": {
+    "text": "R120 – R320",
+    "amount": 120,
+    "currency": "ZAR",
+    "free": false
+   },
+   "organiser": "Minimalist Maker Workshops",
+   "sourceCategories": [
+    "Hobbies & Interests"
+   ],
+   "categories": [
+    "craft"
+   ],
+   "score": 7,
+   "alsoOn": []
+  },
+  {
+   "id": "webtickets:1606532119",
+   "source": "webtickets",
+   "sourceName": "Webtickets",
+   "sourceId": "1606532119",
+   "title": "Still Studios @ Moosh: A Natural Paint-Making & Sensory Art Class",
+   "description": "Join Still Studios for a 2.5-hour family-friendly, hands-on sensory art class.\nWhat to expect:\n• Mix earthy paints from everyday kitchen ingredients\n• Learn simple paint recipes to recreate at home\n• Follow a step-by-step botanical landscape painting\n• Try something new in a relaxed and cosy space environment\nAbout the facilitator:\nWith Honours in Fine Art and Art Therapy and a BA in Psychology, Savanah Summers uses everyday natural ingredients to make art accessible, fun, and easy to replicate at home.\nNo experience needed—all ages welcome!\nCome unwind, regulate, and create.",
+   "url": "https://www.webtickets.co.za/v2/event.aspx?itemid=1606532119",
+   "image": "https://content.webtickets.co.za/StillStudios/panel_949fb20791da4e579bfec858816f9dd8.png",
+   "start": "2026-11-22T07:30:00.000Z",
+   "end": null,
+   "allDay": false,
+   "timezone": "Africa/Johannesburg",
+   "venue": "Moosh Artspace",
+   "address": "Moosh Artspace",
+   "city": null,
+   "area": "western-cape",
+   "lat": -33.9280132,
+   "lng": 18.4370281,
+   "price": {
+    "text": "R350.00",
+    "amount": 350,
+    "currency": "ZAR",
+    "free": false
+   },
+   "organiser": "StillStudios",
+   "sourceCategories": [
+    "Workshops & Classes"
+   ],
+   "categories": [
+    "painting"
+   ],
+   "score": 8,
+   "alsoOn": []
+  },
+  {
+   "id": "quicket:400948",
+   "source": "quicket",
+   "sourceName": "Quicket",
+   "sourceId": "400948",
+   "title": "Mosaic",
+   "description": "Like pieces of a mosaic, each dancer, song and story comes together to create something greater than itself. Mosaic brings together the energy of Cape Townian music and culture through dance, celebrating our shared communities, diverse identities and the joy of coming together.\nFeaturing dancers from the Rhônel Stoltz Dance Studio, the production is a celebration of local talent and the creative spirit of our city, from familiar sounds and rythms to the traditions, influences and contemporary culture that make Cape Town home.This is more than a dance show. It is a celebration of community, creativity and belonging.\nCome support local dancers, experience the joy of live performance and…",
+   "url": "https://www.quicket.co.za/events/400948-mosaic/",
+   "image": "https://images.quicket.co.za/0998640_247_247.jpeg",
+   "start": "2026-11-22T12:00:00.000Z",
+   "end": null,
+   "allDay": false,
+   "dates": [
+    "2026-11-22T12:00:00.000Z",
+    "2026-11-22T13:30:00.000Z",
+    "2026-11-22T15:00:00.000Z"
+   ],
+   "timezone": "Africa/Johannesburg",
+   "venue": "Observatory Community Recreation Centre",
+   "address": "Rawson Street, , Observatory, 7925, Cape Town, Western Cape, South Africa",
+   "city": "Cape Town",
+   "area": "cape-town",
+   "lat": -33.9371719,
+   "lng": 18.4686012,
+   "price": {
+    "text": "R100",
+    "amount": 100,
+    "currency": "ZAR",
+    "free": false
+   },
+   "organiser": "The Open Stage Foundation NPC",
+   "sourceCategories": [
+    "Arts & Culture"
+   ],
+   "categories": [
+    "craft"
+   ],
+   "score": 5,
+   "alsoOn": []
+  },
+  {
+   "id": "quicket:398273",
+   "source": "quicket",
+   "sourceName": "Quicket",
+   "sourceId": "398273",
+   "title": "Start Your Baking Career: 5 Day Pro Programme with Priscilla Mazibuko",
+   "description": "Lemon meringue tart. Macarons. Burger rolls and bread rolls. Five days, real professional skills, launch edition. 23 to 27 November 2026 - 5pm to 8 pm. Limited places.\nWant to work in baking? Start with the products that actually sell.\nThis brand new programme is built for people ready to step into the professional baking world. The core skills bakeries, cafés and delis look for, taught hands on over five days.Your teacher is Priscilla Mazibuko, who has been teaching at Crème & Croissant for over two years and knows our recipes and standards better than anyone. She has trained countless students in our kitchen and she knows exactly how to take you from nervous to confident.\nHere is what you…",
+   "url": "https://www.quicket.co.za/events/398273-start-your-baking-career-5-day-pro-programme-with-priscilla-mazibuko/",
+   "image": "https://images.quicket.co.za/1009450_247_247.jpeg",
+   "start": "2026-11-23T15:00:00.000Z",
+   "end": "2026-11-27T18:00:00.000Z",
+   "allDay": false,
+   "timezone": "Africa/Johannesburg",
+   "venue": "Creme and Croissant",
+   "address": "4 Drake Street, , Observatory, 7925, Cape Town, Western Cape, South Africa",
+   "city": "Cape Town",
+   "area": "cape-town",
+   "lat": -33.9371,
+   "lng": 18.47046,
+   "price": {
+    "text": "R5850",
+    "amount": 5850,
+    "currency": "ZAR",
+    "free": false
+   },
+   "organiser": "Crème & Croissant",
+   "sourceCategories": [
+    "Food & Drink"
+   ],
+   "categories": [
+    "cooking"
+   ],
+   "score": 3.5,
+   "alsoOn": []
+  },
+  {
+   "id": "quicket:396198",
+   "source": "quicket",
+   "sourceName": "Quicket",
+   "sourceId": "396198",
+   "title": "Coastal Forage Experience with Veld & Sea - 25 November",
+   "description": "We have been delivering coastal foraging workshops and classes for over 10 years, teaching everyone from complete beginners to Michelin star chefs, students, foodies, locals and holiday makers. Our courses take place on carefully selected stretches of the Atlantic coast. Our aim is to equip you with the skills, knowledge and confidence necessary to safely, ethically and sustainably find wild food on our abundant coastlines. This experience follows the tide. Dates are set around the summer's spring low tides which fall twice a month, when we have access to maximum time in the intertidal rockpools. Booking early for these public events is advised as our low-tide mornings are limited.\nWHO THIS…",
+   "url": "https://www.quicket.co.za/events/396198-coastal-forage-experience-with-veld-sea-25-november/",
+   "image": "https://images.quicket.co.za/0984551_247_247.jpeg",
+   "start": "2026-11-25T06:45:00.000Z",
+   "end": "2026-11-25T11:45:00.000Z",
+   "allDay": false,
+   "timezone": "Africa/Johannesburg",
+   "venue": "Scarborough Beach + Veld and Sea HQ, Cape Point",
+   "address": "Plateau Road, Cape Peninsula, 7976, Cape Town, Western Cape, South Africa",
+   "city": "Cape Town",
+   "area": "cape-town",
+   "lat": -34.2212639,
+   "lng": 18.4082432,
+   "price": {
+    "text": "R650 – R1600",
+    "amount": 650,
+    "currency": "ZAR",
+    "free": false
+   },
+   "organiser": "Veld + Sea",
+   "sourceCategories": [
+    "Food & Drink"
+   ],
+   "categories": [
+    "floral",
+    "pottery",
+    "craft"
+   ],
+   "score": 8,
+   "alsoOn": []
+  },
+  {
+   "id": "quicket:395353",
+   "source": "quicket",
+   "sourceName": "Quicket",
+   "sourceId": "395353",
+   "title": "Volmaanpiekniek | Full Moon Picnic",
+   "description": "Dié gewilde pieknieks lok plaaslike inwoners en toeriste wat onvergeetlike aande ervaar danksy die asemrowende sonsondergang, maanopkoms, natuurskoon en panoramiese uitsig oor berge, valleie en Kaapse Skiereiland. Gaste is welkom om enige tyd tussen 17:00 en 22:00 te kom ontspan en piekniek hou terwyl hulle ook die monument – ’n unieke beeldhouwerk met ryk simboliek – van naderby besigtig. ’n Gratis begeleide toer wat die betekenis en ontwerp van die monument belig, begin om 18:30. Daarbenewens kan besoekers die uitstallings en omgewing verken, en kinders kan hulle gate uit geniet in die speelparke en met buitelug-speletjies. Gaste is welkom om hul eie spys en drank te bring (geen glas,…",
+   "url": "https://www.quicket.co.za/events/395353-volmaanpiekniek-full-moon-picnic/",
+   "image": "https://images.quicket.co.za/0984872_247_247.jpeg",
+   "start": "2026-11-27T15:00:00.000Z",
+   "end": null,
+   "allDay": false,
+   "dates": [
+    "2026-11-27T15:00:00.000Z",
+    "2027-01-22T15:00:00.000Z",
+    "2027-02-20T15:00:00.000Z",
+    "2027-03-20T15:00:00.000Z"
+   ],
+   "timezone": "Africa/Johannesburg",
+   "venue": "Afrikaanse Taalmonument",
+   "address": "Gabbema Doordrift Street , Paarl Mountain, 7646, Paarl, Western Cape, South Africa",
+   "city": "Paarl",
+   "area": "winelands",
+   "lat": -33.7656975,
+   "lng": 18.9424381,
+   "price": {
+    "text": "R10 – R40",
+    "amount": 10,
+    "currency": "ZAR",
+    "free": false
+   },
+   "organiser": "Afrikaanse Taalmuseum en -monument",
+   "sourceCategories": [
+    "Family & Education"
+   ],
+   "categories": [
+    "wellness"
+   ],
+   "score": 3,
+   "alsoOn": []
+  },
+  {
+   "id": "quicket:397031",
+   "source": "quicket",
+   "sourceName": "Quicket",
+   "sourceId": "397031",
+   "title": "Honest Chocolate Workshop - November 2026",
+   "description": "Ever wondered how chocolate is really made and what makes Honest Chocolate so special?\nJoin us for a delicious behind-the-scenes experience that takes you through the full journey of chocolate from bean-to-bar. You'll enjoy a guided tasting and learn how cacao beans are ethically farmed and carefully processed to bring out the natural flavours.\nHere’s what’s included in the experience:\nA full chocolate tasting of our handcrafted rangeAn introduction to how cacao beans are ethically farmed and processedA live demonstration of how our bean-to-bar chocolate is madeA hands-on session where you dip and wrap your own set of 2 bonbonsMake your own chocolate slab with your choice of toppings and…",
+   "url": "https://www.quicket.co.za/events/397031-honest-chocolate-workshop-november-2026/",
+   "image": "https://images.quicket.co.za/0985612_247_247.png",
+   "start": "2026-11-28T08:00:00.000Z",
+   "end": "2026-11-28T10:00:00.000Z",
+   "allDay": false,
+   "timezone": "Africa/Johannesburg",
+   "venue": "Honest Chocolate Factory ",
+   "address": "Barron Street 7, Woodstock, 7915, Cape Town, Western Cape, South Africa",
+   "city": "Cape Town",
+   "area": "cape-town",
+   "lat": -33.92679,
+   "lng": 18.44276,
+   "price": {
+    "text": "R450",
+    "amount": 450,
+    "currency": "ZAR",
+    "free": false
+   },
+   "organiser": "Honest Chocolate",
+   "sourceCategories": [
+    "Food & Drink"
+   ],
+   "categories": [
+    "cooking"
+   ],
+   "score": 5.5,
+   "alsoOn": []
+  },
+  {
+   "id": "quicket:405860",
+   "source": "quicket",
+   "sourceName": "Quicket",
+   "sourceId": "405860",
+   "title": "Stone Age Foraging Workshop with Elzanne Singels and Veld & Sea",
+   "description": "Join Elzanne for an immersive Stone Age food experience at Veld & Sea, exploring how our species survived and thrived in Fynbos for 100s of 1000s of years.\nWHAT TO EXPECTWe’ll begin in the glasshouse with an introduction to archaeology and what life in the Stone Age looked like for our ancestors. You will receive a booklet to guide you through the experience. From there, we’ll head out with digging sticks to gather edible wild plants, before returning to Veld & Sea HQ to prepare and cook our finds over open coals.\nThis is a hands-on, sensory experience that brings ancient food traditions to life through the landscape, the plants and the fire.\nWHAT'S INCLUDEDGuided Stone Age food experience…",
+   "url": "https://www.quicket.co.za/events/405860-stone-age-foraging-workshop-with-elzanne-singels-and-veld-sea/",
+   "image": "https://images.quicket.co.za/1013169_247_247.png",
+   "start": "2026-11-28T08:00:00.000Z",
+   "end": "2026-11-28T12:00:00.000Z",
+   "allDay": false,
+   "timezone": "Africa/Johannesburg",
+   "venue": "Veld and Sea",
+   "address": "Plateau Road, Cape Peninsula, Cape Town, Western Cape, South Africa",
+   "city": "Cape Town",
+   "area": "cape-town",
+   "lat": -34.2212639,
+   "lng": 18.4082432,
+   "price": {
+    "text": "R450 – R900",
+    "amount": 450,
+    "currency": "ZAR",
+    "free": false
+   },
+   "organiser": "Veld + Sea",
+   "sourceCategories": [
+    "Food & Drink"
+   ],
+   "categories": [
+    "floral"
+   ],
+   "score": 5.5,
+   "alsoOn": []
+  },
+  {
+   "id": "quicket:401663",
+   "source": "quicket",
+   "sourceName": "Quicket",
+   "sourceId": "401663",
+   "title": "PREMIUM SIP AND PAINT: 7 NOVEMBER",
+   "description": "SIP & PAINT: Curiocity GreenPoint\nJoin CAPE TOWNS favourite Sip & Paint experience at this November at the iconic Curiocity, GreenPoint.\nEnjoy a relaxed afternoon of guided painting, good music, great company and creative energy. No experience needed — just come ready to paint, sip and have a good time!\nDate: Saturday, 7 NovemberLocation: Curiocity, GreenPoint, Cape Town\nTicket includes:• +1 complimentary drink• All Painting Materials• Premium experience\nWhether you’re with friends or alone, Come as you are!\nLIMITED SEATS AVAILABLE",
+   "url": "https://www.quicket.co.za/events/401663-premium-sip-and-paint-7-november/",
+   "image": "https://images.quicket.co.za/1006277_247_247.jpeg",
+   "start": "2026-11-28T12:00:00.000Z",
+   "end": "2026-11-28T16:00:00.000Z",
+   "allDay": false,
+   "timezone": "Africa/Johannesburg",
+   "venue": "CURIOCITY Green Point Cape Town",
+   "address": "153 Main Road, , Green Point, 8005, Cape Town, Western Cape, South Africa",
+   "city": "Cape Town",
+   "area": "cape-town",
+   "lat": -33.90769,
+   "lng": 18.40637,
+   "price": {
+    "text": "R250",
+    "amount": 250,
+    "currency": "ZAR",
+    "free": false
+   },
+   "organiser": "Mthetho Sono",
+   "sourceCategories": [
+    "Hobbies & Interests"
+   ],
+   "categories": [
+    "painting"
+   ],
+   "score": 6,
+   "alsoOn": []
+  },
+  {
+   "id": "quicket:405642",
+   "source": "quicket",
+   "sourceName": "Quicket",
+   "sourceId": "405642",
+   "title": "Sip and paint",
+   "description": "RuahHer: Sip & Paint Faith, Creativity & Connection\nJoin us for a beautiful afternoon of creativity, faith, and connection. Sip & Paint is a relaxed, uplifting experience where women come together to express themselves through art, enjoy refreshing drinks, connect with like-minded women, and reflect on their faith. It’s more than just painting it’s a moment to slow down, embrace your creativity, nurture your spirit, and create meaningful memories in a warm and welcoming space.\nCome as you are, create with purpose, and let your faith inspire your masterpiece.\nlocation : (TBC)",
+   "url": "https://www.quicket.co.za/events/405642-sip-and-paint/",
+   "image": "https://images.quicket.co.za/1013019_247_247.jpeg",
+   "start": "2026-11-28T13:00:00.000Z",
+   "end": "2026-11-28T15:00:00.000Z",
+   "allDay": false,
+   "timezone": "Africa/Johannesburg",
+   "venue": "Cape Town",
+   "address": "Cape Town, South Africa, Cape Town, Western Cape, South Africa",
+   "city": "Cape Town",
+   "area": "cape-town",
+   "lat": -33.92209,
+   "lng": 18.4231415,
+   "price": {
+    "text": "R550",
+    "amount": 550,
+    "currency": "ZAR",
+    "free": false
+   },
+   "organiser": "Ruahher",
+   "sourceCategories": [
+    "Arts & Culture"
+   ],
+   "categories": [
+    "painting"
+   ],
+   "score": 6,
+   "alsoOn": []
+  },
+  {
+   "id": "quicket:407114",
+   "source": "quicket",
+   "sourceName": "Quicket",
+   "sourceId": "407114",
+   "title": "Paint and Sip at Prom Park",
+   "description": "Paint & Sip at Prom Park – Sea Point\nUnleash your creativity with a brush in one hand and a tasty drink in the other — all under the sun and by the sea!\nJoin us at Promenade Park in Sea Point for a relaxed outdoor painting session filled with color, community, and good vibes.\nWe'll have coffee, matcha, hot dogs, ice cream, and other yummy treats to keep you fueled while you create your masterpiece.\nNo alcohol will be served – just wholesome sips and great energy!\nKids are welcome, so bring the whole family for a day of art, snacks, and sunshine.Date: Saturday 28th NovemberTime: From 3pm till 5:30pmLocation: Prom Park, Sea PointPrice : R250 per adult and R200 per kids (include all art…",
+   "url": "https://www.quicket.co.za/events/407114-paint-and-sip-at-prom-park/",
+   "image": "https://images.quicket.co.za/1018840_247_247.jpeg",
+   "start": "2026-11-28T13:00:00.000Z",
+   "end": "2026-11-28T15:30:00.000Z",
+   "allDay": false,
+   "timezone": "Africa/Johannesburg",
+   "venue": "Prom Park Cafe",
+   "address": "Beach Road, , Mouille Point, 8001, Cape Town, Western Cape, South Africa",
+   "city": "Cape Town",
+   "area": "cape-town",
+   "lat": -33.9041824,
+   "lng": 18.39827,
+   "price": {
+    "text": "R200 – R250",
+    "amount": 200,
+    "currency": "ZAR",
+    "free": false
+   },
+   "organiser": "Paint and Sip with Music",
+   "sourceCategories": [
+    "Arts & Culture"
+   ],
+   "categories": [
+    "painting"
+   ],
+   "score": 5.5,
+   "alsoOn": []
+  },
+  {
+   "id": "meetup:317052377",
+   "source": "meetup",
+   "sourceName": "Meetup",
+   "sourceId": "317052377",
+   "title": "🎨 Ceramic Painting at Ceramic Cafe ☕️",
+   "description": "🎨 **Ceramic Painting at Ceramic Cafe** ☕️\n\nFancy a creative Sunday morning? Join us for a relaxed ceramic painting session at **Ceramic Café**! 🖌️\n\n📅 **Sunday, 29 November**\n⏰ **10h00**\n📍 Ceramic Café, Garden Centre Road, R44\n\nFor **R425 per person**, you'll receive:\n🎨 Your choice of any bisque piece from their extensive selection\n🖌️ Four paints and two brushes\n🍽️ A light meal from their menu\n✨ Glazing and firing of your finished masterpiece\n\nWhether you're artistic or simply keen to try something different, it's a lovely opportunity to get creative, enjoy some good food and meet fellow Somerset Social Club members!\n\n💰 **Pre-payment is essential to secure your booking.**\n\nSpaces are…",
+   "url": "https://www.meetup.com/somerset-social-club/events/317052377/",
+   "image": "https://secure.meetupstatic.com/photos/event/d/9/8/e/highres_536695694.jpeg",
+   "start": "2026-11-29T08:00:00.000Z",
+   "end": null,
+   "allDay": false,
+   "timezone": "Africa/Johannesburg",
+   "venue": "Ceramic Cafe",
+   "address": "Cape Garden Centre Road, R44, Somerset West, Raithby, 7125, South Africa, Raithby",
+   "city": "Raithby",
+   "area": "cape-town",
+   "lat": null,
+   "lng": null,
+   "price": {
+    "text": "USD 1",
+    "amount": 1,
+    "currency": "USD",
+    "free": false
+   },
+   "organiser": "Somerset Social Club",
+   "sourceCategories": [],
+   "categories": [
+    "pottery"
+   ],
+   "score": 6,
+   "alsoOn": []
+  },
+  {
+   "id": "quicket:385953",
+   "source": "quicket",
+   "sourceName": "Quicket",
+   "sourceId": "385953",
+   "title": "French Pâtisserie Week with Chef Fabien Huchet | 4 Night Masterclass",
+   "description": "Four evenings, four icons of French pâtisserie, one Parisian chef. Macarons, éclairs, chocolate crémeux with mirror glaze and a Saint Honoré, fully hands on, from 1 to 4 December, 5pm to 8pm.\nThis is the week you stop admiring French pastry and start making it.\nFor four nights only, from Tuesday 1 to Friday 4 December 2026, 5pm to 8pm, Chef Fabien Huchet brings the techniques of Lenôtre, Le Meurice and Le Royal Monceau into our kitchen. No watching from the back. No shortcuts. Real professional methods, done with your own hands.\nHere is what you will make. Macarons with the Italian meringue technique, filled with a fruit confit, a chocolate ganache and a salted caramel. Chocolate éclairs…",
+   "url": "https://www.quicket.co.za/events/385953-french-ptisserie-week-with-chef-fabien-huchet-4-night-masterclass/",
+   "image": "https://images.quicket.co.za/1009451_247_247.jpeg",
+   "start": "2026-12-01T15:00:00.000Z",
+   "end": "2026-12-04T18:00:00.000Z",
+   "allDay": false,
+   "timezone": "Africa/Johannesburg",
+   "venue": "Creme and Croissant",
+   "address": "4 Drake Street, , Observatory, 7925, Cape Town, Western Cape, South Africa",
+   "city": "Cape Town",
+   "area": "cape-town",
+   "lat": -33.9371,
+   "lng": 18.47046,
+   "price": {
+    "text": "R6000",
+    "amount": 6000,
+    "currency": "ZAR",
+    "free": false
+   },
+   "organiser": "Crème & Croissant",
+   "sourceCategories": [
+    "Food & Drink"
+   ],
+   "categories": [
+    "cooking"
+   ],
+   "score": 3,
+   "alsoOn": []
+  },
+  {
+   "id": "quicket:383824",
+   "source": "quicket",
+   "sourceName": "Quicket",
+   "sourceId": "383824",
+   "title": "Woodcarving workshop at Mercury School of Woodwork (December)",
+   "description": "Explore the joy of finding the forms of beauty within a wizened piece of wood, with hand tools.Note: No under 10 year olds.\nYou will be taught about the fundamentals of woodcarving and whittling, from the grain to the tools, and many of the forms of carving.\nI aim to get you to understand the grain of wood a bit better so that you might gain more insight into how trees grow, and how they experience life and stress.My tools are almost all either heirloom tools from the previous century or hand-forged ones I have made. All are meticulously maintained and sharpened.I wish to instil in you a greater reverence for wood, and a deeper respect and appreciation for the wooden articles you have in…",
+   "url": "https://www.quicket.co.za/events/383824-woodcarving-workshop-at-mercury-school-of-woodwork-december/",
+   "image": "https://images.quicket.co.za/1008628_247_247.jpeg",
+   "start": "2026-12-05T07:00:00.000Z",
+   "end": "2026-12-05T11:00:00.000Z",
+   "allDay": false,
+   "timezone": "Africa/Johannesburg",
+   "venue": "Mercury School of Woodwork",
+   "address": "15 Bridgewater Street, Paarden Eiland, 7405, Cape Town, Western Cape, South Africa",
+   "city": "Cape Town",
+   "area": "cape-town",
+   "lat": -33.91759,
+   "lng": 18.4720745,
+   "price": {
+    "text": "R600",
+    "amount": 600,
+    "currency": "ZAR",
+    "free": false
+   },
+   "organiser": "Barefoot Carpenter",
+   "sourceCategories": [
+    "Hobbies & Interests"
+   ],
+   "categories": [
+    "craft"
+   ],
+   "score": 9.5,
+   "alsoOn": []
+  },
+  {
+   "id": "quicket:405739",
+   "source": "quicket",
+   "sourceName": "Quicket",
+   "sourceId": "405739",
+   "title": "Purl Jamming by.lara.h",
+   "description": "Purl Jamming – Stitch & Sip with by.lara.h\nA little yarn, a little colour, a little sipping and a whole lot of creativity!Join me for a fun, hands-on crochet workshop where we'll turn yarn into something fabulous! Whether you're a complete beginner or have dabbled in crochet before, this is your chance to slow down, get creative and make your very own statement bag.I'll guide you through the process, stitch by stitch, while we chat, sip and enjoy a relaxed morning of making.And the best part? You'll walk away with a beautiful handmade bag that YOU made!\nThe details:Date: Saturday, 5 December 2026Time: 10:00 – 14:00Cost: R850 per personSpaces: Limited to 10 people\nWhat's included?All yarn,…",
+   "url": "https://www.quicket.co.za/events/405739-purl-jamming-bylarah/",
+   "image": "https://images.quicket.co.za/Q13_247_247.jpg",
+   "start": "2026-12-05T08:00:00.000Z",
+   "end": "2026-12-05T12:00:00.000Z",
+   "allDay": false,
+   "timezone": "Africa/Johannesburg",
+   "venue": "8 Bermuda St",
+   "address": "8 Bermuda Street, , Paarden Eiland, 7405, Cape Town, Western Cape, South Africa",
+   "city": "Cape Town",
+   "area": "cape-town",
+   "lat": -33.91223,
+   "lng": 18.47491,
+   "price": {
+    "text": "R850",
+    "amount": 850,
+    "currency": "ZAR",
+    "free": false
+   },
+   "organiser": "by.lara.h",
+   "sourceCategories": [
+    "Hobbies & Interests"
+   ],
+   "categories": [
+    "textiles",
+    "craft"
+   ],
+   "score": 4.5,
+   "alsoOn": []
+  },
+  {
+   "id": "quicket:406046",
+   "source": "quicket",
+   "sourceName": "Quicket",
+   "sourceId": "406046",
+   "title": "Mix, Blend & Create",
+   "description": "MIX, BLEND & CREATE!\nJoin us on 5 December 2026 at Bokaap Deli Restaurant for a fun and creative Home & Linen Fragrance Workshop!\nCreate and personalise your very own signature home and linen fragrance, uniquely blended to suit your style.\nEnjoy a lovely experience with light snacks and a refreshing drink.\nOnly R599 per person!\nCome mix, blend and create something uniquely yours!",
+   "url": "https://www.quicket.co.za/events/406046-mix-blend-create/",
+   "image": "https://images.quicket.co.za/Q12_247_247.jpg",
+   "start": "2026-12-05T16:00:00.000Z",
+   "end": "2026-12-05T18:00:00.000Z",
+   "allDay": false,
+   "timezone": "Africa/Johannesburg",
+   "venue": "Bokaap Deli",
+   "address": "114 Church Street, , Bokaap, 8001, Cape Town, Western Cape, South Africa",
+   "city": "Cape Town",
+   "area": "cape-town",
+   "lat": -33.920723,
+   "lng": 18.41582,
+   "price": {
+    "text": "R599",
+    "amount": 599,
+    "currency": "ZAR",
+    "free": false
+   },
+   "organiser": "Youghazi Fragrance Collection",
+   "sourceCategories": [
+    "Hobbies & Interests"
+   ],
+   "categories": [
+    "scent"
+   ],
+   "score": 3,
+   "alsoOn": []
+  },
+  {
+   "id": "quicket:406416",
+   "source": "quicket",
+   "sourceName": "Quicket",
+   "sourceId": "406416",
+   "title": "Yoga Flow & Sound Journey",
+   "description": "Join Georgie and Debbie for a beautiful morning of movement, connection and relaxation on the Deck, overlooking the ocean.\nEnjoy a flowing yoga practice followed by a sound journey, allowing the soothing sounds of the ocean and healing vibrations to bring you into a space of calm and presence.\nA moment to move, breathe, unwind and reconnect with yourself, with the ocean as our backdrop.\nCome as you are. Leave feeling lighter.",
+   "url": "https://www.quicket.co.za/events/406416-yoga-flow-sound-journey/",
+   "image": "https://images.quicket.co.za/1019659_247_247.jpeg",
+   "start": "2026-12-06T07:00:00.000Z",
+   "end": "2026-12-06T08:00:00.000Z",
+   "allDay": false,
+   "timezone": "Africa/Johannesburg",
+   "venue": "Prom Park",
+   "address": "160 Beach Road, , Mouille Point, 8001, Cape Town, Western Cape, South Africa",
+   "city": "Cape Town",
+   "area": "cape-town",
+   "lat": -33.90419,
+   "lng": 18.3984051,
+   "price": {
+    "text": "R180",
+    "amount": 180,
+    "currency": "ZAR",
+    "free": false
+   },
+   "organiser": "Meraki Wellness & Venus Yoga",
+   "sourceCategories": [
+    "Health & Wellness"
+   ],
+   "categories": [
+    "wellness"
+   ],
+   "score": 5,
+   "alsoOn": []
+  },
+  {
+   "id": "quicket:367861",
+   "source": "quicket",
+   "sourceName": "Quicket",
+   "sourceId": "367861",
+   "title": "PHAKA SITYE",
+   "description": "PHAKA SITYE\nEvery First Sunday of the Month | The Palms Lifestyle Centre, WoodstockNot just a meal. An experience around fire, clay, culture and good company.PHAKA SITYE is a monthly outdoor clay-fire cooking and dining experience by Masipheke, bringing people together around the warmth of an open fire and the soulful art of cooking with clay.\nTaking place on the first Sunday of every month, each gathering introduces a new theme, a fresh culinary expression and a different atmosphere. No two experiences are quite the same. From smoked feasts and traditional African flavours to seasonal ingredients, heritage-inspired menus and creative fire-cooking interpretations, every edition tells its…",
+   "url": "https://www.quicket.co.za/events/367861-phaka-sitye/",
+   "image": "https://images.quicket.co.za/1017333_247_247.png",
+   "start": "2026-12-06T12:00:00.000Z",
+   "end": "2026-12-06T16:00:00.000Z",
+   "allDay": false,
+   "timezone": "Africa/Johannesburg",
+   "venue": "145 Sir Lowry Rd",
+   "address": "145 Sir Lowry Road, , Woodstock, 8001, Cape Town, Western Cape, South Africa",
+   "city": "Cape Town",
+   "area": "cape-town",
+   "lat": -33.9271965,
+   "lng": 18.4407139,
+   "price": {
+    "text": "R300",
+    "amount": 300,
+    "currency": "ZAR",
+    "free": false
+   },
+   "organiser": "Masipheke Cuisine",
+   "sourceCategories": [
+    "Food & Drink"
+   ],
+   "categories": [
+    "pottery",
+    "cooking",
+    "craft"
+   ],
+   "score": 5,
+   "alsoOn": []
+  },
+  {
+   "id": "quicket:396611",
+   "source": "quicket",
+   "sourceName": "Quicket",
+   "sourceId": "396611",
+   "title": "Coastal Forage Experience with Veld & Sea - 9 December",
+   "description": "We have been delivering coastal foraging workshops and classes for over 10 years, teaching everyone from complete beginners to Michelin star chefs, students, foodies, locals and holiday makers. Our courses take place on carefully selected stretches of the Atlantic coast. Our aim is to equip you with the skills, knowledge and confidence necessary to safely, ethically and sustainably find wild food on our abundant coastlines. This experience follows the tide. Dates are set around the summer's spring low tides which fall twice a month, when we have access to maximum time in the intertidal rockpools. Booking early for these public events is advised as our low-tide mornings are limited.\nWHO THIS…",
+   "url": "https://www.quicket.co.za/events/396611-coastal-forage-experience-with-veld-sea-9-december/",
+   "image": "https://images.quicket.co.za/0985384_247_247.jpeg",
+   "start": "2026-12-09T06:45:00.000Z",
+   "end": "2026-12-09T11:45:00.000Z",
+   "allDay": false,
+   "timezone": "Africa/Johannesburg",
+   "venue": "Scarborough Beach + Veld and Sea HQ, Cape Point",
+   "address": "Plateau Road 7976, Cape Peninsula, 7976, Cape Town, Western Cape, South Africa",
+   "city": "Cape Town",
+   "area": "cape-town",
+   "lat": -34.2212639,
+   "lng": 18.4082432,
+   "price": {
+    "text": "R650 – R1600",
+    "amount": 650,
+    "currency": "ZAR",
+    "free": false
+   },
+   "organiser": "Veld + Sea",
+   "sourceCategories": [
+    "Food & Drink"
+   ],
+   "categories": [
+    "floral",
+    "pottery",
+    "craft"
+   ],
+   "score": 8,
+   "alsoOn": []
+  },
+  {
+   "id": "quicket:396613",
+   "source": "quicket",
+   "sourceName": "Quicket",
+   "sourceId": "396613",
+   "title": "Coastal Forage Experience with Veld & Sea - 10 December",
+   "description": "We have been delivering coastal foraging workshops and classes for over 10 years, teaching everyone from complete beginners to Michelin star chefs, students, foodies, locals and holiday makers. Our courses take place on carefully selected stretches of the Atlantic coast. Our aim is to equip you with the skills, knowledge and confidence necessary to safely, ethically and sustainably find wild food on our abundant coastlines. This experience follows the tide. Dates are set around the summer's spring low tides which fall twice a month, when we have access to maximum time in the intertidal rockpools. Booking early for these public events is advised as our low-tide mornings are limited.\nWHO THIS…",
+   "url": "https://www.quicket.co.za/events/396613-coastal-forage-experience-with-veld-sea-10-december/",
+   "image": "https://images.quicket.co.za/0984257_247_247.jpeg",
+   "start": "2026-12-10T07:15:00.000Z",
+   "end": "2026-12-10T12:15:00.000Z",
+   "allDay": false,
+   "timezone": "Africa/Johannesburg",
+   "venue": "Scarborough Beach + Veld and Sea HQ, Cape Point",
+   "address": "Plateau Road 7976, Cape Peninsula, 7976, Cape Town, Western Cape, South Africa",
+   "city": "Cape Town",
+   "area": "cape-town",
+   "lat": -34.2212639,
+   "lng": 18.4082432,
+   "price": {
+    "text": "R650 – R1600",
+    "amount": 650,
+    "currency": "ZAR",
+    "free": false
+   },
+   "organiser": "Veld + Sea",
+   "sourceCategories": [
+    "Food & Drink"
+   ],
+   "categories": [
+    "floral",
+    "pottery",
+    "craft"
+   ],
+   "score": 8,
+   "alsoOn": []
+  },
+  {
+   "id": "quicket:406083",
+   "source": "quicket",
+   "sourceName": "Quicket",
+   "sourceId": "406083",
+   "title": "PRINT, PLAY & DISCOVER CYANOTYPE",
+   "description": "A magical morning of art, play and creative discovery!\nA playful introduction to the magic of printing with sunlight!\nJoin artists Mandy Johnston and Adéle Prins for a relaxed, experimental morning at Mothership Studios in Fish Hoek.\nDiscover the beautiful blue world of cyanotype, one of the earliest photographic processes, using sunlight and light-sensitive chemicals to create unique prints.\nWhat will we do?Discover the magic of cyanotype printing while learning the techniques behind this fascinating photographic process!\nWe'll guide you through the entire process, from mixing the chemicals and coating your own paper to preparing compositions, conducting exposure tests, exposing your…",
+   "url": "https://www.quicket.co.za/events/406083-print-play-discover-cyanotype/",
+   "image": "https://images.quicket.co.za/1013515_247_247.png",
+   "start": "2026-12-11T11:30:00.000Z",
+   "end": "2026-12-11T14:00:00.000Z",
+   "allDay": false,
+   "timezone": "Africa/Johannesburg",
+   "venue": "16 Dunster Ave",
+   "address": "16 Dunster Avenue, Fish Hoek, 7974, Cape Town, Western Cape, South Africa",
+   "city": "Cape Town",
+   "area": "cape-town",
+   "lat": -34.13401,
+   "lng": 18.4305935,
+   "price": {
+    "text": "R950",
+    "amount": 950,
+    "currency": "ZAR",
+    "free": false
+   },
+   "organiser": "Mothership Studios",
+   "sourceCategories": [
+    "Hobbies & Interests"
+   ],
+   "categories": [
+    "paper",
+    "painting"
+   ],
+   "score": 8,
+   "alsoOn": []
+  },
+  {
+   "id": "quicket:403577",
+   "source": "quicket",
+   "sourceName": "Quicket",
+   "sourceId": "403577",
+   "title": "New Moon Ecstatic dance in Cape Town - DECEMBER",
+   "description": "New Moon Ecstatic dance for the Earth in us\nAccording to the ancient Khoi tradition, their communities gathered every New Moon to co-create a sacred space under the stars, where dance and music would take them into transcendental states: ecstasy, trance, nervous system co-regulation and healing.\nThis tradition inspired New Moon Ecstatic dance — a collaboration of conscious dance DJs, contact improvisation facilitators, fire crew and dancing humans.We dance to reconnect with our bodies, with one another, with the ocean, the mountains, the wind and the gifts of nature so generously given to us here in Cape Town. Through music and movement, we cultivate a deeper awareness of our spiritual…",
+   "url": "https://www.quicket.co.za/events/403577-new-moon-ecstatic-dance-in-cape-town-december/",
+   "image": "https://images.quicket.co.za/1019859_247_247.jpeg",
+   "start": "2026-12-11T13:30:00.000Z",
+   "end": "2026-12-11T18:30:00.000Z",
+   "allDay": false,
+   "timezone": "Africa/Johannesburg",
+   "venue": "Clifton ZERO beach",
+   "address": "7806, Cape Town, Western Cape, South Africa",
+   "city": "Cape Town",
+   "area": "cape-town",
+   "lat": -34.00811,
+   "lng": 18.34121,
+   "price": {
+    "text": "R100 – R1550",
+    "amount": 100,
+    "currency": "ZAR",
+    "free": false
+   },
+   "organiser": "Greenhouse",
+   "sourceCategories": [
+    "Music"
+   ],
+   "categories": [
+    "wellness",
+    "textiles"
+   ],
+   "score": 7,
+   "alsoOn": []
+  },
+  {
+   "id": "quicket:387506",
+   "source": "quicket",
+   "sourceName": "Quicket",
+   "sourceId": "387506",
+   "title": "Cultured Butter & Cheese making Workshop",
+   "description": "Cultured Butter & Cheese Making Workshop Experience\nAbout:Join us for a farm experience on Vergesig Farm, nestled in the Piket-Bo-Berg Mountains. Throughout this hands-on, immersive workshop you'll dive into the heart of farm life and explore everything from milking cows to crafting your own cheese and butter.\nThe day starts off bright and early as you join our milking team in the parlour, learning the art of milking. Then, we'll take the cows out to the pastures, where you'll enjoy a coffee with the fresh morning milk and a homemade treat.\nWe will then learn all about the magic of dairy-making, using the fresh milk from the morning as well as the history behind natural cheese and cultured…",
+   "url": "https://www.quicket.co.za/events/387506-cultured-butter-cheese-making-workshop/",
+   "image": "https://images.quicket.co.za/0959674_247_247.jpeg",
+   "start": "2026-12-12T05:00:00.000Z",
+   "end": "2026-12-12T11:00:00.000Z",
+   "allDay": false,
+   "timezone": "Africa/Johannesburg",
+   "venue": "Vergesig Farm",
+   "address": "Piket-bo-berg, Piketberg, 7320, 7320, Piketberg, Western Cape, South Africa",
+   "city": "Piketberg",
+   "area": "western-cape",
+   "lat": -32.8362236,
+   "lng": 18.73121,
+   "price": {
+    "text": "R900 – R1450",
+    "amount": 900,
+    "currency": "ZAR",
+    "free": false
+   },
+   "organiser": "Cream of the Crop",
+   "sourceCategories": [
+    "Food & Drink"
+   ],
+   "categories": [
+    "cooking",
+    "craft"
+   ],
+   "score": 8.5,
+   "alsoOn": []
+  },
+  {
+   "id": "quicket:390237",
+   "source": "quicket",
+   "sourceName": "Quicket",
+   "sourceId": "390237",
+   "title": "Beaded Bag Summer Workshop",
+   "description": "Summer in Cape Town is all about slowing down, soaking up the sunshine, and creating something beautiful with your hands.\nJoin me for a calm and creative morning of bead weaving at the gorgeous Four & Twenty Cafe in Wynberg! Whether you’re looking to pick up a new creative skill, craft your ultimate summer accessory, or simply spend 4 hours treating yourself, this workshop is designed to be a dreamy, creative escape.\nYou’ll receive personalised guidance, your own complete setup, and all the premium materials needed to craft a stunning beaded bag to carry all season long. Plus, we’ll be sipping on refreshing drinks and tucking into a delicious spread of sweet and savoury eats provided by…",
+   "url": "https://www.quicket.co.za/events/390237-beaded-bag-summer-workshop/",
+   "image": "https://images.quicket.co.za/1010203_247_247.jpeg",
+   "start": "2026-12-12T07:00:00.000Z",
+   "end": "2026-12-12T11:00:00.000Z",
+   "allDay": false,
+   "timezone": "Africa/Johannesburg",
+   "venue": "Four & Twenty Cafe",
+   "address": "23 Wolfe Street, , Wynberg, 7800, Cape Town, Western Cape, South Africa",
+   "city": "Cape Town",
+   "area": "cape-town",
+   "lat": -34.00675,
+   "lng": 18.4633255,
+   "price": {
+    "text": "R850 – R1600",
+    "amount": 850,
+    "currency": "ZAR",
+    "free": false
+   },
+   "organiser": "Create With Brittney Sue",
+   "sourceCategories": [
+    "Arts & Culture"
+   ],
+   "categories": [
+    "textiles"
+   ],
+   "score": 4,
+   "alsoOn": []
+  },
+  {
+   "id": "quicket:383816",
+   "source": "quicket",
+   "sourceName": "Quicket",
+   "sourceId": "383816",
+   "title": "Woodcarving workshop at Soil for Life (December)",
+   "description": "Explore the joy of finding the forms of beauty within a wizened piece of wood, with hand tools.Note: No under 10 year olds.\nYou will be taught about the fundamentals of woodcarving and whittling, from the grain to the tools, and many of the forms of carving.\nI aim to get you to understand the grain of wood a bit better so that you might gain more insight into how trees grow, and how they experience life and stress.My tools are almost all either heirloom tools from the previous century or hand-forged ones I have made. All are meticulously maintained and sharpened.I wish to instil in you a greater reverence for wood, and a deeper respect and appreciation for the wooden articles you have in…",
+   "url": "https://www.quicket.co.za/events/383816-woodcarving-workshop-at-soil-for-life-december/",
+   "image": "https://images.quicket.co.za/1008623_247_247.jpeg",
+   "start": "2026-12-12T08:00:00.000Z",
+   "end": "2026-12-12T12:00:00.000Z",
+   "allDay": false,
+   "timezone": "Africa/Johannesburg",
+   "venue": "Soil for Life",
+   "address": "Brounger Road 9, 7806, Cape Town, Western Cape, South Africa",
+   "city": "Cape Town",
+   "area": "cape-town",
+   "lat": -34.0288849,
+   "lng": 18.4369144,
+   "price": {
+    "text": "R550 – R600",
+    "amount": 550,
+    "currency": "ZAR",
+    "free": false
+   },
+   "organiser": "Barefoot Carpenter",
+   "sourceCategories": [
+    "Hobbies & Interests"
+   ],
+   "categories": [
+    "craft"
+   ],
+   "score": 5.5,
+   "alsoOn": []
+  },
+  {
+   "id": "quicket:391147",
+   "source": "quicket",
+   "sourceName": "Quicket",
+   "sourceId": "391147",
+   "title": "POETRY WORKSHOP",
+   "description": "A relaxed and creative poetry workshop for seasoned writers, beginners and those who simply enjoy words, ideas and reflection. Be inspired by the soulful collection of poems , ‘Voices from the Heart’ and journey into the quiet corners of your heart.",
+   "url": "https://www.quicket.co.za/events/391147-poetry-workshop/",
+   "image": "https://images.quicket.co.za/Q8_247_247.jpg",
+   "start": "2026-12-12T09:00:00.000Z",
+   "end": "2026-12-12T10:30:00.000Z",
+   "allDay": false,
+   "timezone": "Africa/Johannesburg",
+   "venue": "CAPE TOWN ATHENAEUM",
+   "address": "off Campground Road, , Newlands, 7700, Cape Town, Western Cape, South Africa",
+   "city": "Cape Town",
+   "area": "cape-town",
+   "lat": -33.975544,
+   "lng": 18.4680767,
+   "price": {
+    "text": "R240",
+    "amount": 240,
+    "currency": "ZAR",
+    "free": false
+   },
+   "organiser": "Kiki McCormack - Voices from the Heart",
+   "sourceCategories": [
+    "Other"
+   ],
+   "categories": [
+    "paper"
+   ],
+   "score": 6,
+   "alsoOn": []
+  },
+  {
+   "id": "quicket:403889",
+   "source": "quicket",
+   "sourceName": "Quicket",
+   "sourceId": "403889",
+   "title": "Mosaic WorkShop",
+   "description": "Curious about mosaic art but not sure where to start?Join us for a relaxed, hands-on Mosaic workshop designed to introduce you to the fundamentals of this beautiful craft.You will learn basic mosaic techniques, how to work with tiles, colour, and texture, and how to assemble your own small mosaic artwork to take home. This workshop is perfect for absolute beginners — no prior experience needed.\nMosaic Event Details 2pm-5pm Canvas and Craft, 108 Raats Drive, Table View R450 per person\nIncludesAll materials to create your own mosaicGuidance All instructions and materials to complete mosaic piece at home A relaxed, supportive creative environmentSpaces are limited to ensure personal guidance.…",
+   "url": "https://www.quicket.co.za/events/403889-mosaic-workshop/",
+   "image": "https://images.quicket.co.za/1011617_247_247.png",
+   "start": "2026-12-12T12:00:00.000Z",
+   "end": "2026-12-12T15:00:00.000Z",
+   "allDay": false,
+   "timezone": "Africa/Johannesburg",
+   "venue": "Canvas and Craft",
+   "address": "108 Raats Drive, , Table View, 7441, Cape Town, Western Cape, South Africa",
+   "city": "Cape Town",
+   "area": "cape-town",
+   "lat": -33.8195763,
+   "lng": 18.5037365,
+   "price": {
+    "text": "R480",
+    "amount": 480,
+    "currency": "ZAR",
+    "free": false
+   },
+   "organiser": "Canvas and Craft",
+   "sourceCategories": [
+    "Arts & Culture"
+   ],
+   "categories": [
+    "craft"
+   ],
+   "score": 7,
+   "alsoOn": []
+  },
+  {
+   "id": "quicket:405935",
+   "source": "quicket",
+   "sourceName": "Quicket",
+   "sourceId": "405935",
+   "title": "OZCF LITTLE EXPLORERS HOLIDAY WORKSHOP: BUTTERFLIES, CATERPILLARS & LIFE CYCLES",
+   "description": "Facilitator Bio:Isabella Hulme is an early childhood educator and counsellor-in-training who designs creative, nature-based experiences that celebrate curiosity, imagination, play, and the rich world of more-than-human life around us.\nIsabella weaves together nature, creativity, and relational learning in her work with children, drawing on her background in the Reggio Emilia approach to learning, forest school practice, and therapeutic art facilitation.\nIn her workshops at Oranjezicht City Farm, Isabella guides children through hands-on, nature-based creative art activities inspired by the magic of the garden and the Earth. Each session offers children time and space to follow their…",
+   "url": "https://www.quicket.co.za/events/405935-ozcf-little-explorers-holiday-workshop-butterflies-caterpillars-life-cycles/",
+   "image": "https://images.quicket.co.za/1013160_247_247.jpeg",
+   "start": "2026-12-14T07:30:00.000Z",
+   "end": "2026-12-14T09:30:00.000Z",
+   "allDay": false,
+   "timezone": "Africa/Johannesburg",
+   "venue": "Oranjezicht City Farm",
+   "address": "Upper Orange Street 87, Oranjezicht, 8001, Cape Town, Western Cape, South Africa",
+   "city": "Cape Town",
+   "area": "cape-town",
+   "lat": -33.9422,
+   "lng": 18.41472,
+   "price": {
+    "text": "R450",
+    "amount": 450,
+    "currency": "ZAR",
+    "free": false
+   },
+   "organiser": "Oranjezicht City Farm",
+   "sourceCategories": [
+    "Family & Education"
+   ],
+   "categories": [
+    "textiles"
+   ],
+   "score": 4,
+   "alsoOn": []
+  },
+  {
+   "id": "quicket:402399",
+   "source": "quicket",
+   "sourceName": "Quicket",
+   "sourceId": "402399",
+   "title": "Meet Israa in Cape town",
+   "description": "Meet Israa in Cape Town\nJoin Palestinian artist Israa in Cape Town for a creative, beginner-friendly workshop experience.Choose between Palestinian Embroidery on Wood, where you can create embroidered tea coasters or a Palestine map décor piece, and Arabic Calligraphy & Painting, where you will create your own Arabic calligraphy canvas.No previous experience is needed, and all materials are provided.Come create, learn, and take home something meaningful made by your own hands.Your participation also supports Israa’s work and her ongoing efforts to support her family in Gaza and educational initiatives.Date: 16 December 2026Location: Cape TownBooking: QuicketLimited spaces availableLearn.…",
+   "url": "https://www.quicket.co.za/events/402399-meet-israa-in-cape-town/",
+   "image": "https://images.quicket.co.za/Q5_247_247.jpg",
+   "start": "2026-12-16T08:00:00.000Z",
+   "end": "2026-12-16T14:30:00.000Z",
+   "allDay": false,
+   "timezone": "Africa/Johannesburg",
+   "venue": "19 Belvedere Rd",
+   "address": "19 Belvedere Road, , Claremont, 7708, Cape Town, Western Cape, South Africa",
+   "city": "Cape Town",
+   "area": "cape-town",
+   "lat": -33.9767456,
+   "lng": 18.4853783,
+   "price": {
+    "text": "R400 – R720",
+    "amount": 400,
+    "currency": "ZAR",
+    "free": false
+   },
+   "organiser": "SAMA.ZA",
+   "sourceCategories": [],
+   "categories": [
+    "textiles",
+    "paper"
+   ],
+   "score": 3,
+   "alsoOn": []
+  },
+  {
+   "id": "quicket:405938",
+   "source": "quicket",
+   "sourceName": "Quicket",
+   "sourceId": "405938",
+   "title": "OZCF LITTLE EXPLORERS HOLIDAY WORKSHOP: CLAY CREATURES",
+   "description": "Facilitator Bio:Isabella Hulme is an early childhood educator and counsellor-in-training who designs creative, nature-based experiences that celebrate curiosity, imagination, play, and the rich world of more-than-human life around us.\nIsabella weaves together nature, creativity, and relational learning in her work with children, drawing on her background in the Reggio Emilia approach to learning, forest school practice, and therapeutic art facilitation.\nIn her workshops at Oranjezicht City Farm, Isabella guides children through hands-on, nature-based creative art activities inspired by the magic of the garden and the Earth. Each session offers children time and space to follow their…",
+   "url": "https://www.quicket.co.za/events/405938-ozcf-little-explorers-holiday-workshop-clay-creatures/",
+   "image": "https://images.quicket.co.za/1013157_247_247.jpeg",
+   "start": "2026-12-17T07:30:00.000Z",
+   "end": "2026-12-17T09:30:00.000Z",
+   "allDay": false,
+   "timezone": "Africa/Johannesburg",
+   "venue": "Oranjezicht City Farm",
+   "address": "Upper Orange Street 87, Oranjezicht, 8001, Cape Town, Western Cape, South Africa",
+   "city": "Cape Town",
+   "area": "cape-town",
+   "lat": -33.9422,
+   "lng": 18.41472,
+   "price": {
+    "text": "R450",
+    "amount": 450,
+    "currency": "ZAR",
+    "free": false
+   },
+   "organiser": "Oranjezicht City Farm",
+   "sourceCategories": [
+    "Family & Education"
+   ],
+   "categories": [
+    "pottery",
+    "textiles"
+   ],
+   "score": 8,
+   "alsoOn": []
+  },
+  {
+   "id": "quicket:404316",
+   "source": "quicket",
+   "sourceName": "Quicket",
+   "sourceId": "404316",
+   "title": "Woodcarving workshop in Wilderness (December)",
+   "description": "Explore the joy of finding the forms of beauty within a wizened piece of wood, with hand tools.Note: Unfortunately, no under 10-year-olds.\nYou will be taught about the fundamentals of woodcarving and whittling, from the grain to the tools, and many of the forms of carving.\nI aim to get you to understand the grain of wood a bit better so that you might gain more insight into how trees grow, and how they experience life and stress.My tools are almost all either heirloom tools from the previous century or hand-forged ones I have made. All are meticulously maintained and sharpened.I wish to instil in you a greater reverence for wood, and a deeper respect and appreciation for the wooden articles…",
+   "url": "https://www.quicket.co.za/events/404316-woodcarving-workshop-in-wilderness-december/",
+   "image": "https://images.quicket.co.za/1008631_247_247.jpeg",
+   "start": "2026-12-19T07:00:00.000Z",
+   "end": "2026-12-19T11:00:00.000Z",
+   "allDay": false,
+   "timezone": "Africa/Johannesburg",
+   "venue": "266 Taaibos Rd",
+   "address": "266 Taaibos Road, Hoekwil, 6560, Wilderness, Western Cape, South Africa",
+   "city": "Wilderness",
+   "area": "western-cape",
+   "lat": -33.9740562,
+   "lng": 22.5845776,
+   "price": {
+    "text": "R450 – R500",
+    "amount": 450,
+    "currency": "ZAR",
+    "free": false
+   },
+   "organiser": "Barefoot Carpenter",
+   "sourceCategories": [
+    "Hobbies & Interests"
+   ],
+   "categories": [
+    "craft"
+   ],
+   "score": 5.5,
+   "alsoOn": []
+  },
+  {
+   "id": "quicket:400696",
+   "source": "quicket",
+   "sourceName": "Quicket",
+   "sourceId": "400696",
+   "title": "Free Dive Forage Adventure with Khoi Scouts and Veld & Sea - 19 December",
+   "description": "FREE DIVE FORAGE ADVENTURESaturday 19 December10am - 4pm\nDiscover the rich offerings of the local coastline, learn how to sustainably harvest and incorporate the ocean ingredients of Cape Town into your cooking while enjoying a wildly delicious ocean adventure!\nWhat to Expect:Join the Khoi Scouts and the Veld and Sea team to immerse yourself in the kelp forests and discover their magical underwater colours and flavours. Dive into the world of ocean ingredients under the expert guidance of trained divers, foragers and chefs.\nDuring this experience, we explore edible seaweeds and molluscs, learning how to legally, responsibly and sustainably harvest and interact with these beautiful and…",
+   "url": "https://www.quicket.co.za/events/400696-free-dive-forage-adventure-with-khoi-scouts-and-veld-sea-19-december/",
+   "image": "https://images.quicket.co.za/0997919_247_247.jpeg",
+   "start": "2026-12-19T08:00:00.000Z",
+   "end": "2026-12-19T14:00:00.000Z",
+   "allDay": false,
+   "timezone": "Africa/Johannesburg",
+   "venue": "Miller’s Point Tidal Pool + Veld and Sea HQ, Cape Point",
+   "address": "Main Road, Cape Peninsula, Cape Town, Western Cape, South Africa",
+   "city": "Cape Town",
+   "area": "cape-town",
+   "lat": -34.23127,
+   "lng": 18.4760132,
+   "price": {
+    "text": "R2200",
+    "amount": 2200,
+    "currency": "ZAR",
+    "free": false
+   },
+   "organiser": "Veld + Sea",
+   "sourceCategories": [
+    "Food & Drink"
+   ],
+   "categories": [
+    "floral",
+    "wellness"
+   ],
+   "score": 7,
+   "alsoOn": []
+  },
+  {
+   "id": "webtickets:1602743495",
+   "source": "webtickets",
+   "sourceName": "Webtickets",
+   "sourceId": "1602743495",
+   "title": "SARM Holiday Club Presents: Christmas Cupcakes and Cookies Decorating Workshop for Kids",
+   "description": "SARM Holiday Club presents our very first Christmas Cupcakes and Cookies Decorating Workshop for Kids!\nJoin us at the beautiful Arderne Gardens Claremont for a fun-filled festive experience for boys and girls aged 2–13 years!\nTicket: R250 per child\nTime: 2:00 PM\nEach Junior Christmas Baker receives\n2 cupcakes and 6 cookies to decorate\nRed, Green & White icing, Festive sprinkles and cake box to take their creations home\nA chef hat & apron to keep\nAnd a Junior Christmas Baker certificate.\nCome get creative, have fun and make magical holiday memories, one cupcake at a time!",
+   "url": "https://www.webtickets.co.za/v2/event.aspx?itemid=1602743495",
+   "image": "https://content.webtickets.co.za/sarmholidayclub/panel_Cookie%202.2_20260909_152545.jpg",
+   "start": "2026-12-19T12:00:00.000Z",
+   "end": null,
+   "allDay": false,
+   "timezone": "Africa/Johannesburg",
+   "venue": "Arderne Gardens Claremont",
+   "address": "Arderne Gardens Claremont",
+   "city": null,
+   "area": "cape-town",
+   "lat": -33.9872914,
+   "lng": 18.4648833,
+   "price": {
+    "text": "R250",
+    "amount": 250,
+    "currency": "ZAR",
+    "free": false
+   },
+   "organiser": "sarmholidayclub",
+   "sourceCategories": [
+    "Family & Kids",
+    "Special Days",
+    "Workshops & Classes"
+   ],
+   "categories": [
+    "cooking"
+   ],
+   "score": 10.5,
+   "alsoOn": []
+  },
+  {
+   "id": "quicket:400698",
+   "source": "quicket",
+   "sourceName": "Quicket",
+   "sourceId": "400698",
+   "title": "Free Dive Forage Adventure with Khoi Scouts and Veld & Sea - 20 December",
+   "description": "FREE DIVE FORAGE ADVENTURESunday 20 December10am - 4pm\nDiscover the rich offerings of the local coastline, learn how to sustainably harvest and incorporate the ocean ingredients of Cape Town into your cooking while enjoying a wildly delicious ocean adventure!\nWhat to Expect:Join the Khoi Scouts and the Veld and Sea team to immerse yourself in the kelp forests and discover their magical underwater colours and flavours. Dive into the world of ocean ingredients under the expert guidance of trained divers, foragers and chefs.\nDuring this experience, we explore edible seaweeds and molluscs, learning how to legally, responsibly and sustainably harvest and interact with these beautiful and…",
+   "url": "https://www.quicket.co.za/events/400698-free-dive-forage-adventure-with-khoi-scouts-and-veld-sea-20-december/",
+   "image": "https://images.quicket.co.za/0997923_247_247.jpeg",
+   "start": "2026-12-20T08:00:00.000Z",
+   "end": "2026-12-20T14:00:00.000Z",
+   "allDay": false,
+   "timezone": "Africa/Johannesburg",
+   "venue": "Miller’s Point Tidal Pool + Veld and Sea HQ, Cape Point",
+   "address": "Main Road, Cape Peninsula, Cape Town, Western Cape, South Africa",
+   "city": "Cape Town",
+   "area": "cape-town",
+   "lat": -34.23127,
+   "lng": 18.4760132,
+   "price": {
+    "text": "R2200",
+    "amount": 2200,
+    "currency": "ZAR",
+    "free": false
+   },
+   "organiser": "Veld + Sea",
+   "sourceCategories": [
+    "Food & Drink"
+   ],
+   "categories": [
+    "floral",
+    "wellness"
+   ],
+   "score": 7,
+   "alsoOn": []
+  },
+  {
+   "id": "quicket:404318",
+   "source": "quicket",
+   "sourceName": "Quicket",
+   "sourceId": "404318",
+   "title": "Woodcarving workshop in Wilderness (December #2)",
+   "description": "Explore the joy of finding the forms of beauty within a wizened piece of wood, with hand tools.Note: Unfortunately, no under 10-year-olds.\nYou will be taught about the fundamentals of woodcarving and whittling, from the grain to the tools, and many of the forms of carving.\nI aim to get you to understand the grain of wood a bit better so that you might gain more insight into how trees grow, and how they experience life and stress.My tools are almost all either heirloom tools from the previous century or hand-forged ones I have made. All are meticulously maintained and sharpened.I wish to instil in you a greater reverence for wood, and a deeper respect and appreciation for the wooden articles…",
+   "url": "https://www.quicket.co.za/events/404318-woodcarving-workshop-in-wilderness-december-2/",
+   "image": "https://images.quicket.co.za/1008637_247_247.jpeg",
+   "start": "2026-12-27T07:00:00.000Z",
+   "end": "2026-12-27T11:00:00.000Z",
+   "allDay": false,
+   "timezone": "Africa/Johannesburg",
+   "venue": "266 Taaibos Rd",
+   "address": "266 Taaibos Road, Hoekwil, 6560, Wilderness, Western Cape, South Africa",
+   "city": "Wilderness",
+   "area": "western-cape",
+   "lat": -33.9740562,
+   "lng": 22.5845776,
+   "price": {
+    "text": "R450 – R500",
+    "amount": 450,
+    "currency": "ZAR",
+    "free": false
+   },
+   "organiser": "Barefoot Carpenter",
+   "sourceCategories": [
+    "Hobbies & Interests"
+   ],
+   "categories": [
+    "craft"
+   ],
+   "score": 5.5,
+   "alsoOn": []
+  },
+  {
+   "id": "quicket:403578",
+   "source": "quicket",
+   "sourceName": "Quicket",
+   "sourceId": "403578",
+   "title": "New Moon Ecstatic dance in Cape Town - JANUARY",
+   "description": "New Moon Ecstatic dance for the Earth in us\nAccording to the ancient Khoi tradition, their communities gathered every New Moon to co-create a sacred space under the stars, where dance and music would take them into transcendental states: ecstasy, trance, nervous system co-regulation and healing.\nThis tradition inspired New Moon Ecstatic dance — a collaboration of conscious dance DJs, contact improvisation facilitators, fire crew and dancing humans.We dance to reconnect with our bodies, with one another, with the ocean, the mountains, the wind and the gifts of nature so generously given to us here in Cape Town. Through music and movement, we cultivate a deeper awareness of our spiritual…",
+   "url": "https://www.quicket.co.za/events/403578-new-moon-ecstatic-dance-in-cape-town-january/",
+   "image": "https://images.quicket.co.za/Q3_247_247.jpg",
+   "start": "2027-01-08T14:00:00.000Z",
+   "end": "2027-01-08T19:00:00.000Z",
+   "allDay": false,
+   "timezone": "Africa/Johannesburg",
+   "venue": "Clifton ZERO beach",
+   "address": "7806, Cape Town, Western Cape, South Africa",
+   "city": "Cape Town",
+   "area": "cape-town",
+   "lat": -34.00811,
+   "lng": 18.34121,
+   "price": {
+    "text": "R100 – R350",
+    "amount": 100,
+    "currency": "ZAR",
+    "free": false
+   },
+   "organiser": "Greenhouse",
+   "sourceCategories": [
+    "Music"
+   ],
+   "categories": [
+    "wellness",
+    "textiles"
+   ],
+   "score": 7,
+   "alsoOn": []
+  },
+  {
+   "id": "quicket:396691",
+   "source": "quicket",
+   "sourceName": "Quicket",
+   "sourceId": "396691",
+   "title": "Coastal Forage Experience with Veld & Sea - 9 January",
+   "description": "We have been delivering coastal foraging workshops and classes for over 10 years, teaching everyone from complete beginners to Michelin star chefs, students, foodies, locals and holiday makers. Our courses take place on carefully selected stretches of the Atlantic coast. Our aim is to equip you with the skills, knowledge and confidence necessary to safely, ethically and sustainably find wild food on our abundant coastlines. This experience follows the tide. Dates are set around the summer's spring low tides which fall twice a month, when we have access to maximum time in the intertidal rockpools. Booking early for these public events is advised as our low-tide mornings are limited.\nWHO THIS…",
+   "url": "https://www.quicket.co.za/events/396691-coastal-forage-experience-with-veld-sea-9-january/",
+   "image": "https://images.quicket.co.za/0985328_247_247.jpeg",
+   "start": "2027-01-09T07:45:00.000Z",
+   "end": "2027-01-09T12:45:00.000Z",
+   "allDay": false,
+   "timezone": "Africa/Johannesburg",
+   "venue": "Scarborough Beach + Veld and Sea HQ, Cape Point",
+   "address": "Plateau Road 7976, Cape Peninsula, 7976, Cape Town, Western Cape, South Africa",
+   "city": "Cape Town",
+   "area": "cape-town",
+   "lat": -34.2212639,
+   "lng": 18.4082432,
+   "price": {
+    "text": "R650 – R1600",
+    "amount": 650,
+    "currency": "ZAR",
+    "free": false
+   },
+   "organiser": "Veld + Sea",
+   "sourceCategories": [
+    "Food & Drink"
+   ],
+   "categories": [
+    "floral",
+    "pottery",
+    "craft"
+   ],
+   "score": 8,
+   "alsoOn": []
+  },
+  {
+   "id": "quicket:396695",
+   "source": "quicket",
+   "sourceName": "Quicket",
+   "sourceId": "396695",
+   "title": "Coastal Forage Experience with Veld & Sea - 10 January",
+   "description": "We have been delivering coastal foraging workshops and classes for over 10 years, teaching everyone from complete beginners to Michelin star chefs, students, foodies, locals and holiday makers. Our courses take place on carefully selected stretches of the Atlantic coast. Our aim is to equip you with the skills, knowledge and confidence necessary to safely, ethically and sustainably find wild food on our abundant coastlines. This experience follows the tide. Dates are set around the summer's spring low tides which fall twice a month, when we have access to maximum time in the intertidal rockpools. Booking early for these public events is advised as our low-tide mornings are limited.\nWHO THIS…",
+   "url": "https://www.quicket.co.za/events/396695-coastal-forage-experience-with-veld-sea-10-january/",
+   "image": "https://images.quicket.co.za/0985135_247_247.jpeg",
+   "start": "2027-01-10T08:15:00.000Z",
+   "end": "2027-01-10T13:15:00.000Z",
+   "allDay": false,
+   "timezone": "Africa/Johannesburg",
+   "venue": "Scarborough Beach + Veld and Sea HQ, Cape Point",
+   "address": "Plateau Road 7976, Cape Peninsula, 7976, Cape Town, Western Cape, South Africa",
+   "city": "Cape Town",
+   "area": "cape-town",
+   "lat": -34.2212639,
+   "lng": 18.4082432,
+   "price": {
+    "text": "R650 – R1600",
+    "amount": 650,
+    "currency": "ZAR",
+    "free": false
+   },
+   "organiser": "Veld + Sea",
+   "sourceCategories": [
+    "Food & Drink"
+   ],
+   "categories": [
+    "floral",
+    "pottery",
+    "craft"
+   ],
+   "score": 8,
+   "alsoOn": []
+  },
+  {
+   "id": "quicket:403003",
+   "source": "quicket",
+   "sourceName": "Quicket",
+   "sourceId": "403003",
+   "title": "Sip & Paint: A Palestine Solidarity Meet & Greet",
+   "description": "Join us for an afternoon of creativity, connection and solidarity for Palestine.\nCome and enjoy a relaxed Sip & Paint experience at Moosh Art Space, where you’ll have the opportunity to paint your very own Palestine-inspired ceramic piece or Canvas and an exciting opportunity to meet a surprise online influencer!\nThis is more than just an afternoon of painting. It’s a space to create, connect and come together in solidarity with Palestine — while enjoying good company, a delicious snack box and a special surprise guest.\nWHAT TO EXPECT Paint your own Palestine-inspired ceramicAll art supplies providedA delicious snack box included Meet and connect with like-minded peopleA special surprise…",
+   "url": "https://www.quicket.co.za/events/403003-sip-paint-a-palestine-solidarity-meet-greet/",
+   "image": "https://images.quicket.co.za/1009847_247_247.jpeg",
+   "start": "2027-01-20T11:00:00.000Z",
+   "end": "2027-01-20T16:00:00.000Z",
+   "allDay": false,
+   "timezone": "Africa/Johannesburg",
+   "venue": "Moosh Artspace",
+   "address": "Buchanan Square, , Woodstock, 7925, Cape Town, Western Cape, South Africa",
+   "city": "Cape Town",
+   "area": "cape-town",
+   "lat": -33.9280128,
+   "lng": 18.4370289,
+   "price": {
+    "text": "R450 – R550",
+    "amount": 450,
+    "currency": "ZAR",
+    "free": false
+   },
+   "organiser": "Sharing Hope Foundation",
+   "sourceCategories": [
+    "Charity & Causes"
+   ],
+   "categories": [
+    "painting",
+    "pottery"
+   ],
+   "score": 7,
+   "alsoOn": []
+  },
+  {
+   "id": "quicket:404777",
+   "source": "quicket",
+   "sourceName": "Quicket",
+   "sourceId": "404777",
+   "title": "Cultured Butter & Cheese making Workshop",
+   "description": "Cultured Butter & Cheese Making Workshop Experience\nAbout:Join us for a farm experience on Vergesig Farm, nestled in the Piket-Bo-Berg Mountains. Throughout this hands-on, immersive workshop you'll dive into the heart of farm life and explore everything from milking cows to crafting your own cheese and butter.\nThe day starts off bright and early as you join our milking team in the parlour, learning the art of milking. Then, we'll take the cows out to the pastures, where you'll enjoy a coffee with the fresh morning milk and a homemade treat.\nWe will then learn all about the magic of dairy-making, using the fresh milk from the morning as well as the history behind natural cheese and cultured…",
+   "url": "https://www.quicket.co.za/events/404777-cultured-butter-cheese-making-workshop/",
+   "image": "https://images.quicket.co.za/1010273_247_247.jpeg",
+   "start": "2027-01-23T05:00:00.000Z",
+   "end": "2027-01-23T11:00:00.000Z",
+   "allDay": false,
+   "timezone": "Africa/Johannesburg",
+   "venue": "Vergesig Farm",
+   "address": "Piket-bo-berg, Piketberg, 7320, 7320, Piketberg, Western Cape, South Africa",
+   "city": "Piketberg",
+   "area": "western-cape",
+   "lat": -32.8362236,
+   "lng": 18.73121,
+   "price": {
+    "text": "R900 – R1450",
+    "amount": 900,
+    "currency": "ZAR",
+    "free": false
+   },
+   "organiser": "Cream of the Crop",
+   "sourceCategories": [
+    "Food & Drink"
+   ],
+   "categories": [
+    "cooking",
+    "craft"
+   ],
+   "score": 8.5,
+   "alsoOn": []
+  },
+  {
+   "id": "quicket:396697",
+   "source": "quicket",
+   "sourceName": "Quicket",
+   "sourceId": "396697",
+   "title": "Coastal Forage Experience with Veld & Sea - 23 January",
+   "description": "We have been delivering coastal foraging workshops and classes for over 10 years, teaching everyone from complete beginners to Michelin star chefs, students, foodies, locals and holiday makers. Our courses take place on carefully selected stretches of the Atlantic coast. Our aim is to equip you with the skills, knowledge and confidence necessary to safely, ethically and sustainably find wild food on our abundant coastlines. This experience follows the tide. Dates are set around the summer's spring low tides which fall twice a month, when we have access to maximum time in the intertidal rockpools. Booking early for these public events is advised as our low-tide mornings are limited.\nWHO THIS…",
+   "url": "https://www.quicket.co.za/events/396697-coastal-forage-experience-with-veld-sea-23-january/",
+   "image": "https://images.quicket.co.za/0985385_247_247.jpeg",
+   "start": "2027-01-23T07:30:00.000Z",
+   "end": "2027-01-23T12:30:00.000Z",
+   "allDay": false,
+   "timezone": "Africa/Johannesburg",
+   "venue": "Scarborough Beach + Veld and Sea HQ, Cape Point",
+   "address": "Plateau Road 7976, Cape Peninsula, 7976, Cape Town, Western Cape, South Africa",
+   "city": "Cape Town",
+   "area": "cape-town",
+   "lat": -34.2212639,
+   "lng": 18.4082432,
+   "price": {
+    "text": "R650 – R1600",
+    "amount": 650,
+    "currency": "ZAR",
+    "free": false
+   },
+   "organiser": "Veld + Sea",
+   "sourceCategories": [
+    "Food & Drink"
+   ],
+   "categories": [
+    "floral",
+    "pottery",
+    "craft"
+   ],
+   "score": 8,
+   "alsoOn": []
+  },
+  {
+   "id": "quicket:396699",
+   "source": "quicket",
+   "sourceName": "Quicket",
+   "sourceId": "396699",
+   "title": "Coastal Forage Experience with Veld & Sea - 24 January",
+   "description": "We have been delivering coastal foraging workshops and classes for over 10 years, teaching everyone from complete beginners to Michelin star chefs, students, foodies, locals and holiday makers. Our courses take place on carefully selected stretches of the Atlantic coast. Our aim is to equip you with the skills, knowledge and confidence necessary to safely, ethically and sustainably find wild food on our abundant coastlines. This experience follows the tide. Dates are set around the summer's spring low tides which fall twice a month, when we have access to maximum time in the intertidal rockpools. Booking early for these public events is advised as our low-tide mornings are limited.\nWHO THIS…",
+   "url": "https://www.quicket.co.za/events/396699-coastal-forage-experience-with-veld-sea-24-january/",
+   "image": "https://images.quicket.co.za/0985318_247_247.jpeg",
+   "start": "2027-01-24T08:15:00.000Z",
+   "end": "2027-01-24T13:15:00.000Z",
+   "allDay": false,
+   "timezone": "Africa/Johannesburg",
+   "venue": "Scarborough Beach + Veld and Sea HQ, Cape Point",
+   "address": "Plateau Road 7976, Cape Peninsula, 7976, Cape Town, Western Cape, South Africa",
+   "city": "Cape Town",
+   "area": "cape-town",
+   "lat": -34.2212639,
+   "lng": 18.4082432,
+   "price": {
+    "text": "R650 – R1600",
+    "amount": 650,
+    "currency": "ZAR",
+    "free": false
+   },
+   "organiser": "Veld + Sea",
+   "sourceCategories": [
+    "Food & Drink"
+   ],
+   "categories": [
+    "floral",
+    "pottery",
+    "craft"
+   ],
+   "score": 8,
+   "alsoOn": []
+  },
+  {
+   "id": "quicket:396702",
+   "source": "quicket",
+   "sourceName": "Quicket",
+   "sourceId": "396702",
+   "title": "Coastal Forage Experience with Veld & Sea - 6 February",
+   "description": "We have been delivering coastal foraging workshops and classes for over 10 years, teaching everyone from complete beginners to Michelin star chefs, students, foodies, locals and holiday makers. Our courses take place on carefully selected stretches of the Atlantic coast. Our aim is to equip you with the skills, knowledge and confidence necessary to safely, ethically and sustainably find wild food on our abundant coastlines. This experience follows the tide. Dates are set around the summer's spring low tides which fall twice a month, when we have access to maximum time in the intertidal rockpools. Booking early for these public events is advised as our low-tide mornings are limited.\nWHO THIS…",
+   "url": "https://www.quicket.co.za/events/396702-coastal-forage-experience-with-veld-sea-6-february/",
+   "image": "https://images.quicket.co.za/0985132_247_247.jpeg",
+   "start": "2027-02-06T07:00:00.000Z",
+   "end": "2027-02-06T12:00:00.000Z",
+   "allDay": false,
+   "timezone": "Africa/Johannesburg",
+   "venue": "Scarborough Beach + Veld and Sea HQ, Cape Point",
+   "address": "Plateau Road 7976, Cape Peninsula, 7976, Cape Town, Western Cape, South Africa",
+   "city": "Cape Town",
+   "area": "cape-town",
+   "lat": -34.2212639,
+   "lng": 18.4082432,
+   "price": {
+    "text": "R650 – R1600",
+    "amount": 650,
+    "currency": "ZAR",
+    "free": false
+   },
+   "organiser": "Veld + Sea",
+   "sourceCategories": [
+    "Food & Drink"
+   ],
+   "categories": [
+    "floral",
+    "pottery",
+    "craft"
+   ],
+   "score": 8,
+   "alsoOn": []
+  },
+  {
+   "id": "quicket:396705",
+   "source": "quicket",
+   "sourceName": "Quicket",
+   "sourceId": "396705",
+   "title": "Coastal Forage Experience with Veld & Sea - 7 February",
+   "description": "We have been delivering coastal foraging workshops and classes for over 10 years, teaching everyone from complete beginners to Michelin star chefs, students, foodies, locals and holiday makers. Our courses take place on carefully selected stretches of the Atlantic coast. Our aim is to equip you with the skills, knowledge and confidence necessary to safely, ethically and sustainably find wild food on our abundant coastlines. This experience follows the tide. Dates are set around the summer's spring low tides which fall twice a month, when we have access to maximum time in the intertidal rockpools. Booking early for these public events is advised as our low-tide mornings are limited.\nWHO THIS…",
+   "url": "https://www.quicket.co.za/events/396705-coastal-forage-experience-with-veld-sea-7-february/",
+   "image": "https://images.quicket.co.za/0985322_247_247.jpeg",
+   "start": "2027-02-07T07:30:00.000Z",
+   "end": "2027-02-07T12:30:00.000Z",
+   "allDay": false,
+   "timezone": "Africa/Johannesburg",
+   "venue": "Scarborough Beach + Veld and Sea HQ, Cape Point",
+   "address": "Plateau Road 7976, Cape Peninsula, 7976, Cape Town, Western Cape, South Africa",
+   "city": "Cape Town",
+   "area": "cape-town",
+   "lat": -34.2212639,
+   "lng": 18.4082432,
+   "price": {
+    "text": "R650 – R1600",
+    "amount": 650,
+    "currency": "ZAR",
+    "free": false
+   },
+   "organiser": "Veld + Sea",
+   "sourceCategories": [
+    "Food & Drink"
+   ],
+   "categories": [
+    "floral",
+    "pottery",
+    "craft"
+   ],
+   "score": 8,
+   "alsoOn": []
+  },
+  {
+   "id": "quicket:396707",
+   "source": "quicket",
+   "sourceName": "Quicket",
+   "sourceId": "396707",
+   "title": "Coastal Forage Experience with Veld & Sea - 20 February",
+   "description": "We have been delivering coastal foraging workshops and classes for over 10 years, teaching everyone from complete beginners to Michelin star chefs, students, foodies, locals and holiday makers. Our courses take place on carefully selected stretches of the Atlantic coast. Our aim is to equip you with the skills, knowledge and confidence necessary to safely, ethically and sustainably find wild food on our abundant coastlines. This experience follows the tide. Dates are set around the summer's spring low tides which fall twice a month, when we have access to maximum time in the intertidal rockpools. Booking early for these public events is advised as our low-tide mornings are limited.\nWHO THIS…",
+   "url": "https://www.quicket.co.za/events/396707-coastal-forage-experience-with-veld-sea-20-february/",
+   "image": "https://images.quicket.co.za/0985316_247_247.jpeg",
+   "start": "2027-02-20T06:45:00.000Z",
+   "end": "2027-02-20T11:45:00.000Z",
+   "allDay": false,
+   "timezone": "Africa/Johannesburg",
+   "venue": "Scarborough Beach + Veld and Sea HQ, Cape Point",
+   "address": "Plateau Road 7976, Cape Peninsula, 7976, Cape Town, Western Cape, South Africa",
+   "city": "Cape Town",
+   "area": "cape-town",
+   "lat": -34.2212639,
+   "lng": 18.4082432,
+   "price": {
+    "text": "R650 – R1600",
+    "amount": 650,
+    "currency": "ZAR",
+    "free": false
+   },
+   "organiser": "Veld + Sea",
+   "sourceCategories": [
+    "Food & Drink"
+   ],
+   "categories": [
+    "floral",
+    "pottery",
+    "craft"
+   ],
+   "score": 8,
+   "alsoOn": []
+  },
+  {
+   "id": "quicket:396709",
+   "source": "quicket",
+   "sourceName": "Quicket",
+   "sourceId": "396709",
+   "title": "Coastal Forage Experience with Veld & Sea - 21 February",
+   "description": "We have been delivering coastal foraging workshops and classes for over 10 years, teaching everyone from complete beginners to Michelin star chefs, students, foodies, locals and holiday makers. Our courses take place on carefully selected stretches of the Atlantic coast. Our aim is to equip you with the skills, knowledge and confidence necessary to safely, ethically and sustainably find wild food on our abundant coastlines. This experience follows the tide. Dates are set around the summer's spring low tides which fall twice a month, when we have access to maximum time in the intertidal rockpools. Booking early for these public events is advised as our low-tide mornings are limited.\nWHO THIS…",
+   "url": "https://www.quicket.co.za/events/396709-coastal-forage-experience-with-veld-sea-21-february/",
+   "image": "https://images.quicket.co.za/0985308_247_247.jpeg",
+   "start": "2027-02-21T07:15:00.000Z",
+   "end": "2027-02-21T12:15:00.000Z",
+   "allDay": false,
+   "timezone": "Africa/Johannesburg",
+   "venue": "Scarborough Beach + Veld and Sea HQ, Cape Point",
+   "address": "Plateau Road 7976, Cape Peninsula, 7976, Cape Town, Western Cape, South Africa",
+   "city": "Cape Town",
+   "area": "cape-town",
+   "lat": -34.2212639,
+   "lng": 18.4082432,
+   "price": {
+    "text": "R650 – R1600",
+    "amount": 650,
+    "currency": "ZAR",
+    "free": false
+   },
+   "organiser": "Veld + Sea",
+   "sourceCategories": [
+    "Food & Drink"
+   ],
+   "categories": [
+    "floral",
+    "pottery",
+    "craft"
+   ],
+   "score": 8,
+   "alsoOn": []
+  },
+  {
+   "id": "quicket:397298",
+   "source": "quicket",
+   "sourceName": "Quicket",
+   "sourceId": "397298",
+   "title": "Coastal Forage Experience with Veld & Sea - 6 March",
+   "description": "We have been delivering coastal foraging workshops and classes for over 10 years, teaching everyone from complete beginners to Michelin star chefs, students, foodies, locals and holiday makers. Our courses take place on carefully selected stretches of the Atlantic coast. Our aim is to equip you with the skills, knowledge and confidence necessary to safely, ethically and sustainably find wild food on our abundant coastlines. This experience follows the tide. Dates are set around the summer's spring low tides which fall twice a month, when we have access to maximum time in the intertidal rockpools. Booking early for these public events is advised as our low-tide mornings are limited.\nWHO THIS…",
+   "url": "https://www.quicket.co.za/events/397298-coastal-forage-experience-with-veld-sea-6-march/",
+   "image": "https://images.quicket.co.za/0986746_247_247.jpeg",
+   "start": "2027-03-06T06:15:00.000Z",
+   "end": "2027-03-06T11:15:00.000Z",
+   "allDay": false,
+   "timezone": "Africa/Johannesburg",
+   "venue": "Scarborough Beach + Veld and Sea HQ, Cape Point",
+   "address": "Plateau Road 7976, Cape Peninsula, 7976, Cape Town, Western Cape, South Africa",
+   "city": "Cape Town",
+   "area": "cape-town",
+   "lat": -34.2212639,
+   "lng": 18.4082432,
+   "price": {
+    "text": "R650 – R1600",
+    "amount": 650,
+    "currency": "ZAR",
+    "free": false
+   },
+   "organiser": "Veld + Sea",
+   "sourceCategories": [
+    "Food & Drink"
+   ],
+   "categories": [
+    "floral",
+    "pottery",
+    "craft"
+   ],
+   "score": 8,
+   "alsoOn": []
+  },
+  {
+   "id": "quicket:397301",
+   "source": "quicket",
+   "sourceName": "Quicket",
+   "sourceId": "397301",
+   "title": "Coastal Forage Experience with Veld & Sea - 7 March",
+   "description": "We have been delivering coastal foraging workshops and classes for over 10 years, teaching everyone from complete beginners to Michelin star chefs, students, foodies, locals and holiday makers. Our courses take place on carefully selected stretches of the Atlantic coast. Our aim is to equip you with the skills, knowledge and confidence necessary to safely, ethically and sustainably find wild food on our abundant coastlines. This experience follows the tide. Dates are set around the summer's spring low tides which fall twice a month, when we have access to maximum time in the intertidal rockpools. Booking early for these public events is advised as our low-tide mornings are limited.\nWHO THIS…",
+   "url": "https://www.quicket.co.za/events/397301-coastal-forage-experience-with-veld-sea-7-march/",
+   "image": "https://images.quicket.co.za/0987125_247_247.jpeg",
+   "start": "2027-03-07T06:30:00.000Z",
+   "end": "2027-03-07T11:30:00.000Z",
+   "allDay": false,
+   "timezone": "Africa/Johannesburg",
+   "venue": "Scarborough Beach + Veld and Sea HQ, Cape Point",
+   "address": "Plateau Road 7976, Cape Peninsula, 7976, Cape Town, Western Cape, South Africa",
+   "city": "Cape Town",
+   "area": "cape-town",
+   "lat": -34.2212639,
+   "lng": 18.4082432,
+   "price": {
+    "text": "R650 – R1600",
+    "amount": 650,
+    "currency": "ZAR",
+    "free": false
+   },
+   "organiser": "Veld + Sea",
+   "sourceCategories": [
+    "Food & Drink"
+   ],
+   "categories": [
+    "floral",
+    "pottery",
+    "craft"
+   ],
+   "score": 8,
+   "alsoOn": []
+  },
+  {
+   "id": "quicket:404779",
+   "source": "quicket",
+   "sourceName": "Quicket",
+   "sourceId": "404779",
+   "title": "Cultured Butter & Cheese making Workshop",
+   "description": "Cultured Butter & Cheese Making Workshop Experience\nAbout:Join us for a farm experience on Vergesig Farm, nestled in the Piket-Bo-Berg Mountains. Throughout this hands-on, immersive workshop you'll dive into the heart of farm life and explore everything from milking cows to crafting your own cheese and butter.\nThe day starts off bright and early as you join our milking team in the parlour, learning the art of milking. Then, we'll take the cows out to the pastures, where you'll enjoy a coffee with the fresh morning milk and a homemade treat.\nWe will then learn all about the magic of dairy-making, using the fresh milk from the morning as well as the history behind natural cheese and cultured…",
+   "url": "https://www.quicket.co.za/events/404779-cultured-butter-cheese-making-workshop/",
+   "image": "https://images.quicket.co.za/1010272_247_247.jpeg",
+   "start": "2027-03-20T05:00:00.000Z",
+   "end": "2027-03-20T11:00:00.000Z",
+   "allDay": false,
+   "timezone": "Africa/Johannesburg",
+   "venue": "Vergesig Farm",
+   "address": "Piket-bo-berg, Piketberg, 7320, 7320, Piketberg, Western Cape, South Africa",
+   "city": "Piketberg",
+   "area": "western-cape",
+   "lat": -32.8362236,
+   "lng": 18.73121,
+   "price": {
+    "text": "R900 – R1450",
+    "amount": 900,
+    "currency": "ZAR",
+    "free": false
+   },
+   "organiser": "Cream of the Crop",
+   "sourceCategories": [
+    "Food & Drink"
+   ],
+   "categories": [
+    "cooking",
+    "craft"
+   ],
+   "score": 8.5,
+   "alsoOn": []
+  },
+  {
+   "id": "quicket:397510",
+   "source": "quicket",
+   "sourceName": "Quicket",
+   "sourceId": "397510",
+   "title": "Coastal Forage Experience with Veld & Sea - 20 March",
+   "description": "We have been delivering coastal foraging workshops and classes for over 10 years, teaching everyone from complete beginners to Michelin star chefs, students, foodies, locals and holiday makers. Our courses take place on carefully selected stretches of the Atlantic coast. Our aim is to equip you with the skills, knowledge and confidence necessary to safely, ethically and sustainably find wild food on our abundant coastlines. This experience follows the tide. Dates are set around the summer's spring low tides which fall twice a month, when we have access to maximum time in the intertidal rockpools. Booking early for these public events is advised as our low-tide mornings are limited.\nWHO THIS…",
+   "url": "https://www.quicket.co.za/events/397510-coastal-forage-experience-with-veld-sea-20-march/",
+   "image": "https://images.quicket.co.za/0987185_247_247.jpeg",
+   "start": "2027-03-20T06:00:00.000Z",
+   "end": "2027-03-20T11:00:00.000Z",
+   "allDay": false,
+   "timezone": "Africa/Johannesburg",
+   "venue": "Scarborough Beach + Veld and Sea HQ, Cape Point",
+   "address": "Plateau Road 7976, Cape Peninsula, 7976, Cape Town, Western Cape, South Africa",
+   "city": "Cape Town",
+   "area": "cape-town",
+   "lat": -34.2212639,
+   "lng": 18.4082432,
+   "price": {
+    "text": "R650 – R1600",
+    "amount": 650,
+    "currency": "ZAR",
+    "free": false
+   },
+   "organiser": "Veld + Sea",
+   "sourceCategories": [
+    "Food & Drink"
+   ],
+   "categories": [
+    "floral",
+    "pottery",
+    "craft"
+   ],
+   "score": 8,
+   "alsoOn": []
+  },
+  {
+   "id": "quicket:397511",
+   "source": "quicket",
+   "sourceName": "Quicket",
+   "sourceId": "397511",
+   "title": "Coastal Forage Experience with Veld & Sea - 21 March",
+   "description": "We have been delivering coastal foraging workshops and classes for over 10 years, teaching everyone from complete beginners to Michelin star chefs, students, foodies, locals and holiday makers. Our courses take place on carefully selected stretches of the Atlantic coast. Our aim is to equip you with the skills, knowledge and confidence necessary to safely, ethically and sustainably find wild food on our abundant coastlines. This experience follows the tide. Dates are set around the summer's spring low tides which fall twice a month, when we have access to maximum time in the intertidal rockpools. Booking early for these public events is advised as our low-tide mornings are limited.\nWHO THIS…",
+   "url": "https://www.quicket.co.za/events/397511-coastal-forage-experience-with-veld-sea-21-march/",
+   "image": "https://images.quicket.co.za/0987205_247_247.jpeg",
+   "start": "2027-03-21T06:30:00.000Z",
+   "end": "2027-03-21T11:30:00.000Z",
+   "allDay": false,
+   "timezone": "Africa/Johannesburg",
+   "venue": "Scarborough Beach + Veld and Sea HQ, Cape Point",
+   "address": "Plateau Road 7976, Cape Peninsula, 7976, Cape Town, Western Cape, South Africa",
+   "city": "Cape Town",
+   "area": "cape-town",
+   "lat": -34.2212639,
+   "lng": 18.4082432,
+   "price": {
+    "text": "R650 – R1600",
+    "amount": 650,
+    "currency": "ZAR",
+    "free": false
+   },
+   "organiser": "Veld + Sea",
+   "sourceCategories": [
+    "Food & Drink"
+   ],
+   "categories": [
+    "floral",
+    "pottery",
+    "craft"
+   ],
+   "score": 8,
+   "alsoOn": []
+  },
+  {
+   "id": "quicket:404891",
+   "source": "quicket",
+   "sourceName": "Quicket",
+   "sourceId": "404891",
+   "title": "Cultured Butter & Cheese making Workshop",
+   "description": "Cultured Butter & Cheese Making Workshop Experience\nAbout:Join us for a farm experience on Vergesig Farm, nestled in the Piket-Bo-Berg Mountains. Throughout this hands-on, immersive workshop you'll dive into the heart of farm life and explore everything from milking cows to crafting your own cheese and butter.\nThe day starts off bright and early as you join our milking team in the parlour, learning the art of milking. Then, we'll take the cows out to the pastures, where you'll enjoy a coffee with the fresh morning milk and a homemade treat.\nWe will then learn all about the magic of dairy-making, using the fresh milk from the morning as well as the history behind natural cheese and cultured…",
+   "url": "https://www.quicket.co.za/events/404891-cultured-butter-cheese-making-workshop/",
+   "image": "https://images.quicket.co.za/1010510_247_247.jpeg",
+   "start": "2027-04-17T05:00:00.000Z",
+   "end": "2027-04-17T11:00:00.000Z",
+   "allDay": false,
+   "timezone": "Africa/Johannesburg",
+   "venue": "Vergesig Farm",
+   "address": "Piket-bo-berg, Piketberg, 7320, 7320, Piketberg, Western Cape, South Africa",
+   "city": "Piketberg",
+   "area": "western-cape",
+   "lat": -32.8362236,
+   "lng": 18.73121,
+   "price": {
+    "text": "R900 – R1450",
+    "amount": 900,
+    "currency": "ZAR",
+    "free": false
+   },
+   "organiser": "Cream of the Crop",
+   "sourceCategories": [
+    "Food & Drink"
+   ],
+   "categories": [
+    "cooking",
+    "craft"
+   ],
+   "score": 8.5,
+   "alsoOn": []
+  },
+  {
+   "id": "quicket:405161",
+   "source": "quicket",
+   "sourceName": "Quicket",
+   "sourceId": "405161",
+   "title": "Cultured Butter & Cheese making Workshop",
+   "description": "Cultured Butter & Cheese Making Workshop Experience\nAbout:Join us for a farm experience on Vergesig Farm, nestled in the Piket-Bo-Berg Mountains. Throughout this hands-on, immersive workshop you'll dive into the heart of farm life and explore everything from milking cows to crafting your own cheese and butter.\nThe day starts off bright and early as you join our milking team in the parlour, learning the art of milking. Then, we'll take the cows out to the pastures, where you'll enjoy a coffee with the fresh morning milk and a homemade treat.\nWe will then learn all about the magic of dairy-making, using the fresh milk from the morning as well as the history behind natural cheese and cultured…",
+   "url": "https://www.quicket.co.za/events/405161-cultured-butter-cheese-making-workshop/",
+   "image": "https://images.quicket.co.za/1016787_247_247.jpeg",
+   "start": "2027-05-22T05:30:00.000Z",
+   "end": "2027-05-22T11:30:00.000Z",
+   "allDay": false,
+   "timezone": "Africa/Johannesburg",
+   "venue": "Vergesig Farm",
+   "address": "Piket-bo-berg, Piketberg, 7320, 7320, Piketberg, Western Cape, South Africa",
+   "city": "Piketberg",
+   "area": "western-cape",
+   "lat": -32.8362236,
+   "lng": 18.73121,
+   "price": {
+    "text": "R900 – R1450",
+    "amount": 900,
+    "currency": "ZAR",
+    "free": false
+   },
+   "organiser": "Cream of the Crop",
+   "sourceCategories": [
+    "Food & Drink"
+   ],
+   "categories": [
+    "cooking",
+    "craft"
+   ],
+   "score": 8.5,
+   "alsoOn": []
+  },
+  {
+   "id": "quicket:406583",
+   "source": "quicket",
+   "sourceName": "Quicket",
+   "sourceId": "406583",
+   "title": "Cultured Butter & Cheese making Workshop",
+   "description": "Cultured Butter & Cheese Making Workshop Experience\nAbout:Join us for a farm experience on Vergesig Farm, nestled in the Piket-Bo-Berg Mountains. Throughout this hands-on, immersive workshop you'll dive into the heart of farm life and explore everything from milking cows to crafting your own cheese and butter.\nThe day starts off bright and early as you join our milking team in the parlour, learning the art of milking. Then, we'll take the cows out to the pastures, where you'll enjoy a coffee with the fresh morning milk and a homemade treat.\nWe will then learn all about the magic of dairy-making, using the fresh milk from the morning as well as the history behind natural cheese and cultured…",
+   "url": "https://www.quicket.co.za/events/406583-cultured-butter-cheese-making-workshop/",
+   "image": "https://images.quicket.co.za/1016804_247_247.jpeg",
+   "start": "2027-06-19T05:30:00.000Z",
+   "end": "2027-06-19T11:00:00.000Z",
+   "allDay": false,
+   "timezone": "Africa/Johannesburg",
+   "venue": "Vergesig Farm",
+   "address": "Piket-bo-berg, Piketberg, 7320, 7320, Piketberg, Western Cape, South Africa",
+   "city": "Piketberg",
+   "area": "western-cape",
+   "lat": -32.8362236,
+   "lng": 18.73121,
+   "price": {
+    "text": "R900 – R1450",
+    "amount": 900,
+    "currency": "ZAR",
+    "free": false
+   },
+   "organiser": "Cream of the Crop",
+   "sourceCategories": [
+    "Food & Drink"
+   ],
+   "categories": [
+    "cooking",
+    "craft"
+   ],
+   "score": 8.5,
+   "alsoOn": []
+  }
+ ]
+}

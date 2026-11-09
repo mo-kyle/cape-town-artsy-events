@@ -1,0 +1,17 @@
+{
+  "name": "cape-town-artsy-events",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Aggregates hands-on creative events in and around Cape Town (pottery, cooking, aromatherapy, candle making, painting, textiles...) from multiple ticketing sites into a static site.",
+  "type": "module",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "fetch": "node src/fetch.js",
+    "fetch:source": "node src/fetch.js --source",
+    "serve": "node src/serve.js",
+    "test": "node --test test/"
+  },
+  "dependencies": {
+    "cheerio": "1.0.0"
+  }
+}

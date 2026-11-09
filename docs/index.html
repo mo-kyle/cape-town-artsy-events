@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Artsy Cape Town</title>
+<meta name="description" content="Hands-on creative classes and workshops around Cape Town: pottery, cooking, aromatherapy, candle making, painting, textiles and more, pulled daily from Quicket, Webtickets, Eventbrite and Meetup.">
+<meta name="color-scheme" content="light dark">
+<meta name="theme-color" content="#f6f1e8" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#17161a" media="(prefers-color-scheme: dark)">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E%F0%9F%8F%BA%3C/text%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="site-header">
+  <div class="wrap">
+    <h1><span class="mark">🏺</span> Artsy Cape Town</h1>
+    <p class="tagline">Hands-on classes and workshops around the Cape: pottery, cooking, scent, paint, textiles and more. Pulled from several ticketing sites and refreshed daily.</p>
+    <p class="meta" id="meta">Loading…</p>
+  </div>
+</header>
+
+<main class="wrap">
+  <section class="controls" aria-label="Filters">
+    <div class="row">
+      <label class="search">
+        <span class="sr-only">Search</span>
+        <input id="q" type="search" placeholder="Search events, venues, organisers…" autocomplete="off">
+      </label>
+      <label class="select">
+        <span class="sr-only">When</span>
+        <select id="when">
+          <option value="all">Any time</option>
+          <option value="today">Today</option>
+          <option value="week">Next 7 days</option>
+          <option value="weekend">This weekend</option>
+          <option value="month">Next 30 days</option>
+        </select>
+      </label>
+      <label class="select">
+        <span class="sr-only">Area</span>
+        <select id="area"><option value="all">Whole Western Cape</option></select>
+      </label>
+      <label class="check"><input id="free" type="checkbox"> Free only</label>
+    </div>
+    <div class="chips" id="chips" role="group" aria-label="Categories"></div>
+  </section>
+
+  <p class="summary" id="summary"></p>
+  <div id="list" class="list" aria-live="polite"></div>
+  <p class="empty" id="empty" hidden>Nothing matches those filters. Try widening the dates or clearing a category.</p>
+</main>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <h2>Where this comes from</h2>
+    <ul id="sources" class="sources"></ul>
+    <p>Listings belong to their organisers and the ticketing sites linked above. Dates, prices and availability can change, so check the source before you go. The site rebuilds every morning from an automated fetch. Missing a venue or studio? <a href="https://github.com/mo-kyle/cape-town-artsy-events" id="repo-link">Open an issue or add a source</a>.</p>
+  </div>
+</footer>
+
+<template id="card-tpl">
+  <article class="card">
+    <a class="card-link" target="_blank" rel="noopener">
+      <div class="thumb"><img loading="lazy" alt=""><span class="thumb-emoji" aria-hidden="true"></span></div>
+      <div class="body">
+        <div class="tags"></div>
+        <h3 class="title"></h3>
+        <p class="when"></p>
+        <p class="where"></p>
+        <p class="desc"></p>
+        <div class="foot">
+          <span class="price"></span>
+          <span class="source"></span>
+        </div>
+      </div>
+    </a>
+  </article>
+</template>
+
+<script src="app.js" type="module"></script>
+</body>
+</html>
