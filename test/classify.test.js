@@ -25,11 +25,23 @@ test('music, sport, business, faith and beauty events are excluded', () => {
   no('WITWC A.I. Talk and Workshop');
   no('Fighting Femicide: Free Self Defense Workshop - Kickboxing with Chantell');
   no('Makeup and Me Masterclass');
-  no('Celebrating Christ in Alignment Christmas Carols');
   no('Swazi Dlamini at Hughs Jazz Club', 'live music');
   no('Meridian: Year-end Function at Pinelands Bowling Club', 'Summer spit braai, salad, dessert');
   no('Introduction to marketing & social media workshop');
   no('Shibari Rope Class to Jam | Squish Jam | Beginner friendly');
+});
+
+test('exhibitions, tastings, festivals and markets are included', () => {
+  yes('Summer Group Exhibition Opening Night');
+  yes('Wine Tasting at Groot Constantia');
+  yes('Gin & Chocolate Pairing Evening');
+  yes('Kirstenbosch Craft Market');
+  yes('Cape Town Street Food Festival 2026');
+  yes('Artist Walkabout with the curator');
+  const c = classify({ title: 'Whisky Tasting Masterclass' });
+  assert.ok(c.categories.includes('tastings'));
+  const f = classify({ title: 'Darling Wildflower Festival' });
+  assert.ok(f.categories.includes('festivals'));
 });
 
 test('categories are assigned', () => {

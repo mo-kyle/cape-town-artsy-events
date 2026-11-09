@@ -157,6 +157,19 @@ button { font: inherit; color: inherit; }
 .d-also { font-size: .85rem; color: var(--ink-faint); }
 .d-also a { color: var(--ink-soft); }
 
+/* places */
+.places { margin-top: 56px; }
+.places-note { color: var(--ink-faint); font-size: .9rem; margin: -4px 0 14px; }
+.places-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 12px; }
+.place { display: block; text-decoration: none; background: var(--bg-elev); border: 1px solid var(--line); border-radius: 12px; padding: 14px 16px; transition: border-color .15s, transform .15s; }
+.place:hover { border-color: var(--ink-faint); transform: translateY(-1px); }
+.place .kind { font-size: .72rem; text-transform: uppercase; letter-spacing: .06em; color: var(--accent); font-weight: 600; }
+.place h3 { font-family: var(--font-display); font-size: 1.1rem; font-weight: 600; margin: 4px 0 2px; letter-spacing: -.01em; }
+.place .area { color: var(--ink-faint); font-size: .85rem; }
+.place p { margin: 6px 0 0; color: var(--ink-soft); font-size: .9rem; }
+.tagline a { color: var(--accent); text-decoration: none; font-weight: 500; white-space: nowrap; }
+.tagline a:hover { text-decoration: underline; }
+
 /* footer */
 .site-footer { margin-top: 60px; padding: 32px 0 48px; border-top: 1px solid var(--line); color: var(--ink-soft); font-size: .95rem; }
 .site-footer h2 { font-family: var(--font-display); font-size: 1.2rem; margin: 0 0 10px; color: var(--ink); }

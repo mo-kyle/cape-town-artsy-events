@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Artsy Cape Town</title>
-<meta name="description" content="Hands-on creative classes and workshops around Cape Town: pottery, cooking, aromatherapy, candle making, painting, textiles and more, pulled daily from Quicket, Webtickets, Eventbrite and Meetup.">
+<meta name="description" content="Creative things to do around Cape Town: pottery, cooking and craft classes, exhibitions, wine and food tastings, festivals and markets, pulled daily from Quicket, Webtickets, Eventbrite and Meetup.">
 <meta name="color-scheme" content="light dark">
 <meta name="theme-color" content="#f6f1e8" media="(prefers-color-scheme: light)">
 <meta name="theme-color" content="#17161a" media="(prefers-color-scheme: dark)">
@@ -20,7 +20,7 @@
   <div class="wrap header-row">
     <div>
       <h1><span class="mark">🏺</span> Artsy Cape Town</h1>
-      <p class="tagline">Hands-on classes and workshops around the Cape: pottery, cooking, scent, paint, textiles and more. Pulled from several ticketing sites and refreshed daily.</p>
+      <p class="tagline">Creative things to do around the Cape: pottery, cooking and craft classes, exhibitions, wine and food tastings, festivals and markets. Pulled from several ticketing sites and refreshed daily. <a href="#places">Museums &amp; galleries to visit any day ↓</a></p>
       <p class="meta" id="meta">Loading…</p>
     </div>
     <button class="theme-toggle" id="theme" type="button" title="Switch theme" aria-label="Switch theme">◐</button>
@@ -82,6 +82,12 @@
   <p class="summary" id="summary"></p>
   <div id="list" class="list" aria-live="polite"></div>
   <p class="empty" id="empty" hidden>Nothing matches those filters. Try widening the dates, the price band, or clearing a category.</p>
+
+  <section class="places" id="places" aria-labelledby="places-h">
+    <div class="day"><h2 id="places-h">Museums &amp; galleries, any day</h2><span class="rel">Always on</span></div>
+    <p class="places-note" id="places-note"></p>
+    <div class="places-grid" id="places-grid"></div>
+  </section>
 </main>
 
 <footer class="site-footer">

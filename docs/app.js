@@ -30,6 +30,7 @@ const dayStart = (key) => new Date(key + 'T00:00:00+02:00');
 /* ---------- URL state ---------- */
 function readHash() {
   const h = new URLSearchParams(location.hash.slice(1));
+  if (h.has('places')) setTimeout(() => $('#places')?.scrollIntoView({ block: 'start' }), 50);
   state.q = h.get('q') || '';
   state.from = h.get('from') || '';
   state.to = h.get('to') || '';
@@ -370,6 +371,9 @@ function buildControls() {
   });
 
   window.addEventListener('hashchange', () => { readHash(); syncControls(); render(); });
+
+  // The hash carries filter state, so the "museums & galleries" link scrolls instead of navigating.
+  $('.tagline a[href="#places"]').addEventListener('click', (e) => { e.preventDefault(); $('#places').scrollIntoView({ behavior: 'smooth', block: 'start' }); });
 }
 
 function update() { writeHash(); syncControls(); render(); }
@@ -391,8 +395,29 @@ function renderMeta() {
   }
 }
 
+async function loadPlaces() {
+  try {
+    const res = await fetch('data/places.json', { cache: 'no-cache' });
+    if (!res.ok) return;
+    const data = await res.json();
+    $('#places-note').textContent = data.note || '';
+    const grid = $('#places-grid');
+    for (const p of data.places) {
+      const a = document.createElement('a');
+      a.className = 'place'; a.href = p.url; a.target = '_blank'; a.rel = 'noopener';
+      const kind = document.createElement('span'); kind.className = 'kind'; kind.textContent = p.kind;
+      const h = document.createElement('h3'); h.textContent = p.name;
+      const area = document.createElement('span'); area.className = 'area'; area.textContent = p.area;
+      const blurb = document.createElement('p'); blurb.textContent = p.blurb;
+      a.append(kind, h, area, blurb);
+      grid.appendChild(a);
+    }
+  } catch { $('#places').hidden = true; }
+}
+
 async function main() {
   readHash();
+  loadPlaces();
   try {
     const res = await fetch('data/events.json', { cache: 'no-cache' });
     if (!res.ok) throw new Error(`HTTP ${res.status}`);

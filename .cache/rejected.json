@@ -12,6 +12,137 @@
   "url": "https://www.quicket.co.za/events/400398-reptile-full-moon-hike-on-intaka-island/"
  },
  {
+  "title": "The Art of Light",
+  "source": "quicket",
+  "score": 2.5,
+  "reasons": [
+   "exhibitions:desc:norval foundation,installations"
+  ],
+  "url": "https://www.quicket.co.za/events/341767-the-art-of-light/"
+ },
+ {
+  "title": "Gian Groen - One Night Only",
+  "source": "quicket",
+  "score": 2.5,
+  "reasons": [
+   "tastings:desc:vineyards,tasting room,cellar door",
+   "hands-on:desc:experience"
+  ],
+  "url": "https://www.quicket.co.za/events/401856-gian-groen-one-night-only/"
+ },
+ {
+  "title": "I LOVE CY Park Festival 2026",
+  "source": "quicket",
+  "score": 2.5,
+  "reasons": [
+   "festivals:title:festival",
+   "festivals:desc:festival,open air",
+   "hands-on:desc:experience",
+   "hard-negative:desc:concert,live music"
+  ],
+  "url": "https://www.quicket.co.za/events/299744-i-love-cy-park-festival-2026/"
+ },
+ {
+  "title": "Carols by Candlelight",
+  "source": "quicket",
+  "score": 2.5,
+  "reasons": [
+   "tastings:desc:vineyards",
+   "festivals:title:carols by candlelight",
+   "festivals:desc:carols by candlelight,market",
+   "hard-negative:desc:live music,concert"
+  ],
+  "url": "https://www.quicket.co.za/events/400179-carols-by-candlelight/"
+ },
+ {
+  "title": "Cooler Box Music Fest Summer 26",
+  "source": "quicket",
+  "score": 2.5,
+  "reasons": [
+   "festivals:title:fest",
+   "festivals:desc:fest"
+  ],
+  "url": "https://www.quicket.co.za/events/401555-cooler-box-music-fest-summer-26/"
+ },
+ {
+  "title": "Big Christmas Africa at Muratie Wine Estate",
+  "source": "quicket",
+  "score": 2.5,
+  "reasons": [
+   "pottery:desc:clay",
+   "tastings:title:wine estate",
+   "tastings:desc:wine estate",
+   "hands-on:desc:experience",
+   "hard-negative:desc:concert"
+  ],
+  "url": "https://www.quicket.co.za/events/400148-big-christmas-africa-at-muratie-wine-estate/"
+ },
+ {
+  "title": "Watershed LIVE at Lourensford Tasting Room Gardens",
+  "source": "quicket",
+  "score": 2.5,
+  "reasons": [
+   "tastings:title:tasting room",
+   "tastings:desc:wine estate"
+  ],
+  "url": "https://www.quicket.co.za/events/406451-watershed-live-at-lourensford-tasting-room-gardens/"
+ },
+ {
+  "title": "Slow Sunday Market at Central Park",
+  "source": "quicket",
+  "score": 2.5,
+  "reasons": [
+   "festivals:title:market",
+   "festivals:desc:market",
+   "hard-negative:desc:hunting,live music"
+  ],
+  "url": "https://www.quicket.co.za/events/364532-slow-sunday-market-at-central-park/"
+ },
+ {
+  "title": "Come To Your Senses (The Experience)",
+  "source": "meetup",
+  "score": 2.5,
+  "reasons": [
+   "tastings:desc:wine tasting",
+   "hands-on:title:experience"
+  ],
+  "url": "https://www.meetup.com/cape-town-writers-network/events/317314983/"
+ },
+ {
+  "title": "Cape Town Open Nights",
+  "source": "quicket",
+  "score": 2,
+  "reasons": [
+   "exhibitions:desc:heritage site,museum",
+   "hands-on:desc:introduction to"
+  ],
+  "url": "https://www.quicket.co.za/events/405357-cape-town-open-nights/"
+ },
+ {
+  "title": "Rumours of Fleetwood Mac at Asara Wine Estate, Stellenbosch",
+  "source": "quicket",
+  "score": 2,
+  "reasons": [
+   "tastings:title:wine estate",
+   "tastings:desc:wine estate",
+   "hands-on:desc:experience,class",
+   "hard-negative:desc:sold out,concert"
+  ],
+  "url": "https://www.quicket.co.za/events/388495-rumours-of-fleetwood-mac-at-asara-wine-estate-stellenbosch/"
+ },
+ {
+  "title": "The Winelands Blues Festival 2026 at Daisy Jones, Stellenbosch",
+  "source": "quicket",
+  "score": 2,
+  "reasons": [
+   "festivals:title:festival",
+   "festivals:desc:festival",
+   "hands-on:desc:class",
+   "hard-negative:desc:live music,sold out"
+  ],
+  "url": "https://www.quicket.co.za/events/404288-the-winelands-blues-festival-2026-at-daisy-jones-stellenbosch/"
+ },
+ {
   "title": "Stronger Together for Strays- Kittens",
   "source": "quicket",
   "score": 2,
@@ -21,16 +152,15 @@
   "url": "https://www.quicket.co.za/events/403321-stronger-together-for-strays-kittens/"
  },
  {
-  "title": "Meerendal Full Moon Hike 21 November 2026",
+  "title": "Kommetjie Festival",
   "source": "quicket",
   "score": 2,
   "reasons": [
-   "wellness:title:full moon",
-   "wellness:desc:full moon",
-   "hands-on:desc:experience",
-   "soft-negative:title:hike"
+   "festivals:title:festival",
+   "festivals:desc:festival,market",
+   "hard-negative:desc:live music"
   ],
-  "url": "https://www.quicket.co.za/events/400809-meerendal-full-moon-hike-21-november-2026/"
+  "url": "https://www.quicket.co.za/events/347484-kommetjie-festival/"
  },
  {
   "title": "SWEET DREAMS",
@@ -40,6 +170,128 @@
    "cooking:desc:cupcakes"
   ],
   "url": "https://www.quicket.co.za/events/404464-sweet-dreams/"
+ },
+ {
+  "title": "ISIVIVANA CENTRE",
+  "source": "quicket",
+  "score": 2,
+  "reasons": [
+   "exhibitions:desc:museum",
+   "festivals:desc:festival"
+  ],
+  "url": "https://www.quicket.co.za/events/407289-isivivana-centre/"
+ },
+ {
+  "title": "THE ANNUAL SUMMER FEST",
+  "source": "quicket",
+  "score": 2,
+  "reasons": [
+   "festivals:title:fest",
+   "festivals:desc:fest",
+   "hands-on:desc:experience",
+   "hard-negative:desc:football"
+  ],
+  "url": "https://www.quicket.co.za/events/402046-the-annual-summer-fest/"
+ },
+ {
+  "title": "Alta Du Toit Family Night | Open Air Cinema featuring Disney's Toy Story 5",
+  "source": "quicket",
+  "score": 2,
+  "reasons": [
+   "festivals:title:open air",
+   "hands-on:desc:experience"
+  ],
+  "url": "https://www.quicket.co.za/events/401225-alta-du-toit-family-night-open-air-cinema-featuring-disneys-toy-story-5/"
+ },
+ {
+  "title": "CentralBlue Festive Market",
+  "source": "quicket",
+  "score": 2,
+  "reasons": [
+   "festivals:title:festive market",
+   "festivals:desc:festive market",
+   "soft-negative:title:festive"
+  ],
+  "url": "https://www.quicket.co.za/events/405907-centralblue-festive-market/"
+ },
+ {
+  "title": "Arno Carstens & Albert Frost LIVE at Lourensford",
+  "source": "quicket",
+  "score": 2,
+  "reasons": [
+   "tastings:desc:wine estate",
+   "hands-on:desc:experience"
+  ],
+  "url": "https://www.quicket.co.za/events/406614-arno-carstens-albert-frost-live-at-lourensford/"
+ },
+ {
+  "title": "Arno Carstens - African Sunrise - Hermanus",
+  "source": "quicket",
+  "score": 2,
+  "reasons": [
+   "exhibitions:desc:fine art,exhibition,gallery"
+  ],
+  "url": "https://www.quicket.co.za/events/407250-arno-carstens-african-sunrise-hermanus/"
+ },
+ {
+  "title": "New Year's Eve",
+  "source": "quicket",
+  "score": 2,
+  "reasons": [
+   "tastings:desc:bubbly"
+  ],
+  "url": "https://www.quicket.co.za/events/406507-new-years-eve/"
+ },
+ {
+  "title": "Cape Town International Jazz Festival 2027",
+  "source": "quicket",
+  "score": 2,
+  "reasons": [
+   "festivals:title:jazz festival",
+   "festivals:desc:jazz festival,festival",
+   "hard-negative:desc:orchestra"
+  ],
+  "url": "https://www.quicket.co.za/events/404754-cape-town-international-jazz-festival-2027/"
+ },
+ {
+  "title": "Our House: Ballroom Culture & Education",
+  "source": "quicket",
+  "score": 2,
+  "reasons": [
+   "tastings:desc:vineyard",
+   "hands-on:desc:classes,class,beginner"
+  ],
+  "url": "https://www.quicket.co.za/events/357011-our-house-ballroom-culture-education/"
+ },
+ {
+  "title": "Insurrections Ensemble Performance - Defiant Currents",
+  "source": "quicket",
+  "score": 1.5,
+  "reasons": [
+   "festivals:desc:festival"
+  ],
+  "url": "https://www.quicket.co.za/events/405298-insurrections-ensemble-performance-defiant-currents/"
+ },
+ {
+  "title": "St George's Unplugged - First Thursdays",
+  "source": "quicket",
+  "score": 1.5,
+  "reasons": [
+   "exhibitions:title:first thursdays",
+   "exhibitions:desc:first thursday",
+   "hands-on:desc:hands on,experience",
+   "hard-negative:desc:concerts,philharmonic,concert"
+  ],
+  "url": "https://www.quicket.co.za/events/397530-st-georges-unplugged-first-thursdays/"
+ },
+ {
+  "title": "Outdoor Cinema | Goodman Gallery Cape Town",
+  "source": "eventbrite",
+  "score": 1.5,
+  "reasons": [
+   "exhibitions:title:gallery"
+  ],
+  "url": "https://www.eventbrite.com/e/outdoor-cinema-goodman-gallery-cape-town-tickets-2003706364675"
  },
  {
   "title": "Road to Mecca: Guitar Sound Journey · A fundraiser for The Seed, an Afrikaburn art project",
@@ -76,6 +328,61 @@
   "url": "https://www.quicket.co.za/events/397818-bound-balanced/"
  },
  {
+  "title": "Collective Wine Day",
+  "source": "quicket",
+  "score": 1,
+  "reasons": [
+   "tastings:desc:wine tasting"
+  ],
+  "url": "https://www.quicket.co.za/events/330363-collective-wine-day/"
+ },
+ {
+  "title": "Sunset to Full Moon Hike @ Muratie Nov'26",
+  "source": "quicket",
+  "score": 1,
+  "reasons": [
+   "wellness:title:full moon",
+   "wellness:desc:full moon",
+   "tastings:desc:wine estate",
+   "hands-on:desc:experience,course",
+   "soft-negative:title:sunset,hike"
+  ],
+  "url": "https://www.quicket.co.za/events/405282-sunset-to-full-moon-hike-muratie-nov26/"
+ },
+ {
+  "title": "Pilates & Praise",
+  "source": "quicket",
+  "score": 1,
+  "reasons": [
+   "tastings:desc:wine farm",
+   "hands-on:desc:session",
+   "hard-negative:desc:worship"
+  ],
+  "url": "https://www.quicket.co.za/events/395244-pilates-praise/"
+ },
+ {
+  "title": "VOL. Zine Launch",
+  "source": "quicket",
+  "score": 1,
+  "reasons": [
+   "paper:title:zine",
+   "paper:desc:zine",
+   "soft-negative:title:launch"
+  ],
+  "url": "https://www.quicket.co.za/events/404574-vol-zine-launch/"
+ },
+ {
+  "title": "South African Independent Film Festival (SAIFF)",
+  "source": "quicket",
+  "score": 1,
+  "reasons": [
+   "festivals:title:film festival",
+   "festivals:desc:film festival,festival",
+   "soft-negative:title:film"
+  ],
+  "url": "https://www.quicket.co.za/events/406619-south-african-independent-film-festival-saiff/"
+ },
+ {
   "title": "Formulate your own cleansing balm",
   "source": "quicket",
   "score": 1,
@@ -85,6 +392,69 @@
    "hard-negative:desc:makeup"
   ],
   "url": "https://www.quicket.co.za/events/404940-formulate-your-own-cleansing-balm/"
+ },
+ {
+  "title": "Kpop Mart 2026",
+  "source": "quicket",
+  "score": 1,
+  "reasons": [
+   "festivals:desc:market",
+   "hands-on:desc:session"
+  ],
+  "url": "https://www.quicket.co.za/events/406440-kpop-mart-2026/"
+ },
+ {
+  "title": "Ubuhle Bemvelo",
+  "source": "quicket",
+  "score": 1,
+  "reasons": [
+   "exhibitions:desc:art exhibition",
+   "hands-on:desc:experience"
+  ],
+  "url": "https://www.quicket.co.za/events/407418-ubuhle-bemvelo/"
+ },
+ {
+  "title": "Spinäl Fëst 2026",
+  "source": "quicket",
+  "score": 1,
+  "reasons": [
+   "tastings:desc:craft beer",
+   "festivals:desc:fest,festival",
+   "hands-on:desc:sessions",
+   "hard-negative:desc:live music"
+  ],
+  "url": "https://www.quicket.co.za/events/400952-spinl-fst-2026/"
+ },
+ {
+  "title": "The Soulful Reunion Festive Festival",
+  "source": "quicket",
+  "score": 1,
+  "reasons": [
+   "festivals:title:festival",
+   "hands-on:desc:experience",
+   "soft-negative:title:festive"
+  ],
+  "url": "https://www.quicket.co.za/events/369384-the-soulful-reunion-festive-festival/"
+ },
+ {
+  "title": "DREAMING OUT LOUD FESTIVAL 2026 Ft NEON DREAMS & BYRNE live at THE LOFT",
+  "source": "quicket",
+  "score": 1,
+  "reasons": [
+   "festivals:title:festival",
+   "festivals:desc:festival",
+   "hard-negative:desc:live music"
+  ],
+  "url": "https://www.quicket.co.za/events/402472-dreaming-out-loud-festival-2026-ft-neon-dreams-byrne-live-at-the-loft/"
+ },
+ {
+  "title": "Cape Town: Mother City Heritage Audio Walking Tour",
+  "source": "eventbrite",
+  "score": 1,
+  "reasons": [
+   "festivals:desc:markets"
+  ],
+  "url": "https://www.eventbrite.com/e/cape-town-mother-city-heritage-audio-walking-tour-tickets-1981447339331"
  },
  {
   "title": "🌿Create & Connect Social @ Upper Liesbeek River Garden, Newlands",
@@ -119,13 +489,34 @@
   "url": "https://www.quicket.co.za/events/403176-immersion-series-7-minutes-of-bliss-secret-sunrise-cape-town/"
  },
  {
-  "title": "Cape Town Open Nights",
+  "title": "Success Strategies with gsr law, Currencies Direct and ooba Homeloans",
   "source": "quicket",
-  "score": 0,
+  "score": 0.5,
   "reasons": [
-   "no-category"
+   "festivals:desc:market",
+   "hands-on:desc:session"
   ],
-  "url": "https://www.quicket.co.za/events/405357-cape-town-open-nights/"
+  "url": "https://www.quicket.co.za/events/382741-success-strategies-with-gsr-law-currencies-direct-and-ooba-homeloans/"
+ },
+ {
+  "title": "Mojo Jazzy Tuesdays",
+  "source": "quicket",
+  "score": 0.5,
+  "reasons": [
+   "festivals:desc:market",
+   "hands-on:desc:experience"
+  ],
+  "url": "https://www.quicket.co.za/events/310307-mojo-jazzy-tuesdays/"
+ },
+ {
+  "title": "Mojo Salsa Sundays",
+  "source": "quicket",
+  "score": 0.5,
+  "reasons": [
+   "festivals:desc:market",
+   "hands-on:desc:beginner"
+  ],
+  "url": "https://www.quicket.co.za/events/317459-mojo-salsa-sundays/"
  },
  {
   "title": "Building HER Showcase - 19 November 156 Kloof street (copy)",
@@ -135,24 +526,6 @@
    "no-category"
   ],
   "url": "https://www.quicket.co.za/events/406120-building-her-showcase-19-november-156-kloof-street-copy/"
- },
- {
-  "title": "Winemaker's Evening - Tempel Wines",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/405265-winemakers-evening-tempel-wines/"
- },
- {
-  "title": "Winemaker's Evening - Elgin Vintners",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/405270-winemakers-evening-elgin-vintners/"
  },
  {
   "title": "Barry Hilton 'Unplugged' LIVE in Cape Town at The Capital 15 on Orange, Cape Town 29 November 2026",
@@ -263,33 +636,6 @@
   "url": "https://www.quicket.co.za/events/406139-waiting-for-smith-live-at-the-imaginarium/"
  },
  {
-  "title": "Glass Effect | Masterclass by Riedel",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/402368-glass-effect-masterclass-by-riedel/"
- },
- {
-  "title": "Woodstock Wine Festival",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/401312-woodstock-wine-festival/"
- },
- {
-  "title": "Flight of Lights | Masterclass by CTWC",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/402373-flight-of-lights-masterclass-by-ctwc/"
- },
- {
   "title": "Silent Disco Blouberg beach",
   "source": "quicket",
   "score": 0,
@@ -326,15 +672,6 @@
   "url": "https://www.quicket.co.za/events/405862-a-duchess-brunch/"
  },
  {
-  "title": "Wine & Pleasure Toys Pairing | Black Friday Event",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/398093-wine-pleasure-toys-pairing-black-friday-event/"
- },
- {
   "title": "Healing Hike - Orange Kloof",
   "source": "quicket",
   "score": 0,
@@ -351,15 +688,6 @@
    "no-category"
   ],
   "url": "https://www.quicket.co.za/events/342747-universal-frequencies-2026/"
- },
- {
-  "title": "AJABU Cocktail & Spirits Festival November 2026",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/377634-ajabu-cocktail-spirits-festival-november-2026/"
  },
  {
   "title": "Black to The Future Ball",
@@ -470,6 +798,15 @@
   "url": "https://www.quicket.co.za/events/388348-amy-winehouse-the-diva-and-her-demons/"
  },
  {
+  "title": "Celebrating Christ in Alignment Christmas Carols",
+  "source": "quicket",
+  "score": 0,
+  "reasons": [
+   "no-category"
+  ],
+  "url": "https://www.quicket.co.za/events/377766-celebrating-christ-in-alignment-christmas-carols/"
+ },
+ {
   "title": "Rumours of Fleetwood Mac",
   "source": "quicket",
   "score": 0,
@@ -578,15 +915,6 @@
   "url": "https://www.quicket.co.za/events/381431-the-family-band-presents-jingle-bell-rock/"
  },
  {
-  "title": "SPOILT KNYSNA GIFT FAIR 2026",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/375254-spoilt-knysna-gift-fair-2026/"
- },
- {
   "title": "Evita@91 - 28 November 2026",
   "source": "quicket",
   "score": 0,
@@ -618,7 +946,9 @@
   "source": "quicket",
   "score": 0,
   "reasons": [
-   "no-category"
+   "festivals:title:film festival",
+   "festivals:desc:film festival",
+   "soft-negative:title:film"
   ],
   "url": "https://www.quicket.co.za/events/375641-come-back-africa-1959-the-big-sound-film-festival/"
  },
@@ -693,15 +1023,6 @@
    "no-category"
   ],
   "url": "https://www.quicket.co.za/events/382675-gls-2026-george-business/"
- },
- {
-  "title": "Olive Oil Tasting",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/406539-olive-oil-tasting/"
  },
  {
   "title": "Met die Maan Gepla",
@@ -902,24 +1223,6 @@
   "url": "https://www.quicket.co.za/events/389069-mismo-show-and-graduation-ceremony/"
  },
  {
-  "title": "Praise + Padel",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/400367-praise-padel/"
- },
- {
-  "title": "Friday Night Market at Boschendal",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/397748-friday-night-market-at-boschendal/"
- },
- {
   "title": "Riaan Benade live by Kapstadt Brauhaus Durbanville",
   "source": "quicket",
   "score": 0,
@@ -1100,6 +1403,15 @@
   "url": "https://www.quicket.co.za/events/405115-business-academy-14-november/"
  },
  {
+  "title": "Brandy Recognition - A Heritage Walking Tour Through Constantia",
+  "source": "quicket",
+  "score": 0,
+  "reasons": [
+   "no-category"
+  ],
+  "url": "https://www.quicket.co.za/events/389798-brandy-recognition-a-heritage-walking-tour-through-constantia/"
+ },
+ {
   "title": "Move. Sweat. Connect. Refresh.",
   "source": "quicket",
   "score": 0,
@@ -1163,15 +1475,6 @@
   "url": "https://www.quicket.co.za/events/400568-bosjes-jelena-picking/"
  },
  {
-  "title": "THE GWEN EVENT | Luka Vineyards",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/399367-the-gwen-event-luka-vineyards/"
- },
- {
   "title": "Beginner Heels with Sisipho",
   "source": "quicket",
   "score": 0,
@@ -1224,6 +1527,15 @@
    "no-category"
   ],
   "url": "https://www.quicket.co.za/events/401289-tastes-of-our-valleys/"
+ },
+ {
+  "title": "Mills & Ruins - A Heritage Walking Tour Through Oranjezicht",
+  "source": "quicket",
+  "score": 0,
+  "reasons": [
+   "no-category"
+  ],
+  "url": "https://www.quicket.co.za/events/389806-mills-ruins-a-heritage-walking-tour-through-oranjezicht/"
  },
  {
   "title": "ARC X Coach Cherry Masterclass_ARC V&A Waterfront",
@@ -1316,24 +1628,6 @@
   "url": "https://www.quicket.co.za/events/400969-the-nutcracker/"
  },
  {
-  "title": "AJABU TASTING TABLES 14 NOVEMBER",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/380107-ajabu-tasting-tables-14-november/"
- },
- {
-  "title": "Sedgefield Sunset Family Festive Fun",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/405544-sedgefield-sunset-family-festive-fun/"
- },
- {
   "title": "A Taste of Field Blends",
   "source": "quicket",
   "score": 0,
@@ -1377,15 +1671,6 @@
    "no-category"
   ],
   "url": "https://www.quicket.co.za/events/399023-moonlight-story-club-hidden-talents/"
- },
- {
-  "title": "Alice in Wonderland cocktail & food pairing event",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/394458-alice-in-wonderland-cocktail-food-pairing-event/"
  },
  {
   "title": "Bring Your Pet to Movie Night presents Secret Life of Pets @ Blue Shed, Mossel Bay",
@@ -1451,15 +1736,6 @@
   "url": "https://www.quicket.co.za/events/400619-simon-van-gend/"
  },
  {
-  "title": "Rumours of Fleetwood Mac at Asara Wine Estate, Stellenbosch",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/388495-rumours-of-fleetwood-mac-at-asara-wine-estate-stellenbosch/"
- },
- {
   "title": "BAR CHOIR",
   "source": "quicket",
   "score": 0,
@@ -1487,15 +1763,6 @@
   "url": "https://www.quicket.co.za/events/388354-la-bosca-sokkie-country-dance-2/"
  },
  {
-  "title": "The Winelands Blues Festival 2026 at Daisy Jones, Stellenbosch",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/404288-the-winelands-blues-festival-2026-at-daisy-jones-stellenbosch/"
- },
- {
   "title": "Karel Bester & die Kraaines Band, The Unpopular Department, The Unknown, 3OH5: LIVE at Aandklas Stellenbosch",
   "source": "quicket",
   "score": 0,
@@ -1509,7 +1776,7 @@
   "source": "quicket",
   "score": 0,
   "reasons": [
-   "no-category"
+   "festivals:desc:market"
   ],
   "url": "https://www.quicket.co.za/events/406646-mojo-reggae-all-day/"
  },
@@ -1694,15 +1961,6 @@
   "url": "https://www.quicket.co.za/events/388648-tannie-evita-praat-kaktus-15-november-2026/"
  },
  {
-  "title": "Hugo Heritage Tennis Tournament Sunday 15 November 2026",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/395446-hugo-heritage-tennis-tournament-sunday-15-november-2026/"
- },
- {
   "title": "Umkhosi Wenala",
   "source": "quicket",
   "score": 0,
@@ -1737,15 +1995,6 @@
    "no-category"
   ],
   "url": "https://www.quicket.co.za/events/400931-the-staccatos-65-years-of-music-live-at-the-daisy-jones/"
- },
- {
-  "title": "Fire & Vine: A Taste of South Africa",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/400368-fire-vine-a-taste-of-south-africa/"
  },
  {
   "title": "Earth and Eternity",
@@ -1802,15 +2051,6 @@
   "url": "https://www.quicket.co.za/events/407317-a-night-of-laughs-with-alan-committie-nov-15/"
  },
  {
-  "title": "Insurrections Ensemble Performance - Defiant Currents",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/405298-insurrections-ensemble-performance-defiant-currents/"
- },
- {
   "title": "Rainer Jadischke’s “The Elton John Tribute” featuring Celest Dreyer",
   "source": "quicket",
   "score": 0,
@@ -1842,7 +2082,9 @@
   "source": "quicket",
   "score": 0,
   "reasons": [
-   "no-category"
+   "festivals:title:film festival",
+   "festivals:desc:film festival",
+   "soft-negative:title:film"
   ],
   "url": "https://www.quicket.co.za/events/401449-a-brother-with-perfect-timing-1987-the-big-sound-film-festival/"
  },
@@ -1872,15 +2114,6 @@
    "no-category"
   ],
   "url": "https://www.quicket.co.za/events/401308-launch-western-cape-fiscal-flows-study/"
- },
- {
-  "title": "Suits & Sneakers presents: \"The Oranjezicht Market Story\" with Sheryl Ozinsky (Cape Town edition)",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/406486-suits-sneakers-presents-the-oranjezicht-market-story-with-sheryl-ozinsky-cape-t/"
  },
  {
   "title": "A Cut Above the Rest",
@@ -2009,15 +2242,6 @@
   "url": "https://www.quicket.co.za/events/391902-launching-a-new-chapter-for-social-purpose-and-faith-based-properties-in-africa/"
  },
  {
-  "title": "Collective Wine Day",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/330363-collective-wine-day/"
- },
- {
   "title": "Book Launch - The Architecture of Survival by Mushfiqoh Samodien",
   "source": "quicket",
   "score": 0,
@@ -2043,24 +2267,6 @@
    "no-category"
   ],
   "url": "https://www.quicket.co.za/events/383294-clearing-birth-trauma-and-infancy-issues-dan-brul-breathweek-2026/"
- },
- {
-  "title": "Taste of London: a guided coffee tasting with Filter & Fyn",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/406264-taste-of-london-a-guided-coffee-tasting-with-filter-fyn/"
- },
- {
-  "title": "POP. FIZZ. BUBBLES.",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/401374-pop-fizz-bubbles/"
  },
  {
   "title": "Rhenish Primary Pre-Primary The Toy Box",
@@ -2097,15 +2303,6 @@
    "no-category"
   ],
   "url": "https://www.quicket.co.za/events/407372-poetry-at-duchess-lounge/"
- },
- {
-  "title": "Wine Tasting: Bonsoir, Beaujolais",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/405526-wine-tasting-bonsoir-beaujolais/"
  },
  {
   "title": "EQ4Kids Stellenbosch Bekendstelling met Lynette Beer",
@@ -2297,15 +2494,6 @@
   "url": "https://www.quicket.co.za/events/401978-vrou-ens-12-in-oranjezicht/"
  },
  {
-  "title": "Friday Night Market at Boschendal",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/399249-friday-night-market-at-boschendal/"
- },
- {
   "title": "Eloff live by Kapstadt Brauhaus Durbanville",
   "source": "quicket",
   "score": 0,
@@ -2441,6 +2629,24 @@
   "url": "https://www.quicket.co.za/events/407143-the-next-chapter-puppy-yoga-event/"
  },
  {
+  "title": "Open Day",
+  "source": "quicket",
+  "score": 0,
+  "reasons": [
+   "no-category"
+  ],
+  "url": "https://www.quicket.co.za/events/404821-open-day/"
+ },
+ {
+  "title": "Thoroughly Modern Muizenberg! Art Deco walking tour",
+  "source": "quicket",
+  "score": 0,
+  "reasons": [
+   "no-category"
+  ],
+  "url": "https://www.quicket.co.za/events/404331-thoroughly-modern-muizenberg-art-deco-walking-tour/"
+ },
+ {
   "title": "Wealth & Healthspan",
   "source": "quicket",
   "score": 0,
@@ -2459,6 +2665,15 @@
   "url": "https://www.quicket.co.za/events/360371-ctl-queer-book-club-21-november-2026/"
  },
  {
+  "title": "Academy of Digital Arts - Open Day 21 November 2026",
+  "source": "quicket",
+  "score": 0,
+  "reasons": [
+   "no-category"
+  ],
+  "url": "https://www.quicket.co.za/events/407599-academy-of-digital-arts-open-day-21-november-2026/"
+ },
+ {
   "title": "Hormone Harmony",
   "source": "quicket",
   "score": 0,
@@ -2466,15 +2681,6 @@
    "no-category"
   ],
   "url": "https://www.quicket.co.za/events/404528-hormone-harmony/"
- },
- {
-  "title": "The Swirl Society",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/404394-the-swirl-society/"
  },
  {
   "title": "GBVF Awareness & Personal Safety",
@@ -2747,15 +2953,6 @@
   "url": "https://www.quicket.co.za/events/404003-radiate/"
  },
  {
-  "title": "Kommetjie Festival",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/347484-kommetjie-festival/"
- },
- {
   "title": "KomVibe '26",
   "source": "quicket",
   "score": 0,
@@ -2799,15 +2996,6 @@
    "no-category"
   ],
   "url": "https://www.quicket.co.za/events/405858-frequency/"
- },
- {
-  "title": "Lustboyz All in Festival 2026",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/398796-lustboyz-all-in-festival-2026/"
  },
  {
   "title": "Space Cowboys - Apolune",
@@ -2900,15 +3088,6 @@
   "url": "https://www.quicket.co.za/events/400798-the-cage/"
  },
  {
-  "title": "A Wine Club Gathering with Cathy",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/394618-a-wine-club-gathering-with-cathy/"
- },
- {
   "title": "Remembering Softness",
   "source": "quicket",
   "score": 0,
@@ -2963,18 +3142,6 @@
   "url": "https://www.quicket.co.za/events/407190-the-princess-bride-film-screening-board-games-medieval-fun-and-nostalgia-experi/"
  },
  {
-  "title": "Sunset to Full Moon Hike @ Muratie Nov'26",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "wellness:title:full moon",
-   "wellness:desc:full moon",
-   "hands-on:desc:experience,course",
-   "soft-negative:title:sunset,hike"
-  ],
-  "url": "https://www.quicket.co.za/events/405282-sunset-to-full-moon-hike-muratie-nov26/"
- },
- {
   "title": "ALMA NAIDU live at THE LOFT",
   "source": "quicket",
   "score": 0,
@@ -2997,7 +3164,9 @@
   "source": "quicket",
   "score": 0,
   "reasons": [
-   "no-category"
+   "festivals:title:film festival",
+   "festivals:desc:film festival",
+   "soft-negative:title:film"
   ],
   "url": "https://www.quicket.co.za/events/401451-exiled-indaba-is-all-the-people-2018-2021-the-big-sound-film-festival/"
  },
@@ -3110,15 +3279,6 @@
   "url": "https://www.quicket.co.za/events/404339-queens-lounge-presents-giuliette-price/"
  },
  {
-  "title": "Dusty Night Market",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/406290-dusty-night-market/"
- },
- {
   "title": "BEYOND THE 4TH WALL - GRADUTION SHOW",
   "source": "quicket",
   "score": 0,
@@ -3126,15 +3286,6 @@
    "no-category"
   ],
   "url": "https://www.quicket.co.za/events/404091-beyond-the-4th-wall-gradution-show/"
- },
- {
-  "title": "Success Strategies with gsr law, Currencies Direct and ooba Homeloans",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/382741-success-strategies-with-gsr-law-currencies-direct-and-ooba-homeloans/"
  },
  {
   "title": "Surviving The Holidays with Neurodivergent Children",
@@ -3162,15 +3313,6 @@
    "no-category"
   ],
   "url": "https://www.quicket.co.za/events/406772-pomegranate-social-salon-aesthetics-in-summer/"
- },
- {
-  "title": "Bread & Wine | David Brave Solo Exhibition",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/405828-bread-wine-david-brave-solo-exhibition/"
  },
  {
   "title": "Classy Gal",
@@ -3281,15 +3423,6 @@
   "url": "https://www.quicket.co.za/events/400294-nova-nights-presents-tony-browne-live-on-the-lawns/"
  },
  {
-  "title": "Friday Night Market at Boschendal",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/399795-friday-night-market-at-boschendal/"
- },
- {
   "title": "Albert Frost Live at The Theatre Dining Room, Brass Bell",
   "source": "quicket",
   "score": 0,
@@ -3326,20 +3459,12 @@
   "url": "https://www.quicket.co.za/events/389346-rumours-of-fleetwood-mac/"
  },
  {
-  "title": "SUNSET WALK - CHASE THE SUN!",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/406200-sunset-walk-chase-the-sun/"
- },
- {
   "title": "The Muse Room",
   "source": "quicket",
   "score": 0,
   "reasons": [
-   "no-category"
+   "festivals:desc:pop up",
+   "hard-negative:desc:networking"
   ],
   "url": "https://www.quicket.co.za/events/404154-the-muse-room/"
  },
@@ -3348,7 +3473,10 @@
   "source": "quicket",
   "score": 0,
   "reasons": [
-   "no-category"
+   "tastings:desc:craft beer",
+   "festivals:desc:carnival",
+   "hands-on:desc:experience",
+   "hard-negative:desc:concert"
   ],
   "url": "https://www.quicket.co.za/events/402484-crimson-house-live-at-triggerfish-brewing-2026/"
  },
@@ -3461,15 +3589,6 @@
   "url": "https://www.quicket.co.za/events/403200-hermanus-summer-opener-secret-sunrise-cape-town/"
  },
  {
-  "title": "Pilates & Praise",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/395244-pilates-praise/"
- },
- {
   "title": "Walk for Safer Beginnings",
   "source": "quicket",
   "score": 0,
@@ -3528,7 +3647,7 @@
   "source": "quicket",
   "score": 0,
   "reasons": [
-   "no-category"
+   "exhibitions:desc:solo show"
   ],
   "url": "https://www.quicket.co.za/events/342242-joshua-na-die-ren-by-stellenbosch-basaar/"
  },
@@ -3585,15 +3704,6 @@
    "no-category"
   ],
   "url": "https://www.quicket.co.za/events/400705-defendher/"
- },
- {
-  "title": "WINE WALK",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/380263-wine-walk/"
  },
  {
   "title": "CPT Dance Take Over",
@@ -3668,6 +3778,15 @@
   "url": "https://www.quicket.co.za/events/404530-the-queen-of-crime-an-illustrated-talk-on-how-agatha-christie-conquered-muizenb/"
  },
  {
+  "title": "VWS Open Day 2026",
+  "source": "quicket",
+  "score": 0,
+  "reasons": [
+   "no-category"
+  ],
+  "url": "https://www.quicket.co.za/events/398575-vws-open-day-2026/"
+ },
+ {
   "title": "First Frost - Our bakery launch party",
   "source": "quicket",
   "score": 0,
@@ -3684,33 +3803,6 @@
    "no-category"
   ],
   "url": "https://www.quicket.co.za/events/359118-home-barista-crash-course-a-show-and-tell-introduction-to-espresso/"
- },
- {
-  "title": "ISIVIVANA CENTRE",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/407289-isivivana-centre/"
- },
- {
-  "title": "Peo Nobugcisa Market",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/406767-peo-nobugcisa-market/"
- },
- {
-  "title": "Vines & Finds Market",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/405936-vines-finds-market/"
  },
  {
   "title": "Yoga Lab - Breath, Bindhu and Prana Awareness",
@@ -3731,15 +3823,6 @@
   "url": "https://www.quicket.co.za/events/404448-textured-art-wall-decor/"
  },
  {
-  "title": "2026 Artisanal Beer Festival",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/401907-2026-artisanal-beer-festival/"
- },
- {
   "title": "3D ELITE ONE DAY COURSE CAPE TOWN",
   "source": "quicket",
   "score": 0,
@@ -3747,15 +3830,6 @@
    "no-category"
   ],
   "url": "https://www.quicket.co.za/events/401493-3d-elite-one-day-course-cape-town/"
- },
- {
-  "title": "Rosoberry Harvest Fest 2026",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/395886-rosoberry-harvest-fest-2026/"
  },
  {
   "title": "Madison le Roux: Piano Recital",
@@ -3803,15 +3877,6 @@
   "url": "https://www.quicket.co.za/events/399868-a-poetry-tea-party/"
  },
  {
-  "title": "Art Exhibition at Hoogekraal Farm",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/398543-art-exhibition-at-hoogekraal-farm/"
- },
- {
   "title": "CAPE TOWN RESORT COLLECTIONS",
   "source": "quicket",
   "score": 0,
@@ -3837,15 +3902,6 @@
    "no-category"
   ],
   "url": "https://www.quicket.co.za/events/406733-the-stanford-stumble/"
- },
- {
-  "title": "Grenache Collective",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/398661-grenache-collective/"
  },
  {
   "title": "Through the eyes of a mixed media artist",
@@ -4050,7 +4106,8 @@
   "source": "quicket",
   "score": 0,
   "reasons": [
-   "no-category"
+   "exhibitions:desc:solo show",
+   "hard-negative:desc:comedy,stand up"
   ],
   "url": "https://www.quicket.co.za/events/401628-dillan-oliphant-live-in-cape-town-at-protea-hotel-fire-ice-28-november-2026/"
  },
@@ -4172,15 +4229,6 @@
   "url": "https://www.quicket.co.za/events/403768-tapes-at-the-commons/"
  },
  {
-  "title": "ArtsAbility Festival",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/399937-artsability-festival/"
- },
- {
   "title": "BLACK CAT BONES & ALBERT FROST LIVE AT DAISY JONES",
   "source": "quicket",
   "score": 0,
@@ -4215,17 +4263,6 @@
    "no-category"
   ],
   "url": "https://www.quicket.co.za/events/406864-house-pour-edition-004/"
- },
- {
-  "title": "VOL. Zine Launch",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "paper:title:zine",
-   "paper:desc:zine",
-   "soft-negative:title:launch"
-  ],
-  "url": "https://www.quicket.co.za/events/404574-vol-zine-launch/"
  },
  {
   "title": "CHUNKY 2026 - SouthernTip Psychedelic",
@@ -4273,24 +4310,6 @@
   "url": "https://www.quicket.co.za/events/403708-bloodbeats-and-goths/"
  },
  {
-  "title": "Streetopia at Trenchtown 2026",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/402838-streetopia-at-trenchtown-2026/"
- },
- {
-  "title": "THE ANNUAL SUMMER FEST",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/402046-the-annual-summer-fest/"
- },
- {
   "title": "Prime: 2026 Is The New 2016 - Club Paradise - 28 November 2026",
   "source": "quicket",
   "score": 0,
@@ -4304,7 +4323,9 @@
   "source": "quicket",
   "score": 0,
   "reasons": [
-   "no-category"
+   "festivals:desc:fest,festival",
+   "hands-on:desc:workshop,session",
+   "hard-negative:desc:sold out"
   ],
   "url": "https://www.quicket.co.za/events/395251-lovers-and-friends-cape-town/"
  },
@@ -4352,15 +4373,6 @@
    "no-category"
   ],
   "url": "https://www.quicket.co.za/events/402255-harvest/"
- },
- {
-  "title": "Spring Grooves Festival",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/403253-spring-grooves-festival/"
  },
  {
   "title": "Christmas Minis",
@@ -4489,15 +4501,6 @@
   "url": "https://www.quicket.co.za/events/407666-teagan-live-at-brass-bell/"
  },
  {
-  "title": "MATILDA: The Musical JR",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/406716-matilda-the-musical-jr/"
- },
- {
   "title": "FREEBIRD - A SOUTHERN ROCK TRIBUTE",
   "source": "quicket",
   "score": 0,
@@ -4543,15 +4546,6 @@
   "url": "https://www.quicket.co.za/events/400658-italian-soire/"
  },
  {
-  "title": "South African Independent Film Festival (SAIFF)",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/406619-south-african-independent-film-festival-saiff/"
- },
- {
   "title": "Baked Shakespeare at The Outlore Base: Romeo and Juliet",
   "source": "quicket",
   "score": 0,
@@ -4577,33 +4571,6 @@
    "no-category"
   ],
   "url": "https://www.quicket.co.za/events/404733-so-rnb-199x/"
- },
- {
-  "title": "Ghost Motorfest",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/399216-ghost-motorfest/"
- },
- {
-  "title": "Amorato Summer Wine Tasting",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/396298-amorato-summer-wine-tasting/"
- },
- {
-  "title": "The Art of Light",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/341767-the-art-of-light/"
  },
  {
   "title": "Get together experience and homeboys present unplugged Sunday",
@@ -4646,7 +4613,9 @@
   "source": "quicket",
   "score": 0,
   "reasons": [
-   "no-category"
+   "festivals:title:film festival",
+   "festivals:desc:film festival",
+   "soft-negative:title:film"
   ],
   "url": "https://www.quicket.co.za/events/401453-dillemma-1962-the-big-sound-film-festival-2026/"
  },
@@ -4732,15 +4701,6 @@
   "url": "https://www.quicket.co.za/events/405890-die-hele-fkkn-dorp-is-mal/"
  },
  {
-  "title": "Get On Co. Band Night",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/405352-get-on-co-band-night/"
- },
- {
   "title": "DAF Fashion Show 2026",
   "source": "quicket",
   "score": 0,
@@ -4804,13 +4764,13 @@
   "url": "https://www.quicket.co.za/events/404092-old-vines-in-the-future/"
  },
  {
-  "title": "Bertha & Beyerskloof",
+  "title": "Poets, Wine and Song",
   "source": "quicket",
   "score": 0,
   "reasons": [
    "no-category"
   ],
-  "url": "https://www.quicket.co.za/events/402014-bertha-beyerskloof/"
+  "url": "https://www.quicket.co.za/events/407694-poets-wine-and-song/"
  },
  {
   "title": "Piquetberg x Olecita - The Olive Oil Takeover",
@@ -4858,24 +4818,6 @@
   "url": "https://www.quicket.co.za/events/407111-rock-4-rescues-a-two-night-fundraiser-bohemia-stellenbosch/"
  },
  {
-  "title": "Kersie Kreatief Art Exhibition",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/394208-kersie-kreatief-art-exhibition/"
- },
- {
-  "title": "First Thursday",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/383049-first-thursday/"
- },
- {
   "title": "Created with Purpose",
   "source": "quicket",
   "score": 0,
@@ -4921,24 +4863,6 @@
   "url": "https://www.quicket.co.za/events/393720-the-art-in-music/"
  },
  {
-  "title": "Friday Night Market at Boschendal",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/399796-friday-night-market-at-boschendal/"
- },
- {
-  "title": "Britney in the Underworld",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/406942-britney-in-the-underworld/"
- },
- {
   "title": "Turning Red",
   "source": "quicket",
   "score": 0,
@@ -4966,13 +4890,13 @@
   "url": "https://www.quicket.co.za/events/403022-neon-youth-bash-2026/"
  },
  {
-  "title": "Alta Du Toit Family Night | Open Air Cinema featuring Disney's Toy Story 5",
+  "title": "Song Sharing",
   "source": "quicket",
   "score": 0,
   "reasons": [
-   "no-category"
+   "textiles:desc:weaving"
   ],
-  "url": "https://www.quicket.co.za/events/401225-alta-du-toit-family-night-open-air-cinema-featuring-disneys-toy-story-5/"
+  "url": "https://www.quicket.co.za/events/405730-song-sharing/"
  },
  {
   "title": "Surfers Ball 2026",
@@ -4991,15 +4915,6 @@
    "no-category"
   ],
   "url": "https://www.quicket.co.za/events/401475-real-nice-presents-high-tide/"
- },
- {
-  "title": "Gian Groen - One Night Only",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/401856-gian-groen-one-night-only/"
  },
  {
   "title": "Dismember in December",
@@ -5065,15 +4980,6 @@
   "url": "https://www.quicket.co.za/events/383458-coffee-clarity-morning-boundaries-without-guilt/"
  },
  {
-  "title": "PHOTOGRAPHY WINE WALK",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/406370-photography-wine-walk/"
- },
- {
   "title": "V.O.T Kids Play Theatre",
   "source": "quicket",
   "score": 0,
@@ -5101,15 +5007,6 @@
   "url": "https://www.quicket.co.za/events/399647-djembe-ukulele-jam/"
  },
  {
-  "title": "CentralBlue Festive Market",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/405907-centralblue-festive-market/"
- },
- {
   "title": "Down Memory Lane",
   "source": "quicket",
   "score": 0,
@@ -5128,24 +5025,6 @@
   "url": "https://www.quicket.co.za/events/405275-the-art-of-boosting-immunity-and-healing/"
  },
  {
-  "title": "Christmas Market 2026 at Lycée Français du Cap",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/401911-christmas-market-2026-at-lyce-franais-du-cap/"
- },
- {
-  "title": "Hermanus Pride Market - Saturday 5 December at Only Specials Lifestyle Hub",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/401497-hermanus-pride-market-saturday-5-december-at-only-specials-lifestyle-hub/"
- },
- {
   "title": "Christmas Table Cloth with Decoupage",
   "source": "quicket",
   "score": 0,
@@ -5153,15 +5032,6 @@
    "no-category"
   ],
   "url": "https://www.quicket.co.za/events/407247-christmas-table-cloth-with-decoupage/"
- },
- {
-  "title": "Kpop Mart 2026",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/406440-kpop-mart-2026/"
  },
  {
   "title": "Mitchell's Plain Music Academy: Year End Production",
@@ -5254,15 +5124,6 @@
   "url": "https://www.quicket.co.za/events/406771-paint-a-doos/"
  },
  {
-  "title": "Olijvenkraal Olive & Wine Farm",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/403390-olijvenkraal-olive-wine-farm/"
- },
- {
   "title": "MAMMA MIA",
   "source": "quicket",
   "score": 0,
@@ -5281,15 +5142,6 @@
   "url": "https://www.quicket.co.za/events/402058-christof-van-der-berg-stories-en-sterre/"
  },
  {
-  "title": "Ubuhle Bemvelo",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/407418-ubuhle-bemvelo/"
- },
- {
   "title": "Funk, Fleetwood Mac, New Wave, Pop Legends, Best of the 90s Season Show",
   "source": "quicket",
   "score": 0,
@@ -5297,15 +5149,6 @@
    "no-category"
   ],
   "url": "https://www.quicket.co.za/events/407294-funk-fleetwood-mac-new-wave-pop-legends-best-of-the-90s-season-show/"
- },
- {
-  "title": "Hermanus Pride Party",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/406758-hermanus-pride-party/"
  },
  {
   "title": "National Youth Music Competition 2026",
@@ -5443,15 +5286,6 @@
   "url": "https://www.quicket.co.za/events/405559-electric-blues-ft-basson-laubscher-the-violent-free-peace-keenan-scott-alec-gri/"
  },
  {
-  "title": "Spinäl Fëst 2026",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/400952-spinl-fst-2026/"
- },
- {
   "title": "Emo Night Presents: Carz",
   "source": "quicket",
   "score": 0,
@@ -5551,6 +5385,15 @@
   "url": "https://www.quicket.co.za/events/394382-cape-town-ecofluency-workshop-in-nature-communication/"
  },
  {
+  "title": "Christmas Carols at Oakhill",
+  "source": "quicket",
+  "score": 0,
+  "reasons": [
+   "no-category"
+  ],
+  "url": "https://www.quicket.co.za/events/405501-christmas-carols-at-oakhill/"
+ },
+ {
   "title": "RAAF @ Malmesbury, Rheeboksfontein",
   "source": "quicket",
   "score": 0,
@@ -5569,13 +5412,13 @@
   "url": "https://www.quicket.co.za/events/396534-just-a-jol/"
  },
  {
-  "title": "I LOVE CY Park Festival 2026",
+  "title": "Carols @ Cberg 2026",
   "source": "quicket",
   "score": 0,
   "reasons": [
    "no-category"
   ],
-  "url": "https://www.quicket.co.za/events/299744-i-love-cy-park-festival-2026/"
+  "url": "https://www.quicket.co.za/events/404502-carols-cberg-2026/"
  },
  {
   "title": "Fam Jam",
@@ -5614,13 +5457,22 @@
   "url": "https://www.quicket.co.za/events/406834-christmas-spectacular-homecoming/"
  },
  {
-  "title": "The Great Bust Exhibition by Barry Barichievy",
+  "title": "Carols Under Starlight",
   "source": "quicket",
   "score": 0,
   "reasons": [
    "no-category"
   ],
-  "url": "https://www.quicket.co.za/events/402508-the-great-bust-exhibition-by-barry-barichievy/"
+  "url": "https://www.quicket.co.za/events/405964-carols-under-starlight/"
+ },
+ {
+  "title": "Century City Carols in the Park",
+  "source": "quicket",
+  "score": 0,
+  "reasons": [
+   "no-category"
+  ],
+  "url": "https://www.quicket.co.za/events/400195-century-city-carols-in-the-park/"
  },
  {
   "title": "Unhinged: The Friendzone",
@@ -5722,24 +5574,6 @@
   "url": "https://www.quicket.co.za/events/406124-roast-battle-league/"
  },
  {
-  "title": "Celebrating 25 years of Half Price T-shirt",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/406839-celebrating-25-years-of-half-price-t-shirt/"
- },
- {
-  "title": "German inspired Christmas market Cape Town Paarden Eiland every Saturday before Christmas in December",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/369849-german-inspired-christmas-market-cape-town-paarden-eiland-every-saturday-before/"
- },
- {
   "title": "Vrou Ens 1.2 in Stellenbosch",
   "source": "quicket",
   "score": 0,
@@ -5767,15 +5601,6 @@
   "url": "https://www.quicket.co.za/events/355021-seven-colours-summer-sundays-by-seven-colours-eatery-x-hush-in-my-kitchen/"
  },
  {
-  "title": "DISTRICT SIX MUSEUM: DECEMBER 2026 ADMISSION TICKETS",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/365064-district-six-museum-december-2026-admission-tickets/"
- },
- {
   "title": "B-ZIRQUE",
   "source": "quicket",
   "score": 0,
@@ -5783,24 +5608,6 @@
    "no-category"
   ],
   "url": "https://www.quicket.co.za/events/400265-b-zirque/"
- },
- {
-  "title": "Cape Town Festival Of Lights",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/402898-cape-town-festival-of-lights/"
- },
- {
-  "title": "Steak & Wine Tuesdays at The Cape Town Club",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/405487-steak-wine-tuesdays-at-the-cape-town-club/"
  },
  {
   "title": "Cigar Evening at The Cape Town Club",
@@ -5857,24 +5664,6 @@
   "url": "https://www.quicket.co.za/events/407295-christmas-messy-play/"
  },
  {
-  "title": "The Soulful Reunion Festive Festival",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/369384-the-soulful-reunion-festive-festival/"
- },
- {
-  "title": "LITTLE FOREST NYE FESTIVAL 2026",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/359325-little-forest-nye-festival-2026/"
- },
- {
   "title": "Road To Two Million",
   "source": "quicket",
   "score": 0,
@@ -5891,24 +5680,6 @@
    "no-category"
   ],
   "url": "https://www.quicket.co.za/events/403478-the-jazz-matinee-12th-december-2026/"
- },
- {
-  "title": "Sanctum | Rebel Hearts 26'",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/383874-sanctum-rebel-hearts-26/"
- },
- {
-  "title": "BLOUBERG BEER & GIN FESTIVAL 2026",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/357037-blouberg-beer-gin-festival-2026/"
  },
  {
   "title": "ENTER LAN Fire & Ice! | December 2026",
@@ -5972,6 +5743,15 @@
    "no-category"
   ],
   "url": "https://www.quicket.co.za/events/370243-rumours-of-fleetwood-mac-tribute-at-hermanus-golf-club-11-dec-2026/"
+ },
+ {
+  "title": "Steenberg Christmas Carols 2026",
+  "source": "quicket",
+  "score": 0,
+  "reasons": [
+   "no-category"
+  ],
+  "url": "https://www.quicket.co.za/events/384718-steenberg-christmas-carols-2026/"
  },
  {
   "title": "The Morning After presents Back to the 80’s",
@@ -6073,15 +5853,6 @@
   "url": "https://www.quicket.co.za/events/388199-christmas-in-strings/"
  },
  {
-  "title": "Friday Night Market at Boschendal",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/401260-friday-night-market-at-boschendal/"
- },
- {
   "title": "PJ POWERS live in Knysna",
   "source": "quicket",
   "score": 0,
@@ -6163,15 +5934,6 @@
   "url": "https://www.quicket.co.za/events/406502-bainskloof-hole-in-the-roof/"
  },
  {
-  "title": "George Padel Festival",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/405130-george-padel-festival/"
- },
- {
   "title": "End-of-Year Afternoon Tea",
   "source": "quicket",
   "score": 0,
@@ -6208,13 +5970,13 @@
   "url": "https://www.quicket.co.za/events/404187-the-garden-party-2026/"
  },
  {
-  "title": "ART IN MOTION \" THE MUSICAL\"",
+  "title": "Carols in the Valley",
   "source": "quicket",
   "score": 0,
   "reasons": [
    "no-category"
   ],
-  "url": "https://www.quicket.co.za/events/401936-art-in-motion-the-musical/"
+  "url": "https://www.quicket.co.za/events/390680-carols-in-the-valley/"
  },
  {
   "title": "Aldrin's Atelier Fashion Show",
@@ -6293,7 +6055,7 @@
   "source": "quicket",
   "score": 0,
   "reasons": [
-   "no-category"
+   "tastings:desc:wine estate"
   ],
   "url": "https://www.quicket.co.za/events/405586-elandre-kersfees/"
  },
@@ -6305,15 +6067,6 @@
    "no-category"
   ],
   "url": "https://www.quicket.co.za/events/401718-soul-surf-gathering-ft-west-coast-wolves/"
- },
- {
-  "title": "Arthur Christmas Under the Stars",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/399159-arthur-christmas-under-the-stars/"
  },
  {
   "title": "AfriFees",
@@ -6413,15 +6166,6 @@
    "no-category"
   ],
   "url": "https://www.quicket.co.za/events/388651-tannie-evita-praat-kaktus-13-december-2026/"
- },
- {
-  "title": "CAPE TOWN CHILLI FESTIVAL #3",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/394034-cape-town-chilli-festival-3/"
  },
  {
   "title": "Arno Carstens & Albert Frost LIVE at Daisy Jones",
@@ -6667,15 +6411,6 @@
   "url": "https://www.quicket.co.za/events/404338-dam-fine-wine/"
  },
  {
-  "title": "WWG Summer Festival",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/404067-wwg-summer-festival/"
- },
- {
   "title": "Fight Her Fight",
   "source": "quicket",
   "score": 0,
@@ -6710,15 +6445,6 @@
    "no-category"
   ],
   "url": "https://www.quicket.co.za/events/407057-jan-blohm-in-wilderness/"
- },
- {
-  "title": "Arno Carstens & Albert Frost LIVE at Lourensford",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/406614-arno-carstens-albert-frost-live-at-lourensford/"
  },
  {
   "title": "Jakkie Louw Sings Sinatra",
@@ -6860,7 +6586,8 @@
   "source": "quicket",
   "score": 0,
   "reasons": [
-   "no-category"
+   "tastings:desc:wine estate,wine estates,cap classique",
+   "hard-negative:desc:concert"
   ],
   "url": "https://www.quicket.co.za/events/406852-louise-carver-presents-a-coastal-christmas-plett/"
  },
@@ -6872,24 +6599,6 @@
    "no-category"
   ],
   "url": "https://www.quicket.co.za/events/394108-womens-community-steam-december/"
- },
- {
-  "title": "Friday Night Market at Boschendal",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/402575-friday-night-market-at-boschendal/"
- },
- {
-  "title": "Festive Charity Dinner Auction",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/399313-festive-charity-dinner-auction/"
  },
  {
   "title": "Jan Blohm in Knysna",
@@ -6935,15 +6644,6 @@
    "no-category"
   ],
   "url": "https://www.quicket.co.za/events/402991-secret-sunrise-jolly-holiday-shake-up/"
- },
- {
-  "title": "K3 FEST",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/393711-k3-fest/"
  },
  {
   "title": "Evita@91 - 19 December 2026",
@@ -7009,15 +6709,6 @@
   "url": "https://www.quicket.co.za/events/406605-on-point-fashion-show/"
  },
  {
-  "title": "Xmas Market Bazaar and Live Circus",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/403869-xmas-market-bazaar-and-live-circus/"
- },
- {
   "title": "A Lipizzaner Christmas Celebration",
   "source": "quicket",
   "score": 0,
@@ -7027,15 +6718,6 @@
   "url": "https://www.quicket.co.za/events/356293-a-lipizzaner-christmas-celebration/"
  },
  {
-  "title": "Crimson House LIVE at The Brass Bell",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/404607-crimson-house-live-at-the-brass-bell/"
- },
- {
   "title": "THE PLAIN TRUTH - Let's Run It Back",
   "source": "quicket",
   "score": 0,
@@ -7043,15 +6725,6 @@
    "no-category"
   ],
   "url": "https://www.quicket.co.za/events/395443-the-plain-truth-lets-run-it-back/"
- },
- {
-  "title": "Cooler Box Music Fest Summer 26",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/401555-cooler-box-music-fest-summer-26/"
  },
  {
   "title": "Simpatico",
@@ -7099,15 +6772,6 @@
   "url": "https://www.quicket.co.za/events/404582-yolo-fiesta/"
  },
  {
-  "title": "Groot Brak Festival",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/402507-groot-brak-festival/"
- },
- {
   "title": "Hoekwil - Cornerstone Creek",
   "source": "quicket",
   "score": 0,
@@ -7133,15 +6797,6 @@
    "no-category"
   ],
   "url": "https://www.quicket.co.za/events/398527-spoegwolf-live-in-george/"
- },
- {
-  "title": "Heart Fest",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/403881-heart-fest/"
  },
  {
   "title": "\"All Night Long\" Tribute Lionel Richie",
@@ -7207,15 +6862,6 @@
   "url": "https://www.quicket.co.za/events/399617-night-in-lagos-cpt/"
  },
  {
-  "title": "ZOOKED RNB & SLOW JAM FESTIVAL (LAMBERTSBAY)",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/395030-zooked-rnb-slow-jam-festival-lambertsbay/"
- },
- {
   "title": "WET N Wild ( The Bassline Society )",
   "source": "quicket",
   "score": 0,
@@ -7250,15 +6896,6 @@
    "no-category"
   ],
   "url": "https://www.quicket.co.za/events/388654-tannie-evita-praat-kaktus-20-december-2026/"
- },
- {
-  "title": "Christmas Market @ Gardens Lawn Tennis Club, De Waal Park - Sunday 20 December 2026",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/405509-christmas-market-gardens-lawn-tennis-club-de-waal-park-sunday-20-december-2026/"
  },
  {
   "title": "A CHRISTMAS CAROL: A GHOST STORY FOR CHRISTMAS",
@@ -7297,15 +6934,6 @@
   "url": "https://www.quicket.co.za/events/405092-gert-vlok-nel-by-daisy-jones/"
  },
  {
-  "title": "Hidden Gems Wine Festival",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/401916-hidden-gems-wine-festival/"
- },
- {
   "title": "Festa Kuiers met Brendan Peyper en Bobby van Jaarsveld",
   "source": "quicket",
   "score": 0,
@@ -7313,15 +6941,6 @@
    "no-category"
   ],
   "url": "https://www.quicket.co.za/events/406552-festa-kuiers-met-brendan-peyper-en-bobby-van-jaarsveld/"
- },
- {
-  "title": "Big Christmas Africa at Muratie Wine Estate",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/400148-big-christmas-africa-at-muratie-wine-estate/"
  },
  {
   "title": "Albert Frost & Dan Patlansky Live",
@@ -7396,15 +7015,6 @@
   "url": "https://www.quicket.co.za/events/388710-an-audience-with-pieter-dirk-eish-21-december-2026/"
  },
  {
-  "title": "The Southernmost Christmas Tasting",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/404563-the-southernmost-christmas-tasting/"
- },
- {
   "title": "A Lipizzaner Christmas Celebration",
   "source": "quicket",
   "score": 0,
@@ -7448,15 +7058,6 @@
    "no-category"
   ],
   "url": "https://www.quicket.co.za/events/400122-big-christmas-africa-at-strandkombuis/"
- },
- {
-  "title": "NEON DREAMS & BYRNE live in Knysna",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/402210-neon-dreams-byrne-live-in-knysna/"
  },
  {
   "title": "The Billy Joel Experience live in George",
@@ -7549,15 +7150,6 @@
   "url": "https://www.quicket.co.za/events/402821-stilbaai-jongensfontein/"
  },
  {
-  "title": "Whisky Tasting",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/407352-whisky-tasting/"
- },
- {
   "title": "SUNSET SWEATSHOP live in Knysna",
   "source": "quicket",
   "score": 0,
@@ -7565,15 +7157,6 @@
    "no-category"
   ],
   "url": "https://www.quicket.co.za/events/406138-sunset-sweatshop-live-in-knysna/"
- },
- {
-  "title": "Nova Nights presents Ard Matthews — Live on the Lawns",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/399942-nova-nights-presents-ard-matthews-live-on-the-lawns/"
  },
  {
   "title": "Roan Ash live at Pinnacle Point",
@@ -7688,7 +7271,9 @@
   "source": "quicket",
   "score": 0,
   "reasons": [
-   "no-category"
+   "festivals:title:festival",
+   "festivals:desc:festival",
+   "soft-negative:title:birthday"
   ],
   "url": "https://www.quicket.co.za/events/393453-altitude-birthday-festival/"
  },
@@ -7772,15 +7357,6 @@
    "no-category"
   ],
   "url": "https://www.quicket.co.za/events/400212-cpt-lola-by-clint-l-zane-gulston-sunday-27-december-2026-the-ostrich-cape-town/"
- },
- {
-  "title": "ComUnity Fest",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/396107-comunity-fest/"
  },
  {
   "title": "Azio Clutch live at Infusion Rondebosch",
@@ -7904,7 +7480,7 @@
   "source": "quicket",
   "score": 0,
   "reasons": [
-   "no-category"
+   "tastings:desc:wine estate"
   ],
   "url": "https://www.quicket.co.za/events/406448-watershed-live-at-bramon-plettenberg-bay/"
  },
@@ -7954,15 +7530,6 @@
   "url": "https://www.quicket.co.za/events/405806-the-block-party-cape-town/"
  },
  {
-  "title": "OUTLAWZ FESTIVAL: CAPE TOWN",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/406620-outlawz-festival-cape-town/"
- },
- {
   "title": "Anything That Floats | In Aid of NSRI Mykonos",
   "source": "quicket",
   "score": 0,
@@ -7979,15 +7546,6 @@
    "no-category"
   ],
   "url": "https://www.quicket.co.za/events/404568-wild-about-wine/"
- },
- {
-  "title": "Arno Carstens - African Sunrise - Hermanus",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/407250-arno-carstens-african-sunrise-hermanus/"
  },
  {
   "title": "WONDERBOOM and BOO! live in Knysna",
@@ -8015,24 +7573,6 @@
    "no-category"
   ],
   "url": "https://www.quicket.co.za/events/407078-albert-frost-trio/"
- },
- {
-  "title": "DREAMING OUT LOUD FESTIVAL 2026 Ft NEON DREAMS & BYRNE live at THE LOFT",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/402472-dreaming-out-loud-festival-2026-ft-neon-dreams-byrne-live-at-the-loft/"
- },
- {
-  "title": "New Year's Eve Sunset Hike @ Muratie 31 Dec'26",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/401191-new-years-eve-sunset-hike-muratie-31-dec26/"
  },
  {
   "title": "Geraas Oppi Plaas Musiekfees",
@@ -8089,15 +7629,6 @@
   "url": "https://www.quicket.co.za/events/390561-montevista-community-new-years-eve-dinner-dance/"
  },
  {
-  "title": "New Year's Eve",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/406507-new-years-eve/"
- },
- {
   "title": "New Year's Eve: Champagne Supernova @ Culture Wine Bar",
   "source": "quicket",
   "score": 0,
@@ -8152,15 +7683,6 @@
   "url": "https://www.quicket.co.za/events/404020-jesse-clegg-live-at-camel-rock/"
  },
  {
-  "title": "Friday Night Market at Boschendal",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/403906-friday-night-market-at-boschendal/"
- },
- {
   "title": "Knysna Rotary Splash Float",
   "source": "quicket",
   "score": 0,
@@ -8186,15 +7708,6 @@
    "no-category"
   ],
   "url": "https://www.quicket.co.za/events/404576-blessing-of-the-harvest/"
- },
- {
-  "title": "Simola Sunset Wine Walk - Sip into the New Year!",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/314660-simola-sunset-wine-walk-sip-into-the-new-year/"
  },
  {
   "title": "Arno Carstens | African Sunrise Tour LIVE at The Loft",
@@ -8278,15 +7791,6 @@
   "url": "https://www.quicket.co.za/events/404953-cape-town-summer-camp-1-2027/"
  },
  {
-  "title": "Watershed LIVE at Lourensford Tasting Room Gardens",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/406451-watershed-live-at-lourensford-tasting-room-gardens/"
- },
- {
   "title": "Tribute to Neil Diamond live in Knysna",
   "source": "quicket",
   "score": 0,
@@ -8348,15 +7852,6 @@
    "no-category"
   ],
   "url": "https://www.quicket.co.za/events/401361-cavod-performing-arts-fully-alive-holiday-club-2027/"
- },
- {
-  "title": "DISTRICT SIX MUSEUM: JANUARY 2027 ADMISSION TICKETS",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/365067-district-six-museum-january-2027-admission-tickets/"
  },
  {
   "title": "Maynardville 2027: Shakespeare's Macbeth",
@@ -8422,15 +7917,6 @@
   "url": "https://www.quicket.co.za/events/401766-advanced-speaker-programme/"
  },
  {
-  "title": "Friday Night Market at Boschendal",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/403907-friday-night-market-at-boschendal/"
- },
- {
   "title": "Tribute to Elton John live in Wilderness",
   "source": "quicket",
   "score": 0,
@@ -8456,15 +7942,6 @@
    "no-category"
   ],
   "url": "https://www.quicket.co.za/events/405897-the-latin-guitar-with-james-grace/"
- },
- {
-  "title": "Andrew Young Live @ Benguela Cove",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/389570-andrew-young-live-benguela-cove/"
  },
  {
   "title": "Tribute to Elton John live in Plett",
@@ -8528,15 +8005,6 @@
    "no-category"
   ],
   "url": "https://www.quicket.co.za/events/398516-simon-van-gend-dream-im-a-bird/"
- },
- {
-  "title": "Friday Night Market at Boschendal",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/403908-friday-night-market-at-boschendal/"
  },
  {
   "title": "Rhythm & Blues - Kingswood Golf Club",
@@ -8611,15 +8079,6 @@
   "url": "https://www.quicket.co.za/events/406510-grow-your-business-your-first-meta-ads-live-in-3-hours/"
  },
  {
-  "title": "Friday Night Market at Boschendal",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/403909-friday-night-market-at-boschendal/"
- },
- {
   "title": "\"Persephone's Myth\" with Tanika Paschke-Moloi at GG | Music Video Premiere",
   "source": "quicket",
   "score": 0,
@@ -8690,24 +8149,6 @@
    "no-category"
   ],
   "url": "https://www.quicket.co.za/events/405123-clock-out-club-by-10pm/"
- },
- {
-  "title": "Friday Night Market at Boschendal",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/403911-friday-night-market-at-boschendal/"
- },
- {
-  "title": "DELHEIM Sunset Harvest Table 29th January 2027",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/403149-delheim-sunset-harvest-table-29th-january-2027/"
  },
  {
   "title": "Steve Graham's Monsters of Rock show - The Daisy Jones Bar",
@@ -8791,15 +8232,6 @@
   "url": "https://www.quicket.co.za/events/388663-tannie-evita-praat-kaktus-31-january-2027/"
  },
  {
-  "title": "DELHEIM Harvest Festival, 31 January 2027",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/403217-delheim-harvest-festival-31-january-2027/"
- },
- {
   "title": "Hoër Landbouskool Boland Opedag 2027",
   "source": "quicket",
   "score": 0,
@@ -8827,15 +8259,6 @@
   "url": "https://www.quicket.co.za/events/404916-fokofpolisiekar-live-at-district-cape-town/"
  },
  {
-  "title": "Vergesig Farm Annual Harvest Festival",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/391206-vergesig-farm-annual-harvest-festival/"
- },
- {
   "title": "Jessica von Bredow Werndl Masterclass",
   "source": "quicket",
   "score": 0,
@@ -8852,15 +8275,6 @@
    "no-category"
   ],
   "url": "https://www.quicket.co.za/events/403783-write-a-novel-course-cape-town-february-2027/"
- },
- {
-  "title": "DISTRICT SIX MUSEUM: FEBRUARY 2027 ADMISSION TICKETS",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/365070-district-six-museum-february-2027-admission-tickets/"
  },
  {
   "title": "Maynardville 2027: Cape Town Opera: Vienna in the Park",
@@ -8897,15 +8311,6 @@
    "no-category"
   ],
   "url": "https://www.quicket.co.za/events/401770-advanced-speaker-programme/"
- },
- {
-  "title": "DISTRICT SIX MUSEUM: MARCH 2027 ADMISSION TICKETS",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/365072-district-six-museum-march-2027-admission-tickets/"
  },
  {
   "title": "The Art of Resurrection — David Henty: The Forger's Collection",
@@ -8996,15 +8401,6 @@
    "no-category"
   ],
   "url": "https://www.quicket.co.za/events/407630-the-gwen-event/"
- },
- {
-  "title": "Goodbye Summer Carnival 2027",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/407297-goodbye-summer-carnival-2027/"
  },
  {
   "title": "Koos Kombuis",
@@ -9106,15 +8502,6 @@
   "url": "https://www.quicket.co.za/events/383057-habitat-whisper-in-the-woods-27/"
  },
  {
-  "title": "Cape Town International Jazz Festival 2027",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/404754-cape-town-international-jazz-festival-2027/"
- },
- {
   "title": "Lesotho Adventure with the Greylings March 2027",
   "source": "quicket",
   "score": 0,
@@ -9173,7 +8560,10 @@
   "source": "quicket",
   "score": 0,
   "reasons": [
-   "no-category"
+   "festivals:title:film festival",
+   "festivals:desc:film festival,festival",
+   "hands-on:desc:experience",
+   "soft-negative:title:film,awards,ceremony"
   ],
   "url": "https://www.quicket.co.za/events/396866-imperiya-film-festival-south-africa-international-awards-ceremony/"
  },
@@ -9322,15 +8712,6 @@
   "url": "https://www.quicket.co.za/events/219070-cederberg-observatory-open-nights/"
  },
  {
-  "title": "Italy in Town 2026",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/340274-italy-in-town-2026/"
- },
- {
   "title": "Madame Jojo's",
   "source": "quicket",
   "score": 0,
@@ -9367,24 +8748,6 @@
   "url": "https://www.quicket.co.za/events/354396-guided-tour-salem-biblical-garden-reservation-requests-48h-notice-2026/"
  },
  {
-  "title": "Museum of Dogs Entry Tickets",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/364591-museum-of-dogs-entry-tickets/"
- },
- {
-  "title": "Mojo Zumba Sunday Mornings",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/322097-mojo-zumba-sunday-mornings/"
- },
- {
   "title": "Weekend Play session 3",
   "source": "quicket",
   "score": 0,
@@ -9401,15 +8764,6 @@
    "no-category"
   ],
   "url": "https://www.quicket.co.za/events/374060-cursed-thursdays-tarot-night-alchemical-cocktails-2026/"
- },
- {
-  "title": "Kleinmond Cycling Club Membership (2026)",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/353694-kleinmond-cycling-club-membership-2026/"
  },
  {
   "title": "Weekday Play session 1",
@@ -9430,20 +8784,11 @@
   "url": "https://www.quicket.co.za/events/406873-weekend-play-session-1/"
  },
  {
-  "title": "Mojo Jazzy Tuesdays",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/310307-mojo-jazzy-tuesdays/"
- },
- {
   "title": "Zevenwacht Downhill Track",
   "source": "quicket",
   "score": 0,
   "reasons": [
-   "no-category"
+   "tastings:desc:wine estate"
   ],
   "url": "https://www.quicket.co.za/events/353171-zevenwacht-downhill-track/"
  },
@@ -9511,15 +8856,6 @@
   "url": "https://www.quicket.co.za/events/406827-weekday-play-session-3/"
  },
  {
-  "title": "Slow Sunday Market at Central Park",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/364532-slow-sunday-market-at-central-park/"
- },
- {
   "title": "SAIASL Season Pass",
   "source": "quicket",
   "score": 0,
@@ -9527,42 +8863,6 @@
    "no-category"
   ],
   "url": "https://www.quicket.co.za/events/387740-saiasl-season-pass/"
- },
- {
-  "title": "The Two Oceans Aquarium: The Waterfront Duck Co Tours: October - December 2026",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/334290-the-two-oceans-aquarium-the-waterfront-duck-co-tours-october-december-2026/"
- },
- {
-  "title": "DISTRICT SIX MUSEUM: NOVEMBER 2026 ADMISSION TICKETS",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/365063-district-six-museum-november-2026-admission-tickets/"
- },
- {
-  "title": "Mojo Salsa Sundays",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/317459-mojo-salsa-sundays/"
- },
- {
-  "title": "Summer Night Market on Urban Square",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/364521-summer-night-market-on-urban-square/"
  },
  {
   "title": "4 Hour Pool Pass",
@@ -9581,15 +8881,6 @@
    "no-category"
   ],
   "url": "https://www.quicket.co.za/events/391783-kurt-schoonraad-live-in-funny-side-up/"
- },
- {
-  "title": "The Alphen Antiques and Collectables Market",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/407239-the-alphen-antiques-and-collectables-market/"
  },
  {
   "title": "The Pre-Marriage Course 2026 Term 4",
@@ -9671,24 +8962,6 @@
    "no-category"
   ],
   "url": "https://www.quicket.co.za/events/405520-open-stage/"
- },
- {
-  "title": "Our House: Ballroom Culture & Education",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/357011-our-house-ballroom-culture-education/"
- },
- {
-  "title": "St George's Unplugged - First Thursdays",
-  "source": "quicket",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.quicket.co.za/events/397530-st-georges-unplugged-first-thursdays/"
  },
  {
   "title": "History of 64 Wale: An Evening Walkthrough",
@@ -9808,15 +9081,6 @@
   "url": "https://www.eventbrite.com/e/how-to-walk-in-heels-cape-town-tickets-1999800768933"
  },
  {
-  "title": "Pavement Art Revisited | Goodman Gallery Cape Town",
-  "source": "eventbrite",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.eventbrite.com/e/pavement-art-revisited-goodman-gallery-cape-town-tickets-2003706587341"
- },
- {
   "title": "Women, Health & Innovation Forum Cape Town 2026",
   "source": "eventbrite",
   "score": 0,
@@ -9844,6 +9108,15 @@
   "url": "https://www.eventbrite.com/e/w3node-nov-2026-tickets-1996784195280"
  },
  {
+  "title": "Cape Town Highlights Audio Tour: Colonial Treasures and Civic Icons",
+  "source": "eventbrite",
+  "score": 0,
+  "reasons": [
+   "no-category"
+  ],
+  "url": "https://www.eventbrite.co.uk/e/cape-town-highlights-audio-tour-colonial-treasures-and-civic-icons-tickets-2003429751317"
+ },
+ {
   "title": "Venture Showcase at the DealFlow Lab",
   "source": "eventbrite",
   "score": 0,
@@ -9862,6 +9135,24 @@
   "url": "https://www.eventbrite.com/e/18th-icmimt-mechanical-and-intelligent-manufacturing-technologies-tickets-1995069747320"
  },
  {
+  "title": "SPARK Blue Downs Primary Open Day",
+  "source": "eventbrite",
+  "score": 0,
+  "reasons": [
+   "no-category"
+  ],
+  "url": "https://www.eventbrite.com/e/spark-blue-downs-primary-open-day-tickets-2002614241104"
+ },
+ {
+  "title": "SPARK Blue Downs High Open Day",
+  "source": "eventbrite",
+  "score": 0,
+  "reasons": [
+   "no-category"
+  ],
+  "url": "https://www.eventbrite.com/e/spark-blue-downs-high-open-day-tickets-2002614460761"
+ },
+ {
   "title": "The Comeunity Project: Cape Town | Coffee with Strangers",
   "source": "eventbrite",
   "score": 0,
@@ -9878,15 +9169,6 @@
    "no-category"
   ],
   "url": "https://www.eventbrite.com/e/cocktails-for-creatives-cape-town-film-music-industry-monthly-mingle-tickets-1992444418892"
- },
- {
-  "title": "Africa Is a Country Festival",
-  "source": "eventbrite",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.eventbrite.com/e/africa-is-a-country-festival-tickets-2000624196828"
  },
  {
   "title": "Matcha + Meetup: Cape Town | Film + Music Industry Monthly Mingle",
@@ -9961,15 +9243,6 @@
   "url": "https://www.eventbrite.com/e/gender-based-violence-fundraiser-tickets-1992240559142"
  },
  {
-  "title": "Outdoor Cinema | Goodman Gallery Cape Town",
-  "source": "eventbrite",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.eventbrite.com/e/outdoor-cinema-goodman-gallery-cape-town-tickets-2003706364675"
- },
- {
   "title": "Madame JoJo's",
   "source": "eventbrite",
   "score": 0,
@@ -10013,15 +9286,6 @@
    "no-category"
   ],
   "url": "https://www.eventbrite.com/e/global-roar-for-all-nations-2026-tickets-1992690498924"
- },
- {
-  "title": "Meet Inextrix at Africa Tech Festival 2026 in Cape Town and Johannesburg",
-  "source": "eventbrite",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.eventbrite.com/e/meet-inextrix-at-africa-tech-festival-2026-in-cape-town-and-johannesburg-tickets-2004416008238"
  },
  {
   "title": "Calix AfricaCom Industry Dinner - Invitation Only!",
@@ -10141,15 +9405,6 @@
   "url": "https://www.meetup.com/cape-town-fun-food-fitness/events/317337249/"
  },
  {
-  "title": "Come To Your Senses (The Experience)",
-  "source": "meetup",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.meetup.com/cape-town-writers-network/events/317314983/"
- },
- {
   "title": "Kirstenbosch Gardens",
   "source": "meetup",
   "score": 0,
@@ -10166,15 +9421,6 @@
    "no-category"
   ],
   "url": "https://www.meetup.com/cape-town-fun-food-fitness/events/316582502/"
- },
- {
-  "title": "Peddlars to Groot Constantia Walk",
-  "source": "meetup",
-  "score": 0,
-  "reasons": [
-   "no-category"
-  ],
-  "url": "https://www.meetup.com/meridian-hiking-club/events/316754295/"
  },
  {
   "title": "Public Speaking & Communication | Breakfast Club Toastmasters, Cape Town",
@@ -10402,6 +9648,24 @@
   "url": "https://www.meetup.com/loungeasiaeurope/events/317143193/"
  },
  {
+  "title": "Celebrating 25 years of Half Price T-shirt",
+  "source": "quicket",
+  "score": -0.5,
+  "reasons": [
+   "festivals:desc:fest"
+  ],
+  "url": "https://www.quicket.co.za/events/406839-celebrating-25-years-of-half-price-t-shirt/"
+ },
+ {
+  "title": "Mojo Zumba Sunday Mornings",
+  "source": "quicket",
+  "score": -0.5,
+  "reasons": [
+   "festivals:desc:market"
+  ],
+  "url": "https://www.quicket.co.za/events/322097-mojo-zumba-sunday-mornings/"
+ },
+ {
   "title": "Out of Mined (in association with Protect the West Coast) - Documentary Screening",
   "source": "quicket",
   "score": -1,
@@ -10413,13 +9677,154 @@
   "url": "https://www.quicket.co.za/events/403971-out-of-mined-in-association-with-protect-the-west-coast-documentary-screening/"
  },
  {
-  "title": "Song Sharing",
+  "title": "Streetopia at Trenchtown 2026",
   "source": "quicket",
   "score": -1,
   "reasons": [
-   "textiles:desc:weaving"
+   "festivals:desc:arts festival,market",
+   "hard-negative:desc:karaoke"
   ],
-  "url": "https://www.quicket.co.za/events/405730-song-sharing/"
+  "url": "https://www.quicket.co.za/events/402838-streetopia-at-trenchtown-2026/"
+ },
+ {
+  "title": "Ghost Motorfest",
+  "source": "quicket",
+  "score": -1,
+  "reasons": [
+   "exhibitions:desc:museum",
+   "festivals:desc:festival",
+   "hard-negative:desc:live music,sold out"
+  ],
+  "url": "https://www.quicket.co.za/events/399216-ghost-motorfest/"
+ },
+ {
+  "title": "Crimson House LIVE at The Brass Bell",
+  "source": "quicket",
+  "score": -1,
+  "reasons": [
+   "festivals:desc:music festivals,festival",
+   "hard-negative:desc:concerts"
+  ],
+  "url": "https://www.quicket.co.za/events/404607-crimson-house-live-at-the-brass-bell/"
+ },
+ {
+  "title": "NEON DREAMS & BYRNE live in Knysna",
+  "source": "quicket",
+  "score": -1,
+  "reasons": [
+   "festivals:desc:festival",
+   "hands-on:desc:experience",
+   "hard-negative:desc:live music"
+  ],
+  "url": "https://www.quicket.co.za/events/402210-neon-dreams-byrne-live-in-knysna/"
+ },
+ {
+  "title": "DELHEIM Sunset Harvest Table 29th January 2027",
+  "source": "quicket",
+  "score": -1,
+  "reasons": [
+   "tastings:desc:winemaker,vineyards",
+   "hands-on:desc:course,hands on,experience",
+   "soft-negative:title:sunset",
+   "hard-negative:desc:live music"
+  ],
+  "url": "https://www.quicket.co.za/events/403149-delheim-sunset-harvest-table-29th-january-2027/"
+ },
+ {
+  "title": "Get On Co. Band Night",
+  "source": "quicket",
+  "score": -1.5,
+  "reasons": [
+   "festivals:desc:festival",
+   "hands-on:desc:studio",
+   "hard-negative:desc:cricket,live music"
+  ],
+  "url": "https://www.quicket.co.za/events/405352-get-on-co-band-night/"
+ },
+ {
+  "title": "Sanctum | Rebel Hearts 26'",
+  "source": "quicket",
+  "score": -1.5,
+  "reasons": [
+   "tastings:desc:wine estate",
+   "festivals:desc:market",
+   "hard-negative:desc:trading"
+  ],
+  "url": "https://www.quicket.co.za/events/383874-sanctum-rebel-hearts-26/"
+ },
+ {
+  "title": "Arthur Christmas Under the Stars",
+  "source": "quicket",
+  "score": -1.5,
+  "reasons": [
+   "festivals:desc:open air",
+   "hard-negative:desc:marketing"
+  ],
+  "url": "https://www.quicket.co.za/events/399159-arthur-christmas-under-the-stars/"
+ },
+ {
+  "title": "Nova Nights presents Ard Matthews — Live on the Lawns",
+  "source": "quicket",
+  "score": -1.5,
+  "reasons": [
+   "tastings:desc:wine farm,vineyard",
+   "hard-negative:desc:live music,concert"
+  ],
+  "url": "https://www.quicket.co.za/events/399942-nova-nights-presents-ard-matthews-live-on-the-lawns/"
+ },
+ {
+  "title": "WATERSHED live in Knysna",
+  "source": "quicket",
+  "score": -1.5,
+  "reasons": [
+   "craft:desc:crafting",
+   "festivals:desc:music festival",
+   "hard-negative:desc:concert"
+  ],
+  "url": "https://www.quicket.co.za/events/404948-watershed-live-in-knysna/"
+ },
+ {
+  "title": "Andrew Young Live @ Benguela Cove",
+  "source": "quicket",
+  "score": -1.5,
+  "reasons": [
+   "tastings:desc:wine estate",
+   "hands-on:desc:class,experience",
+   "hard-negative:desc:concert"
+  ],
+  "url": "https://www.quicket.co.za/events/389570-andrew-young-live-benguela-cove/"
+ },
+ {
+  "title": "Peddlars to Groot Constantia Walk",
+  "source": "meetup",
+  "score": -1.5,
+  "reasons": [
+   "tastings:desc:wine farm",
+   "soft-negative:title:walk"
+  ],
+  "url": "https://www.meetup.com/meridian-hiking-club/events/316754295/"
+ },
+ {
+  "title": "Sedgefield Sunset Family Festive Fun",
+  "source": "quicket",
+  "score": -2,
+  "reasons": [
+   "festivals:desc:festival",
+   "hands-on:desc:session,experience,experiences",
+   "soft-negative:title:sunset,festive"
+  ],
+  "url": "https://www.quicket.co.za/events/405544-sedgefield-sunset-family-festive-fun/"
+ },
+ {
+  "title": "SUNSET WALK - CHASE THE SUN!",
+  "source": "quicket",
+  "score": -2,
+  "reasons": [
+   "tastings:desc:vineyards,vineyard",
+   "hands-on:desc:experience,guided",
+   "soft-negative:title:sunset,walk"
+  ],
+  "url": "https://www.quicket.co.za/events/406200-sunset-walk-chase-the-sun/"
  },
  {
   "title": "Final Retreat with Dave Reynolds & Bongani Sotshononda",
@@ -10434,25 +9839,58 @@
   "url": "https://www.quicket.co.za/events/405694-final-retreat-with-dave-reynolds-bongani-sotshononda/"
  },
  {
-  "title": "WATERSHED live in Knysna",
+  "title": "Hermanus Pride Party",
+  "source": "quicket",
+  "score": -2,
+  "reasons": [
+   "festivals:desc:market",
+   "soft-negative:title:party"
+  ],
+  "url": "https://www.quicket.co.za/events/406758-hermanus-pride-party/"
+ },
+ {
+  "title": "New Year's Eve Sunset Hike @ Muratie 31 Dec'26",
+  "source": "quicket",
+  "score": -2,
+  "reasons": [
+   "tastings:desc:bubbly,wine estate,vineyards",
+   "soft-negative:title:sunset,hike"
+  ],
+  "url": "https://www.quicket.co.za/events/401191-new-years-eve-sunset-hike-muratie-31-dec26/"
+ },
+ {
+  "title": "Simola Sunset Wine Walk - Sip into the New Year!",
+  "source": "quicket",
+  "score": -2,
+  "reasons": [
+   "tastings:title:wine walk",
+   "tastings:desc:wine walk",
+   "hands-on:desc:course,experience",
+   "soft-negative:title:sunset,walk",
+   "hard-negative:desc:live music"
+  ],
+  "url": "https://www.quicket.co.za/events/314660-simola-sunset-wine-walk-sip-into-the-new-year/"
+ },
+ {
+  "title": "Bishops Carols",
+  "source": "quicket",
+  "score": -2.5,
+  "reasons": [
+   "festivals:desc:festival",
+   "hard-negative:desc:orchestra"
+  ],
+  "url": "https://www.quicket.co.za/events/386953-bishops-carols/"
+ },
+ {
+  "title": "Festive Charity Dinner Auction",
   "source": "quicket",
   "score": -3,
   "reasons": [
-   "craft:desc:crafting",
-   "hard-negative:desc:concert"
+   "tastings:desc:tastings",
+   "hands-on:desc:experiences",
+   "soft-negative:title:festive,dinner"
   ],
-  "url": "https://www.quicket.co.za/events/404948-watershed-live-in-knysna/"
- },
- {
-  "title": "Goedeverwachting Sunday Market - Sir Lowry's Pass",
-  "source": "quicket",
-  "score": -3.5,
-  "reasons": [
-   "craft:desc:arts & crafts",
-   "soft-negative:title:market",
-   "hard-negative:desc:live music"
-  ],
-  "url": "https://www.quicket.co.za/events/156788-goedeverwachting-sunday-market-sir-lowrys-pass/"
+  "url": "https://www.quicket.co.za/events/399313-festive-charity-dinner-auction/"
  },
  {
   "title": "Kaas Kween Comedy night at Infusion Table View",
@@ -10468,7 +9906,7 @@
   "source": "quicket",
   "score": -99,
   "reasons": [
-   "hard-negative:concerts"
+   "hard-negative:the musical,concerts"
   ],
   "url": "https://www.quicket.co.za/events/405063-night-at-the-musical-johnman-concerts/"
  },
@@ -10489,6 +9927,15 @@
    "hard-negative:burlesque"
   ],
   "url": "https://www.quicket.co.za/events/383693-the-ninth-annual-south-african-burlesque-festival/"
+ },
+ {
+  "title": "Wine & Pleasure Toys Pairing | Black Friday Event",
+  "source": "quicket",
+  "score": -99,
+  "reasons": [
+   "hard-negative:pleasure toys"
+  ],
+  "url": "https://www.quicket.co.za/events/398093-wine-pleasure-toys-pairing-black-friday-event/"
  },
  {
   "title": "FOM CPO REHEARSAL SUMMER SYMPHONY 2",
@@ -10534,15 +9981,6 @@
    "hard-negative:revival"
   ],
   "url": "https://www.quicket.co.za/events/370308-creedence-a-clearwater-revival-at-hermanus-golf-club-4-decemeber-2026/"
- },
- {
-  "title": "Celebrating Christ in Alignment Christmas Carols",
-  "source": "quicket",
-  "score": -99,
-  "reasons": [
-   "hard-negative:carols"
-  ],
-  "url": "https://www.quicket.co.za/events/377766-celebrating-christ-in-alignment-christmas-carols/"
  },
  {
   "title": "Africa Stablecoin Summit 2026",
@@ -10734,6 +10172,15 @@
   "url": "https://www.quicket.co.za/events/405330-brass-departmental-concert/"
  },
  {
+  "title": "Praise + Padel",
+  "source": "quicket",
+  "score": -99,
+  "reasons": [
+   "hard-negative:padel"
+  ],
+  "url": "https://www.quicket.co.za/events/400367-praise-padel/"
+ },
+ {
   "title": "Hanepoot Brass Band in Concert at the Agulhas School of Skills, Napier",
   "source": "quicket",
   "score": -99,
@@ -10770,15 +10217,6 @@
   "url": "https://www.quicket.co.za/events/406661-fighting-femicide-free-self-defense-workshop-kickboxing-with-chantell/"
  },
  {
-  "title": "Brandy Recognition - A Heritage Walking Tour Through Constantia",
-  "source": "quicket",
-  "score": -99,
-  "reasons": [
-   "hard-negative:walking tour"
-  ],
-  "url": "https://www.quicket.co.za/events/389798-brandy-recognition-a-heritage-walking-tour-through-constantia/"
- },
- {
   "title": "a Morning Retreat with Yoga, an African Sound Journey & Concert",
   "source": "quicket",
   "score": -99,
@@ -10806,15 +10244,6 @@
   "url": "https://www.quicket.co.za/events/400721-bubbles-burlesque-brunch/"
  },
  {
-  "title": "Mills & Ruins - A Heritage Walking Tour Through Oranjezicht",
-  "source": "quicket",
-  "score": -99,
-  "reasons": [
-   "hard-negative:walking tour"
-  ],
-  "url": "https://www.quicket.co.za/events/389806-mills-ruins-a-heritage-walking-tour-through-oranjezicht/"
- },
- {
   "title": "MBR x NARS Makeup Masterclass",
   "source": "quicket",
   "score": -99,
@@ -10840,6 +10269,15 @@
    "hard-negative:improv"
   ],
   "url": "https://www.quicket.co.za/events/405576-house-of-improv/"
+ },
+ {
+  "title": "Hugo Heritage Tennis Tournament Sunday 15 November 2026",
+  "source": "quicket",
+  "score": -99,
+  "reasons": [
+   "hard-negative:tennis"
+  ],
+  "url": "https://www.quicket.co.za/events/395446-hugo-heritage-tennis-tournament-sunday-15-november-2026/"
  },
  {
   "title": "Kaas Kween Comedy night at Infusion Diep River",
@@ -10891,7 +10329,7 @@
   "source": "quicket",
   "score": -99,
   "reasons": [
-   "hard-negative:open day,fun run"
+   "hard-negative:fun run"
   ],
   "url": "https://www.quicket.co.za/events/402233-open-day-fun-runwalk/"
  },
@@ -10930,33 +10368,6 @@
    "hard-negative:worship"
   ],
   "url": "https://www.quicket.co.za/events/405382-kevin-knott-worship-at-the-garden/"
- },
- {
-  "title": "Open Day",
-  "source": "quicket",
-  "score": -99,
-  "reasons": [
-   "hard-negative:open day"
-  ],
-  "url": "https://www.quicket.co.za/events/404821-open-day/"
- },
- {
-  "title": "Thoroughly Modern Muizenberg! Art Deco walking tour",
-  "source": "quicket",
-  "score": -99,
-  "reasons": [
-   "hard-negative:walking tour"
-  ],
-  "url": "https://www.quicket.co.za/events/404331-thoroughly-modern-muizenberg-art-deco-walking-tour/"
- },
- {
-  "title": "Academy of Digital Arts - Open Day 21 November 2026",
-  "source": "quicket",
-  "score": -99,
-  "reasons": [
-   "hard-negative:open day"
-  ],
-  "url": "https://www.quicket.co.za/events/407599-academy-of-digital-arts-open-day-21-november-2026/"
  },
  {
   "title": "Happy Gifts Educare Concert & Graduation",
@@ -11002,15 +10413,6 @@
    "hard-negative:summit"
   ],
   "url": "https://www.quicket.co.za/events/359049-africa-prediction-markets-summit-2026/"
- },
- {
-  "title": "Carols by Candlelight",
-  "source": "quicket",
-  "score": -99,
-  "reasons": [
-   "hard-negative:carols"
-  ],
-  "url": "https://www.quicket.co.za/events/403886-carols-by-candlelight/"
  },
  {
   "title": "Kaas Kween Comedy night at Infusion Sea Point",
@@ -11130,15 +10532,6 @@
   "url": "https://www.quicket.co.za/events/403554-sandy-bay-family-fun-run/"
  },
  {
-  "title": "VWS Open Day 2026",
-  "source": "quicket",
-  "score": -99,
-  "reasons": [
-   "hard-negative:open day"
-  ],
-  "url": "https://www.quicket.co.za/events/398575-vws-open-day-2026/"
- },
- {
   "title": "Activate Mens Conference",
   "source": "quicket",
   "score": -99,
@@ -11164,6 +10557,15 @@
    "hard-negative:concert"
   ],
   "url": "https://www.quicket.co.za/events/380987-grip-gymnastics-and-dance-concert-2026/"
+ },
+ {
+  "title": "MATILDA: The Musical JR",
+  "source": "quicket",
+  "score": -99,
+  "reasons": [
+   "hard-negative:the musical"
+  ],
+  "url": "https://www.quicket.co.za/events/406716-matilda-the-musical-jr/"
  },
  {
   "title": "Winter Wonderland Christmas Concert",
@@ -11256,15 +10658,6 @@
   "url": "https://www.quicket.co.za/events/401325-jenny-james-a-golden-circle-concert/"
  },
  {
-  "title": "Carols by Candlelight at Riverside Estate",
-  "source": "quicket",
-  "score": -99,
-  "reasons": [
-   "hard-negative:carols"
-  ],
-  "url": "https://www.quicket.co.za/events/406870-carols-by-candlelight-at-riverside-estate/"
- },
- {
   "title": "PAUL HANMER & WENDY OLDFIELD - A DOUBLE BILL CONCERT",
   "source": "quicket",
   "score": -99,
@@ -11292,33 +10685,6 @@
   "url": "https://www.quicket.co.za/events/406435-burlesque-night-jessabelle-thunder-takes-over-mavericks/"
  },
  {
-  "title": "A Festival of Nine Lessons and Carols with VOX (2026)",
-  "source": "quicket",
-  "score": -99,
-  "reasons": [
-   "hard-negative:carols"
-  ],
-  "url": "https://www.quicket.co.za/events/404861-a-festival-of-nine-lessons-and-carols-with-vox-2026/"
- },
- {
-  "title": "Christmas Carols at Oakhill",
-  "source": "quicket",
-  "score": -99,
-  "reasons": [
-   "hard-negative:carols"
-  ],
-  "url": "https://www.quicket.co.za/events/405501-christmas-carols-at-oakhill/"
- },
- {
-  "title": "Carols @ Cberg 2026",
-  "source": "quicket",
-  "score": -99,
-  "reasons": [
-   "hard-negative:carols"
-  ],
-  "url": "https://www.quicket.co.za/events/404502-carols-cberg-2026/"
- },
- {
   "title": "Rowen G Music School Concert",
   "source": "quicket",
   "score": -99,
@@ -11335,33 +10701,6 @@
    "hard-negative:philharmonic"
   ],
   "url": "https://www.quicket.co.za/events/392982-the-mzansi-philharmonic-cape-town/"
- },
- {
-  "title": "Carols Under Starlight",
-  "source": "quicket",
-  "score": -99,
-  "reasons": [
-   "hard-negative:carols"
-  ],
-  "url": "https://www.quicket.co.za/events/405964-carols-under-starlight/"
- },
- {
-  "title": "Century City Carols in the Park",
-  "source": "quicket",
-  "score": -99,
-  "reasons": [
-   "hard-negative:carols"
-  ],
-  "url": "https://www.quicket.co.za/events/400195-century-city-carols-in-the-park/"
- },
- {
-  "title": "Carols by Candlelight",
-  "source": "quicket",
-  "score": -99,
-  "reasons": [
-   "hard-negative:carols"
-  ],
-  "url": "https://www.quicket.co.za/events/400179-carols-by-candlelight/"
  },
  {
   "title": "End of Year Concert",
@@ -11409,15 +10748,6 @@
   "url": "https://www.quicket.co.za/events/384442-ballyhoos-50-years-celebration-tour-a-golden-circle-concert/"
  },
  {
-  "title": "Steenberg Christmas Carols 2026",
-  "source": "quicket",
-  "score": -99,
-  "reasons": [
-   "hard-negative:carols"
-  ],
-  "url": "https://www.quicket.co.za/events/384718-steenberg-christmas-carols-2026/"
- },
- {
   "title": "COOLER-BOX KARAOKE NIGHT AND LIVE MUSIC EVENT - ICE- CHEST # JOURNEY TO CITY HALL 301226",
   "source": "quicket",
   "score": -99,
@@ -11425,6 +10755,15 @@
    "hard-negative:karaoke,live music"
   ],
   "url": "https://www.quicket.co.za/events/365180-cooler-box-karaoke-night-and-live-music-event-ice-chest-journey-to-city-hall-30/"
+ },
+ {
+  "title": "George Padel Festival",
+  "source": "quicket",
+  "score": -99,
+  "reasons": [
+   "hard-negative:padel"
+  ],
+  "url": "https://www.quicket.co.za/events/405130-george-padel-festival/"
  },
  {
   "title": "BEATLES & SIMON & GARFUNKEL TRIBUTE CONCERT",
@@ -11436,13 +10775,13 @@
   "url": "https://www.quicket.co.za/events/403171-beatles-simon-garfunkel-tribute-concert/"
  },
  {
-  "title": "Carols in the Valley",
+  "title": "ART IN MOTION \" THE MUSICAL\"",
   "source": "quicket",
   "score": -99,
   "reasons": [
-   "hard-negative:carols"
+   "hard-negative:the musical"
   ],
-  "url": "https://www.quicket.co.za/events/390680-carols-in-the-valley/"
+  "url": "https://www.quicket.co.za/events/401936-art-in-motion-the-musical/"
  },
  {
   "title": "SAWIC Western Cape Chapter High Tea",
@@ -11497,15 +10836,6 @@
    "hard-negative:worship"
   ],
   "url": "https://www.quicket.co.za/events/394402-hanover-park-worship-experience/"
- },
- {
-  "title": "Bishops Carols",
-  "source": "quicket",
-  "score": -99,
-  "reasons": [
-   "hard-negative:carols"
-  ],
-  "url": "https://www.quicket.co.za/events/386953-bishops-carols/"
  },
  {
   "title": "Roan Ash - A Summer Outdoor Concert",
@@ -11569,6 +10899,15 @@
    "hard-negative:comedy"
   ],
   "url": "https://www.quicket.co.za/events/398795-the-hilarious-deep-amazing-cape-town-comedy-show-returns-with-gilli-apter/"
+ },
+ {
+  "title": "Christmas Market @ Gardens Lawn Tennis Club, De Waal Park - Sunday 20 December 2026",
+  "source": "quicket",
+  "score": -99,
+  "reasons": [
+   "hard-negative:tennis"
+  ],
+  "url": "https://www.quicket.co.za/events/405509-christmas-market-gardens-lawn-tennis-club-de-waal-park-sunday-20-december-2026/"
  },
  {
   "title": "The World Café Trio (South Africa) presents The Story of Vivaldi’s Four Seasons - A Golden Circle Concert",
@@ -11832,24 +11171,6 @@
   "url": "https://www.quicket.co.za/events/389993-makeup-and-me-masterclass/"
  },
  {
-  "title": "Cape Town Reptile Expo hosted by Invesrep",
-  "source": "quicket",
-  "score": -99,
-  "reasons": [
-   "hard-negative:expo"
-  ],
-  "url": "https://www.quicket.co.za/events/374675-cape-town-reptile-expo-hosted-by-invesrep/"
- },
- {
-  "title": "Knowledge in Nature Expo 2027 Cape Town",
-  "source": "quicket",
-  "score": -99,
-  "reasons": [
-   "hard-negative:expo"
-  ],
-  "url": "https://www.quicket.co.za/events/387921-knowledge-in-nature-expo-2027-cape-town/"
- },
- {
   "title": "BNC#10 - The 2027 BizNews Conference in Hermanus",
   "source": "quicket",
   "score": -99,
@@ -12003,6 +11324,15 @@
   "url": "https://www.quicket.co.za/events/355619-jaryd-pillay-hosts-grounded-comedy-nights/"
  },
  {
+  "title": "Kleinmond Cycling Club Membership (2026)",
+  "source": "quicket",
+  "score": -99,
+  "reasons": [
+   "hard-negative:membership"
+  ],
+  "url": "https://www.quicket.co.za/events/353694-kleinmond-cycling-club-membership-2026/"
+ },
+ {
   "title": "Tiki Bingo: FREE Things to do on Thursday in Cape Town Bree Street",
   "source": "quicket",
   "score": -99,
@@ -12075,15 +11405,6 @@
   "url": "https://www.quicket.co.za/events/402817-private-driver-cape-town-cape-point-winelands-private-day-tours/"
  },
  {
-  "title": "Schedule Wine Tour",
-  "source": "quicket",
-  "score": -99,
-  "reasons": [
-   "hard-negative:wine tour"
-  ],
-  "url": "https://www.quicket.co.za/events/65165-schedule-wine-tour/"
- },
- {
   "title": "Karaoke Mondays @ Mojo",
   "source": "quicket",
   "score": -99,
@@ -12111,15 +11432,6 @@
   "url": "https://www.eventbrite.com/e/entrepreneurs-meetup-by-we-founders-collab-capetown-2026-tickets-2004011301750"
  },
  {
-  "title": "Cape Town Highlights Audio Tour: Colonial Treasures and Civic Icons",
-  "source": "eventbrite",
-  "score": -99,
-  "reasons": [
-   "hard-negative:audio tour"
-  ],
-  "url": "https://www.eventbrite.co.uk/e/cape-town-highlights-audio-tour-colonial-treasures-and-civic-icons-tickets-2003429751317"
- },
- {
   "title": "DigiMarCon Africa 2027 - Digital Marketing, Media & Advertising Conference",
   "source": "eventbrite",
   "score": -99,
@@ -12136,33 +11448,6 @@
    "hard-negative:mma"
   ],
   "url": "https://www.eventbrite.com/e/dj-run-2026-mma-with-trident-fight-centre-tickets-2004281275248"
- },
- {
-  "title": "SPARK Blue Downs Primary Open Day",
-  "source": "eventbrite",
-  "score": -99,
-  "reasons": [
-   "hard-negative:open day"
-  ],
-  "url": "https://www.eventbrite.com/e/spark-blue-downs-primary-open-day-tickets-2002614241104"
- },
- {
-  "title": "SPARK Blue Downs High Open Day",
-  "source": "eventbrite",
-  "score": -99,
-  "reasons": [
-   "hard-negative:open day"
-  ],
-  "url": "https://www.eventbrite.com/e/spark-blue-downs-high-open-day-tickets-2002614460761"
- },
- {
-  "title": "TECHSPO Cape Town 2027 Technology Expo (AI ~ SaaS ~ AdTech ~ MarTech)",
-  "source": "eventbrite",
-  "score": -99,
-  "reasons": [
-   "hard-negative:expo"
-  ],
-  "url": "https://www.eventbrite.com/e/techspo-cape-town-2027-technology-expo-ai-saas-adtech-martech-tickets-1995176914861"
  },
  {
   "title": "Women's Tech Forum -Networking Event",
@@ -12201,15 +11486,6 @@
   "url": "https://www.eventbrite.com/e/cpt-sloane-connect-cape-towns-friday-meetup-for-entrepreneurs-tickets-1985362997169"
  },
  {
-  "title": "Cape Town: Mother City Heritage Audio Walking Tour",
-  "source": "eventbrite",
-  "score": -99,
-  "reasons": [
-   "hard-negative:walking tour"
-  ],
-  "url": "https://www.eventbrite.com/e/cape-town-mother-city-heritage-audio-walking-tour-tickets-1981447339331"
- },
- {
   "title": "DJ Run 2026 – Boxing with SN Boxing Edgemead",
   "source": "eventbrite",
   "score": -99,
@@ -12226,6 +11502,15 @@
    "hard-negative:self guided"
   ],
   "url": "https://www.eventbrite.com/e/va-waterfront-cape-town-harbor-self-guided-walk-tickets-1981447413553"
+ },
+ {
+  "title": "Meet Inextrix at Africa Tech Festival 2026 in Cape Town and Johannesburg",
+  "source": "eventbrite",
+  "score": -99,
+  "reasons": [
+   "hard-negative:tech festival"
+  ],
+  "url": "https://www.eventbrite.com/e/meet-inextrix-at-africa-tech-festival-2026-in-cape-town-and-johannesburg-tickets-2004416008238"
  },
  {
   "title": "Cape Town Singles Relational Lab — Facilitated Connection Experience",

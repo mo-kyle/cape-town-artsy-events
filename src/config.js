@@ -1,4 +1,6 @@
-// Taxonomy and tuning knobs for what counts as an "artsy, hands-on" event.
+// Taxonomy and tuning knobs for what counts as an "artsy" event: hands-on
+// classes and workshops, plus things to go and see — exhibitions, tastings,
+// festivals and markets.
 // Keywords are matched case-insensitively on word boundaries; spaces match
 // spaces or hyphens; simple plurals are allowed.
 
@@ -146,6 +148,55 @@ export const CATEGORIES = [
       'journaling circle', 'vision board', 'intention setting', 'kirtan', 'yoga nidra', 'forest bathing',
     ],
   },
+  {
+    id: 'exhibitions',
+    label: 'Museums & galleries',
+    emoji: '🖼️',
+    keywords: [
+      'exhibition', 'exhibitions', 'art exhibition', 'solo exhibition', 'group exhibition', 'group show', 'solo show',
+      'art show', 'gallery', 'galleries', 'art gallery', 'museum', 'museums', 'vernissage', 'opening night',
+      'exhibition opening', 'gallery opening', 'walkabout', 'walk-about', 'curator talk', "curator's talk", 'artist talk',
+      "artist's talk", 'artists talk', 'artist walkabout', 'first thursdays', 'first thursday', 'art fair', 'art week',
+      'sculpture garden', 'retrospective', 'installation', 'photography exhibition', 'photographic exhibition',
+      'biennale', 'open studios', 'studio tour', 'art tour', 'art walk', 'heritage tour', 'heritage site', 'planetarium',
+      'aquarium', 'zeitz mocaa', 'norval foundation', 'iziko', 'irma stern', 'district six museum',
+      'contemporary art', 'fine art', 'ceramics exhibition', 'design indaba',
+    ],
+  },
+  {
+    id: 'tastings',
+    label: 'Wine & tastings',
+    emoji: '🍷',
+    keywords: [
+      'wine tasting', 'wine tastings', 'wine pairing', 'wine and food pairing', 'food and wine pairing', 'wine estate',
+      'wine farm', 'cellar tour', 'cellar tours', 'cellar door', 'vineyard', 'vineyards', 'harvest festival',
+      'winemaker', 'wine dinner', 'wine evening', 'wine club', 'wine walk', 'wine route', 'wine tram', 'wine safari',
+      'bubbly', 'mcc tasting', 'cap classique', 'champagne tasting', 'sparkling wine', 'gin tasting', 'gin pairing',
+      'gin experience', 'whisky tasting', 'whiskey tasting', 'rum tasting', 'brandy tasting', 'tequila tasting',
+      'mezcal tasting', 'beer tasting', 'craft beer', 'brewery tour', 'brewery tours', 'beer pairing', 'cider tasting',
+      'cheese tasting', 'cheese and wine', 'wine and cheese', 'chocolate tasting', 'chocolate pairing',
+      'chocolate and wine', 'olive oil tasting', 'olive tasting', 'coffee tasting', 'coffee cupping', 'cupping',
+      'tea tasting', 'honey tasting', 'oyster tasting', 'oysters and bubbly', 'food pairing', 'pairing experience',
+      'tasting menu', 'tasting experience', 'tasting evening', 'tasting event', 'tasting room', 'tasting',
+      'tastings', 'degustation', 'sommelier', 'blind tasting', 'wine masterclass', 'gin masterclass',
+      'whisky masterclass', 'cocktail tasting', 'spirits tasting', 'distillery tour', 'distillery',
+    ],
+  },
+  {
+    id: 'festivals',
+    label: 'Festivals & markets',
+    emoji: '🎪',
+    keywords: [
+      'festival', 'festivals', 'fest', 'fete', 'fête', 'carnival', 'street party', 'street festival', 'food festival',
+      'wine festival', 'beer festival', 'gin festival', 'arts festival', 'art festival', 'craft festival',
+      'design festival', 'film festival', 'book festival', 'literary festival', 'jazz festival', 'music festival',
+      'kite festival', 'flower festival', 'lantern festival', 'light festival', 'festival of lights', 'night market',
+      'market', 'markets', 'craft market', 'makers market', "makers' market", 'artisan market', 'food market',
+      'farmers market', "farmers' market", 'christmas market', 'festive market', 'night fair',
+      'design fair', 'craft fair', 'pop-up', 'pop up market', 'popup market', 'open-air', 'open air',
+      'summer concert series', 'carols by candlelight', 'fair', 'fayre', 'expo', 'show day',
+    ],
+  },
 ];
 
 // Words that suggest you *do* something rather than watch it.
@@ -159,30 +210,29 @@ export const HANDS_ON = [
 
 // A title hit on any of these drops the event outright.
 export const HARD_NEGATIVE = [
-  'conference', 'webinar', 'summit', 'networking', 'job fair', 'career fair', 'expo', 'hackathon', 'bootcamp',
-  'worship', 'carols', 'sermon', 'bible', 'prayer', 'church service', 'crusade', 'revival',
+  'conference', 'webinar', 'summit', 'networking', 'job fair', 'career fair', 'hackathon', 'bootcamp',
+  'worship', 'sermon', 'bible', 'prayer', 'church service', 'crusade', 'revival',
   'kickboxing', 'self defense', 'self-defense', 'self defence', 'self-defence', 'boxing', 'mma', 'rugby', 'cricket',
   'football', 'soccer', 'golf day', 'marathon', 'trail run', 'fun run', 'parkrun', 'cycle tour', 'triathlon',
   'comedy', 'stand-up', 'stand up comedy', 'improv', 'orchestra', 'symphony', 'philharmonic', 'classical music',
-  'live music', 'dj set', 'album launch', 'tribute show', 'tribute band', 'concert', 'festival line-up',
-  'makeup', 'make-up', 'lashes', 'nail tech', 'hair styling', 'barber',
+  'live music', 'dj set', 'album launch', 'tribute show', 'tribute band', 'concert', 'makeup', 'make-up', 'lashes', 'nail tech', 'hair styling', 'barber',
   'web3', 'blockchain', 'crypto', 'bitcoin', 'artificial intelligence', 'a.i.', 'chatgpt', 'software', 'coding',
   'python', 'javascript', 'excel', 'power bi', 'marketing', 'sales training', 'leadership', 'entrepreneur',
   'property investment', 'forex', 'trading', 'real estate', 'insurance', 'tax', 'bookkeeping', 'cv writing',
-  'safari', 'cruise', 'boat trip', 'wine tour', 'bus tour', 'day tour', 'shuttle',
+  'safari', 'cruise', 'boat trip', 'bus tour', 'day tour', 'shuttle',
   'quiz night', 'trivia', 'bingo', 'poker', 'karaoke', 'speed dating', 'singles', 'matric', 'school holiday camp',
   'exam', 'first aid', 'cpr', 'driving', 'firearm', 'shooting range', 'hunting', 'fishing',
   'rope class', 'shibari', 'kink', 'burlesque', 'lingerie', 'strip', 'pole dance',
-  'gift card', 'gift voucher', 'voucher', 'high tea', 'roundtable', 'open day', 'audio tour', 'walking tour',
-  'self-guided', 'test event', 'sold out',
+  'gift card', 'gift voucher', 'voucher', 'high tea', 'roundtable', 'self-guided', 'test event', 'sold out',
+  'membership', 'memberships', 'memorial run', 'tech festival', 'tech expo', 'padel', 'tennis', 'netball', 'hockey',
+  'squash', 'the musical', 'pleasure toys', 'sex toys', 'adult toys',
 ];
 
 // Softer penalties: lower the score but don't exclude on their own.
 export const SOFT_NEGATIVE = [
-  'exhibition', 'gallery opening', 'opening night', 'performance', 'show', 'screening', 'film', 'talk', 'lecture',
-  'panel', 'seminar', 'meeting', 'agm', 'fundraiser', 'gala', 'dinner', 'brunch', 'lunch', 'market', 'fair', 'party',
-  'birthday', 'year-end', 'year end', 'festive', 'christmas lunch', 'sunset', 'picnic', 'hike', 'walk', 'retreat',
-  'tasting', 'pairing', 'launch', 'competition', 'awards', 'ceremony', 'graduation', 'kids party', 'teambuilding',
+  'screening', 'film', 'lecture', 'panel', 'seminar', 'meeting', 'agm', 'fundraiser', 'gala', 'dinner', 'brunch',
+  'lunch', 'party', 'birthday', 'year-end', 'year end', 'festive', 'christmas lunch', 'sunset', 'picnic', 'hike',
+  'walk', 'retreat', 'launch', 'competition', 'awards', 'ceremony', 'graduation', 'kids party', 'teambuilding',
   'team building', 'team-building', 'corporate',
 ];
 

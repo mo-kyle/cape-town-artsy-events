@@ -9,7 +9,7 @@ const APP_ID = 'QAUIPDMSEL';
 const SEARCH_KEY = 'ec5eb43c5ca4fd2aa3883ae2c131f731'; // public, search-only key shipped in Quicket's frontend bundle
 const INDEX = 'products';
 const BASE = 'https://www.quicket.co.za';
-const MAX_DETAILS = 200;
+const MAX_DETAILS = 450;
 const CONCURRENCY = 4;
 
 async function mapLimit(items, limit, fn) {

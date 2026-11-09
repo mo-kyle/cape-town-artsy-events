@@ -17,9 +17,11 @@ const CATEGORIES = {
   1605050174: 'Family & Kids',
   1605050611: 'Nature',
   1605050623: 'Other',
+  1184156: 'Tourism & Attractions',
+  1605050624: 'Special Days',
 };
 const MAX_PAGES = 4;
-const MAX_DETAILS = 120;
+const MAX_DETAILS = 200;
 const CONCURRENCY = 4;
 const MONTHS = { jan: 0, feb: 1, mar: 2, apr: 3, may: 4, jun: 5, jul: 6, aug: 7, sep: 8, oct: 9, nov: 10, dec: 11 };
 

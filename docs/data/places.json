@@ -1,0 +1,20 @@
+{
+  "note": "Curated list of museums and galleries you can visit any time, independent of the event feed. Check each site for opening hours and current exhibitions.",
+  "places": [
+    { "name": "Zeitz MOCAA", "kind": "Museum", "area": "V&A Waterfront", "blurb": "Africa's largest museum of contemporary African art, in the converted grain silo at the Waterfront.", "url": "https://zeitzmocaa.museum/" },
+    { "name": "Norval Foundation", "kind": "Museum", "area": "Steenberg", "blurb": "Modern and contemporary South African art with a sculpture garden, restaurant and wetland walk.", "url": "https://www.norvalfoundation.org/" },
+    { "name": "Iziko South African National Gallery", "kind": "Museum", "area": "Company's Garden", "blurb": "The national art collection: historical and contemporary South African, African and European works.", "url": "https://www.iziko.org.za/museums/south-african-national-gallery" },
+    { "name": "Irma Stern Museum", "kind": "Museum", "area": "Rosebank", "blurb": "The artist's former home, kept with her studio, collections and a programme of changing exhibitions.", "url": "https://www.irmasternmuseum.co.za/" },
+    { "name": "District Six Museum", "kind": "Museum", "area": "District Six", "blurb": "Memory museum of the neighbourhood destroyed under apartheid, with tours by former residents.", "url": "https://www.districtsix.co.za/" },
+    { "name": "Iziko Slave Lodge", "kind": "Museum", "area": "City Bowl", "blurb": "One of the oldest buildings in Cape Town, telling the history of slavery at the Cape.", "url": "https://www.iziko.org.za/museums/slave-lodge" },
+    { "name": "Rupert Museum", "kind": "Museum", "area": "Stellenbosch", "blurb": "20th-century South African art from the Rupert collection, with changing exhibitions.", "url": "https://rupertmuseum.org/" },
+    { "name": "Goodman Gallery", "kind": "Gallery", "area": "Woodstock", "blurb": "Long-running contemporary gallery representing major South African and international artists.", "url": "https://www.goodman-gallery.com/" },
+    { "name": "Stevenson", "kind": "Gallery", "area": "Woodstock", "blurb": "Contemporary gallery with a strong programme of African and diaspora artists.", "url": "https://www.stevenson.info/" },
+    { "name": "SMAC Gallery", "kind": "Gallery", "area": "Woodstock", "blurb": "Contemporary South African art, with a second space in Stellenbosch.", "url": "https://www.smacgallery.com/" },
+    { "name": "WHATIFTHEWORLD", "kind": "Gallery", "area": "Woodstock", "blurb": "Contemporary gallery known for emerging and mid-career South African artists.", "url": "https://www.whatiftheworld.com/" },
+    { "name": "Everard Read Cape Town", "kind": "Gallery", "area": "V&A Waterfront", "blurb": "Established gallery for contemporary painting and sculpture, beside CIRCA.", "url": "https://www.everard-read-capetown.co.za/" },
+    { "name": "Southern Guild", "kind": "Gallery", "area": "Silo District", "blurb": "Collectible design and contemporary art from Africa.", "url": "https://southernguild.com/" },
+    { "name": "A4 Arts Foundation", "kind": "Gallery", "area": "District Six", "blurb": "Non-profit arts space with exhibitions, a library and public programmes.", "url": "https://www.a4arts.org/" },
+    { "name": "First Thursdays", "kind": "Gallery night", "area": "City Bowl & Woodstock", "blurb": "On the first Thursday of each month galleries and shops in the city centre stay open late.", "url": "https://first-thursdays.co.za/" }
+  ]
+}
