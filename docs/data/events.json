@@ -1,14 +1,14 @@
 {
- "generatedAt": "2026-11-09T10:16:06.877Z",
+ "generatedAt": "2026-11-09T10:18:11.762Z",
  "region": "Western Cape, South Africa",
  "sources": [
   {
    "id": "quicket",
    "name": "Quicket",
    "url": "https://www.quicket.co.za",
-   "fetched": 1343,
+   "fetched": 1344,
    "kept": 73,
-   "ms": 6480,
+   "ms": 10054,
    "error": null
   },
   {
@@ -17,16 +17,16 @@
    "url": "https://www.webtickets.co.za/v2/category.aspx?itemid=1605050915&city=western-cape&when=anytime",
    "fetched": 3,
    "kept": 3,
-   "ms": 3177,
+   "ms": 7232,
    "error": null
   },
   {
    "id": "eventbrite",
    "name": "Eventbrite",
    "url": "https://www.eventbrite.com/d/south-africa--cape-town/workshops--events/",
-   "fetched": 47,
+   "fetched": 0,
    "kept": 0,
-   "ms": 105103,
+   "ms": 25282,
    "error": null
   },
   {
@@ -35,7 +35,7 @@
    "url": "https://www.meetup.com/find/?location=za--Cape%20Town&source=EVENTS",
    "fetched": 106,
    "kept": 2,
-   "ms": 4527,
+   "ms": 1381,
    "error": null
   }
  ],
