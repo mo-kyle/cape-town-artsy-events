@@ -1,14 +1,14 @@
 {
- "generatedAt": "2026-11-09T10:36:26.529Z",
+ "generatedAt": "2026-11-10T11:57:11.406Z",
  "region": "Western Cape, South Africa",
  "sources": [
   {
    "id": "quicket",
    "name": "Quicket",
    "url": "https://www.quicket.co.za",
-   "fetched": 1346,
-   "kept": 162,
-   "ms": 22820,
+   "fetched": 1398,
+   "kept": 176,
+   "ms": 20927,
    "error": null
   },
   {
@@ -17,7 +17,7 @@
    "url": "https://www.webtickets.co.za/v2/category.aspx?itemid=1605050915&city=western-cape&when=anytime",
    "fetched": 16,
    "kept": 15,
-   "ms": 12453,
+   "ms": 10806,
    "error": null
   },
   {
@@ -26,16 +26,16 @@
    "url": "https://www.eventbrite.com/d/south-africa--cape-town/workshops--events/",
    "fetched": 0,
    "kept": 0,
-   "ms": 25213,
+   "ms": 25176,
    "error": null
   },
   {
    "id": "meetup",
    "name": "Meetup",
    "url": "https://www.meetup.com/find/?location=za--Cape%20Town&source=EVENTS",
-   "fetched": 111,
+   "fetched": 107,
    "kept": 2,
-   "ms": 1798,
+   "ms": 26108,
    "error": null
   }
  ],
@@ -125,7 +125,7 @@
    "label": "Rest of Western Cape"
   }
  ],
- "count": 179,
+ "count": 193,
  "events": [
   {
    "id": "webtickets:1600185548",
@@ -210,7 +210,7 @@
    "description": "The South African Museum, founded in 1825 and situated in the historic Company’s Gardens, has seen millions of visitors, attracted by the vast historical collection the museum has to offer, ranging from fossils to ancient insects and historical tools. A visit to this museum is not only culturally enriching, but the impressive natural collection will also ignite a spark of interest in learning more about the creatures with which we share our planet.\nPlease Note: Iziko Planetarium ticket purchase grants free access to the Iziko South African Museum\nPlease note: Winter Weekend Hours:\nSaturdays: 08h30 - 16h00\nLOADSHEDDING INFORMATION:\nclick here\nPlease be advised that Iziko SA museum is not…",
    "url": "https://www.webtickets.co.za/v2/event.aspx?itemid=1517169433",
    "image": "https://content.webtickets.co.za/Izikomuseum/panel_ISAM%20jpg_20230522_164638.jpg",
-   "start": "2026-11-08T22:00:00.000Z",
+   "start": "2026-11-09T22:00:00.000Z",
    "end": null,
    "allDay": true,
    "timezone": "Africa/Johannesburg",
@@ -247,7 +247,7 @@
    "description": "The Mother City’s premier public art museum, housing a vast and critically engaging collection of historical, modern and contemporary South African, African and international artworks. Selections from the Permanent Collection are rotated regularly to enable the museum to showcase a full programme of temporary exhibitions of paintings, works on paper, photography, sculpture, beadwork, textiles and architecture.\nSelections from the Permanent Collection regularly change to enable the museum to have a full programme of temporary exhibitions of paintings, works on paper, photography, sculpture, beadwork, textiles and architecture. These exhibitions provide insight into the extraordinary range of…",
    "url": "https://www.webtickets.co.za/v2/event.aspx?itemid=1527309559",
    "image": "https://content.webtickets.co.za/Izikomuseum/panel_ISANG%20jpg_20230522_163234.jpg",
-   "start": "2026-11-08T22:00:00.000Z",
+   "start": "2026-11-09T22:00:00.000Z",
    "end": null,
    "allDay": true,
    "timezone": "Africa/Johannesburg",
@@ -284,7 +284,7 @@
    "description": "As an institution committed to making a significant contribution to the development of contemporary art in Africa and its diaspora, Zeitz MOCAA features rotating temporary exhibitions and a dedicated space for its permanent Zeitz MOCAA Collection. The institution also supports educational, discursive and enrichment programmes related to its exhibitions as well as a Centre for Art Education and a project space for emerging artists.\nZeitz MOCAA is open Monday to Sunday from 10 am to 6 pm.\nAfrican Citizens can enjoy FREE entry on Africa Wednesdays, every week between 10 am to 1 pm, on presentation of a valid ID/Passport.",
    "url": "https://www.webtickets.co.za/v2/event.aspx?itemid=1467836816",
    "image": "https://content.webtickets.co.za/zeitzmocaa/panel_Zeitz_Exterior_13_cr%20Wianelle%20Briers_Belmond%20Southern%20Africa%20newsletter_20231129_124324.jpg",
-   "start": "2026-11-08T22:00:00.000Z",
+   "start": "2026-11-09T22:00:00.000Z",
    "end": null,
    "allDay": true,
    "timezone": "Africa/Johannesburg",
@@ -322,7 +322,7 @@
    "description": "The Iziko Bo-Kaap Museum is one of the earliest homes built in the Bo-Kaap area, dating back to the mid-18th century. The museum, situated in the historic area that became home to many Muslims and freed slaves after the abolition of slavery, showcases local Islamic culture and heritage. The house was declared a National Monument in 1965 and restored in the 1970s.\nPlease note: Winter Weekend Hours:\nSaturdays: 08h30 - 16h00\nLOADSHEDDING INFORMATION:\nclick here\nPlease be advised that the Iziko Bo-Kaap Museum is not operational during loadshedding.\nHOW TO SELF-RESCHEDULE TICKETS:\nClick here to view how to self-reschedule.\nFor Refunds, please email: refunds@webtickets.co.za",
    "url": "https://www.webtickets.co.za/v2/event.aspx?itemid=1527310112",
    "image": "https://content.webtickets.co.za/Izikomuseum/panel_Bokaap%20jpg_20230522_163643.jpg",
-   "start": "2026-11-08T22:00:00.000Z",
+   "start": "2026-11-09T22:00:00.000Z",
    "end": null,
    "allDay": true,
    "timezone": "Africa/Johannesburg",
@@ -351,6 +351,44 @@
    "firstSeen": "2026-11-09T10:31:44.896Z"
   },
   {
+   "id": "webtickets:1527098177",
+   "source": "webtickets",
+   "sourceName": "Webtickets",
+   "sourceId": "1527098177",
+   "title": "Iziko Planetarium and Digital Dome - Cape Town",
+   "description": "Adventure seekers, curious explorers, families, and friends visit the Iziko Planetarium and Digital Dome – Cape Town - for an unforgettable experience!\nEmbark on a multi-sensory journey through the space, science, and the human body from the comfort of your seat. From galaxies to atoms, and even the human body — explore it all through immersive 360° digital projections.\nThe Iziko Planetarium and Digital Dome – Cape Town is the most advanced digital planetarium on the African continent.\nThis world-class facility enables virtual voyages of the universe, offering an immersive experience through animation and 360° cinema.\nThis world-class facility makes virtual voyages of the universe…",
+   "url": "https://www.webtickets.co.za/v2/event.aspx?itemid=1527098177",
+   "image": "https://content.webtickets.co.za/Izikomuseum/panel_Planetarium_Media%20Event%20jpg_20230522_164904.jpg",
+   "start": "2026-11-10T07:00:00.000Z",
+   "end": null,
+   "allDay": false,
+   "timezone": "Africa/Johannesburg",
+   "venue": "Iziko South African Museum, Queen Victoria Street, Gardens, Cape Town, South Africa",
+   "address": "Iziko South African Museum, Queen Victoria Street, Gardens, Cape Town, South Africa",
+   "city": null,
+   "area": "cape-town",
+   "lat": -33.9287876,
+   "lng": 18.4150541,
+   "price": {
+    "text": "R40 – R300",
+    "amount": 40,
+    "currency": "ZAR",
+    "free": false
+   },
+   "organiser": "Izikomuseum",
+   "sourceCategories": [
+    "Education",
+    "Museums, Visitors Centers",
+    "Tourism & Attractions"
+   ],
+   "categories": [
+    "exhibitions"
+   ],
+   "score": 10,
+   "alsoOn": [],
+   "firstSeen": "2026-11-09T10:31:44.896Z"
+  },
+  {
    "id": "webtickets:1506927291",
    "source": "webtickets",
    "sourceName": "Webtickets",
@@ -359,7 +397,7 @@
    "description": "The Huguenot Memorial Museum documents the gripping tale of the ruthless persecution of the Huguenots in France and the settlement of approximately three hundred of them at The Cape of Good hope in the late seventeeth century. Although they lost their language, the Huguenots made a larger contribution to the material and social development of the settlement at the Cape than the free burghers from the Dutch Republic or the German states.\nMondays – Saturdays: 09h00 - 17h00\nSundays: 09h00 – 17h00 (October – April)\nClosed Sundays: May - September\nPublic Holidays: 09h00 – 17h00\n(Closed on 1 January, Good Friday, 25 December)\n(Last ticket sale at 16h15)",
    "url": "https://www.webtickets.co.za/v2/event.aspx?itemid=1506927291",
    "image": "https://content.webtickets.co.za/HuguenotMuseum/panel_1-Main1.jpg",
-   "start": "2026-11-09T07:00:00.000Z",
+   "start": "2026-11-10T07:00:00.000Z",
    "end": null,
    "allDay": false,
    "timezone": "Africa/Johannesburg",
@@ -389,42 +427,6 @@
    "firstSeen": "2026-11-09T10:31:44.896Z"
   },
   {
-   "id": "quicket:406959",
-   "source": "quicket",
-   "sourceName": "Quicket",
-   "sourceId": "406959",
-   "title": "Women New Moon Circle",
-   "description": "NEW MOON IN SCORPIO | INTO THE DEPTHS\nHello beautiful sisters,\nHave you ever felt that something within you is ready to change, but you are not quite sure what it is yet?This New Moon in Scorpio invites us to turn inward, meet the parts of ourselves we have been holding onto, and gently release what no longer feels aligned.Perhaps there are old patterns, fears, or versions of ourselves we are ready to outgrow. Perhaps we are simply longing to reconnect with our inner strength and make space for something new.\nTogether, we will gather in sacred sisterhood to reflect, release, set intentions, and honour the woman we are becoming.\nINTO THE DEPTHSReleasing, Reclaiming & Rising\nA space to slow…",
-   "url": "https://www.quicket.co.za/events/406959-women-new-moon-circle/",
-   "image": "https://images.quicket.co.za/Q6_247_247.jpg",
-   "start": "2026-11-09T16:30:00.000Z",
-   "end": "2026-11-09T18:00:00.000Z",
-   "allDay": false,
-   "timezone": "Africa/Johannesburg",
-   "venue": "Amara Moon Forest Sanctuary",
-   "address": "10a Connemara Drive, Cape Town, 7806, Cape Town, Western Cape, South Africa",
-   "city": "Cape Town",
-   "area": "cape-town",
-   "lat": -34.01348,
-   "lng": 18.3774185,
-   "price": {
-    "text": "R200",
-    "amount": 200,
-    "currency": "ZAR",
-    "free": false
-   },
-   "organiser": "Sacred Moon",
-   "sourceCategories": [
-    "Faith & Spirituality"
-   ],
-   "categories": [
-    "wellness"
-   ],
-   "score": 3,
-   "alsoOn": [],
-   "firstSeen": "2026-11-09T10:22:41.753Z"
-  },
-  {
    "id": "quicket:65165",
    "source": "quicket",
    "sourceName": "Quicket",
@@ -433,11 +435,10 @@
    "description": "Daily wine tours from Cape Town to Paarl and Wellington wine region.\nPrice of R1250.00 includes pickup and drop off in and around Cape Town, wine tasting fee at 4 wine estates and light lunch (own account). It excludes lunch, personal purchases and drinks.\nThis is a fun way to explore these two regions and to meet other traveler.\nYour guide will be entertaining you for the 8 hours and introduce you to the people that makes this such a special area.\nPickup is around Cape Town CBD from 08h00 and we will depart Cape Town around 09h00\nFirst winery stop will be at Fairview Winery to enjoy a cheese and wine tasting.\nSecond winery stop will be at Ridgeback Wine, which will also be the Lunch…",
    "url": "https://www.quicket.co.za/events/65165-schedule-wine-tour/",
    "image": "https://images.quicket.co.za/Q15_247_247.jpg",
-   "start": "2026-11-10T06:00:00.000Z",
+   "start": "2026-11-11T06:00:00.000Z",
    "end": null,
    "allDay": false,
    "dates": [
-    "2026-11-10T06:00:00.000Z",
     "2026-11-11T06:00:00.000Z",
     "2026-11-12T06:00:00.000Z",
     "2026-11-13T06:00:00.000Z",
@@ -766,11 +767,10 @@
    "description": "District Six was named the Sixth Municipal District of Cape Town in 1867. It was established as a mixed community of freed slaves, merchants, artisans, labourers and immigrants,\nDistrict Six was a vibrant centre with close links to the city and the port. By the beginning of the twentieth century, however, the process of removals and marginalisation had begun.\nThe first to be forced out were black South Africans who were displaced from the District in 1901. As the more prosperous moved away to the suburbs, the area became a neglected ward of the city.\nOn 11 February 1966 it was declared a white area under the Group Areas Act of 1950, and by 1982, the life of the community was over. More than…",
    "url": "https://www.quicket.co.za/events/365063-district-six-museum-november-2026-admission-tickets/",
    "image": "https://images.quicket.co.za/0893383_247_247.jpeg",
-   "start": "2026-11-10T07:00:00.000Z",
+   "start": "2026-11-11T07:00:00.000Z",
    "end": null,
    "allDay": false,
    "dates": [
-    "2026-11-10T07:00:00.000Z",
     "2026-11-11T07:00:00.000Z",
     "2026-11-12T07:00:00.000Z",
     "2026-11-13T07:00:00.000Z",
@@ -813,42 +813,41 @@
    "firstSeen": "2026-11-09T10:31:44.896Z"
   },
   {
-   "id": "webtickets:1527098177",
-   "source": "webtickets",
-   "sourceName": "Webtickets",
-   "sourceId": "1527098177",
-   "title": "Iziko Planetarium and Digital Dome - Cape Town",
-   "description": "Adventure seekers, curious explorers, families, and friends visit the Iziko Planetarium and Digital Dome – Cape Town - for an unforgettable experience!\nEmbark on a multi-sensory journey through the space, science, and the human body from the comfort of your seat. From galaxies to atoms, and even the human body — explore it all through immersive 360° digital projections.\nThe Iziko Planetarium and Digital Dome – Cape Town is the most advanced digital planetarium on the African continent.\nThis world-class facility enables virtual voyages of the universe, offering an immersive experience through animation and 360° cinema.\nThis world-class facility makes virtual voyages of the universe…",
-   "url": "https://www.webtickets.co.za/v2/event.aspx?itemid=1527098177",
-   "image": "https://content.webtickets.co.za/Izikomuseum/panel_Planetarium_Media%20Event%20jpg_20230522_164904.jpg",
-   "start": "2026-11-10T07:00:00.000Z",
-   "end": null,
+   "id": "quicket:405423",
+   "source": "quicket",
+   "sourceName": "Quicket",
+   "sourceId": "405423",
+   "title": "Nautical Fridge Magnets In Resin",
+   "description": "Bring the glossy beauty of the coast into your home with our upcoming UV Resin Nautical Fridge Magnets workshop at Canvas and Craft! Step into our cosy studio for a hands-on morning where you will design and create a gorgeous set of three coastal-inspired fridge magnets using UV resin. Whether you love sparkling ocean blues, tiny seashells, marine motifs, or soothing beach hues, this relaxing session will help you create. Enjoy guidance, all materials provided, and a community atmosphere. You will leave with three glossy handmade keepsakes that add a touch of seaside charm to any kitchen! Spaces are limited, so reserve your spot today!",
+   "url": "https://www.quicket.co.za/events/405423-nautical-fridge-magnets-in-resin/",
+   "image": "https://images.quicket.co.za/1011637_247_247.png",
+   "start": "2026-11-11T08:00:00.000Z",
+   "end": "2026-11-11T11:00:00.000Z",
    "allDay": false,
    "timezone": "Africa/Johannesburg",
-   "venue": "Iziko South African Museum, Queen Victoria Street, Gardens, Cape Town, South Africa",
-   "address": "Iziko South African Museum, Queen Victoria Street, Gardens, Cape Town, South Africa",
-   "city": null,
+   "venue": "Canvas and Craft",
+   "address": "108 Raats Drive, Table View, 7441, Cape Town, Western Cape, South Africa",
+   "city": "Cape Town",
    "area": "cape-town",
-   "lat": -33.9287876,
-   "lng": 18.4150541,
+   "lat": -33.8195763,
+   "lng": 18.5037365,
    "price": {
-    "text": "R40 – R300",
-    "amount": 40,
+    "text": "R300",
+    "amount": 300,
     "currency": "ZAR",
     "free": false
    },
-   "organiser": "Izikomuseum",
+   "organiser": "Canvas and Craft",
    "sourceCategories": [
-    "Education",
-    "Museums, Visitors Centers",
-    "Tourism & Attractions"
+    "Arts & Culture"
    ],
    "categories": [
-    "exhibitions"
+    "jewellery",
+    "craft"
    ],
-   "score": 10,
+   "score": 4,
    "alsoOn": [],
-   "firstSeen": "2026-11-09T10:31:44.896Z"
+   "firstSeen": "2026-11-09T10:22:41.753Z"
   },
   {
    "id": "quicket:364591",
@@ -859,11 +858,10 @@
    "description": "The Museum of Dogs is dedicated to celebrating dogs and exploring their role in history as comforters, friends, and workers through captivating stories and interactive displays. Proudly based in Cape Town, we invite visitors to join us in honouring these loyal companions.\nYou can buy tickets to visit the Museum online or onsite. Buy your ticket online and enjoy a FREE beer, glass of wine, or cool drink on us!",
    "url": "https://www.quicket.co.za/events/364591-museum-of-dogs-entry-tickets/",
    "image": "https://images.quicket.co.za/0916474_247_247.jpeg",
-   "start": "2026-11-10T08:00:00.000Z",
+   "start": "2026-11-11T08:00:00.000Z",
    "end": null,
    "allDay": false,
    "dates": [
-    "2026-11-10T08:00:00.000Z",
     "2026-11-11T08:00:00.000Z",
     "2026-11-12T08:00:00.000Z",
     "2026-11-13T08:00:00.000Z",
@@ -1070,11 +1068,10 @@
    "description": "Step into the world of Brush & Brew at Life Is Good Café — where art, connection, and flavour meet under one roof in the heart of Woodstock.\nThis is more than a paint session. It’s a curated creative escape designed for those who want to slow down, sip intentionally, and rediscover the joy of creating with their own hands.\nLed by an experienced host, the session is relaxed, beginner-friendly, and welcoming to seasoned creatives alike. You’ll be guided step-by-step through a featured artwork while enjoying a freshly prepared meal and drink from our halal-friendly café.\nWhether you’re celebrating a birthday, planning a date, hosting a team-building session, or simply exploring Cape Town’s…",
    "url": "https://www.quicket.co.za/events/359091-brush-brew-sip-paint-experience-at-life-is-good-caf-woodstock-cape-town/",
    "image": "https://images.quicket.co.za/0879028_247_247.jpeg",
-   "start": "2026-11-10T09:00:00.000Z",
+   "start": "2026-11-11T09:00:00.000Z",
    "end": null,
    "allDay": false,
    "dates": [
-    "2026-11-10T09:00:00.000Z",
     "2026-11-11T09:00:00.000Z",
     "2026-11-12T09:00:00.000Z",
     "2026-11-13T09:00:00.000Z",
@@ -1341,12 +1338,10 @@
    "description": "All Aboard, departing from The Two Oceans Aquarium!\nExperience SA’s only all-in-one land & water tour from the best seat in the house!\nThe amphibious Waterfront Duck literally blows every other tour you’ve ever had out of the water – and lets you experience the highlights of Cape Town's Waterfront precinct by bus and boat in the same vehicle – an awesome adventure for the whole family!\nWhether it’s the juicy story-rich history or the amazing ecology of the area, our knowledgeable tour guides (or “ConDUCKtors”, as we call them) will entertain you with unique tales and interesting facts that will engage both young and old, whether you are a local Capetonian, a South African visitor from out…",
    "url": "https://www.quicket.co.za/events/334290-the-two-oceans-aquarium-the-waterfront-duck-co-tours-october-december-2026/",
    "image": "https://images.quicket.co.za/0901190_247_247.jpeg",
-   "start": "2026-11-10T11:00:00.000Z",
+   "start": "2026-11-11T11:00:00.000Z",
    "end": null,
    "allDay": false,
    "dates": [
-    "2026-11-10T11:00:00.000Z",
-    "2026-11-10T12:30:00.000Z",
     "2026-11-11T11:00:00.000Z",
     "2026-11-11T12:30:00.000Z",
     "2026-11-12T11:00:00.000Z",
@@ -1518,43 +1513,6 @@
    "score": 5,
    "alsoOn": [],
    "firstSeen": "2026-11-09T10:31:44.896Z"
-  },
-  {
-   "id": "quicket:405423",
-   "source": "quicket",
-   "sourceName": "Quicket",
-   "sourceId": "405423",
-   "title": "Nautical Fridge Magnets In Resin",
-   "description": "Bring the glossy beauty of the coast into your home with our upcoming UV Resin Nautical Fridge Magnets workshop at Canvas and Craft! Step into our cosy studio for a hands-on morning where you will design and create a gorgeous set of three coastal-inspired fridge magnets using UV resin. Whether you love sparkling ocean blues, tiny seashells, marine motifs, or soothing beach hues, this relaxing session will help you create. Enjoy guidance, all materials provided, and a community atmosphere. You will leave with three glossy handmade keepsakes that add a touch of seaside charm to any kitchen! Spaces are limited, so reserve your spot today!",
-   "url": "https://www.quicket.co.za/events/405423-nautical-fridge-magnets-in-resin/",
-   "image": "https://images.quicket.co.za/1011637_247_247.png",
-   "start": "2026-11-11T08:00:00.000Z",
-   "end": "2026-11-11T11:00:00.000Z",
-   "allDay": false,
-   "timezone": "Africa/Johannesburg",
-   "venue": "Canvas and Craft",
-   "address": "108 Raats Drive, Table View, 7441, Cape Town, Western Cape, South Africa",
-   "city": "Cape Town",
-   "area": "cape-town",
-   "lat": -33.8195763,
-   "lng": 18.5037365,
-   "price": {
-    "text": "R300",
-    "amount": 300,
-    "currency": "ZAR",
-    "free": false
-   },
-   "organiser": "Canvas and Craft",
-   "sourceCategories": [
-    "Arts & Culture"
-   ],
-   "categories": [
-    "jewellery",
-    "craft"
-   ],
-   "score": 4,
-   "alsoOn": [],
-   "firstSeen": "2026-11-09T10:22:41.753Z"
   },
   {
    "id": "quicket:406539",
@@ -2270,12 +2228,12 @@
    "end": "2026-11-14T14:00:00.000Z",
    "allDay": false,
    "timezone": "Africa/Johannesburg",
-   "venue": "Cape Town Creative Academy",
-   "address": "2nd Floor, Silo 5, South Arm Road, Victoria & Alfred Waterfront, 8001, Cape Town, Western Cape, South Africa",
+   "venue": "CTCA (Cruise Terminal - Next to Beluga)",
+   "address": "Duncan Road, Victoria & Alfred Waterfront, 8001, Cape Town, Western Cape, South Africa",
    "city": "Cape Town",
    "area": "cape-town",
-   "lat": -33.90908,
-   "lng": 18.4229336,
+   "lat": -33.91104,
+   "lng": 18.42595,
    "price": {
     "text": "R1500",
     "amount": 1500,
@@ -2306,9 +2264,9 @@
    "end": "2026-11-14T13:00:00.000Z",
    "allDay": false,
    "timezone": "Africa/Johannesburg",
-   "venue": "Luka Vineyards",
-   "address": "Just off the N2 between Knysna and Plettenberg Bay Harkerville, Plettenberg Bay, 6604, South Africa, 6604, Plettenberg Bay, Western Cape, South Africa",
-   "city": "Plettenberg Bay",
+   "venue": "To be announced",
+   "address": "Western Cape, South Africa",
+   "city": null,
    "area": "western-cape",
    "lat": -34.03823,
    "lng": 23.2671642,
@@ -4214,6 +4172,42 @@
    "firstSeen": "2026-11-09T10:31:44.896Z"
   },
   {
+   "id": "quicket:407686",
+   "source": "quicket",
+   "sourceName": "Quicket",
+   "sourceId": "407686",
+   "title": "THE SCENT JOURNEY | Woolworths × GQ",
+   "description": "THE SCENT JOURNEYStyle. Scent. Taste. Identity.\nWhat does your fragrance say about you?\nJoin Woolworths × GQ South Africa for an exclusive evening where fragrance, fashion, food and personality come together.Hosted at Woolworths Tygervalley, The Scent Journey takes guests through three distinct fragrance personalities, each with its own story, style and sensory world.\nDiscover:ISSEY MIYAKE — THE MODERN MINIMALISTClean. Refined. Elemental.\nNARCISO RODRIGUEZ — THE MAGNETIC MANSensual. Sophisticated. Intimate.\nZADIG & VOLTAIRE — THE REBELBold. Confident. Edgy.\nYour journey will take you beyond simply smelling a fragrance. Expect a Woolworths Menswear styling experience, an immersive fragrance…",
+   "url": "https://www.quicket.co.za/events/407686-the-scent-journey-woolworths-gq/",
+   "image": "https://images.quicket.co.za/Q15_247_247.jpg",
+   "start": "2026-11-26T16:00:00.000Z",
+   "end": "2026-11-26T18:00:00.000Z",
+   "allDay": false,
+   "timezone": "Africa/Johannesburg",
+   "venue": "Woolworths Tyger Valley",
+   "address": "Bill Bezuidenhout Avenue, Bellville Park, 7530, Cape Town, Western Cape, South Africa",
+   "city": "Cape Town",
+   "area": "cape-town",
+   "lat": -33.87538,
+   "lng": 18.6348343,
+   "price": {
+    "text": "R350",
+    "amount": 350,
+    "currency": "ZAR",
+    "free": false
+   },
+   "organiser": "Prestige Cosmetics",
+   "sourceCategories": [
+    "Other"
+   ],
+   "categories": [
+    "scent"
+   ],
+   "score": 6,
+   "alsoOn": [],
+   "firstSeen": "2026-11-10T11:57:11.406Z"
+  },
+  {
    "id": "quicket:403886",
    "source": "quicket",
    "sourceName": "Quicket",
@@ -4593,6 +4587,42 @@
    "firstSeen": "2026-11-09T10:31:44.896Z"
   },
   {
+   "id": "quicket:380765",
+   "source": "quicket",
+   "sourceName": "Quicket",
+   "sourceId": "380765",
+   "title": "Vision Board Workshop Cape Town",
+   "description": "Dream. Create. Achieve.\nAn intentional day of reflection, connection, clarity and vision.\nAs the year comes to a end, when was the last time you gave yourself the space to pause, reflect on how far you’ve come, and intentionally plan where you’re going?\nBetween the demands of work, business, family and everyday life, it’s easy to move from one year into the next without taking the time to reconnect with ourselves, acknowledging our growth or becoming intentional about the future we desire and planning for it.\nWe wait until we've set foot into the new year, to start thinking of what we would like to achieve in the new year. Without having given it much thought, preparation, strategizing and…",
+   "url": "https://www.quicket.co.za/events/380765-vision-board-workshop-cape-town/",
+   "image": "https://images.quicket.co.za/1018052_247_247.jpeg",
+   "start": "2026-11-28T09:00:00.000Z",
+   "end": "2026-11-28T12:00:00.000Z",
+   "allDay": false,
+   "timezone": "Africa/Johannesburg",
+   "venue": "Westlake Shopping Centre",
+   "address": "Westlake Drive, Westlake, 7945, Cape Town, Western Cape, South Africa",
+   "city": "Cape Town",
+   "area": "cape-town",
+   "lat": -34.07986,
+   "lng": 18.4381161,
+   "price": {
+    "text": "R385",
+    "amount": 385,
+    "currency": "ZAR",
+    "free": false
+   },
+   "organiser": "Confidence Academy",
+   "sourceCategories": [
+    "Other"
+   ],
+   "categories": [
+    "wellness"
+   ],
+   "score": 4.5,
+   "alsoOn": [],
+   "firstSeen": "2026-11-10T11:57:11.406Z"
+  },
+  {
    "id": "quicket:401907",
    "source": "quicket",
    "sourceName": "Quicket",
@@ -4884,6 +4914,43 @@
    "score": 6,
    "alsoOn": [],
    "firstSeen": "2026-11-09T10:22:41.753Z"
+  },
+  {
+   "id": "quicket:393597",
+   "source": "quicket",
+   "sourceName": "Quicket",
+   "sourceId": "393597",
+   "title": "Wreaths by the Sea - A festive wreath-making workshop with Dog Rose Studio at Ohana Cafe, Kalk Bay",
+   "description": "Craft your own beautiful, festive wreath at the water's edge in Kalk Bay. Delicious snack platters, premium florals, and idyllic ocean views.\nThere's something lovely about slowing down and making something with your hands as the festive season approaches. Join us on the oceanfront deck at Ohana Cafe in Kalk Bay for a relaxed evening of wreath-making, surrounded by beautiful seasonal foliage, fynbos and the sounds of the sea. Enjoy a delicious sharing platter, specially prepared by Ohana for our workshop, and a complimentary glass of bubbles as you settle in and get creative.\nKath, from Dog Rose Studio, will guide you through designing and building your own gorgeous holiday wreath from…",
+   "url": "https://www.quicket.co.za/events/393597-wreaths-by-the-sea-a-festive-wreath-making-workshop-with-dog-rose-studio-at-oha/",
+   "image": "https://images.quicket.co.za/Q4_247_247.jpg",
+   "start": "2026-11-28T15:00:00.000Z",
+   "end": "2026-11-28T17:30:00.000Z",
+   "allDay": false,
+   "timezone": "Africa/Johannesburg",
+   "venue": "Ohana Beach Cafe & Events",
+   "address": "23 Main Road, Kalk Bay, 7946, Cape Town, Western Cape, South Africa",
+   "city": "Cape Town",
+   "area": "cape-town",
+   "lat": -34.1254044,
+   "lng": 18.45077,
+   "price": {
+    "text": "R950 – R1500",
+    "amount": 950,
+    "currency": "ZAR",
+    "free": false
+   },
+   "organiser": "Dog Rose Studio",
+   "sourceCategories": [
+    "Hobbies & Interests"
+   ],
+   "categories": [
+    "floral",
+    "textiles"
+   ],
+   "score": 5.5,
+   "alsoOn": [],
+   "firstSeen": "2026-11-10T11:57:11.406Z"
   },
   {
    "id": "meetup:317052377",
@@ -5201,6 +5268,43 @@
    "firstSeen": "2026-11-09T10:31:44.896Z"
   },
   {
+   "id": "quicket:407956",
+   "source": "quicket",
+   "sourceName": "Quicket",
+   "sourceId": "407956",
+   "title": "Paint Your Own Christmas Tree Ornaments",
+   "description": "Merry Christmas! Get into the festive spirit at Peppermint Pottery and paint three of our cutest ceramic Christmas trees to hang on your own tree.\nPick your colours, add your own patterns and sparkle, and we'll take care of the glazing and firing. Pottery lasts forever, so these little trees will come out every December as a precious memory of the day you made them.\nA lovely festive outing for families, friends and grandparents with grandkids.",
+   "url": "https://www.quicket.co.za/events/407956-paint-your-own-christmas-tree-ornaments/",
+   "image": "https://images.quicket.co.za/1021158_247_247.png",
+   "start": "2026-12-04T09:00:00.000Z",
+   "end": "2026-12-04T11:00:00.000Z",
+   "allDay": false,
+   "timezone": "Africa/Johannesburg",
+   "venue": "Peppermint Pottery",
+   "address": "Harbour Road 31, 7195, Kleinmond, Western Cape, South Africa",
+   "city": "Kleinmond",
+   "area": "western-cape",
+   "lat": -34.3438034,
+   "lng": 19.0132542,
+   "price": {
+    "text": "R200",
+    "amount": 200,
+    "currency": "ZAR",
+    "free": false
+   },
+   "organiser": "Peppermint Pottery Studios",
+   "sourceCategories": [
+    "Hobbies & Interests"
+   ],
+   "categories": [
+    "pottery",
+    "painting"
+   ],
+   "score": 6.5,
+   "alsoOn": [],
+   "firstSeen": "2026-11-10T11:57:11.406Z"
+  },
+  {
    "id": "quicket:399796",
    "source": "quicket",
    "sourceName": "Quicket",
@@ -5288,7 +5392,7 @@
    "lat": -33.799015,
    "lng": 18.6239872,
    "price": {
-    "text": "Free – R499",
+    "text": "Free – R550",
     "amount": 0,
     "currency": "ZAR",
     "free": false,
@@ -5413,6 +5517,42 @@
    "score": 10,
    "alsoOn": [],
    "firstSeen": "2026-11-09T10:22:41.753Z"
+  },
+  {
+   "id": "quicket:390277",
+   "source": "quicket",
+   "sourceName": "Quicket",
+   "sourceId": "390277",
+   "title": "Creating Space: A Tactile Journaling Workshop",
+   "description": "A gentle, guided and and hands on journaling workshop that's all about creating space for yourself.\nWe'll be using flow writing, visualisation, and sensory journaling to help you slow down and access your creativity all the while discovering the benefits of journaling.\nSuitable for all experience levels.\nWe'll be doing a mixture of writing and creative journaling. All materials are included (including paper, cardboard and writing stationery), but please bring along a favourite notebook and pen if you'd like to write in that too.",
+   "url": "https://www.quicket.co.za/events/390277-creating-space-a-tactile-journaling-workshop/",
+   "image": "https://images.quicket.co.za/1020818_247_247.png",
+   "start": "2026-12-05T08:00:00.000Z",
+   "end": "2026-12-05T09:30:00.000Z",
+   "allDay": false,
+   "timezone": "Africa/Johannesburg",
+   "venue": "Khamissa Arts Festival, Centre for Creative Education",
+   "address": "4 Victoria Road, Plumstead, 7800, Cape Town, Western Cape, South Africa",
+   "city": "Cape Town",
+   "area": "cape-town",
+   "lat": -34.02412,
+   "lng": 18.4683437,
+   "price": {
+    "text": "R180",
+    "amount": 180,
+    "currency": "ZAR",
+    "free": false
+   },
+   "organiser": "Words Rising",
+   "sourceCategories": [
+    "Hobbies & Interests"
+   ],
+   "categories": [
+    "paper"
+   ],
+   "score": 7,
+   "alsoOn": [],
+   "firstSeen": "2026-11-10T11:57:11.406Z"
   },
   {
    "id": "quicket:405739",
@@ -5562,6 +5702,43 @@
    "firstSeen": "2026-11-09T10:31:44.896Z"
   },
   {
+   "id": "quicket:407985",
+   "source": "quicket",
+   "sourceName": "Quicket",
+   "sourceId": "407985",
+   "title": "Paint Your Own Christmas Tree Ornaments",
+   "description": "Merry Christmas! Get into the festive spirit at Peppermint Pottery and paint three of our cutest ceramic Christmas trees to hang on your own tree.\nPick your colours, add your own patterns and sparkle, and we'll take care of the glazing and firing. Pottery lasts forever, so these little trees will come out every December as a precious memory of the day you made them.\nA lovely festive outing for families, friends and grandparents with grandkids.",
+   "url": "https://www.quicket.co.za/events/407985-paint-your-own-christmas-tree-ornaments/",
+   "image": "https://images.quicket.co.za/Q9_247_247.jpg",
+   "start": "2026-12-05T09:00:00.000Z",
+   "end": "2026-12-05T11:00:00.000Z",
+   "allDay": false,
+   "timezone": "Africa/Johannesburg",
+   "venue": "Peppermint Pottery",
+   "address": "Harbour Road 31, 7195, Kleinmond, Western Cape, South Africa",
+   "city": "Kleinmond",
+   "area": "western-cape",
+   "lat": -34.3438034,
+   "lng": 19.0132542,
+   "price": {
+    "text": "R200",
+    "amount": 200,
+    "currency": "ZAR",
+    "free": false
+   },
+   "organiser": "Peppermint Pottery Studios",
+   "sourceCategories": [
+    "Hobbies & Interests"
+   ],
+   "categories": [
+    "pottery",
+    "painting"
+   ],
+   "score": 6.5,
+   "alsoOn": [],
+   "firstSeen": "2026-11-10T11:57:11.406Z"
+  },
+  {
    "id": "webtickets:1602326745",
    "source": "webtickets",
    "sourceName": "Webtickets",
@@ -5597,6 +5774,43 @@
    "score": 7,
    "alsoOn": [],
    "firstSeen": "2026-11-09T10:31:44.896Z"
+  },
+  {
+   "id": "quicket:407715",
+   "source": "quicket",
+   "sourceName": "Quicket",
+   "sourceId": "407715",
+   "title": "Wreaths by the Sea - A festive wreath-making workshop with Dog Rose Studio at Ohana Cafe, Kalk Bay (copy)",
+   "description": "Craft your own beautiful, festive wreath at the water's edge in Kalk Bay. Delicious snack platters, premium florals, and idyllic ocean views.\nThere's something lovely about slowing down and making something with your hands as the festive season approaches. Join us on the oceanfront deck at Ohana Cafe in Kalk Bay for a relaxed evening of wreath-making, surrounded by beautiful seasonal foliage, fynbos and the sounds of the sea. Enjoy a delicious sharing platter, specially prepared by Ohana for our workshop, and a complimentary glass of bubbles as you settle in and get creative.\nKath, from Dog Rose Studio, will guide you through designing and building your own gorgeous holiday wreath from…",
+   "url": "https://www.quicket.co.za/events/407715-wreaths-by-the-sea-a-festive-wreath-making-workshop-with-dog-rose-studio-at-oha/",
+   "image": "https://images.quicket.co.za/1020621_247_247.jpeg",
+   "start": "2026-12-05T15:00:00.000Z",
+   "end": "2026-12-05T17:30:00.000Z",
+   "allDay": false,
+   "timezone": "Africa/Johannesburg",
+   "venue": "Ohana Beach Cafe & Events",
+   "address": "23 Main Road, Kalk Bay, 7946, Cape Town, Western Cape, South Africa",
+   "city": "Cape Town",
+   "area": "cape-town",
+   "lat": -34.1254044,
+   "lng": 18.45077,
+   "price": {
+    "text": "R950 – R1452",
+    "amount": 950,
+    "currency": "ZAR",
+    "free": false
+   },
+   "organiser": "Dog Rose Studio",
+   "sourceCategories": [
+    "Hobbies & Interests"
+   ],
+   "categories": [
+    "floral",
+    "textiles"
+   ],
+   "score": 5.5,
+   "alsoOn": [],
+   "firstSeen": "2026-11-10T11:57:11.406Z"
   },
   {
    "id": "quicket:406046",
@@ -5745,6 +5959,43 @@
    "firstSeen": "2026-11-09T10:31:44.896Z"
   },
   {
+   "id": "quicket:407987",
+   "source": "quicket",
+   "sourceName": "Quicket",
+   "sourceId": "407987",
+   "title": "Paint Your Own Christmas Tree Ornaments Sunday",
+   "description": "Merry Christmas! Get into the festive spirit at Peppermint Pottery and paint three of our cutest ceramic Christmas trees to hang on your own tree.\nPick your colours, add your own patterns and sparkle, and we'll take care of the glazing and firing. Pottery lasts forever, so these little trees will come out every December as a precious memory of the day you made them.\nA lovely festive outing for families, friends and grandparents with grandkids.",
+   "url": "https://www.quicket.co.za/events/407987-paint-your-own-christmas-tree-ornaments-sunday/",
+   "image": "https://images.quicket.co.za/1021239_247_247.png",
+   "start": "2026-12-06T09:00:00.000Z",
+   "end": "2026-12-06T11:00:00.000Z",
+   "allDay": false,
+   "timezone": "Africa/Johannesburg",
+   "venue": "Peppermint Pottery",
+   "address": "Harbour Road 31, 7195, Kleinmond, Western Cape, South Africa",
+   "city": "Kleinmond",
+   "area": "western-cape",
+   "lat": -34.3438034,
+   "lng": 19.0132542,
+   "price": {
+    "text": "R200",
+    "amount": 200,
+    "currency": "ZAR",
+    "free": false
+   },
+   "organiser": "Peppermint Pottery Studios",
+   "sourceCategories": [
+    "Hobbies & Interests"
+   ],
+   "categories": [
+    "pottery",
+    "painting"
+   ],
+   "score": 6.5,
+   "alsoOn": [],
+   "firstSeen": "2026-11-10T11:57:11.406Z"
+  },
+  {
    "id": "quicket:367861",
    "source": "quicket",
    "sourceName": "Quicket",
@@ -5863,7 +6114,7 @@
    "sourceName": "Quicket",
    "sourceId": "406083",
    "title": "PRINT, PLAY & DISCOVER CYANOTYPE",
-   "description": "A magical morning of art, play and creative discovery!\nA playful introduction to the magic of printing with sunlight!\nJoin artists Mandy Johnston and Adéle Prins for a relaxed, experimental morning at Mothership Studios in Fish Hoek.\nDiscover the beautiful blue world of cyanotype, one of the earliest photographic processes, using sunlight and light-sensitive chemicals to create unique prints.\nWhat will we do?Discover the magic of cyanotype printing while learning the techniques behind this fascinating photographic process!\nWe'll guide you through the entire process, from mixing the chemicals and coating your own paper to preparing compositions, conducting exposure tests, exposing your…",
+   "description": "A magical afternoon of art, play and creative discovery!\nA playful introduction to the magic of printing with sunlight!\nJoin artists Mandy Johnston and Adéle Prins for a relaxed, experimental morning at Mothership Studios in Fish Hoek.\nDiscover the beautiful blue world of cyanotype, one of the earliest photographic processes, using sunlight and light-sensitive chemicals to create unique prints.\nWhat will we do?Discover the magic of cyanotype printing while learning the techniques behind this fascinating photographic process!\nWe'll guide you through the entire process, from mixing the chemicals and coating your own paper to preparing compositions, conducting exposure tests, exposing your…",
    "url": "https://www.quicket.co.za/events/406083-print-play-discover-cyanotype/",
    "image": "https://images.quicket.co.za/1013515_247_247.png",
    "start": "2026-12-11T11:30:00.000Z",
@@ -5930,6 +6181,40 @@
    "score": 7,
    "alsoOn": [],
    "firstSeen": "2026-11-09T10:22:41.753Z"
+  },
+  {
+   "id": "quicket:407312",
+   "source": "quicket",
+   "sourceName": "Quicket",
+   "sourceId": "407312",
+   "title": "Gingerbread house making",
+   "description": "Join in the christmas cheer and let the kids enjoy making a gingerbread house that they can take home to enjoy.This ticket includes: Build and decorate your own gingerbread house. chicken strips and chips for each child and a mini milkshake30 mins of playtime at Giggles and Grow playtime",
+   "url": "https://www.quicket.co.za/events/407312-gingerbread-house-making/",
+   "image": "https://images.quicket.co.za/1020572_247_247.png",
+   "start": "2026-12-11T14:00:00.000Z",
+   "end": "2026-12-11T15:00:00.000Z",
+   "allDay": false,
+   "timezone": "Africa/Johannesburg",
+   "venue": "Giggles and Grow Play Studio Table Bay Mall",
+   "address": "Corner or Berkshire Boulevard and R27 Sunningdale, Cape Farms, Cape Town, 7441, South Africa, Cape Farms, 7441, Cape Town, Western Cape, South Africa",
+   "city": "Cape Town",
+   "area": "cape-town",
+   "lat": -33.78695,
+   "lng": 18.4782276,
+   "price": {
+    "text": "R400",
+    "amount": 400,
+    "currency": "ZAR",
+    "free": false
+   },
+   "organiser": "Giggles and Grow",
+   "sourceCategories": [],
+   "categories": [
+    "cooking"
+   ],
+   "score": 3,
+   "alsoOn": [],
+   "firstSeen": "2026-11-10T11:57:11.406Z"
   },
   {
    "id": "quicket:401260",
@@ -6188,6 +6473,42 @@
    "firstSeen": "2026-11-09T10:22:41.753Z"
   },
   {
+   "id": "quicket:402244",
+   "source": "quicket",
+   "sourceName": "Quicket",
+   "sourceId": "402244",
+   "title": "Japanese Whiskey Tasting",
+   "description": "Japanese Whisky Tasting at Veld & Vine Bistro\nJoin us for an evening of discovery and refined flavour as we explore the art of Japanese Whisky.\nDate: Saturday, 12 December 2026Time: 18:00Cost: R200 per person\nGuided through four exceptional expressions, each with its own distinct character and story:Nikka From the Barrel - Rich, bold and full-bodiedSuntory Toki - Light, silky and delicately balancedNikka Yoichi Single Malt - Peaty, powerful and coastalNikka Miyagikyo Single Malt - Elegant, fruity and floral\nWhether you are a seasoned whisky lover or new to the world of Japanese whisky, this is an evening not to be missed.Spaces are limited — booking is essential.",
+   "url": "https://www.quicket.co.za/events/402244-japanese-whiskey-tasting/",
+   "image": "https://images.quicket.co.za/1020624_247_247.jpeg",
+   "start": "2026-12-12T16:00:00.000Z",
+   "end": "2026-12-12T17:00:00.000Z",
+   "allDay": false,
+   "timezone": "Africa/Johannesburg",
+   "venue": "Veld & Vine Bistro",
+   "address": "5 Phyllis Road, Claremont, 7708, Cape Town, Western Cape, South Africa",
+   "city": "Cape Town",
+   "area": "cape-town",
+   "lat": -33.9909439,
+   "lng": 18.4599743,
+   "price": {
+    "text": "R200",
+    "amount": 200,
+    "currency": "ZAR",
+    "free": false
+   },
+   "organiser": "Veld and Vine Bistro",
+   "sourceCategories": [
+    "Food & Drink"
+   ],
+   "categories": [
+    "tastings"
+   ],
+   "score": 6,
+   "alsoOn": [],
+   "firstSeen": "2026-11-10T11:57:11.406Z"
+  },
+  {
    "id": "quicket:394034",
    "source": "quicket",
    "sourceName": "Quicket",
@@ -6274,8 +6595,8 @@
    "end": "2026-12-16T13:30:00.000Z",
    "allDay": false,
    "timezone": "Africa/Johannesburg",
-   "venue": "Herschel Walk",
-   "address": "Herschel Walk, Wynberg, Cape Town, Western Cape, South Africa",
+   "venue": "1 Stuartfield Avenue, Wynberg Upper, Cape Town, 7800",
+   "address": "Wynberg Boys High (Hershel Walk Entrance), Wynberg, Cape Town, Western Cape, South Africa",
    "city": "Cape Town",
    "area": "cape-town",
    "lat": -33.9959335,
@@ -6368,6 +6689,43 @@
    "score": 3,
    "alsoOn": [],
    "firstSeen": "2026-11-09T10:22:41.753Z"
+  },
+  {
+   "id": "quicket:407988",
+   "source": "quicket",
+   "sourceName": "Quicket",
+   "sourceId": "407988",
+   "title": "Leaf-Print Christmas Décor with Clay",
+   "description": "The perfect holiday activity! Get creative in our studio as we head outside to pick our favourite leaves, then learn how to press them into clay to leave beautiful natural prints.\nWe'll cut our clay into festive shapes, and once we've glazed your pieces in soft blues, whites and greens and fired them, you'll have your own handmade décor to keep forever.\nPlease note: there is no painting in this session.",
+   "url": "https://www.quicket.co.za/events/407988-leaf-print-christmas-dcor-with-clay/",
+   "image": "https://images.quicket.co.za/1021215_247_247.png",
+   "start": "2026-12-16T09:00:00.000Z",
+   "end": "2026-12-16T11:00:00.000Z",
+   "allDay": false,
+   "timezone": "Africa/Johannesburg",
+   "venue": "Peppermint Pottery",
+   "address": "Harbour Road 31, 7195, Kleinmond, Western Cape, South Africa",
+   "city": "Kleinmond",
+   "area": "western-cape",
+   "lat": -34.3438034,
+   "lng": 19.0132542,
+   "price": {
+    "text": "R300",
+    "amount": 300,
+    "currency": "ZAR",
+    "free": false
+   },
+   "organiser": "Peppermint Pottery Studios",
+   "sourceCategories": [
+    "Hobbies & Interests"
+   ],
+   "categories": [
+    "pottery",
+    "craft"
+   ],
+   "score": 6.5,
+   "alsoOn": [],
+   "firstSeen": "2026-11-10T11:57:11.406Z"
   },
   {
    "id": "quicket:405938",
@@ -8046,6 +8404,42 @@
    "firstSeen": "2026-11-09T10:31:44.896Z"
   },
   {
+   "id": "quicket:395341",
+   "source": "quicket",
+   "sourceName": "Quicket",
+   "sourceId": "395341",
+   "title": "Sips & Slices",
+   "description": "Sips & Slices ????\nGood wine. Great pizza. Even better company.\nJoin Chim’s Wine Tasting Events for Sips & Slices, an evening dedicated to exceptional wine, delicious pizza and unforgettable company. Set against the beautiful backdrop of Lord Charles Hotel in Somerset West, this experience brings together wine lovers, food enthusiasts and those who simply enjoy a good night out. Explore a selection of wines from 14 participating wineries, discover new favourites and enjoy a full pizza of your choice, included in your ticket. Expect a vibrant atmosphere with DJ entertainment, a red carpet experience, professional photography and plenty of opportunities to socialise, connect and enjoy the…",
+   "url": "https://www.quicket.co.za/events/395341-sips-slices/",
+   "image": "https://images.quicket.co.za/Q11_247_247.jpg",
+   "start": "2027-03-06T16:00:00.000Z",
+   "end": "2027-03-06T19:00:00.000Z",
+   "allDay": false,
+   "timezone": "Africa/Johannesburg",
+   "venue": "Lord Charles Hotel, Somerset West, a Tribute Portfolio Hotel",
+   "address": "Main Road, Heldervue, 7130, Cape Town, Western Cape, South Africa",
+   "city": "Cape Town",
+   "area": "cape-town",
+   "lat": -34.0682755,
+   "lng": 18.8235531,
+   "price": {
+    "text": "R395",
+    "amount": 395,
+    "currency": "ZAR",
+    "free": false
+   },
+   "organiser": "Chim's Wine Tasting Events",
+   "sourceCategories": [
+    "Food & Drink"
+   ],
+   "categories": [
+    "tastings"
+   ],
+   "score": 3,
+   "alsoOn": [],
+   "firstSeen": "2026-11-10T11:57:11.406Z"
+  },
+  {
    "id": "quicket:397301",
    "source": "quicket",
    "sourceName": "Quicket",
@@ -8082,6 +8476,78 @@
    "score": 8,
    "alsoOn": [],
    "firstSeen": "2026-11-09T10:22:41.753Z"
+  },
+  {
+   "id": "quicket:407924",
+   "source": "quicket",
+   "sourceName": "Quicket",
+   "sourceId": "407924",
+   "title": "KARMA FEST 2027",
+   "description": "KARMA FEST 2027: SEVEN COLLECTIVES. ONE BANNER. ONE UNFORGETTABLE WEEKEND! ?? ?? ??\nGarden Route Bass Proudly Presents:\nK.A.R.M.A.\nA 3-Day Music Festival & Skate Park Experience\n?? 19 - 21 March 2027\n?? La Bosca, SedgefieldSeven of the coast's most visionary brands are uniting under one banner to create one very special and unique experience.\nIn proud partnership with:\nRawFlex | Between Realms | Veldfire Records | Stoned Oxygen | Vibrations Media | Avada Tattoos\nThis isn't just a festival; it's a collaborative movement. We are giving up the space for each individual brand to do what they do best, the way that they do it best.\nThree days. Three distinct takeovers. Every crew is bringing…",
+   "url": "https://www.quicket.co.za/events/407924-karma-fest-2027/",
+   "image": "https://images.quicket.co.za/1021059_247_247.jpeg",
+   "start": "2027-03-19T13:00:00.000Z",
+   "end": "2027-03-21T16:00:00.000Z",
+   "allDay": false,
+   "timezone": "Africa/Johannesburg",
+   "venue": "La Bosca Restaurant & Wedding Venue | Garden Route | Knysna",
+   "address": "Barrington Road, 6572, Sedgefield, Western Cape, South Africa",
+   "city": "Sedgefield",
+   "area": "western-cape",
+   "lat": -33.9641228,
+   "lng": 22.8738976,
+   "price": {
+    "text": "R300",
+    "amount": 300,
+    "currency": "ZAR",
+    "free": false
+   },
+   "organiser": "Garden Route Bass",
+   "sourceCategories": [
+    "Music"
+   ],
+   "categories": [
+    "festivals"
+   ],
+   "score": 5.5,
+   "alsoOn": [],
+   "firstSeen": "2026-11-10T11:57:11.406Z"
+  },
+  {
+   "id": "quicket:404754",
+   "source": "quicket",
+   "sourceName": "Quicket",
+   "sourceId": "404754",
+   "title": "Cape Town International Jazz Festival 2027",
+   "description": "The wait is over. The Cape Town International Jazz Festival returns with a fresh format.\nFrom 19 to 21 March 2027, we’re bringing the festival to the heart of the Cape Town CBD. The Kippies stage will find its home in the Company’s Garden, while Greenmarket Square hosts the Mannenberg stage, and Rosies settles into the grand St George’s Cathedral.\nWith 22 local and 16 international acts, plus exciting collaborations with the CTIJF Orchestra and the All-Star Band, there’s so much to look forward to.\nJoin us for CTIJF 2027 and be part of an incredible weekend of music.\nNew homes, same heartbeat. The festival you've always loved just got bigger.\nPlease note that children under 10 are not…",
+   "url": "https://www.quicket.co.za/events/404754-cape-town-international-jazz-festival-2027/",
+   "image": "https://images.quicket.co.za/1009874_247_247.jpeg",
+   "start": "2027-03-19T15:00:00.000Z",
+   "end": "2027-03-21T18:00:00.000Z",
+   "allDay": false,
+   "timezone": "Africa/Johannesburg",
+   "venue": "The Company’s Garden",
+   "address": "The Company’s Garden, 12 Government Ave, 8000, Cape Town, Western Cape, South Africa",
+   "city": "Cape Town",
+   "area": "cape-town",
+   "lat": -33.9246,
+   "lng": 18.41952,
+   "price": {
+    "text": "R1500 – R6995",
+    "amount": 1500,
+    "currency": "ZAR",
+    "free": false
+   },
+   "organiser": "espAfrika",
+   "sourceCategories": [
+    "Music"
+   ],
+   "categories": [
+    "festivals"
+   ],
+   "score": 3,
+   "alsoOn": [],
+   "firstSeen": "2026-11-10T11:57:11.406Z"
   },
   {
    "id": "quicket:404779",
@@ -8306,6 +8772,42 @@
    "score": 8.5,
    "alsoOn": [],
    "firstSeen": "2026-11-09T10:22:41.753Z"
+  },
+  {
+   "id": "quicket:407718",
+   "source": "quicket",
+   "sourceName": "Quicket",
+   "sourceId": "407718",
+   "title": "Career Expo Cape Town 2027",
+   "description": "After the successful show in Gauteng, Career Expo is coming to Cape Town for the first time, taking place at Newlands from 22–24 July 2027 and bringing learners and the world of further education and career opportunities together under one roof.\nCreated to bridge the information gap between learners and post-school opportunities, the expo brings together universities, colleges, training providers, skills academies and leading companies, connecting them directly with high school learners from across the Western Cape.\nWith young people faced with an overwhelming amount of information online, Career Expo gives them the chance to have real conversations, ask questions, compare their options and…",
+   "url": "https://www.quicket.co.za/events/407718-career-expo-cape-town-2027/",
+   "image": "https://images.quicket.co.za/1020508_247_247.png",
+   "start": "2027-07-22T07:00:00.000Z",
+   "end": "2027-07-24T14:00:00.000Z",
+   "allDay": false,
+   "timezone": "Africa/Johannesburg",
+   "venue": "146 Campground Rd",
+   "address": "146 Campground Road, Newlands, 7700, Cape Town, Western Cape, South Africa",
+   "city": "Cape Town",
+   "area": "cape-town",
+   "lat": -33.9741554,
+   "lng": 18.4697342,
+   "price": {
+    "text": "R50",
+    "amount": 50,
+    "currency": "ZAR",
+    "free": false
+   },
+   "organiser": "EventX Pty Ltd",
+   "sourceCategories": [
+    "Family & Education"
+   ],
+   "categories": [
+    "festivals"
+   ],
+   "score": 5,
+   "alsoOn": [],
+   "firstSeen": "2026-11-10T11:57:11.406Z"
   }
  ]
 }
