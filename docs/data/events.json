@@ -1,14 +1,14 @@
 {
- "generatedAt": "2026-11-11T11:35:42.776Z",
+ "generatedAt": "2026-11-12T11:59:13.394Z",
  "region": "Western Cape, South Africa",
  "sources": [
   {
    "id": "quicket",
    "name": "Quicket",
    "url": "https://www.quicket.co.za",
-   "fetched": 1424,
-   "kept": 187,
-   "ms": 21604,
+   "fetched": 1466,
+   "kept": 185,
+   "ms": 44467,
    "error": null
   },
   {
@@ -17,7 +17,7 @@
    "url": "https://www.webtickets.co.za/v2/category.aspx?itemid=1605050915&city=western-cape&when=anytime",
    "fetched": 17,
    "kept": 16,
-   "ms": 11251,
+   "ms": 11851,
    "error": null
   },
   {
@@ -26,16 +26,16 @@
    "url": "https://www.eventbrite.com/d/south-africa--cape-town/workshops--events/",
    "fetched": 0,
    "kept": 0,
-   "ms": 25168,
+   "ms": 25314,
    "error": null
   },
   {
    "id": "meetup",
    "name": "Meetup",
    "url": "https://www.meetup.com/find/?location=za--Cape%20Town&source=EVENTS",
-   "fetched": 103,
+   "fetched": 115,
    "kept": 2,
-   "ms": 30550,
+   "ms": 26114,
    "error": null
   }
  ],
@@ -125,7 +125,7 @@
    "label": "Rest of Western Cape"
   }
  ],
- "count": 205,
+ "count": 203,
  "events": [
   {
    "id": "webtickets:1600185548",
@@ -210,7 +210,7 @@
    "description": "The South African Museum, founded in 1825 and situated in the historic Company’s Gardens, has seen millions of visitors, attracted by the vast historical collection the museum has to offer, ranging from fossils to ancient insects and historical tools. A visit to this museum is not only culturally enriching, but the impressive natural collection will also ignite a spark of interest in learning more about the creatures with which we share our planet.\nPlease Note: Iziko Planetarium ticket purchase grants free access to the Iziko South African Museum\nPlease note: Winter Weekend Hours:\nSaturdays: 08h30 - 16h00\nLOADSHEDDING INFORMATION:\nclick here\nPlease be advised that Iziko SA museum is not…",
    "url": "https://www.webtickets.co.za/v2/event.aspx?itemid=1517169433",
    "image": "https://content.webtickets.co.za/Izikomuseum/panel_ISAM%20jpg_20230522_164638.jpg",
-   "start": "2026-11-10T22:00:00.000Z",
+   "start": "2026-11-11T22:00:00.000Z",
    "end": null,
    "allDay": true,
    "timezone": "Africa/Johannesburg",
@@ -247,7 +247,7 @@
    "description": "The Mother City’s premier public art museum, housing a vast and critically engaging collection of historical, modern and contemporary South African, African and international artworks. Selections from the Permanent Collection are rotated regularly to enable the museum to showcase a full programme of temporary exhibitions of paintings, works on paper, photography, sculpture, beadwork, textiles and architecture.\nSelections from the Permanent Collection regularly change to enable the museum to have a full programme of temporary exhibitions of paintings, works on paper, photography, sculpture, beadwork, textiles and architecture. These exhibitions provide insight into the extraordinary range of…",
    "url": "https://www.webtickets.co.za/v2/event.aspx?itemid=1527309559",
    "image": "https://content.webtickets.co.za/Izikomuseum/panel_ISANG%20jpg_20230522_163234.jpg",
-   "start": "2026-11-10T22:00:00.000Z",
+   "start": "2026-11-11T22:00:00.000Z",
    "end": null,
    "allDay": true,
    "timezone": "Africa/Johannesburg",
@@ -284,7 +284,7 @@
    "description": "As an institution committed to making a significant contribution to the development of contemporary art in Africa and its diaspora, Zeitz MOCAA features rotating temporary exhibitions and a dedicated space for its permanent Zeitz MOCAA Collection. The institution also supports educational, discursive and enrichment programmes related to its exhibitions as well as a Centre for Art Education and a project space for emerging artists.\nZeitz MOCAA is open Monday to Sunday from 10 am to 6 pm.\nAfrican Citizens can enjoy FREE entry on Africa Wednesdays, every week between 10 am to 1 pm, on presentation of a valid ID/Passport.",
    "url": "https://www.webtickets.co.za/v2/event.aspx?itemid=1467836816",
    "image": "https://content.webtickets.co.za/zeitzmocaa/panel_Zeitz_Exterior_13_cr%20Wianelle%20Briers_Belmond%20Southern%20Africa%20newsletter_20231129_124324.jpg",
-   "start": "2026-11-10T22:00:00.000Z",
+   "start": "2026-11-11T22:00:00.000Z",
    "end": null,
    "allDay": true,
    "timezone": "Africa/Johannesburg",
@@ -322,7 +322,7 @@
    "description": "The Iziko Bo-Kaap Museum is one of the earliest homes built in the Bo-Kaap area, dating back to the mid-18th century. The museum, situated in the historic area that became home to many Muslims and freed slaves after the abolition of slavery, showcases local Islamic culture and heritage. The house was declared a National Monument in 1965 and restored in the 1970s.\nPlease note: Winter Weekend Hours:\nSaturdays: 08h30 - 16h00\nLOADSHEDDING INFORMATION:\nclick here\nPlease be advised that the Iziko Bo-Kaap Museum is not operational during loadshedding.\nHOW TO SELF-RESCHEDULE TICKETS:\nClick here to view how to self-reschedule.\nFor Refunds, please email: refunds@webtickets.co.za",
    "url": "https://www.webtickets.co.za/v2/event.aspx?itemid=1527310112",
    "image": "https://content.webtickets.co.za/Izikomuseum/panel_Bokaap%20jpg_20230522_163643.jpg",
-   "start": "2026-11-10T22:00:00.000Z",
+   "start": "2026-11-11T22:00:00.000Z",
    "end": null,
    "allDay": true,
    "timezone": "Africa/Johannesburg",
@@ -359,7 +359,7 @@
    "description": "Adventure seekers, curious explorers, families, and friends visit the Iziko Planetarium and Digital Dome – Cape Town - for an unforgettable experience!\nEmbark on a multi-sensory journey through the space, science, and the human body from the comfort of your seat. From galaxies to atoms, and even the human body — explore it all through immersive 360° digital projections.\nThe Iziko Planetarium and Digital Dome – Cape Town is the most advanced digital planetarium on the African continent.\nThis world-class facility enables virtual voyages of the universe, offering an immersive experience through animation and 360° cinema.\nThis world-class facility makes virtual voyages of the universe…",
    "url": "https://www.webtickets.co.za/v2/event.aspx?itemid=1527098177",
    "image": "https://content.webtickets.co.za/Izikomuseum/panel_Planetarium_Media%20Event%20jpg_20230522_164904.jpg",
-   "start": "2026-11-11T07:00:00.000Z",
+   "start": "2026-11-12T07:00:00.000Z",
    "end": null,
    "allDay": false,
    "timezone": "Africa/Johannesburg",
@@ -397,7 +397,7 @@
    "description": "The Huguenot Memorial Museum documents the gripping tale of the ruthless persecution of the Huguenots in France and the settlement of approximately three hundred of them at The Cape of Good hope in the late seventeeth century. Although they lost their language, the Huguenots made a larger contribution to the material and social development of the settlement at the Cape than the free burghers from the Dutch Republic or the German states.\nMondays – Saturdays: 09h00 - 17h00\nSundays: 09h00 – 17h00 (October – April)\nClosed Sundays: May - September\nPublic Holidays: 09h00 – 17h00\n(Closed on 1 January, Good Friday, 25 December)\n(Last ticket sale at 16h15)",
    "url": "https://www.webtickets.co.za/v2/event.aspx?itemid=1506927291",
    "image": "https://content.webtickets.co.za/HuguenotMuseum/panel_1-Main1.jpg",
-   "start": "2026-11-11T07:00:00.000Z",
+   "start": "2026-11-12T07:00:00.000Z",
    "end": null,
    "allDay": false,
    "timezone": "Africa/Johannesburg",
@@ -427,31 +427,143 @@
    "firstSeen": "2026-11-09T10:31:44.896Z"
   },
   {
-   "id": "quicket:406539",
-   "source": "quicket",
-   "sourceName": "Quicket",
-   "sourceId": "406539",
-   "title": "Olive Oil Tasting",
-   "description": "Indulge in a curated olive oil tasting that celebrates the richness of the Western Cape. Experience exceptional flavours, expert guidance, and the simple pleasure of slowing down to savour every drop.",
-   "url": "https://www.quicket.co.za/events/406539-olive-oil-tasting/",
-   "image": "https://images.quicket.co.za/1016671_247_247.png",
-   "start": "2026-11-11T16:00:00.000Z",
-   "end": "2026-11-11T18:00:00.000Z",
+   "id": "webtickets:1592061163",
+   "source": "webtickets",
+   "sourceName": "Webtickets",
+   "sourceId": "1592061163",
+   "title": "Van Hunks Tasting Room",
+   "description": "For R150 per person, you’ll dive into a curated tasting of 6 different Sparkling Wines. We’ll take you through the full range, showcasing the craftsmanship of 12th-generation winemaking met with a disruptive, modern edge.\nYour tasting includes:\n- Our signature bold and crisp Cap Classique range (3 variants).\n- Our Chenin Sparkling that puts Prosecco to shame (1 variant).\n- Our innovative non-alcoholic sparkling wines, crafted to less than 0.5% ABV for those who want the pop without -the punch (2 variants).\nThe Details:\nLocation: 3rd Floor, Old Biscuit Mill, Woodstock, Cape Town.\nDuration: Approximately 30–60 minutes of unconventional storytelling and sipping.\nVibe: High energy, Woodstock…",
+   "url": "https://www.webtickets.co.za/v2/event.aspx?itemid=1592061163",
+   "image": "https://content.webtickets.co.za/vanhunks/panel_8070bb25aec64dfd95ee5682e40e0e70.png",
+   "start": "2026-11-12T13:00:00.000Z",
+   "end": null,
    "allDay": false,
    "timezone": "Africa/Johannesburg",
-   "venue": "102 Castle St",
-   "address": "102 Castle Street, Cape Town City Centre, 8000, Cape Town, Western Cape, South Africa",
-   "city": "Cape Town",
+   "venue": "Old Biscuit Mill, Cape Town",
+   "address": "Old Biscuit Mill, Cape Town",
+   "city": null,
    "area": "cape-town",
-   "lat": -33.91958,
-   "lng": 18.4188786,
+   "lat": -33.92765178896986,
+   "lng": 18.457579734210952,
    "price": {
-    "text": "R300",
-    "amount": 300,
+    "text": "R150 – (Excludes Booking Fee)",
+    "amount": 150,
     "currency": "ZAR",
     "free": false
    },
-   "organiser": "Kaapse Olyf",
+   "organiser": "vanhunks",
+   "sourceCategories": [
+    "Food & Drink"
+   ],
+   "categories": [
+    "tastings"
+   ],
+   "score": 7,
+   "alsoOn": [],
+   "firstSeen": "2026-11-09T10:31:44.896Z"
+  },
+  {
+   "id": "quicket:407125",
+   "source": "quicket",
+   "sourceName": "Quicket",
+   "sourceId": "407125",
+   "title": "Orah Inner Circle · Gathering 02: Breathwork",
+   "description": "Some evenings are for doing. This one is for breathing.\nGathering 02 of the Orah Inner Circle is a guided breathwork session with Kira from Revive You breathwork held at sunset on the slopes of Lion's Head.\nWe'll slow down together, let go of whatever the week left in us, and reset. No experience needed, just yourself and a bit of curiosity.\nInner Circle gatherings are small, at sunset, in beautiful places in nature. Orah doesn't end in December. Meeting point: top of Arcadia Road, Fresnaye Thursday 12 November 2026 5:00 PM sharp. Please arrive on time so we can start walking at 5:15PM together. Bring a yoga mat and something comfy. Wear good walking shoes, no flip flops or sandals.",
+   "url": "https://www.quicket.co.za/events/407125-orah-inner-circle-gathering-02-breathwork/",
+   "image": "https://images.quicket.co.za/1018862_247_247.png",
+   "start": "2026-11-12T15:00:00.000Z",
+   "end": "2026-11-12T16:30:00.000Z",
+   "allDay": false,
+   "timezone": "Africa/Johannesburg",
+   "venue": "78 Arcadia Rd",
+   "address": "78 Arcadia Road, Bantry Bay, 8005, Cape Town, Western Cape, South Africa",
+   "city": "Cape Town",
+   "area": "cape-town",
+   "lat": -33.9314957,
+   "lng": 18.3812447,
+   "price": {
+    "text": "R250",
+    "amount": 250,
+    "currency": "ZAR",
+    "free": false
+   },
+   "organiser": "Orah Inner Circle Events",
+   "sourceCategories": [
+    "Health & Wellness"
+   ],
+   "categories": [
+    "wellness"
+   ],
+   "score": 5,
+   "alsoOn": [],
+   "firstSeen": "2026-11-09T10:22:41.753Z"
+  },
+  {
+   "id": "quicket:406264",
+   "source": "quicket",
+   "sourceName": "Quicket",
+   "sourceId": "406264",
+   "title": "Taste of London: a guided coffee tasting with Filter & Fyn",
+   "description": "Come and experience a taste of London’s finest coffees.\nBefore we opened Filter & Fyn in Stellenbosch, Raminta was a roaster in London. It felt right to showcase our coffee alongside some of the coffees from roasteries we grew to love there, roasteries that are part of our story.\nTaste of London is a seated tasting for 12 - 15 people, about 90 minutes: six London coffees and one of our own to close the evening. A 100 g bag of our coffee goes home with you.\nExpect small pours and big flavours. No espresso, no milk. You don’t need to be a coffee expert - Raminta will guide you through every cup in a relaxed atmosphere.\nArrive with a clean palate: skip strong flavours and mints for an hour or…",
+   "url": "https://www.quicket.co.za/events/406264-taste-of-london-a-guided-coffee-tasting-with-filter-fyn/",
+   "image": "https://images.quicket.co.za/1017286_247_247.jpeg",
+   "start": "2026-11-12T15:15:00.000Z",
+   "end": null,
+   "allDay": false,
+   "dates": [
+    "2026-11-12T15:15:00.000Z",
+    "2026-11-19T15:15:00.000Z"
+   ],
+   "timezone": "Africa/Johannesburg",
+   "venue": "Filter & Fyn (inside Projekt)",
+   "address": "5 Ryneveld Street, Stellenbosch Central, 7600, Stellenbosch, Western Cape, South Africa",
+   "city": "Stellenbosch",
+   "area": "winelands",
+   "lat": -33.9382362,
+   "lng": 18.8629875,
+   "price": {
+    "text": "R585",
+    "amount": 585,
+    "currency": "ZAR",
+    "free": false
+   },
+   "organiser": "Filter & Fyn",
+   "sourceCategories": [
+    "Food & Drink"
+   ],
+   "categories": [
+    "tastings"
+   ],
+   "score": 7,
+   "alsoOn": [],
+   "firstSeen": "2026-11-09T10:31:44.896Z"
+  },
+  {
+   "id": "quicket:405265",
+   "source": "quicket",
+   "sourceName": "Quicket",
+   "sourceId": "405265",
+   "title": "Winemaker's Evening - Tempel Wines",
+   "description": "Tempel Wines is a boutique Paarl producer creating characterful, terroir-driven wines that reward discovery. Known for its thoughtful approach to winemaking and distinctive old-vine expressions, Tempel delivers individuality and a true sense of place in every bottle. A producer worth seeking out for those who love discovering something different.\nJoin us in-store for an intimate tasting with Tempel Wines as they share insights into their winemaking process and guide you through a tasting of their wines. A relaxed, informative experience for wine lovers of all levels.\nSpaces are limited. Please book your ticket early to avoid disappointment.",
+   "url": "https://www.quicket.co.za/events/405265-winemakers-evening-tempel-wines/",
+   "image": "https://images.quicket.co.za/1011194_247_247.jpeg",
+   "start": "2026-11-12T16:30:00.000Z",
+   "end": "2026-11-12T18:30:00.000Z",
+   "allDay": false,
+   "timezone": "Africa/Johannesburg",
+   "venue": "WYN",
+   "address": "Drama Street 13, Lionviham, 7130, Cape Town, Western Cape, South Africa",
+   "city": "Cape Town",
+   "area": "cape-town",
+   "lat": -34.08184,
+   "lng": 18.85199,
+   "price": {
+    "text": "R130",
+    "amount": 130,
+    "currency": "ZAR",
+    "free": false
+   },
+   "organiser": "WYN",
    "sourceCategories": [
     "Food & Drink"
    ],
@@ -463,42 +575,6 @@
    "firstSeen": "2026-11-09T10:31:44.896Z"
   },
   {
-   "id": "quicket:405201",
-   "source": "quicket",
-   "sourceName": "Quicket",
-   "sourceId": "405201",
-   "title": "The Craft Social",
-   "description": "The Craft Social is a Craft Café Experience.\nYou choose your project from our craft menu, enjoy a complimentary beverage, and spend time creating something of your own.No experience needed. All materials and guidance are provided.\nPrefer to work on your own project? Choose our BYOC (Bring Your Own Craft) ticket and enjoy crafting in good company.\nPlease note: If you purchase a Junk Journaling ticket, you'll need to bring your own journal. We provide all other materials needed for the session.\nAddress: 160 Sir Lowry Road, The Armoury 4, Buchanan Square, Woodstock, Cape Town, 7925\nCheck out our Instagram: @minimalistmakerza",
-   "url": "https://www.quicket.co.za/events/405201-the-craft-social/",
-   "image": "https://images.quicket.co.za/1011050_247_247.png",
-   "start": "2026-11-11T16:30:00.000Z",
-   "end": "2026-11-11T19:30:00.000Z",
-   "allDay": false,
-   "timezone": "Africa/Johannesburg",
-   "venue": "160 Sir Lowry Rd",
-   "address": "160 Sir Lowry Road, Woodstock, 7925, Cape Town, Western Cape, South Africa",
-   "city": "Cape Town",
-   "area": "cape-town",
-   "lat": -33.9280128,
-   "lng": 18.4370289,
-   "price": {
-    "text": "R120 – R320",
-    "amount": 120,
-    "currency": "ZAR",
-    "free": false
-   },
-   "organiser": "Minimalist Maker Workshops",
-   "sourceCategories": [
-    "Hobbies & Interests"
-   ],
-   "categories": [
-    "craft"
-   ],
-   "score": 7,
-   "alsoOn": [],
-   "firstSeen": "2026-11-09T10:22:41.753Z"
-  },
-  {
    "id": "quicket:65165",
    "source": "quicket",
    "sourceName": "Quicket",
@@ -507,11 +583,10 @@
    "description": "Daily wine tours from Cape Town to Paarl and Wellington wine region.\nPrice of R1250.00 includes pickup and drop off in and around Cape Town, wine tasting fee at 4 wine estates and light lunch (own account). It excludes lunch, personal purchases and drinks.\nThis is a fun way to explore these two regions and to meet other traveler.\nYour guide will be entertaining you for the 8 hours and introduce you to the people that makes this such a special area.\nPickup is around Cape Town CBD from 08h00 and we will depart Cape Town around 09h00\nFirst winery stop will be at Fairview Winery to enjoy a cheese and wine tasting.\nSecond winery stop will be at Ridgeback Wine, which will also be the Lunch…",
    "url": "https://www.quicket.co.za/events/65165-schedule-wine-tour/",
    "image": "https://images.quicket.co.za/Q15_247_247.jpg",
-   "start": "2026-11-12T06:00:00.000Z",
+   "start": "2026-11-13T06:00:00.000Z",
    "end": null,
    "allDay": false,
    "dates": [
-    "2026-11-12T06:00:00.000Z",
     "2026-11-13T06:00:00.000Z",
     "2026-11-14T06:00:00.000Z",
     "2026-11-15T06:00:00.000Z",
@@ -838,11 +913,10 @@
    "description": "District Six was named the Sixth Municipal District of Cape Town in 1867. It was established as a mixed community of freed slaves, merchants, artisans, labourers and immigrants,\nDistrict Six was a vibrant centre with close links to the city and the port. By the beginning of the twentieth century, however, the process of removals and marginalisation had begun.\nThe first to be forced out were black South Africans who were displaced from the District in 1901. As the more prosperous moved away to the suburbs, the area became a neglected ward of the city.\nOn 11 February 1966 it was declared a white area under the Group Areas Act of 1950, and by 1982, the life of the community was over. More than…",
    "url": "https://www.quicket.co.za/events/365063-district-six-museum-november-2026-admission-tickets/",
    "image": "https://images.quicket.co.za/0893383_247_247.jpeg",
-   "start": "2026-11-12T07:00:00.000Z",
+   "start": "2026-11-13T07:00:00.000Z",
    "end": null,
    "allDay": false,
    "dates": [
-    "2026-11-12T07:00:00.000Z",
     "2026-11-13T07:00:00.000Z",
     "2026-11-14T07:00:00.000Z",
     "2026-11-16T07:00:00.000Z",
@@ -883,41 +957,40 @@
    "firstSeen": "2026-11-09T10:31:44.896Z"
   },
   {
-   "id": "quicket:406913",
+   "id": "quicket:408175",
    "source": "quicket",
    "sourceName": "Quicket",
-   "sourceId": "406913",
-   "title": "UV Resin Crafting Workshop: Jewellery & Charms",
-   "description": "Discover the magic of crafting! Join us for a fun, hands-on workshop where you will learn the art of designing and creating your own personalized pendants, earrings, bag charms, or key rings using versatile UV resin.Unlike traditional epoxy, UV resin cures in minutes under a UV lamp, allowing you to complete and wear your projects on the day. Inspired by the beauty of nature, this session will focus on crafting intricate leaf designs, incorporating pressed botanicals, glitters, and pigments.Whether you are looking for a relaxing new hobby, exploring the potential of a home-based creative industry, or wanting to make truly unique, personalized gifts, this workshop is the perfect starting…",
-   "url": "https://www.quicket.co.za/events/406913-uv-resin-crafting-workshop-jewellery-charms/",
-   "image": "https://images.quicket.co.za/1017925_247_247.png",
-   "start": "2026-11-12T08:00:00.000Z",
-   "end": "2026-11-12T11:00:00.000Z",
+   "sourceId": "408175",
+   "title": "FREE COFFEE TASTING | TOP OF THE CROP",
+   "description": "Community Cupping with Top of the Crop ??\nJoin us at the African School of Coffee for a community cupping with Top of the Crop, green coffee importers bringing a selection of coffees to the table for us to explore together.\nWhat is a cupping?Cupping is the process coffee professionals use to taste, evaluate and compare different coffees. Each coffee is prepared in the same way, allowing us to explore its aroma, flavour, acidity, sweetness and body, and better understand what makes each one unique.It's also one of the best ways to learn about coffee. You don't need any experience or fancy tasting vocabulary, just a spoon, an open mind and a little curiosity.Together with Top of the Crop,…",
+   "url": "https://www.quicket.co.za/events/408175-free-coffee-tasting-top-of-the-crop/",
+   "image": "https://images.quicket.co.za/1021773_247_247.png",
+   "start": "2026-11-13T07:30:00.000Z",
+   "end": "2026-11-13T10:00:00.000Z",
    "allDay": false,
    "timezone": "Africa/Johannesburg",
-   "venue": "Canvas and Craft",
-   "address": "108 Raats Drive, Table View, 7441, Cape Town, Western Cape, South Africa",
+   "venue": "36 Buitenkant St",
+   "address": "36 Buitenkant Street, Cape Town City Centre, 8000, Cape Town, Western Cape, South Africa",
    "city": "Cape Town",
    "area": "cape-town",
-   "lat": -33.8195763,
-   "lng": 18.5037365,
+   "lat": -33.9281731,
+   "lng": 18.4226246,
    "price": {
-    "text": "R500",
-    "amount": 500,
+    "text": "Free",
+    "amount": 0,
     "currency": "ZAR",
-    "free": false
+    "free": true
    },
-   "organiser": "Canvas and Craft",
+   "organiser": "The African School of Coffee",
    "sourceCategories": [
-    "Arts & Culture"
+    "Food & Drink"
    ],
    "categories": [
-    "jewellery",
-    "craft"
+    "tastings"
    ],
-   "score": 11,
+   "score": 7,
    "alsoOn": [],
-   "firstSeen": "2026-11-09T10:22:41.753Z"
+   "firstSeen": "2026-11-12T11:59:13.394Z"
   },
   {
    "id": "quicket:364591",
@@ -928,11 +1001,10 @@
    "description": "The Museum of Dogs is dedicated to celebrating dogs and exploring their role in history as comforters, friends, and workers through captivating stories and interactive displays. Proudly based in Cape Town, we invite visitors to join us in honouring these loyal companions.\nYou can buy tickets to visit the Museum online or onsite. Buy your ticket online and enjoy a FREE beer, glass of wine, or cool drink on us!",
    "url": "https://www.quicket.co.za/events/364591-museum-of-dogs-entry-tickets/",
    "image": "https://images.quicket.co.za/0916474_247_247.jpeg",
-   "start": "2026-11-12T08:00:00.000Z",
+   "start": "2026-11-13T08:00:00.000Z",
    "end": null,
    "allDay": false,
    "dates": [
-    "2026-11-12T08:00:00.000Z",
     "2026-11-13T08:00:00.000Z",
     "2026-11-14T08:00:00.000Z",
     "2026-11-15T08:00:00.000Z",
@@ -1129,53 +1201,6 @@
    "firstSeen": "2026-11-09T10:31:44.896Z"
   },
   {
-   "id": "quicket:406914",
-   "source": "quicket",
-   "sourceName": "Quicket",
-   "sourceId": "406914",
-   "title": "Coffee & Create: Community Craft Circle",
-   "description": "Join us for TLC Coffee & Create every Thursday, a weekly open studio session designed for artists, crafters, and creatives who want time, space, and community to work on their own projects.Bring along your current work-in-progress — whether it’s painting, knitting, embroidery, sketching, journaling, or any other creative pursuit — and enjoy a calm, social environment surrounded by fellow creatives.This is a non-guided session. There is no formal instruction, just the joy of creating together, staying accountable to your craft, and sharing a creative space.\nWhat’s Included? A cappuccino per person? A welcoming, creative environment? Community connection? The satisfaction of supporting a good…",
-   "url": "https://www.quicket.co.za/events/406914-coffee-create-community-craft-circle/",
-   "image": "https://images.quicket.co.za/1017929_247_247.png",
-   "start": "2026-11-12T08:00:00.000Z",
-   "end": null,
-   "allDay": false,
-   "dates": [
-    "2026-11-12T08:00:00.000Z",
-    "2026-11-19T08:00:00.000Z",
-    "2026-11-26T08:00:00.000Z",
-    "2026-12-03T08:00:00.000Z",
-    "2026-12-10T08:00:00.000Z",
-    "2026-12-17T08:00:00.000Z"
-   ],
-   "timezone": "Africa/Johannesburg",
-   "venue": "Canvas and Craft",
-   "address": "108 Raats Drive, Table View, 7441, Cape Town, Western Cape, South Africa",
-   "city": "Cape Town",
-   "area": "cape-town",
-   "lat": -33.8195763,
-   "lng": 18.5037365,
-   "price": {
-    "text": "Free – R105",
-    "amount": 0,
-    "currency": "ZAR",
-    "free": false,
-    "hasFreeOption": true
-   },
-   "organiser": "Canvas and Craft",
-   "sourceCategories": [
-    "Charity & Causes"
-   ],
-   "categories": [
-    "craft",
-    "textiles",
-    "painting"
-   ],
-   "score": 7,
-   "alsoOn": [],
-   "firstSeen": "2026-11-09T10:22:41.753Z"
-  },
-  {
    "id": "quicket:359091",
    "source": "quicket",
    "sourceName": "Quicket",
@@ -1184,11 +1209,10 @@
    "description": "Step into the world of Brush & Brew at Life Is Good Café — where art, connection, and flavour meet under one roof in the heart of Woodstock.\nThis is more than a paint session. It’s a curated creative escape designed for those who want to slow down, sip intentionally, and rediscover the joy of creating with their own hands.\nLed by an experienced host, the session is relaxed, beginner-friendly, and welcoming to seasoned creatives alike. You’ll be guided step-by-step through a featured artwork while enjoying a freshly prepared meal and drink from our halal-friendly café.\nWhether you’re celebrating a birthday, planning a date, hosting a team-building session, or simply exploring Cape Town’s…",
    "url": "https://www.quicket.co.za/events/359091-brush-brew-sip-paint-experience-at-life-is-good-caf-woodstock-cape-town/",
    "image": "https://images.quicket.co.za/0879028_247_247.jpeg",
-   "start": "2026-11-12T09:00:00.000Z",
+   "start": "2026-11-13T09:00:00.000Z",
    "end": null,
    "allDay": false,
    "dates": [
-    "2026-11-12T09:00:00.000Z",
     "2026-11-13T09:00:00.000Z",
     "2026-11-14T09:00:00.000Z",
     "2026-11-15T09:00:00.000Z",
@@ -1445,6 +1469,40 @@
    "firstSeen": "2026-11-09T10:22:41.753Z"
   },
   {
+   "id": "meetup:317117943",
+   "source": "meetup",
+   "sourceName": "Meetup",
+   "sourceId": "317117943",
+   "title": "Free Friday Lunchtime Guided Meditation in Observatory",
+   "description": "Get prepared for the weekend. Free lunchtime guided meditation and Buddhist teachings addressing our modern challenges. Perfect for relaxation and reflection.",
+   "url": "https://www.meetup.com/meditate-in-cape-town/events/317117943/",
+   "image": "https://secure.meetupstatic.com/photos/event/3/5/7/2/highres_532033682.jpeg",
+   "start": "2026-11-13T10:30:00.000Z",
+   "end": null,
+   "allDay": false,
+   "timezone": "Africa/Johannesburg",
+   "venue": "47 Trill Rd",
+   "address": "47 Trill Rd, Cape Town",
+   "city": "Cape Town",
+   "area": "cape-town",
+   "lat": null,
+   "lng": null,
+   "price": {
+    "text": "Free",
+    "amount": 0,
+    "currency": "ZAR",
+    "free": true
+   },
+   "organiser": "Meditate in Cape Town",
+   "sourceCategories": [],
+   "categories": [
+    "wellness"
+   ],
+   "score": 6,
+   "alsoOn": [],
+   "firstSeen": "2026-11-09T10:22:41.753Z"
+  },
+  {
    "id": "quicket:334290",
    "source": "quicket",
    "sourceName": "Quicket",
@@ -1453,12 +1511,10 @@
    "description": "All Aboard, departing from The Two Oceans Aquarium!\nExperience SA’s only all-in-one land & water tour from the best seat in the house!\nThe amphibious Waterfront Duck literally blows every other tour you’ve ever had out of the water – and lets you experience the highlights of Cape Town's Waterfront precinct by bus and boat in the same vehicle – an awesome adventure for the whole family!\nWhether it’s the juicy story-rich history or the amazing ecology of the area, our knowledgeable tour guides (or “ConDUCKtors”, as we call them) will entertain you with unique tales and interesting facts that will engage both young and old, whether you are a local Capetonian, a South African visitor from out…",
    "url": "https://www.quicket.co.za/events/334290-the-two-oceans-aquarium-the-waterfront-duck-co-tours-october-december-2026/",
    "image": "https://images.quicket.co.za/0901190_247_247.jpeg",
-   "start": "2026-11-12T11:00:00.000Z",
+   "start": "2026-11-13T11:00:00.000Z",
    "end": null,
    "allDay": false,
    "dates": [
-    "2026-11-12T11:00:00.000Z",
-    "2026-11-12T12:30:00.000Z",
     "2026-11-13T11:00:00.000Z",
     "2026-11-13T12:30:00.000Z",
     "2026-11-14T08:00:00.000Z",
@@ -1545,7 +1601,6 @@
     "2026-12-11T11:00:00.000Z",
     "2026-12-11T14:00:00.000Z",
     "2026-12-12T08:00:00.000Z",
-    "2026-12-12T11:00:00.000Z",
     "2026-12-12T14:00:00.000Z",
     "2026-12-13T08:00:00.000Z",
     "2026-12-13T11:00:00.000Z",
@@ -1626,188 +1681,6 @@
    "score": 5,
    "alsoOn": [],
    "firstSeen": "2026-11-09T10:31:44.896Z"
-  },
-  {
-   "id": "webtickets:1592061163",
-   "source": "webtickets",
-   "sourceName": "Webtickets",
-   "sourceId": "1592061163",
-   "title": "Van Hunks Tasting Room",
-   "description": "For R150 per person, you’ll dive into a curated tasting of 6 different Sparkling Wines. We’ll take you through the full range, showcasing the craftsmanship of 12th-generation winemaking met with a disruptive, modern edge.\nYour tasting includes:\n- Our signature bold and crisp Cap Classique range (3 variants).\n- Our Chenin Sparkling that puts Prosecco to shame (1 variant).\n- Our innovative non-alcoholic sparkling wines, crafted to less than 0.5% ABV for those who want the pop without -the punch (2 variants).\nThe Details:\nLocation: 3rd Floor, Old Biscuit Mill, Woodstock, Cape Town.\nDuration: Approximately 30–60 minutes of unconventional storytelling and sipping.\nVibe: High energy, Woodstock…",
-   "url": "https://www.webtickets.co.za/v2/event.aspx?itemid=1592061163",
-   "image": "https://content.webtickets.co.za/vanhunks/panel_8070bb25aec64dfd95ee5682e40e0e70.png",
-   "start": "2026-11-12T13:00:00.000Z",
-   "end": null,
-   "allDay": false,
-   "timezone": "Africa/Johannesburg",
-   "venue": "Old Biscuit Mill, Cape Town",
-   "address": "Old Biscuit Mill, Cape Town",
-   "city": null,
-   "area": "cape-town",
-   "lat": -33.92765178896986,
-   "lng": 18.457579734210952,
-   "price": {
-    "text": "R150 – (Excludes Booking Fee)",
-    "amount": 150,
-    "currency": "ZAR",
-    "free": false
-   },
-   "organiser": "vanhunks",
-   "sourceCategories": [
-    "Food & Drink"
-   ],
-   "categories": [
-    "tastings"
-   ],
-   "score": 7,
-   "alsoOn": [],
-   "firstSeen": "2026-11-09T10:31:44.896Z"
-  },
-  {
-   "id": "quicket:407125",
-   "source": "quicket",
-   "sourceName": "Quicket",
-   "sourceId": "407125",
-   "title": "Orah Inner Circle · Gathering 02: Breathwork",
-   "description": "Some evenings are for doing. This one is for breathing.\nGathering 02 of the Orah Inner Circle is a guided breathwork session with Kira from Revive You breathwork held at sunset on the slopes of Lion's Head.\nWe'll slow down together, let go of whatever the week left in us, and reset. No experience needed, just yourself and a bit of curiosity.\nInner Circle gatherings are small, at sunset, in beautiful places in nature. Orah doesn't end in December. Meeting point: top of Arcadia Road, Fresnaye Thursday 12 November 2026 5:00 PM sharp. Please arrive on time so we can start walking at 5:15PM together. Bring a yoga mat and something comfy. Wear good walking shoes, no flip flops or sandals.",
-   "url": "https://www.quicket.co.za/events/407125-orah-inner-circle-gathering-02-breathwork/",
-   "image": "https://images.quicket.co.za/1018862_247_247.png",
-   "start": "2026-11-12T15:00:00.000Z",
-   "end": "2026-11-12T16:30:00.000Z",
-   "allDay": false,
-   "timezone": "Africa/Johannesburg",
-   "venue": "78 Arcadia Rd",
-   "address": "78 Arcadia Road, Bantry Bay, 8005, Cape Town, Western Cape, South Africa",
-   "city": "Cape Town",
-   "area": "cape-town",
-   "lat": -33.9314957,
-   "lng": 18.3812447,
-   "price": {
-    "text": "R250",
-    "amount": 250,
-    "currency": "ZAR",
-    "free": false
-   },
-   "organiser": "Orah Inner Circle Events",
-   "sourceCategories": [
-    "Health & Wellness"
-   ],
-   "categories": [
-    "wellness"
-   ],
-   "score": 5,
-   "alsoOn": [],
-   "firstSeen": "2026-11-09T10:22:41.753Z"
-  },
-  {
-   "id": "quicket:406264",
-   "source": "quicket",
-   "sourceName": "Quicket",
-   "sourceId": "406264",
-   "title": "Taste of London: a guided coffee tasting with Filter & Fyn",
-   "description": "Come and experience a taste of London’s finest coffees.\nBefore we opened Filter & Fyn in Stellenbosch, Raminta was a roaster in London. It felt right to showcase our coffee alongside some of the coffees from roasteries we grew to love there, roasteries that are part of our story.\nTaste of London is a seated tasting for 12 - 15 people, about 90 minutes: six London coffees and one of our own to close the evening. A 100 g bag of our coffee goes home with you.\nExpect small pours and big flavours. No espresso, no milk. You don’t need to be a coffee expert - Raminta will guide you through every cup in a relaxed atmosphere.\nArrive with a clean palate: skip strong flavours and mints for an hour or…",
-   "url": "https://www.quicket.co.za/events/406264-taste-of-london-a-guided-coffee-tasting-with-filter-fyn/",
-   "image": "https://images.quicket.co.za/1017286_247_247.jpeg",
-   "start": "2026-11-12T15:15:00.000Z",
-   "end": null,
-   "allDay": false,
-   "dates": [
-    "2026-11-12T15:15:00.000Z",
-    "2026-11-19T15:15:00.000Z"
-   ],
-   "timezone": "Africa/Johannesburg",
-   "venue": "Filter & Fyn (inside Projekt)",
-   "address": "5 Ryneveld Street, Stellenbosch Central, 7600, Stellenbosch, Western Cape, South Africa",
-   "city": "Stellenbosch",
-   "area": "winelands",
-   "lat": -33.9382362,
-   "lng": 18.8629875,
-   "price": {
-    "text": "R585",
-    "amount": 585,
-    "currency": "ZAR",
-    "free": false
-   },
-   "organiser": "Filter & Fyn",
-   "sourceCategories": [
-    "Food & Drink"
-   ],
-   "categories": [
-    "tastings"
-   ],
-   "score": 7,
-   "alsoOn": [],
-   "firstSeen": "2026-11-09T10:31:44.896Z"
-  },
-  {
-   "id": "quicket:405265",
-   "source": "quicket",
-   "sourceName": "Quicket",
-   "sourceId": "405265",
-   "title": "Winemaker's Evening - Tempel Wines",
-   "description": "Tempel Wines is a boutique Paarl producer creating characterful, terroir-driven wines that reward discovery. Known for its thoughtful approach to winemaking and distinctive old-vine expressions, Tempel delivers individuality and a true sense of place in every bottle. A producer worth seeking out for those who love discovering something different.\nJoin us in-store for an intimate tasting with Tempel Wines as they share insights into their winemaking process and guide you through a tasting of their wines. A relaxed, informative experience for wine lovers of all levels.\nSpaces are limited. Please book your ticket early to avoid disappointment.",
-   "url": "https://www.quicket.co.za/events/405265-winemakers-evening-tempel-wines/",
-   "image": "https://images.quicket.co.za/1011194_247_247.jpeg",
-   "start": "2026-11-12T16:30:00.000Z",
-   "end": "2026-11-12T18:30:00.000Z",
-   "allDay": false,
-   "timezone": "Africa/Johannesburg",
-   "venue": "WYN",
-   "address": "Drama Street 13, Lionviham, 7130, Cape Town, Western Cape, South Africa",
-   "city": "Cape Town",
-   "area": "cape-town",
-   "lat": -34.08184,
-   "lng": 18.85199,
-   "price": {
-    "text": "R130",
-    "amount": 130,
-    "currency": "ZAR",
-    "free": false
-   },
-   "organiser": "WYN",
-   "sourceCategories": [
-    "Food & Drink"
-   ],
-   "categories": [
-    "tastings"
-   ],
-   "score": 6,
-   "alsoOn": [],
-   "firstSeen": "2026-11-09T10:31:44.896Z"
-  },
-  {
-   "id": "meetup:317117943",
-   "source": "meetup",
-   "sourceName": "Meetup",
-   "sourceId": "317117943",
-   "title": "Free Friday Lunchtime Guided Meditation in Observatory",
-   "description": "Get prepared for the weekend. Free lunchtime guided meditation and Buddhist teachings addressing our modern challenges. Perfect for relaxation and reflection.",
-   "url": "https://www.meetup.com/meditate-in-cape-town/events/317117943/",
-   "image": "https://secure.meetupstatic.com/photos/event/3/5/7/2/highres_532033682.jpeg",
-   "start": "2026-11-13T10:30:00.000Z",
-   "end": null,
-   "allDay": false,
-   "timezone": "Africa/Johannesburg",
-   "venue": "47 Trill Rd",
-   "address": "47 Trill Rd, Cape Town",
-   "city": "Cape Town",
-   "area": "cape-town",
-   "lat": null,
-   "lng": null,
-   "price": {
-    "text": "Free",
-    "amount": 0,
-    "currency": "ZAR",
-    "free": true
-   },
-   "organiser": "Meditate in Cape Town",
-   "sourceCategories": [],
-   "categories": [
-    "wellness"
-   ],
-   "score": 6,
-   "alsoOn": [],
-   "firstSeen": "2026-11-09T10:22:41.753Z"
   },
   {
    "id": "quicket:404611",
@@ -2133,42 +2006,6 @@
     "tastings"
    ],
    "score": 8.5,
-   "alsoOn": [],
-   "firstSeen": "2026-11-09T10:22:41.753Z"
-  },
-  {
-   "id": "quicket:400761",
-   "source": "quicket",
-   "sourceName": "Quicket",
-   "sourceId": "400761",
-   "title": "Introduction to Woodworking",
-   "description": "Scandinavian-Inspired woodworking workshop\nCraft a beautiful, functional piece from wood under the guidance of a woodworking master. This hands-on workshop introduces participants to the fundamentals of woodworking through focused practical projects that combine clean design, careful craftsmanship and everyday functionality.\nNew participants will create a Scandinavian-style designer lamp while learning the proper use and maintenance of basic hand tools. Through carefully guided exercises, they will practise essential skills such as measuring, marking out, cutting and assembly, developing accuracy, control and an understanding of the broader making process.\nMore experienced and returning…",
-   "url": "https://www.quicket.co.za/events/400761-introduction-to-woodworking/",
-   "image": "https://images.quicket.co.za/0998079_247_247.png",
-   "start": "2026-11-14T08:00:00.000Z",
-   "end": "2026-11-14T14:00:00.000Z",
-   "allDay": false,
-   "timezone": "Africa/Johannesburg",
-   "venue": "CTCA (Cruise Terminal - Next to Beluga)",
-   "address": "Duncan Road, Victoria & Alfred Waterfront, 8001, Cape Town, Western Cape, South Africa",
-   "city": "Cape Town",
-   "area": "cape-town",
-   "lat": -33.91104,
-   "lng": 18.42595,
-   "price": {
-    "text": "R1500",
-    "amount": 1500,
-    "currency": "ZAR",
-    "free": false
-   },
-   "organiser": "Cape Town Creative Academy",
-   "sourceCategories": [
-    "Hobbies & Interests"
-   ],
-   "categories": [
-    "craft"
-   ],
-   "score": 7,
    "alsoOn": [],
    "firstSeen": "2026-11-09T10:22:41.753Z"
   },
@@ -3269,6 +3106,52 @@
    "firstSeen": "2026-11-09T10:31:44.896Z"
   },
   {
+   "id": "quicket:406914",
+   "source": "quicket",
+   "sourceName": "Quicket",
+   "sourceId": "406914",
+   "title": "Coffee & Create: Community Craft Circle",
+   "description": "Join us for TLC Coffee & Create every Thursday, a weekly open studio session designed for artists, crafters, and creatives who want time, space, and community to work on their own projects.Bring along your current work-in-progress — whether it’s painting, knitting, embroidery, sketching, journaling, or any other creative pursuit — and enjoy a calm, social environment surrounded by fellow creatives.This is a non-guided session. There is no formal instruction, just the joy of creating together, staying accountable to your craft, and sharing a creative space.\nWhat’s Included? A cappuccino per person? A welcoming, creative environment? Community connection? The satisfaction of supporting a good…",
+   "url": "https://www.quicket.co.za/events/406914-coffee-create-community-craft-circle/",
+   "image": "https://images.quicket.co.za/1017929_247_247.png",
+   "start": "2026-11-19T08:00:00.000Z",
+   "end": null,
+   "allDay": false,
+   "dates": [
+    "2026-11-19T08:00:00.000Z",
+    "2026-11-26T08:00:00.000Z",
+    "2026-12-03T08:00:00.000Z",
+    "2026-12-10T08:00:00.000Z",
+    "2026-12-17T08:00:00.000Z"
+   ],
+   "timezone": "Africa/Johannesburg",
+   "venue": "Canvas and Craft",
+   "address": "108 Raats Drive, Table View, 7441, Cape Town, Western Cape, South Africa",
+   "city": "Cape Town",
+   "area": "cape-town",
+   "lat": -33.8195763,
+   "lng": 18.5037365,
+   "price": {
+    "text": "Free – R105",
+    "amount": 0,
+    "currency": "ZAR",
+    "free": false,
+    "hasFreeOption": true
+   },
+   "organiser": "Canvas and Craft",
+   "sourceCategories": [
+    "Charity & Causes"
+   ],
+   "categories": [
+    "craft",
+    "textiles",
+    "painting"
+   ],
+   "score": 7,
+   "alsoOn": [],
+   "firstSeen": "2026-11-09T10:22:41.753Z"
+  },
+  {
    "id": "quicket:401374",
    "source": "quicket",
    "sourceName": "Quicket",
@@ -4131,6 +4014,80 @@
    "firstSeen": "2026-11-09T10:22:41.753Z"
   },
   {
+   "id": "quicket:407824",
+   "source": "quicket",
+   "sourceName": "Quicket",
+   "sourceId": "407824",
+   "title": "Koppel 2026: Discovering the Heritage Around Us",
+   "description": "Knowledge, Resources and Communities of Practice\nWhat heritage surrounds us, and how can we use it to strengthen our communities?\nKoppel 2026 is a three-day community learning experience hosted by the Cape Flats Arts Festival, bringing together community practitioners, cultural custodians, educators, artists, archivists and heritage enthusiasts to explore the knowledge, resources and opportunities within Cape Town's heritage and cultural landscape.\nTaking place from 25–27 November 2026, this year's programme invites participants to discover the stories, histories, institutions and cultural resources that shape our understanding of place, identity and belonging.\nThrough guided visits,…",
+   "url": "https://www.quicket.co.za/events/407824-koppel-2026-discovering-the-heritage-around-us/",
+   "image": "https://images.quicket.co.za/1021568_247_247.png",
+   "start": "2026-11-25T07:00:00.000Z",
+   "end": "2026-11-27T13:30:00.000Z",
+   "allDay": false,
+   "timezone": "Africa/Johannesburg",
+   "venue": "Iziko South African Museum",
+   "address": "25 Queen Victoria Street, Gardens, 8001, Cape Town, Western Cape, South Africa",
+   "city": "Cape Town",
+   "area": "cape-town",
+   "lat": -33.928688,
+   "lng": 18.4152622,
+   "price": {
+    "text": "Free – R600",
+    "amount": 0,
+    "currency": "ZAR",
+    "free": false,
+    "hasFreeOption": true
+   },
+   "organiser": "Cape Flats Arts and Culture Festival",
+   "sourceCategories": [
+    "Arts & Culture"
+   ],
+   "categories": [
+    "exhibitions",
+    "festivals"
+   ],
+   "score": 4,
+   "alsoOn": [],
+   "firstSeen": "2026-11-12T11:59:13.394Z"
+  },
+  {
+   "id": "quicket:408238",
+   "source": "quicket",
+   "sourceName": "Quicket",
+   "sourceId": "408238",
+   "title": "Cupping Evening: Taste 12 Bluebird Coffees with Luhle Mnyandu",
+   "description": "A Bluebird cupping with Luhle Mnyandu, Head Trainer at Bluebird Coffee Roastery.\nCupping is how coffee professionals taste and compare coffees side by side. Think of it as a wine tasting, but for coffee. Join Luhle for a guided journey through more than twelve coffees from Bluebird Coffee Roastery's range, from single origins to blends. You'll slurp, sniff and compare, and you'll learn to pick up flavours you never knew were in your cup. No experience needed, just curiosity.\nHow it works:Sniff: smell the dry grounds, then the wet crust once the water goes in.Break: push through the crust with a spoon and catch the burst of aroma.Slurp: loudly. It sprays the coffee across your palate.…",
+   "url": "https://www.quicket.co.za/events/408238-cupping-evening-taste-12-bluebird-coffees-with-luhle-mnyandu/",
+   "image": "https://images.quicket.co.za/Q14_247_247.jpg",
+   "start": "2026-11-25T14:30:00.000Z",
+   "end": "2026-11-25T16:00:00.000Z",
+   "allDay": false,
+   "timezone": "Africa/Johannesburg",
+   "venue": "Coffee Craft",
+   "address": "18 Kings Way, Leisure Island, 6570, Knysna, Western Cape, South Africa",
+   "city": "Knysna",
+   "area": "western-cape",
+   "lat": -34.06745,
+   "lng": 23.0616722,
+   "price": {
+    "text": "R150",
+    "amount": 150,
+    "currency": "ZAR",
+    "free": false
+   },
+   "organiser": "Coffee Craft",
+   "sourceCategories": [
+    "Food & Drink"
+   ],
+   "categories": [
+    "tastings"
+   ],
+   "score": 8,
+   "alsoOn": [],
+   "firstSeen": "2026-11-12T11:59:13.394Z"
+  },
+  {
    "id": "quicket:406290",
    "source": "quicket",
    "sourceName": "Quicket",
@@ -4208,7 +4165,7 @@
    "sourceName": "Quicket",
    "sourceId": "405828",
    "title": "Bread & Wine | David Brave Solo Exhibition",
-   "description": "Exhibition OpeningJoin us for the long-awaited third David Brave solo exhibition. The series entitled Bread & Wine presents familiar local landscapes in expressive colour and brush work, celebrating the land that feeds us.\nThe eveningDoors open at 18:00 and the welcome is at 18:30.The artist gives a short address.Your ticket includes a glass of wine. A cash bar is available.\nThe works are available to purchase on the night. They remain on display at Jewell’s for a limited time afterwards.\nVenue: Jewell’s at Spice Route, Suid-Agter-Paarl Road, PaarlTickets: Free, with limited places. Book through Quicket to secure your place.\nFollow on Instagram: davidbrave_art\nwww.davidbrave.com",
+   "description": "Exhibition OpeningJoin us for the long-awaited third David Brave solo exhibition. The series entitled Bread & Wine presents familiar local landscapes in expressive colour and brush work, celebrating the land that feeds us.\nThe eveningDoors open at 18:00 and the welcome is at 18:30.The artist gives a short address.Your ticket includes a glass of wine. A cash bar is available.\nThe works are available to purchase on the night. They remain on display at Jewell’s for a limited time afterwards.\nVenue: Jewell’s at Spice Route, Suid-Agter-Paarl Road, PaarlTickets: Free, with limited places. Book through Quicket to secure your place.RSVP before Monday 23 November.\nFollow on Instagram:…",
    "url": "https://www.quicket.co.za/events/405828-bread-wine-david-brave-solo-exhibition/",
    "image": "https://images.quicket.co.za/1012927_247_247.jpeg",
    "start": "2026-11-26T15:30:00.000Z",
@@ -4318,7 +4275,7 @@
    "title": "ArtsAbility Festival",
    "description": "ArtsAbility Festival is an inclusive arts festival that celebrates artists with and without disabilities while advocating for accessibility, representation and artistic excellence. The festival brings together artists, audiences, organisations and industry professionals to experience inclusive performances, exhibitions, discussions and creative collaborations that reflect the richness of our communities.\nThis year's festival shines a spotlight on women-led work as well as disability.\n__________________________________\nArtsAbility ProgrammeThursday, 26th November\nDance Film Screening\nTITLE: JINSHAN: Seams of Gold CINEMATOGRAPHY: Nino FernandezCHOREOGRAPHY AND ON SCREEN PERFORMANCE: Megan…",
    "url": "https://www.quicket.co.za/events/399937-artsability-festival/",
-   "image": "https://images.quicket.co.za/Q8_247_247.jpg",
+   "image": "https://images.quicket.co.za/Q2_247_247.jpg",
    "start": "2026-11-26T17:30:00.000Z",
    "end": "2026-11-28T21:00:00.000Z",
    "allDay": false,
@@ -4330,7 +4287,7 @@
    "lat": -33.92017,
    "lng": 18.4189739,
    "price": {
-    "text": "R80 – R180",
+    "text": "R80 – R200",
     "amount": 80,
     "currency": "ZAR",
     "free": false
@@ -4747,7 +4704,7 @@
    "lat": -33.7206345,
    "lng": 19.00336,
    "price": {
-    "text": "R150 – R850",
+    "text": "R150 – R875",
     "amount": 150,
     "currency": "ZAR",
     "free": false
@@ -4800,42 +4757,6 @@
    "score": 3,
    "alsoOn": [],
    "firstSeen": "2026-11-09T10:31:44.896Z"
-  },
-  {
-   "id": "quicket:401663",
-   "source": "quicket",
-   "sourceName": "Quicket",
-   "sourceId": "401663",
-   "title": "PREMIUM SIP AND PAINT: 7 NOVEMBER",
-   "description": "SIP & PAINT: Curiocity GreenPoint\nJoin CAPE TOWNS favourite Sip & Paint experience at this November at the iconic Curiocity, GreenPoint.\nEnjoy a relaxed afternoon of guided painting, good music, great company and creative energy. No experience needed — just come ready to paint, sip and have a good time!\nDate: Saturday, 7 NovemberLocation: Curiocity, GreenPoint, Cape Town\nTicket includes:• +1 complimentary drink• All Painting Materials• Premium experience\nWhether you’re with friends or alone, Come as you are!\nLIMITED SEATS AVAILABLE",
-   "url": "https://www.quicket.co.za/events/401663-premium-sip-and-paint-7-november/",
-   "image": "https://images.quicket.co.za/1006277_247_247.jpeg",
-   "start": "2026-11-28T12:00:00.000Z",
-   "end": "2026-11-28T16:00:00.000Z",
-   "allDay": false,
-   "timezone": "Africa/Johannesburg",
-   "venue": "CURIOCITY Green Point Cape Town",
-   "address": "153 Main Road, Green Point, 8005, Cape Town, Western Cape, South Africa",
-   "city": "Cape Town",
-   "area": "cape-town",
-   "lat": -33.90769,
-   "lng": 18.40637,
-   "price": {
-    "text": "R250",
-    "amount": 250,
-    "currency": "ZAR",
-    "free": false
-   },
-   "organiser": "Mthetho Sono",
-   "sourceCategories": [
-    "Hobbies & Interests"
-   ],
-   "categories": [
-    "painting"
-   ],
-   "score": 6,
-   "alsoOn": [],
-   "firstSeen": "2026-11-09T10:22:41.753Z"
   },
   {
    "id": "quicket:398543",
@@ -6509,7 +6430,7 @@
    "sourceName": "Webtickets",
    "sourceId": "1607378764",
    "title": "Bee Talk & Honey Tasting Experience with Mike Hammond",
-   "description": "Discover the fascinating world of honeybees with Mike Hammond, founder of The Honey Room.\nExplore the connection between bees, indigenous flora and South Africa’s unique honeys as you taste a curated selection of distinctive varieties, each with its own aroma, texture and flavour profile.\nEnjoy your tasting alongside a delicious cheese selection of Brie, Camembert, Boerenkaas and goat’s cheese, served with fresh grapes, bread, butter and preserve.\nCome taste honey beyond the ordinary and discover the stories behind every drop.",
+   "description": "Discover the fascinating world of honeybees with Mike Hammond, founder of The Honey Room.\nExplore the connection between bees, indigenous flora and South Africa’s unique honeys as you taste a curated selection of distinctive varieties, each with its own aroma, texture and flavour profile; all while overlooking our beautiful Sculpture Garden.\nEnjoy your tasting alongside a delicious cheese selection of Brie, Camembert, Boerenkaas and goat’s cheese, served with fresh grapes, bread, butter and preserve.\nCome taste honey beyond the ordinary and discover the stories behind every drop. Your ticket includes Museum and Sculpture Garden access.",
    "url": "https://www.webtickets.co.za/v2/event.aspx?itemid=1607378764",
    "image": "https://content.webtickets.co.za/NorvalFoundation/panel_4b11de060d9c4e62991057e0b3ac43b4.png",
    "start": "2026-12-12T09:00:00.000Z",
@@ -6535,9 +6456,10 @@
     "Nature"
    ],
    "categories": [
-    "tastings"
+    "tastings",
+    "exhibitions"
    ],
-   "score": 6,
+   "score": 8,
    "alsoOn": [],
    "firstSeen": "2026-11-11T11:35:42.776Z"
   },
@@ -8950,7 +8872,7 @@
    "sourceName": "Quicket",
    "sourceId": "404754",
    "title": "Cape Town International Jazz Festival 2027",
-   "description": "The wait is over. The Cape Town International Jazz Festival returns with a fresh format.\nFrom 19 to 21 March 2027, we’re bringing the festival to the heart of the Cape Town CBD. The Kippies stage will find its home in the Company’s Garden, while Greenmarket Square hosts the Mannenberg stage, and Rosies settles into the grand St George’s Cathedral.\nWith 22 local and 16 international acts, plus exciting collaborations with the CTIJF Orchestra and the All-Star Band, there’s so much to look forward to.\nJoin us for CTIJF 2027 and be part of an incredible weekend of music.\nNew homes, same heartbeat. The festival you've always loved just got bigger.\nPlease note that children under 10 are not…",
+   "description": "The wait is over. The Cape Town International Jazz Festival returns with a fresh format.\nFrom 19 to 21 March 2027, we’re bringing the festival to the heart of the Cape Town CBD. The Kippies stage will find its home in the Company’s Garden, while Greenmarket Square hosts the Mannenberg stage, and Rosies settles into the grand St George’s Cathedral.\nWith 22 local and 16 international acts, plus exciting collaborations with the CTIJF Orchestra and the All-Star Band, there’s so much to look forward to.\nJoin us for CTIJF 2027 and be part of an incredible weekend of music.\nNew homes, same heartbeat. The festival you've always loved just got bigger.\n--------------------------------------\nThe…",
    "url": "https://www.quicket.co.za/events/404754-cape-town-international-jazz-festival-2027/",
    "image": "https://images.quicket.co.za/1009874_247_247.jpeg",
    "start": "2027-03-19T15:00:00.000Z",
