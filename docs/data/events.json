@@ -1,14 +1,14 @@
 {
- "generatedAt": "2026-11-22T12:08:58.379Z",
+ "generatedAt": "2026-11-23T13:52:29.918Z",
  "region": "Western Cape, South Africa",
  "sources": [
   {
    "id": "quicket",
    "name": "Quicket",
    "url": "https://www.quicket.co.za",
-   "fetched": 1397,
+   "fetched": 1420,
    "kept": 184,
-   "ms": 21791,
+   "ms": 20866,
    "error": null
   },
   {
@@ -17,25 +17,25 @@
    "url": "https://www.webtickets.co.za/v2/category.aspx?itemid=1605050915&city=western-cape&when=anytime",
    "fetched": 23,
    "kept": 22,
-   "ms": 13409,
+   "ms": 11006,
    "error": null
   },
   {
    "id": "eventbrite",
    "name": "Eventbrite",
    "url": "https://www.eventbrite.com/d/south-africa--cape-town/workshops--events/",
-   "fetched": 0,
-   "kept": 0,
-   "ms": 25301,
+   "fetched": 49,
+   "kept": 4,
+   "ms": 85117,
    "error": null
   },
   {
    "id": "meetup",
    "name": "Meetup",
    "url": "https://www.meetup.com/find/?location=za--Cape%20Town&source=EVENTS",
-   "fetched": 96,
+   "fetched": 100,
    "kept": 3,
-   "ms": 30618,
+   "ms": 28980,
    "error": null
   }
  ],
@@ -125,7 +125,7 @@
    "label": "Rest of Western Cape"
   }
  ],
- "count": 208,
+ "count": 212,
  "events": [
   {
    "id": "webtickets:1600185548",
@@ -166,117 +166,6 @@
    "firstSeen": "2026-11-09T10:31:44.896Z"
   },
   {
-   "id": "quicket:340274",
-   "source": "quicket",
-   "sourceName": "Quicket",
-   "sourceId": "340274",
-   "title": "Italy in Town 2026",
-   "description": "ITALY IN TOWN 2026Cape Town’s Authentic Italian Street Festival21–22 November 2026Castle of Good Hope, Cape TownA little Italy. A whole weekend. A spectacular new home.This weekend, Italy in Town brings the atmosphere of an Italian piazza to the Castle of Good Hope for the first time. Gather your friends, bring the family and explore two courtyards filled with Italian food, wine, music and culture.\nFESTIVAL TICKETSSaturday, 21 November — Final Phase · R220 per personFestival hours: 10:00–22:00Sunday, 22 November — Extended Early Bird · R120 per personFestival hours: 10:00–17:00\nSaturday’s earlier ticket releases have sold out. Sunday early-bird tickets are still available.Select your…",
-   "url": "https://www.quicket.co.za/events/340274-italy-in-town-2026/",
-   "image": "https://images.quicket.co.za/0964448_247_247.png",
-   "start": "2026-10-31T10:00:00.000Z",
-   "end": "2026-11-22T16:00:00.000Z",
-   "allDay": false,
-   "timezone": "Africa/Johannesburg",
-   "venue": "Castle of Good Hope",
-   "address": "Castle Street, Foreshore, 8001, Cape Town, Western Cape, South Africa",
-   "city": "Cape Town",
-   "area": "cape-town",
-   "lat": -33.9260445,
-   "lng": 18.4280586,
-   "price": {
-    "text": "R50 – R1300",
-    "amount": 50,
-    "currency": "ZAR",
-    "free": false
-   },
-   "organiser": "Italcham",
-   "sourceCategories": [
-    "Food & Drink"
-   ],
-   "categories": [
-    "tastings",
-    "festivals",
-    "cooking"
-   ],
-   "score": 5,
-   "alsoOn": [],
-   "firstSeen": "2026-11-09T10:31:44.896Z"
-  },
-  {
-   "id": "quicket:407239",
-   "source": "quicket",
-   "sourceName": "Quicket",
-   "sourceId": "407239",
-   "title": "The Alphen Antiques and Collectables Market",
-   "description": "The next Alphen Antiques & Collectable Markets will be held on Sunday 8 and 22 November at the St Josephs Marist College hall off Belmont Road, Rondebosch, CAPE TOWN, from 10am - 3pm. A variety of items will be on sale. Entry is free, there is ample parking and refreshments are available. Enquiries: Des 0846267499.",
-   "url": "https://www.quicket.co.za/events/407239-the-alphen-antiques-and-collectables-market/",
-   "image": "https://images.quicket.co.za/1019223_247_247.jpeg",
-   "start": "2026-11-08T08:00:00.000Z",
-   "end": "2026-11-22T13:00:00.000Z",
-   "allDay": false,
-   "timezone": "Africa/Johannesburg",
-   "venue": "St Josephs Marist College",
-   "address": "Belmont Road , Rondebosch, 7700, Cape Town, Western Cape, South Africa",
-   "city": "Cape Town",
-   "area": "cape-town",
-   "lat": -33.96034,
-   "lng": 18.4742184,
-   "price": {
-    "text": "Free",
-    "amount": 0,
-    "currency": "ZAR",
-    "free": true
-   },
-   "organiser": "Des",
-   "sourceCategories": [
-    "Hobbies & Interests"
-   ],
-   "categories": [
-    "festivals"
-   ],
-   "score": 5,
-   "alsoOn": [],
-   "firstSeen": "2026-11-09T10:31:44.896Z"
-  },
-  {
-   "id": "quicket:377634",
-   "source": "quicket",
-   "sourceName": "Quicket",
-   "sourceId": "377634",
-   "title": "AJABU Cocktail & Spirits Festival November 2026",
-   "description": "AJABU Cocktail & Spirits Festival\nCape Town, 14 to 22 November 2026\nAJABU is Swahili for wondrous, and from 14 to 22 November we’re living up to the name. More than 30 Cape Town bars, guest bartenders from Accra to Atlanta and a week of cocktails worth crossing town for. You’re invited.\nFESTIVAL PASS\nDates: Saturday 14 to Sunday 22 November 2026Venue: 30+ participating bars across Cape TownPrice: R150 per person\nWhat's included:\nFestival access at every participating bar, with pop-ups from early evening until lateEach bar's own take on the Porn Star Martini for R86, all festival longFree workshops, seminars and masterclasses (spaces are limited, so book early)Entry into a draw to win five…",
-   "url": "https://www.quicket.co.za/events/377634-ajabu-cocktail-spirits-festival-november-2026/",
-   "image": "https://images.quicket.co.za/0928189_247_247.png",
-   "start": "2026-11-14T12:00:00.000Z",
-   "end": "2026-11-22T21:59:00.000Z",
-   "allDay": false,
-   "timezone": "Africa/Johannesburg",
-   "venue": "Cape Town",
-   "address": "Cape Town, South Africa, Cape Town, Western Cape, South Africa",
-   "city": "Cape Town",
-   "area": "cape-town",
-   "lat": -33.92209,
-   "lng": 18.4231415,
-   "price": {
-    "text": "R100 – R250",
-    "amount": 100,
-    "currency": "ZAR",
-    "free": false
-   },
-   "organiser": "AJABU Cocktail & Spirits Festival",
-   "sourceCategories": [
-    "Food & Drink"
-   ],
-   "categories": [
-    "festivals",
-    "tastings"
-   ],
-   "score": 6,
-   "alsoOn": [],
-   "firstSeen": "2026-11-09T10:31:44.896Z"
-  },
-  {
    "id": "webtickets:1517169433",
    "source": "webtickets",
    "sourceName": "Webtickets",
@@ -285,7 +174,7 @@
    "description": "The South African Museum, founded in 1825 and situated in the historic Company’s Gardens, has seen millions of visitors, attracted by the vast historical collection the museum has to offer, ranging from fossils to ancient insects and historical tools. A visit to this museum is not only culturally enriching, but the impressive natural collection will also ignite a spark of interest in learning more about the creatures with which we share our planet.\nPlease Note: Iziko Planetarium ticket purchase grants free access to the Iziko South African Museum\nPlease note: Winter Weekend Hours:\nSaturdays: 08h30 - 16h00\nLOADSHEDDING INFORMATION:\nclick here\nPlease be advised that Iziko SA museum is not…",
    "url": "https://www.webtickets.co.za/v2/event.aspx?itemid=1517169433",
    "image": "https://content.webtickets.co.za/Izikomuseum/panel_ISAM%20jpg_20230522_164638.jpg",
-   "start": "2026-11-21T22:00:00.000Z",
+   "start": "2026-11-22T22:00:00.000Z",
    "end": null,
    "allDay": true,
    "timezone": "Africa/Johannesburg",
@@ -322,7 +211,7 @@
    "description": "The Mother City’s premier public art museum, housing a vast and critically engaging collection of historical, modern and contemporary South African, African and international artworks. Selections from the Permanent Collection are rotated regularly to enable the museum to showcase a full programme of temporary exhibitions of paintings, works on paper, photography, sculpture, beadwork, textiles and architecture.\nSelections from the Permanent Collection regularly change to enable the museum to have a full programme of temporary exhibitions of paintings, works on paper, photography, sculpture, beadwork, textiles and architecture. These exhibitions provide insight into the extraordinary range of…",
    "url": "https://www.webtickets.co.za/v2/event.aspx?itemid=1527309559",
    "image": "https://content.webtickets.co.za/Izikomuseum/panel_ISANG%20jpg_20230522_163234.jpg",
-   "start": "2026-11-21T22:00:00.000Z",
+   "start": "2026-11-22T22:00:00.000Z",
    "end": null,
    "allDay": true,
    "timezone": "Africa/Johannesburg",
@@ -359,7 +248,7 @@
    "description": "As an institution committed to making a significant contribution to the development of contemporary art in Africa and its diaspora, Zeitz MOCAA features rotating temporary exhibitions and a dedicated space for its permanent Zeitz MOCAA Collection. The institution also supports educational, discursive and enrichment programmes related to its exhibitions as well as a Centre for Art Education and a project space for emerging artists.\nZeitz MOCAA is open Monday to Sunday from 10 am to 6 pm.\nAfrican Citizens can enjoy FREE entry on Africa Wednesdays, every week between 10 am to 1 pm, on presentation of a valid ID/Passport.",
    "url": "https://www.webtickets.co.za/v2/event.aspx?itemid=1467836816",
    "image": "https://content.webtickets.co.za/zeitzmocaa/panel_Zeitz_Exterior_13_cr%20Wianelle%20Briers_Belmond%20Southern%20Africa%20newsletter_20231129_124324.jpg",
-   "start": "2026-11-21T22:00:00.000Z",
+   "start": "2026-11-22T22:00:00.000Z",
    "end": null,
    "allDay": true,
    "timezone": "Africa/Johannesburg",
@@ -387,306 +276,6 @@
    "score": 7,
    "alsoOn": [],
    "firstSeen": "2026-11-09T10:31:44.896Z"
-  },
-  {
-   "id": "webtickets:1506927291",
-   "source": "webtickets",
-   "sourceName": "Webtickets",
-   "sourceId": "1506927291",
-   "title": "Huguenot Memorial Museum",
-   "description": "The Huguenot Memorial Museum documents the gripping tale of the ruthless persecution of the Huguenots in France and the settlement of approximately three hundred of them at The Cape of Good hope in the late seventeeth century. Although they lost their language, the Huguenots made a larger contribution to the material and social development of the settlement at the Cape than the free burghers from the Dutch Republic or the German states.\nMondays – Saturdays: 09h00 - 17h00\nSundays: 09h00 – 17h00 (October – April)\nClosed Sundays: May - September\nPublic Holidays: 09h00 – 17h00\n(Closed on 1 January, Good Friday, 25 December)\n(Last ticket sale at 16h15)",
-   "url": "https://www.webtickets.co.za/v2/event.aspx?itemid=1506927291",
-   "image": "https://content.webtickets.co.za/HuguenotMuseum/panel_1-Main1.jpg",
-   "start": "2026-11-22T07:00:00.000Z",
-   "end": null,
-   "allDay": false,
-   "timezone": "Africa/Johannesburg",
-   "venue": "Huguenot Memorial Museum, Franschhoek",
-   "address": "Huguenot Memorial Museum, Franschhoek",
-   "city": null,
-   "area": "winelands",
-   "lat": -33.91362052101078,
-   "lng": 19.124288935410213,
-   "price": {
-    "text": "R50 – R100",
-    "amount": 50,
-    "currency": "ZAR",
-    "free": false
-   },
-   "organiser": "HuguenotMuseum",
-   "sourceCategories": [
-    "Education",
-    "Museums, Visitors Centers",
-    "Tourism & Attractions"
-   ],
-   "categories": [
-    "exhibitions"
-   ],
-   "score": 5,
-   "alsoOn": [],
-   "firstSeen": "2026-11-09T10:31:44.896Z"
-  },
-  {
-   "id": "webtickets:1561334797",
-   "source": "webtickets",
-   "sourceName": "Webtickets",
-   "sourceId": "1561334797",
-   "title": "Turkish Mosaic Lamp Workshop",
-   "description": "Turkish Mosaic Lamp Workshops: Create, Connect, and Shine!\nUnleash your creativity and experience the magic of Turkish mosaic art!\nOur Mosaic Lamp Workshops offer a unique, hands-on opportunity to craft your very own stunning mosaic lamp. Perfect for all skill levels, these workshops combine art, culture, and fun in a warm and welcoming environment.\n-Design and assemble a stunning lamp , guided by skilled instructors.\n-Ideal for team-building, celebrations, or a fun day out.\nCandle Holder R500\nMini Table Lamp R950\nTable Lamp R1250\nSwan Lamp R1650\nAladdin Lamp R1750\nMini Moon Lamp R1850\nMoon Lamp R2050\nAll Lamp options Click here to see the lamp options",
-   "url": "https://www.webtickets.co.za/v2/event.aspx?itemid=1561334797",
-   "image": "https://content.webtickets.co.za/TurquoiseHarmonyInstitute/panel_mosiactq_20250106_140621.jpg",
-   "start": "2026-11-22T07:30:00.000Z",
-   "end": null,
-   "allDay": false,
-   "timezone": "Africa/Johannesburg",
-   "venue": "Johannesburg, Prison Break Market",
-   "address": "Johannesburg, Prison Break Market",
-   "city": null,
-   "area": "western-cape",
-   "lat": null,
-   "lng": null,
-   "price": {
-    "text": "R750 – R2250",
-    "amount": 750,
-    "currency": "ZAR",
-    "free": false
-   },
-   "organiser": "TurquoiseHarmonyInstitute",
-   "sourceCategories": [
-    "Art, Design, Literature",
-    "Workshops & Classes"
-   ],
-   "categories": [
-    "craft"
-   ],
-   "score": 6.5,
-   "alsoOn": [],
-   "firstSeen": "2026-11-09T10:22:41.753Z"
-  },
-  {
-   "id": "quicket:409571",
-   "source": "quicket",
-   "sourceName": "Quicket",
-   "sourceId": "409571",
-   "title": "The Alphen Antiques and Collectables Market",
-   "description": "The next Alphen Antiques & Collectable Market will be held on Sunday 22 November at the St Josephs Marist College hall off Belmont Road, Rondebosch, CAPE TOWN, from 10am - 3pm. A variety of items will be on sale. Entry is free, there is ample parking and refreshments are available. Enquiries: Des 0846267499.",
-   "url": "https://www.quicket.co.za/events/409571-the-alphen-antiques-and-collectables-market/",
-   "image": "https://images.quicket.co.za/1025791_247_247.jpeg",
-   "start": "2026-11-22T08:00:00.000Z",
-   "end": "2026-11-22T13:00:00.000Z",
-   "allDay": false,
-   "timezone": "Africa/Johannesburg",
-   "venue": "St Josephs Marist College",
-   "address": "Belmont Road , Rondebosch, 7700, Cape Town, Western Cape, South Africa",
-   "city": "Cape Town",
-   "area": "cape-town",
-   "lat": -33.96034,
-   "lng": 18.4742184,
-   "price": {
-    "text": "Free",
-    "amount": 0,
-    "currency": "ZAR",
-    "free": true
-   },
-   "organiser": "Des",
-   "sourceCategories": [
-    "Hobbies & Interests"
-   ],
-   "categories": [
-    "festivals"
-   ],
-   "score": 5,
-   "alsoOn": [],
-   "firstSeen": "2026-11-20T12:20:56.822Z"
-  },
-  {
-   "id": "webtickets:1606463354",
-   "source": "webtickets",
-   "sourceName": "Webtickets",
-   "sourceId": "1606463354",
-   "title": "Norval Foundation Picnic Tickets",
-   "description": "Enjoy a relaxing picnic at Norval Foundation, surrounded by the beautiful Sculpture Garden. Your picnic ticket includes a specially prepared picnic box to enjoy in the gardens, making it the perfect addition to your visit.Please note that wine and other beverages are not included and can be purchased separately. Kindly check your ticket options for the applicable garden or museum admission.\nPicnic Hours are between 10:00 - 16:00pm Wednesday - Saturday\nSunday - Public holiday 10:00 - 15:00",
-   "url": "https://www.webtickets.co.za/v2/event.aspx?itemid=1606463354",
-   "image": "https://content.webtickets.co.za/NorvalFoundation/panel_d2a368a30950462ab00dd3c1508ead01.jpg",
-   "start": "2026-11-22T08:00:00.000Z",
-   "end": null,
-   "allDay": false,
-   "timezone": "Africa/Johannesburg",
-   "venue": "Norval Foundation Learning Centre, Steenberg,",
-   "address": "Norval Foundation Learning Centre, Steenberg, Western Cape",
-   "city": null,
-   "area": "cape-town",
-   "lat": -34.076106,
-   "lng": 18.428762,
-   "price": {
-    "text": "R100 – R600",
-    "amount": 100,
-    "currency": "ZAR",
-    "free": false
-   },
-   "organiser": "NorvalFoundation",
-   "sourceCategories": [
-    "Tourism & Attractions",
-    "Food & Drink",
-    "Nature"
-   ],
-   "categories": [
-    "exhibitions"
-   ],
-   "score": 4.5,
-   "alsoOn": [],
-   "firstSeen": "2026-11-19T12:20:29.508Z"
-  },
-  {
-   "id": "webtickets:1527098177",
-   "source": "webtickets",
-   "sourceName": "Webtickets",
-   "sourceId": "1527098177",
-   "title": "Iziko Planetarium and Digital Dome - Cape Town",
-   "description": "Adventure seekers, curious explorers, families, and friends visit the Iziko Planetarium and Digital Dome – Cape Town - for an unforgettable experience!\nEmbark on a multi-sensory journey through the space, science, and the human body from the comfort of your seat. From galaxies to atoms, and even the human body — explore it all through immersive 360° digital projections.\nThe Iziko Planetarium and Digital Dome – Cape Town is the most advanced digital planetarium on the African continent.\nThis world-class facility enables virtual voyages of the universe, offering an immersive experience through animation and 360° cinema.\nThis world-class facility makes virtual voyages of the universe…",
-   "url": "https://www.webtickets.co.za/v2/event.aspx?itemid=1527098177",
-   "image": "https://content.webtickets.co.za/Izikomuseum/panel_Planetarium_Media%20Event%20jpg_20230522_164904.jpg",
-   "start": "2026-11-22T08:30:00.000Z",
-   "end": null,
-   "allDay": false,
-   "timezone": "Africa/Johannesburg",
-   "venue": "Iziko South African Museum, Queen Victoria Street, Gardens, Cape Town, South Africa",
-   "address": "Iziko South African Museum, Queen Victoria Street, Gardens, Cape Town, South Africa",
-   "city": null,
-   "area": "cape-town",
-   "lat": -33.9287876,
-   "lng": 18.4150541,
-   "price": {
-    "text": "R40 – R300",
-    "amount": 40,
-    "currency": "ZAR",
-    "free": false
-   },
-   "organiser": "Izikomuseum",
-   "sourceCategories": [
-    "Education",
-    "Museums, Visitors Centers",
-    "Tourism & Attractions"
-   ],
-   "categories": [
-    "exhibitions"
-   ],
-   "score": 10,
-   "alsoOn": [],
-   "firstSeen": "2026-11-09T10:31:44.896Z"
-  },
-  {
-   "id": "quicket:394618",
-   "source": "quicket",
-   "sourceName": "Quicket",
-   "sourceId": "394618",
-   "title": "A Wine Club Gathering with Cathy",
-   "description": "A Wine Club Gathering with CathyAn afternoon of wine, good company and conversation!\nWe’re delighted to invite our Wine Club members to an exclusive event with award-winning winemaker, Catherine Marshall, on Sunday, 22 November.\nIt’s been quite a year for Catherine Marshall Wines, and we’d love to bring our Wine Club community together to celebrate and say thank you for all your support.\nWe’ll start with a welcome drink, followed by a wine tasting and talk with Cathy, sharing stories from the cellar, the vineyards and some of our recent wine awards.Afterwards, we’ll enjoy a light lunch together, with plenty of time to catch up and enjoy another glass of wine. Wines will also be available…",
-   "url": "https://www.quicket.co.za/events/394618-a-wine-club-gathering-with-cathy/",
-   "image": "https://images.quicket.co.za/1009247_247_247.png",
-   "start": "2026-11-22T10:00:00.000Z",
-   "end": "2026-11-22T13:00:00.000Z",
-   "allDay": false,
-   "timezone": "Africa/Johannesburg",
-   "venue": "Catherine Marshall Wines",
-   "address": "Polkadraai Road, 7640, Stellenbosch, Western Cape, South Africa",
-   "city": "Stellenbosch",
-   "area": "winelands",
-   "lat": -33.9648743,
-   "lng": 18.733614,
-   "price": {
-    "text": "Free",
-    "amount": 0,
-    "currency": "ZAR",
-    "free": true
-   },
-   "organiser": "Catherine Marshall Wines",
-   "sourceCategories": [
-    "Food & Drink"
-   ],
-   "categories": [
-    "tastings"
-   ],
-   "score": 6,
-   "alsoOn": [],
-   "firstSeen": "2026-11-09T10:31:44.896Z"
-  },
-  {
-   "id": "quicket:408590",
-   "source": "quicket",
-   "sourceName": "Quicket",
-   "sourceId": "408590",
-   "title": "Unique Black or White Porcelain Bowl Workshop",
-   "description": "UNIQUE PORCELAIN BOWL WORKSHOPShape. Carve. Translucent.Presented by Safari Soul Collectors ClubDiscover the beauty and versatility of porcelain in a hands-on sculptural workshop with Safari Soul Collectors Club.Explore the art of hand-building as you create your own one-of-a-kind porcelain bowl, choosing between black or white porcelain clay.This workshop invites you to experiment with organic forms, expressive textures and sculptural techniques, transforming a simple material into a distinctive piece of functional art.Inspired by the natural relationship between light, texture and form, you’ll be guided through the creative process of shaping and carving porcelain to develop a bowl that…",
-   "url": "https://www.quicket.co.za/events/408590-unique-black-or-white-porcelain-bowl-workshop/",
-   "image": "https://images.quicket.co.za/1022967_247_247.jpeg",
-   "start": "2026-11-22T12:00:00.000Z",
-   "end": "2026-11-22T15:00:00.000Z",
-   "allDay": false,
-   "timezone": "Africa/Johannesburg",
-   "venue": "Montebello Design Centre Studio 23 ",
-   "address": "31 Newlands Avenue, 7700, Cape Town, Western Cape, South Africa",
-   "city": "Cape Town",
-   "area": "cape-town",
-   "lat": -33.9701576,
-   "lng": 18.4573269,
-   "price": {
-    "text": "R1200",
-    "amount": 1200,
-    "currency": "ZAR",
-    "free": false
-   },
-   "organiser": "Safari Soul Collectors Club",
-   "sourceCategories": [
-    "Arts & Culture"
-   ],
-   "categories": [
-    "pottery",
-    "craft"
-   ],
-   "score": 8,
-   "alsoOn": [],
-   "firstSeen": "2026-11-14T11:05:50.835Z"
-  },
-  {
-   "id": "quicket:400948",
-   "source": "quicket",
-   "sourceName": "Quicket",
-   "sourceId": "400948",
-   "title": "Mosaic",
-   "description": "Like pieces of a mosaic, each dancer, song and story comes together to create something greater than itself. Mosaic brings together the energy of Cape Townian music and culture through dance, celebrating our shared communities, diverse identities and the joy of coming together.\nFeaturing dancers from the Rhônel Stoltz Dance Studio, the production is a celebration of local talent and the creative spirit of our city, from familiar sounds and rythms to the traditions, influences and contemporary culture that make Cape Town home.This is more than a dance show. It is a celebration of community, creativity and belonging.\nCome support local dancers, experience the joy of live performance and…",
-   "url": "https://www.quicket.co.za/events/400948-mosaic/",
-   "image": "https://images.quicket.co.za/0998640_247_247.jpeg",
-   "start": "2026-11-22T13:30:00.000Z",
-   "end": null,
-   "allDay": false,
-   "dates": [
-    "2026-11-22T13:30:00.000Z",
-    "2026-11-22T15:00:00.000Z"
-   ],
-   "timezone": "Africa/Johannesburg",
-   "venue": "Observatory Community Recreation Centre",
-   "address": "Rawson Street, Observatory, 7925, Cape Town, Western Cape, South Africa",
-   "city": "Cape Town",
-   "area": "cape-town",
-   "lat": -33.9371719,
-   "lng": 18.4686012,
-   "price": {
-    "text": "R100",
-    "amount": 100,
-    "currency": "ZAR",
-    "free": false
-   },
-   "organiser": "The Open Stage Foundation NPC",
-   "sourceCategories": [
-    "Arts & Culture"
-   ],
-   "categories": [
-    "craft"
-   ],
-   "score": 6,
-   "alsoOn": [],
-   "firstSeen": "2026-11-09T10:22:41.753Z"
   },
   {
    "id": "webtickets:1527310112",
@@ -726,6 +315,80 @@
    "firstSeen": "2026-11-09T10:31:44.896Z"
   },
   {
+   "id": "webtickets:1506927291",
+   "source": "webtickets",
+   "sourceName": "Webtickets",
+   "sourceId": "1506927291",
+   "title": "Huguenot Memorial Museum",
+   "description": "The Huguenot Memorial Museum documents the gripping tale of the ruthless persecution of the Huguenots in France and the settlement of approximately three hundred of them at The Cape of Good hope in the late seventeeth century. Although they lost their language, the Huguenots made a larger contribution to the material and social development of the settlement at the Cape than the free burghers from the Dutch Republic or the German states.\nMondays – Saturdays: 09h00 - 17h00\nSundays: 09h00 – 17h00 (October – April)\nClosed Sundays: May - September\nPublic Holidays: 09h00 – 17h00\n(Closed on 1 January, Good Friday, 25 December)\n(Last ticket sale at 16h15)",
+   "url": "https://www.webtickets.co.za/v2/event.aspx?itemid=1506927291",
+   "image": "https://content.webtickets.co.za/HuguenotMuseum/panel_1-Main1.jpg",
+   "start": "2026-11-23T07:00:00.000Z",
+   "end": null,
+   "allDay": false,
+   "timezone": "Africa/Johannesburg",
+   "venue": "Huguenot Memorial Museum, Franschhoek",
+   "address": "Huguenot Memorial Museum, Franschhoek",
+   "city": null,
+   "area": "winelands",
+   "lat": -33.91362052101078,
+   "lng": 19.124288935410213,
+   "price": {
+    "text": "R50 – R100",
+    "amount": 50,
+    "currency": "ZAR",
+    "free": false
+   },
+   "organiser": "HuguenotMuseum",
+   "sourceCategories": [
+    "Education",
+    "Museums, Visitors Centers",
+    "Tourism & Attractions"
+   ],
+   "categories": [
+    "exhibitions"
+   ],
+   "score": 5,
+   "alsoOn": [],
+   "firstSeen": "2026-11-09T10:31:44.896Z"
+  },
+  {
+   "id": "quicket:398273",
+   "source": "quicket",
+   "sourceName": "Quicket",
+   "sourceId": "398273",
+   "title": "Start Your Baking Career: 5 Day Pro Programme with Priscilla Mazibuko",
+   "description": "Lemon meringue tart. Macarons. Burger rolls and bread rolls. Five days, real professional skills, launch edition. 23 to 27 November 2026 - 5pm to 8 pm. Limited places.\nWant to work in baking? Start with the products that actually sell.\nThis brand new programme is built for people ready to step into the professional baking world. The core skills bakeries, cafés and delis look for, taught hands on over five days.Your teacher is Priscilla Mazibuko, who has been teaching at Crème & Croissant for over two years and knows our recipes and standards better than anyone. She has trained countless students in our kitchen and she knows exactly how to take you from nervous to confident.\nHere is what you…",
+   "url": "https://www.quicket.co.za/events/398273-start-your-baking-career-5-day-pro-programme-with-priscilla-mazibuko/",
+   "image": "https://images.quicket.co.za/1009450_247_247.jpeg",
+   "start": "2026-11-23T15:00:00.000Z",
+   "end": "2026-11-27T18:00:00.000Z",
+   "allDay": false,
+   "timezone": "Africa/Johannesburg",
+   "venue": "Creme and Croissant",
+   "address": "4 Drake Street, Observatory, 7925, Cape Town, Western Cape, South Africa",
+   "city": "Cape Town",
+   "area": "cape-town",
+   "lat": -33.9371,
+   "lng": 18.47046,
+   "price": {
+    "text": "R5850",
+    "amount": 5850,
+    "currency": "ZAR",
+    "free": false
+   },
+   "organiser": "Crème & Croissant",
+   "sourceCategories": [
+    "Food & Drink"
+   ],
+   "categories": [
+    "cooking"
+   ],
+   "score": 3.5,
+   "alsoOn": [],
+   "firstSeen": "2026-11-09T10:22:41.753Z"
+  },
+  {
    "id": "quicket:65165",
    "source": "quicket",
    "sourceName": "Quicket",
@@ -734,11 +397,10 @@
    "description": "Daily wine tours from Cape Town to Paarl and Wellington wine region.\nPrice of R1250.00 includes pickup and drop off in and around Cape Town, wine tasting fee at 4 wine estates and light lunch (own account). It excludes lunch, personal purchases and drinks.\nThis is a fun way to explore these two regions and to meet other traveler.\nYour guide will be entertaining you for the 8 hours and introduce you to the people that makes this such a special area.\nPickup is around Cape Town CBD from 08h00 and we will depart Cape Town around 09h00\nFirst winery stop will be at Fairview Winery to enjoy a cheese and wine tasting.\nSecond winery stop will be at Ridgeback Wine, which will also be the Lunch…",
    "url": "https://www.quicket.co.za/events/65165-schedule-wine-tour/",
    "image": "https://images.quicket.co.za/Q15_247_247.jpg",
-   "start": "2026-11-23T06:00:00.000Z",
+   "start": "2026-11-24T06:00:00.000Z",
    "end": null,
    "allDay": false,
    "dates": [
-    "2026-11-23T06:00:00.000Z",
     "2026-11-24T06:00:00.000Z",
     "2026-11-25T06:00:00.000Z",
     "2026-11-26T06:00:00.000Z",
@@ -1054,11 +716,10 @@
    "description": "District Six was named the Sixth Municipal District of Cape Town in 1867. It was established as a mixed community of freed slaves, merchants, artisans, labourers and immigrants,\nDistrict Six was a vibrant centre with close links to the city and the port. By the beginning of the twentieth century, however, the process of removals and marginalisation had begun.\nThe first to be forced out were black South Africans who were displaced from the District in 1901. As the more prosperous moved away to the suburbs, the area became a neglected ward of the city.\nOn 11 February 1966 it was declared a white area under the Group Areas Act of 1950, and by 1982, the life of the community was over. More than…",
    "url": "https://www.quicket.co.za/events/365063-district-six-museum-november-2026-admission-tickets/",
    "image": "https://images.quicket.co.za/0893383_247_247.jpeg",
-   "start": "2026-11-23T07:00:00.000Z",
+   "start": "2026-11-24T07:00:00.000Z",
    "end": null,
    "allDay": false,
    "dates": [
-    "2026-11-23T07:00:00.000Z",
     "2026-11-24T07:00:00.000Z",
     "2026-11-25T07:00:00.000Z",
     "2026-11-26T07:00:00.000Z",
@@ -1090,6 +751,44 @@
    "firstSeen": "2026-11-09T10:31:44.896Z"
   },
   {
+   "id": "webtickets:1527098177",
+   "source": "webtickets",
+   "sourceName": "Webtickets",
+   "sourceId": "1527098177",
+   "title": "Iziko Planetarium and Digital Dome - Cape Town",
+   "description": "Adventure seekers, curious explorers, families, and friends visit the Iziko Planetarium and Digital Dome – Cape Town - for an unforgettable experience!\nEmbark on a multi-sensory journey through the space, science, and the human body from the comfort of your seat. From galaxies to atoms, and even the human body — explore it all through immersive 360° digital projections.\nThe Iziko Planetarium and Digital Dome – Cape Town is the most advanced digital planetarium on the African continent.\nThis world-class facility enables virtual voyages of the universe, offering an immersive experience through animation and 360° cinema.\nThis world-class facility makes virtual voyages of the universe…",
+   "url": "https://www.webtickets.co.za/v2/event.aspx?itemid=1527098177",
+   "image": "https://content.webtickets.co.za/Izikomuseum/panel_Planetarium_Media%20Event%20jpg_20230522_164904.jpg",
+   "start": "2026-11-24T07:00:00.000Z",
+   "end": null,
+   "allDay": false,
+   "timezone": "Africa/Johannesburg",
+   "venue": "Iziko South African Museum, Queen Victoria Street, Gardens, Cape Town, South Africa",
+   "address": "Iziko South African Museum, Queen Victoria Street, Gardens, Cape Town, South Africa",
+   "city": null,
+   "area": "cape-town",
+   "lat": -33.9287876,
+   "lng": 18.4150541,
+   "price": {
+    "text": "R40 – R300",
+    "amount": 40,
+    "currency": "ZAR",
+    "free": false
+   },
+   "organiser": "Izikomuseum",
+   "sourceCategories": [
+    "Education",
+    "Museums, Visitors Centers",
+    "Tourism & Attractions"
+   ],
+   "categories": [
+    "exhibitions"
+   ],
+   "score": 10,
+   "alsoOn": [],
+   "firstSeen": "2026-11-09T10:31:44.896Z"
+  },
+  {
    "id": "quicket:364591",
    "source": "quicket",
    "sourceName": "Quicket",
@@ -1098,11 +797,10 @@
    "description": "The Museum of Dogs is dedicated to celebrating dogs and exploring their role in history as comforters, friends, and workers through captivating stories and interactive displays. Proudly based in Cape Town, we invite visitors to join us in honouring these loyal companions.\nYou can buy tickets to visit the Museum online or onsite. Buy your ticket online and enjoy a FREE beer, glass of wine, or cool drink on us!",
    "url": "https://www.quicket.co.za/events/364591-museum-of-dogs-entry-tickets/",
    "image": "https://images.quicket.co.za/0916474_247_247.jpeg",
-   "start": "2026-11-23T08:00:00.000Z",
+   "start": "2026-11-24T08:00:00.000Z",
    "end": null,
    "allDay": false,
    "dates": [
-    "2026-11-23T08:00:00.000Z",
     "2026-11-24T08:00:00.000Z",
     "2026-11-25T08:00:00.000Z",
     "2026-11-26T08:00:00.000Z",
@@ -1296,11 +994,10 @@
    "description": "Step into the world of Brush & Brew at Life Is Good Café — where art, connection, and flavour meet under one roof in the heart of Woodstock.\nThis is more than a paint session. It’s a curated creative escape designed for those who want to slow down, sip intentionally, and rediscover the joy of creating with their own hands.\nLed by an experienced host, the session is relaxed, beginner-friendly, and welcoming to seasoned creatives alike. You’ll be guided step-by-step through a featured artwork while enjoying a freshly prepared meal and drink from our halal-friendly café.\nWhether you’re celebrating a birthday, planning a date, hosting a team-building session, or simply exploring Cape Town’s…",
    "url": "https://www.quicket.co.za/events/359091-brush-brew-sip-paint-experience-at-life-is-good-caf-woodstock-cape-town/",
    "image": "https://images.quicket.co.za/0879028_247_247.jpeg",
-   "start": "2026-11-23T09:00:00.000Z",
+   "start": "2026-11-24T09:00:00.000Z",
    "end": null,
    "allDay": false,
    "dates": [
-    "2026-11-23T09:00:00.000Z",
     "2026-11-24T09:00:00.000Z",
     "2026-11-25T09:00:00.000Z",
     "2026-11-26T09:00:00.000Z",
@@ -1554,25 +1251,18 @@
    "description": "All Aboard, departing from The Two Oceans Aquarium!\nExperience SA’s only all-in-one land & water tour from the best seat in the house!\nThe amphibious Waterfront Duck literally blows every other tour you’ve ever had out of the water – and lets you experience the highlights of Cape Town's Waterfront precinct by bus and boat in the same vehicle – an awesome adventure for the whole family!\nWhether it’s the juicy story-rich history or the amazing ecology of the area, our knowledgeable tour guides (or “ConDUCKtors”, as we call them) will entertain you with unique tales and interesting facts that will engage both young and old, whether you are a local Capetonian, a South African visitor from out…",
    "url": "https://www.quicket.co.za/events/334290-the-two-oceans-aquarium-the-waterfront-duck-co-tours-october-december-2026/",
    "image": "https://images.quicket.co.za/0901190_247_247.jpeg",
-   "start": "2026-11-23T11:00:00.000Z",
+   "start": "2026-11-24T11:00:00.000Z",
    "end": null,
    "allDay": false,
    "dates": [
-    "2026-11-23T11:00:00.000Z",
-    "2026-11-23T12:30:00.000Z",
-    "2026-11-23T14:00:00.000Z",
     "2026-11-24T11:00:00.000Z",
     "2026-11-24T12:30:00.000Z",
-    "2026-11-24T14:00:00.000Z",
     "2026-11-25T11:00:00.000Z",
     "2026-11-25T12:30:00.000Z",
-    "2026-11-25T14:00:00.000Z",
     "2026-11-26T11:00:00.000Z",
     "2026-11-26T12:30:00.000Z",
-    "2026-11-26T14:00:00.000Z",
     "2026-11-27T11:00:00.000Z",
     "2026-11-27T12:30:00.000Z",
-    "2026-11-27T14:00:00.000Z",
     "2026-11-28T08:00:00.000Z",
     "2026-11-28T11:00:00.000Z",
     "2026-11-28T14:00:00.000Z",
@@ -1581,18 +1271,23 @@
     "2026-11-29T14:00:00.000Z",
     "2026-11-30T08:00:00.000Z",
     "2026-11-30T11:00:00.000Z",
+    "2026-11-30T12:30:00.000Z",
     "2026-11-30T14:00:00.000Z",
     "2026-12-01T08:00:00.000Z",
     "2026-12-01T11:00:00.000Z",
+    "2026-12-01T12:30:00.000Z",
     "2026-12-01T14:00:00.000Z",
     "2026-12-02T08:00:00.000Z",
     "2026-12-02T11:00:00.000Z",
+    "2026-12-02T12:30:00.000Z",
     "2026-12-02T14:00:00.000Z",
     "2026-12-03T08:00:00.000Z",
     "2026-12-03T11:00:00.000Z",
+    "2026-12-03T12:30:00.000Z",
     "2026-12-03T14:00:00.000Z",
     "2026-12-04T08:00:00.000Z",
     "2026-12-04T11:00:00.000Z",
+    "2026-12-04T12:30:00.000Z",
     "2026-12-04T14:00:00.000Z",
     "2026-12-05T08:00:00.000Z",
     "2026-12-05T11:00:00.000Z",
@@ -1695,42 +1390,6 @@
    "score": 5,
    "alsoOn": [],
    "firstSeen": "2026-11-09T10:31:44.896Z"
-  },
-  {
-   "id": "quicket:398273",
-   "source": "quicket",
-   "sourceName": "Quicket",
-   "sourceId": "398273",
-   "title": "Start Your Baking Career: 5 Day Pro Programme with Priscilla Mazibuko",
-   "description": "Lemon meringue tart. Macarons. Burger rolls and bread rolls. Five days, real professional skills, launch edition. 23 to 27 November 2026 - 5pm to 8 pm. Limited places.\nWant to work in baking? Start with the products that actually sell.\nThis brand new programme is built for people ready to step into the professional baking world. The core skills bakeries, cafés and delis look for, taught hands on over five days.Your teacher is Priscilla Mazibuko, who has been teaching at Crème & Croissant for over two years and knows our recipes and standards better than anyone. She has trained countless students in our kitchen and she knows exactly how to take you from nervous to confident.\nHere is what you…",
-   "url": "https://www.quicket.co.za/events/398273-start-your-baking-career-5-day-pro-programme-with-priscilla-mazibuko/",
-   "image": "https://images.quicket.co.za/1009450_247_247.jpeg",
-   "start": "2026-11-23T15:00:00.000Z",
-   "end": "2026-11-27T18:00:00.000Z",
-   "allDay": false,
-   "timezone": "Africa/Johannesburg",
-   "venue": "Creme and Croissant",
-   "address": "4 Drake Street, Observatory, 7925, Cape Town, Western Cape, South Africa",
-   "city": "Cape Town",
-   "area": "cape-town",
-   "lat": -33.9371,
-   "lng": 18.47046,
-   "price": {
-    "text": "R5850",
-    "amount": 5850,
-    "currency": "ZAR",
-    "free": false
-   },
-   "organiser": "Crème & Croissant",
-   "sourceCategories": [
-    "Food & Drink"
-   ],
-   "categories": [
-    "cooking"
-   ],
-   "score": 3.5,
-   "alsoOn": [],
-   "firstSeen": "2026-11-09T10:22:41.753Z"
   },
   {
    "id": "quicket:405487",
@@ -1891,6 +1550,44 @@
    "score": 4,
    "alsoOn": [],
    "firstSeen": "2026-11-12T11:59:13.394Z"
+  },
+  {
+   "id": "webtickets:1606463354",
+   "source": "webtickets",
+   "sourceName": "Webtickets",
+   "sourceId": "1606463354",
+   "title": "Norval Foundation Picnic Tickets",
+   "description": "Enjoy a relaxing picnic at Norval Foundation, surrounded by the beautiful Sculpture Garden. Your picnic ticket includes a specially prepared picnic box to enjoy in the gardens, making it the perfect addition to your visit.Please note that wine and other beverages are not included and can be purchased separately. Kindly check your ticket options for the applicable garden or museum admission.\nPicnic Hours are between 10:00 - 16:00pm Wednesday - Saturday\nSunday - Public holiday 10:00 - 15:00",
+   "url": "https://www.webtickets.co.za/v2/event.aspx?itemid=1606463354",
+   "image": "https://content.webtickets.co.za/NorvalFoundation/panel_d2a368a30950462ab00dd3c1508ead01.jpg",
+   "start": "2026-11-25T08:00:00.000Z",
+   "end": null,
+   "allDay": false,
+   "timezone": "Africa/Johannesburg",
+   "venue": "Norval Foundation Learning Centre, Steenberg,",
+   "address": "Norval Foundation Learning Centre, Steenberg, Western Cape",
+   "city": null,
+   "area": "cape-town",
+   "lat": -34.076106,
+   "lng": 18.428762,
+   "price": {
+    "text": "R100 – R600",
+    "amount": 100,
+    "currency": "ZAR",
+    "free": false
+   },
+   "organiser": "NorvalFoundation",
+   "sourceCategories": [
+    "Tourism & Attractions",
+    "Food & Drink",
+    "Nature"
+   ],
+   "categories": [
+    "exhibitions"
+   ],
+   "score": 4.5,
+   "alsoOn": [],
+   "firstSeen": "2026-11-19T12:20:29.508Z"
   },
   {
    "id": "quicket:408238",
@@ -2728,6 +2425,43 @@
    "firstSeen": "2026-11-09T10:31:44.896Z"
   },
   {
+   "id": "webtickets:1561334797",
+   "source": "webtickets",
+   "sourceName": "Webtickets",
+   "sourceId": "1561334797",
+   "title": "Turkish Mosaic Lamp Workshop",
+   "description": "Turkish Mosaic Lamp Workshops: Create, Connect, and Shine!\nUnleash your creativity and experience the magic of Turkish mosaic art!\nOur Mosaic Lamp Workshops offer a unique, hands-on opportunity to craft your very own stunning mosaic lamp. Perfect for all skill levels, these workshops combine art, culture, and fun in a warm and welcoming environment.\n-Design and assemble a stunning lamp , guided by skilled instructors.\n-Ideal for team-building, celebrations, or a fun day out.\nCandle Holder R500\nMini Table Lamp R950\nTable Lamp R1250\nSwan Lamp R1650\nAladdin Lamp R1750\nMini Moon Lamp R1850\nMoon Lamp R2050\nAll Lamp options Click here to see the lamp options",
+   "url": "https://www.webtickets.co.za/v2/event.aspx?itemid=1561334797",
+   "image": "https://content.webtickets.co.za/TurquoiseHarmonyInstitute/panel_mosiactq_20250106_140621.jpg",
+   "start": "2026-11-28T07:30:00.000Z",
+   "end": null,
+   "allDay": false,
+   "timezone": "Africa/Johannesburg",
+   "venue": "Johannesburg, Prison Break Market",
+   "address": "Johannesburg, Prison Break Market",
+   "city": null,
+   "area": "western-cape",
+   "lat": null,
+   "lng": null,
+   "price": {
+    "text": "R750 – R2250",
+    "amount": 750,
+    "currency": "ZAR",
+    "free": false
+   },
+   "organiser": "TurquoiseHarmonyInstitute",
+   "sourceCategories": [
+    "Art, Design, Literature",
+    "Workshops & Classes"
+   ],
+   "categories": [
+    "craft"
+   ],
+   "score": 6.5,
+   "alsoOn": [],
+   "firstSeen": "2026-11-09T10:22:41.753Z"
+  },
+  {
    "id": "quicket:397031",
    "source": "quicket",
    "sourceName": "Quicket",
@@ -3241,6 +2975,42 @@
    "score": 6,
    "alsoOn": [],
    "firstSeen": "2026-11-09T10:31:44.896Z"
+  },
+  {
+   "id": "quicket:409802",
+   "source": "quicket",
+   "sourceName": "Quicket",
+   "sourceId": "409802",
+   "title": "Beginner Crochet Workshop",
+   "description": "Beginner crochet workshops for girls and women aged 9+. Learn the basics, make it, take it home.\nWe’ll guide her through the basics, with time to practice as she makes her project. She will learn:How to hold the crochet hook and yarnThe slip knot and chain stitchBasic crochet stitchesHow to make her own scrunchie or headband\nMothers accompanying their daughters attend for free!\nYarn, hooks and the materials for her project are provided. She’ll take her creation home after the class.",
+   "url": "https://www.quicket.co.za/events/409802-beginner-crochet-workshop/",
+   "image": "https://images.quicket.co.za/1026348_247_247.png",
+   "start": "2026-11-28T12:30:00.000Z",
+   "end": "2026-11-28T14:30:00.000Z",
+   "allDay": false,
+   "timezone": "Africa/Johannesburg",
+   "venue": "PNA Canal Walk",
+   "address": "Century Boulevard, Century City, 7446, Cape Town, Western Cape, South Africa",
+   "city": "Cape Town",
+   "area": "cape-town",
+   "lat": -33.89184,
+   "lng": 18.51234,
+   "price": {
+    "text": "R350",
+    "amount": 350,
+    "currency": "ZAR",
+    "free": false
+   },
+   "organiser": "Farashat Skills Academy",
+   "sourceCategories": [
+    "Arts & Culture"
+   ],
+   "categories": [
+    "textiles"
+   ],
+   "score": 8,
+   "alsoOn": [],
+   "firstSeen": "2026-11-23T13:52:29.918Z"
   },
   {
    "id": "quicket:407114",
@@ -4227,6 +3997,44 @@
    "firstSeen": "2026-11-09T10:22:41.753Z"
   },
   {
+   "id": "eventbrite:2004950197011",
+   "source": "eventbrite",
+   "sourceName": "Eventbrite",
+   "sourceId": "2004950197011",
+   "title": "CATARTIS - Preserving the Future - (The director will be in attendance)",
+   "description": "Directed by Ferdinando Vicentini Orgnani\nItaly, 2025 | 63 min | Documentary - In the original language with English subtitles",
+   "url": "https://www.eventbrite.it/e/catartis-preserving-the-future-the-director-will-be-in-attendance-tickets-2004950197011",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1198153085%2F1805410754103%2F1%2Foriginal.20261117-120952?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.212&fp-y=0.45&s=31ca174b3b4860e4aa01a9220a7e2096",
+   "start": "2026-12-01T15:30:00.000Z",
+   "end": "2026-12-01T17:30:00.000Z",
+   "allDay": false,
+   "timezone": "Africa/Johannesburg",
+   "venue": "South African National Gallery",
+   "address": "Government Avenue, Cape Town, WC 8001",
+   "city": "Cape Town",
+   "area": "cape-town",
+   "lat": -33.929023,
+   "lng": 18.4172166,
+   "price": null,
+   "organiser": null,
+   "sourceCategories": [
+    "Film",
+    "Film, Media & Entertainment",
+    "Screening",
+    "Sustainability",
+    "Écotech",
+    "greeninnovation",
+    "catartis",
+    "futurepreserve"
+   ],
+   "categories": [
+    "cooking"
+   ],
+   "score": 3,
+   "alsoOn": [],
+   "firstSeen": "2026-11-23T13:52:29.918Z"
+  },
+  {
    "id": "quicket:402508",
    "source": "quicket",
    "sourceName": "Quicket",
@@ -4267,9 +4075,9 @@
    "source": "quicket",
    "sourceName": "Quicket",
    "sourceId": "402014",
-   "title": "Bertha & Beyerskloof",
+   "title": "Blind Tasting: Bertha & Beyerskloof",
    "description": "Bertha & BEYERSKLOOFTwo Hands. Two Visions. One Goal.\nWe’re ending the year with a Blind at Bertha tasting that’s a little different.This time, we’re putting the winemakers in the spotlight: Bertha’s own Bennie Booysen goes head-to-head with Beyerskloof's winemaker, Anri Truter.You’ll know who the two winemakers are. You’ll know their stories. But once the bottles are opened, the labels are going away.Your challenge? Taste the wine and decide who made it.Throughout the evening, we’ll taste a selection of wines from both winemakers, exploring their different approaches, styles and personalities and seeing whether a winemaker really does leave a signature in the glass.Expect good wine, plenty…",
-   "url": "https://www.quicket.co.za/events/402014-bertha-beyerskloof/",
+   "url": "https://www.quicket.co.za/events/402014-blind-tasting-bertha-beyerskloof/",
    "image": "https://images.quicket.co.za/1002038_247_247.png",
    "start": "2026-12-03T16:00:00.000Z",
    "end": "2026-12-03T17:00:00.000Z",
@@ -4294,7 +4102,7 @@
    "categories": [
     "tastings"
    ],
-   "score": 5,
+   "score": 8,
    "alsoOn": [],
    "firstSeen": "2026-11-09T10:31:44.896Z"
   },
@@ -4421,14 +4229,14 @@
    "sourceName": "Quicket",
    "sourceId": "408992",
    "title": "Black Noise Film Festival",
-   "description": "Black Noise is an arts festival and pan-African movement that builds solidarity against Afrophobia through a zine workshop and film festival. By facilitating conversations surrounding migration and other intersectional frameworks, Black Noise aims to celebrate African stories across the continent and diaspora. The festival consists of 3 different film blocks and a zine workshop.\nBlock A: Echoes of Home showcases the memories, voices, and histories that survive migration through documentary storytelling. BLOCK B: Dreams in Translation showcases unconventional narratives and poetic imagery that depict themes of migration through poetic and narrative storytelling.Block C: The Art of Becoming,…",
+   "description": "Black Noise is an arts festival and Pan-African movement that builds solidarity against Afrophobia. The first day is called \"The stories we carry\" which includes a zine workshop and film festival. By facilitating conversations surrounding migration and other intersectional frameworks, Black Noise aims to celebrate African stories across the continent and diaspora. The festival consists of 3 different film blocks and a zine workshop.\nBlock A: Echoes of Home showcases the memories, voices, and histories that survive migration through documentary storytelling. BLOCK B: Dreams in Translation showcases unconventional narratives and poetic imagery that depict themes of migration through poetic…",
    "url": "https://www.quicket.co.za/events/408992-black-noise-film-festival/",
    "image": "https://images.quicket.co.za/1025957_247_247.png",
-   "start": "2026-12-04T06:30:00.000Z",
+   "start": "2026-12-04T07:00:00.000Z",
    "end": null,
    "allDay": false,
    "dates": [
-    "2026-12-04T06:30:00.000Z",
+    "2026-12-04T07:00:00.000Z",
     "2026-12-04T09:00:00.000Z",
     "2026-12-04T11:00:00.000Z",
     "2026-12-04T12:30:00.000Z"
@@ -5555,6 +5363,42 @@
    "firstSeen": "2026-11-13T11:44:36.143Z"
   },
   {
+   "id": "quicket:409866",
+   "source": "quicket",
+   "sourceName": "Quicket",
+   "sourceId": "409866",
+   "title": "Paint With Coffee",
+   "description": "Paint With Coffee Workshop ???\nCome paint with different tones of coffee and explore the beauty of coffee art!Relax, unwind, and enjoy a fun, creative experience while creating your own artwork using coffee as a natural painting medium. No artistic experience required!\n? What's Included:All art materials providedGuided step-by-step sessionInstructor available for assistanceBeginner-friendlyChild-friendlyFun and relaxing atmosphereBook your spot today! 073 526 9750",
+   "url": "https://www.quicket.co.za/events/409866-paint-with-coffee/",
+   "image": "https://images.quicket.co.za/1026503_247_247.png",
+   "start": "2026-12-08T08:00:00.000Z",
+   "end": "2026-12-08T10:00:00.000Z",
+   "allDay": false,
+   "timezone": "Africa/Johannesburg",
+   "venue": "Phela Café",
+   "address": "Beach Road, Hibernian Tower , Strand, 7139, Cape Town, Western Cape, South Africa",
+   "city": "Cape Town",
+   "area": "cape-town",
+   "lat": -34.1140366,
+   "lng": 18.8230019,
+   "price": {
+    "text": "R330",
+    "amount": 330,
+    "currency": "ZAR",
+    "free": false
+   },
+   "organiser": "Phela Café",
+   "sourceCategories": [
+    "Arts & Culture"
+   ],
+   "categories": [
+    "cooking"
+   ],
+   "score": 3,
+   "alsoOn": [],
+   "firstSeen": "2026-11-23T13:52:29.918Z"
+  },
+  {
    "id": "quicket:396611",
    "source": "quicket",
    "sourceName": "Quicket",
@@ -5677,7 +5521,7 @@
    "sourceName": "Quicket",
    "sourceId": "408095",
    "title": "The Festive Pop-Up Series: Pringle Bay (FoMo Gallery)",
-   "description": "Experience an intimate, sun-drenched evening of live string quartet music, fine art, and local wine in the heart of Pringle Bay!\nJoin Southern Light Strings at FoMo Fine Art Gallery & Events on Thursday, 10 December 2026 for an exclusive stop on The Festive Pop-Up Series.\nForget heavy winter snowscapes—our vibrant, 75-minute sunset performance is crafted as a warm South African summer lifestyle experience. Enjoy timeless classical masterpieces (Bach’s Jesu, Joy of Man’s Desiring and Corelli’s Christmas Concerto), beloved carols (Carol of the Bells, Silent Night), upbeat holiday pop crossovers (All I Want For Christmas, Feliz Navidad), and iconic South African summer favourites like…",
+   "description": "Experience an intimate, sun-drenched evening of live string quartet music, fine art, and local wine in the heart of Pringle Bay!\nJoin Southern Light Strings at FoMo Fine Art Gallery & Events on Thursday, 10 December 2026 for an exclusive stop on The Festive Pop-Up Series.\nForget heavy winter snowscapes—our vibrant, 75-minute sunset performance is crafted as a warm South African summer lifestyle experience. Enjoy timeless classical masterpieces (Bach’s Jesu, Joy of Man’s Desiring and Corelli’s Christmas Concerto), beloved carols (Carol of the Bells, Silent Night), upbeat Bridgerton-style holiday pop crossovers (All I Want For Christmas, Feliz Navidad), and iconic South African summer…",
    "url": "https://www.quicket.co.za/events/408095-the-festive-pop-up-series-pringle-bay-fomo-gallery/",
    "image": "https://images.quicket.co.za/1025618_247_247.png",
    "start": "2026-12-10T16:00:00.000Z",
@@ -5899,7 +5743,7 @@
    "sourceName": "Quicket",
    "sourceId": "409440",
    "title": "The Festive Pop-Up Series: Elgin (South Hill Vineyards)",
-   "description": "Experience a magical summer evening of live string quartet music outdoors amidst the vineyards of the Elgin Valley!\nJoin Southern Light Strings at South Hill Vineyards on Friday, 11 December 2026 for an exclusive open-air winelands stop on The Festive Pop-Up Series.\nForget heavy winter snowscapes—our vibrant, 75-minute sunset performance is crafted as a warm South African summer lifestyle experience. Enjoy timeless classical masterpieces (Bach’s Jesu, Joy of Man’s Desiring and Corelli’s Christmas Concerto), beloved carols (Carol of the Bells, Silent Night), upbeat holiday pop crossovers (All I Want For Christmas, Feliz Navidad), and iconic South African summer favourites like Somerkersfees…",
+   "description": "Experience a magical summer evening of live string quartet music outdoors amidst the vineyards of the Elgin Valley!\nJoin Southern Light Strings at South Hill Vineyards on Friday, 11 December 2026 for an exclusive open-air winelands stop on The Festive Pop-Up Series.\nForget heavy winter snowscapes—our vibrant, 75-minute sunset performance is crafted as a warm South African summer lifestyle experience. Enjoy timeless classical masterpieces (Bach’s Jesu, Joy of Man’s Desiring and Corelli’s Christmas Concerto), beloved carols (Carol of the Bells, Silent Night), upbeat Bridgerton-style holiday pop crossovers (All I Want For Christmas, Feliz Navidad), and iconic South African summer favourites…",
    "url": "https://www.quicket.co.za/events/409440-the-festive-pop-up-series-elgin-south-hill-vineyards/",
    "image": "https://images.quicket.co.za/1025619_247_247.png",
    "start": "2026-12-11T16:00:00.000Z",
@@ -6155,7 +5999,7 @@
    "sourceName": "Quicket",
    "sourceId": "409651",
    "title": "Black Noise Arts Festival",
-   "description": "Black Noise is an arts festival and pan-African movement that builds solidarity through art. The second day of the festival is called \"The noise we make\", geared towards celebrating fine art, spoken word and music that challenges systems of afrophobia. In collaborating with Tusimame Wanawake , there will be a pan african lunch celebrating food across the continent. Hosted at Guga S'thebe in Langa, Black Noise is excited to create a safe space that amplifies a sense of belonging for the diaspora.\nWe are excited to create some Black Noise with you!",
+   "description": "Black Noise is an arts festival and Pan-African movement that builds solidarity through art. The second day of the festival is called \"The noise we make\", geared towards celebrating fine art, spoken word and music that challenges systems of afrophobia. In collaborating with Tusimame Wanawake , there will be a pan african lunch celebrating food across the continent. Hosted at Guga S'thebe in Langa, Black Noise is excited to create a safe space that amplifies a sense of belonging for the diaspora.\nWe are excited to create some Black Noise with you on the 12th of December from 11:00-18:00.",
    "url": "https://www.quicket.co.za/events/409651-black-noise-arts-festival/",
    "image": "https://images.quicket.co.za/1026234_247_247.png",
    "start": "2026-12-12T09:00:00.000Z",
@@ -6226,6 +6070,81 @@
    "firstSeen": "2026-11-11T11:35:42.776Z"
   },
   {
+   "id": "quicket:410013",
+   "source": "quicket",
+   "sourceName": "Quicket",
+   "sourceId": "410013",
+   "title": "Helderberg Village Annual Wine Fair",
+   "description": "10 WINE FARMS, GREAT FOOD & LIVE MUSIC – ALL IN ONE AFTERNOON! Our Annual Helderberg Village Wine Fair is just around the corner, and we have a wonderful afternoon planned! Join us for a relaxed summer celebration featuring wines from 10 fantastic wine farms, delicious food and live entertainment in the beautiful surroundings of Helderberg Village. SATURDAY, 12 DECEMBER 202612:00 – 15:00Helderberg Village ClubhouseR290 per person WHAT'S INCLUDED?Wine TastingsDiscover new favourites, sample wines from some wonderful estates and enjoy chatting to the people who know their wines best! A TRIO OF GOURMET BRAAI DELIGHTSOur chefs have put together three delicious treats for you to enjoy – all…",
+   "url": "https://www.quicket.co.za/events/410013-helderberg-village-annual-wine-fair/",
+   "image": "https://images.quicket.co.za/1026908_247_247.png",
+   "start": "2026-12-12T10:00:00.000Z",
+   "end": "2026-12-12T13:00:00.000Z",
+   "allDay": false,
+   "timezone": "Africa/Johannesburg",
+   "venue": "Helderberg Village Lifestyle Estate Clubhouse",
+   "address": "63 Bakkerskloof Road, Helderberg Village, 7129, Cape Town, Western Cape, South Africa",
+   "city": "Cape Town",
+   "area": "cape-town",
+   "lat": -34.04788,
+   "lng": 18.8200226,
+   "price": {
+    "text": "R290",
+    "amount": 290,
+    "currency": "ZAR",
+    "free": false
+   },
+   "organiser": "Helderberg Village",
+   "sourceCategories": [
+    "Food & Drink"
+   ],
+   "categories": [
+    "festivals",
+    "tastings"
+   ],
+   "score": 4,
+   "alsoOn": [],
+   "firstSeen": "2026-11-23T13:52:29.918Z"
+  },
+  {
+   "id": "eventbrite:2003706587341",
+   "source": "eventbrite",
+   "sourceName": "Eventbrite",
+   "sourceId": "2003706587341",
+   "title": "Pavement Art Revisited | Goodman Gallery Cape Town",
+   "description": "A workshop inspired by a happening in 1968, when 17 artists worked directly onto the pavement outside Goodman's first public gallery space.",
+   "url": "https://www.eventbrite.com/e/pavement-art-revisited-goodman-gallery-cape-town-tickets-2003706587341",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196268228%2F3012794343688%2F1%2Foriginal.20261021-114110?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=19a04c0aa22b78054ffafa0712771d50",
+   "start": "2026-12-12T11:00:00.000Z",
+   "end": "2026-12-12T13:00:00.000Z",
+   "allDay": false,
+   "timezone": "Africa/Johannesburg",
+   "venue": "Goodman Gallery Cape Town",
+   "address": "37A Somerset Road, Cape Town, WC 8051",
+   "city": "Cape Town",
+   "area": "cape-town",
+   "lat": -33.9146996,
+   "lng": 18.4177847,
+   "price": null,
+   "organiser": null,
+   "sourceCategories": [
+    "Painting",
+    "Performing & Visual Arts",
+    "Attraction",
+    "pavementart",
+    "streetartshow",
+    "goodmangallery",
+    "urbancreativity",
+    "capetownart"
+   ],
+   "categories": [
+    "exhibitions"
+   ],
+   "score": 6,
+   "alsoOn": [],
+   "firstSeen": "2026-11-23T13:52:29.918Z"
+  },
+  {
    "id": "quicket:403889",
    "source": "quicket",
    "sourceName": "Quicket",
@@ -6260,6 +6179,48 @@
    "score": 7,
    "alsoOn": [],
    "firstSeen": "2026-11-09T10:22:41.753Z"
+  },
+  {
+   "id": "eventbrite:2005183905038",
+   "source": "eventbrite",
+   "sourceName": "Eventbrite",
+   "sourceId": "2005183905038",
+   "title": "Sandbaai Market",
+   "description": "Get ready to explore cool stalls and tasty treats at the Sandbaai Market—your new favorite weekend hangout!",
+   "url": "https://www.eventbrite.com/e/sandbaai-market-tickets-2005183905038",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1198441282%2F135157983178%2F1%2Foriginal.20261121-094628?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=32a537df4df17277434cb65f3e623c01",
+   "start": "2026-12-12T12:00:00.000Z",
+   "end": "2026-12-12T17:00:00.000Z",
+   "allDay": false,
+   "timezone": "Africa/Johannesburg",
+   "venue": "Sandbaai Saal Hermanus",
+   "address": "71 Main Road, Sandbaai, WC 7200",
+   "city": "Sandbaai",
+   "area": "western-cape",
+   "lat": -34.4229774,
+   "lng": 19.1973384,
+   "price": null,
+   "organiser": null,
+   "sourceCategories": [
+    "City/Town",
+    "Community & Culture",
+    "Festival or Fair",
+    "Communityevent",
+    "Market",
+    "Localvendors",
+    "Freshproduce",
+    "Saturdayvibes",
+    "food_and_drink",
+    "localartisans",
+    "handmadegoods",
+    "sandbaai_market"
+   ],
+   "categories": [
+    "festivals"
+   ],
+   "score": 5,
+   "alsoOn": [],
+   "firstSeen": "2026-11-23T13:52:29.918Z"
   },
   {
    "id": "quicket:407715",
@@ -6335,6 +6296,42 @@
    "firstSeen": "2026-11-10T11:57:11.406Z"
   },
   {
+   "id": "quicket:409928",
+   "source": "quicket",
+   "sourceName": "Quicket",
+   "sourceId": "409928",
+   "title": "Leonard's Lullaby - A Sound Journey - Live at The Playhouse",
+   "description": "A gentle sound journey inspired by the music of the late great Leonard Cohen. Performed by Dave Starke, Nish Pillay and Daniel Franks, this unique performance has been specifically designed to be experienced in a deep restful state, so bring along a yoga mat, blanket and cushion to get comfortable. We will be exploring Cohen's compositions from a purely melodic and harmonic perspective, using voice but without words so as not to activate the language centre of the brain. In this way, we consider the dynamic and timbral aspects of the music and create an emotional landscape built from the melodies alone.\nAbout the performers:Dave Starke is a songwriter, teacher and counsellor based in Kalk…",
+   "url": "https://www.quicket.co.za/events/409928-leonards-lullaby-a-sound-journey-live-at-the-playhouse/",
+   "image": "https://images.quicket.co.za/1026816_247_247.png",
+   "start": "2026-12-12T16:30:00.000Z",
+   "end": "2026-12-12T18:30:00.000Z",
+   "allDay": false,
+   "timezone": "Africa/Johannesburg",
+   "venue": "THE PLAYHOUSE",
+   "address": "81 Kommetjie Road, Fish Hoek, 7975, Cape Town, Western Cape, South Africa",
+   "city": "Cape Town",
+   "area": "cape-town",
+   "lat": -34.13645,
+   "lng": 18.41907,
+   "price": {
+    "text": "R350",
+    "amount": 350,
+    "currency": "ZAR",
+    "free": false
+   },
+   "organiser": "Dave Starke",
+   "sourceCategories": [
+    "Health & Wellness"
+   ],
+   "categories": [
+    "wellness"
+   ],
+   "score": 5.5,
+   "alsoOn": [],
+   "firstSeen": "2026-11-23T13:52:29.918Z"
+  },
+  {
    "id": "quicket:394034",
    "source": "quicket",
    "sourceName": "Quicket",
@@ -6407,6 +6404,42 @@
    "score": 4,
    "alsoOn": [],
    "firstSeen": "2026-11-09T10:22:41.753Z"
+  },
+  {
+   "id": "quicket:409869",
+   "source": "quicket",
+   "sourceName": "Quicket",
+   "sourceId": "409869",
+   "title": "Abstract Sculpture",
+   "description": "Abstract Sculpture Workshop ???\nShape your imagination into a stunning work of art!\nJoin our Abstract Sculpture Workshop and explore the exciting world of three-dimensional art. Create a unique sculptural piece in a fun, supportive environment.\nWhether you prefer smooth organic forms, bold geometric shapes, or expressive abstract designs, this workshop gives you the freedom to bring your creative vision to life.\n? What's Included:\nAll sculpting materials providedGuided step-by-step sessionInstructor available for assistanceBeginner-friendlyChild-friendlyLearn basic sculpting and finishing techniquesTake your handcrafted sculpture home\nBook Now!0735269750",
+   "url": "https://www.quicket.co.za/events/409869-abstract-sculpture/",
+   "image": "https://images.quicket.co.za/1026506_247_247.png",
+   "start": "2026-12-14T08:00:00.000Z",
+   "end": "2026-12-14T10:00:00.000Z",
+   "allDay": false,
+   "timezone": "Africa/Johannesburg",
+   "venue": "Phela Café",
+   "address": "Beach Road, Hibernian Tower , Strand, 7139, Cape Town, Western Cape, South Africa",
+   "city": "Cape Town",
+   "area": "cape-town",
+   "lat": -34.1140366,
+   "lng": 18.8230019,
+   "price": {
+    "text": "R280",
+    "amount": 280,
+    "currency": "ZAR",
+    "free": false
+   },
+   "organiser": "Phela Café",
+   "sourceCategories": [
+    "Arts & Culture"
+   ],
+   "categories": [
+    "craft"
+   ],
+   "score": 4,
+   "alsoOn": [],
+   "firstSeen": "2026-11-23T13:52:29.918Z"
   },
   {
    "id": "webtickets:1607018203",
@@ -7698,7 +7731,7 @@
    "sourceName": "Quicket",
    "sourceId": "406620",
    "title": "OUTLAWZ FESTIVAL: CAPE TOWN",
-   "description": "Join us on Tuesday, December 29th at the Castle of Good Hope in Cape Town for an unforgettable Amapiano & Afro Electronic Festival !\nFrom 2 PM to 2 AM, get ready for 12 hours of non-stop groove, featuring some of South Africa’s biggest stars, including Scotts Maphuma, DBN Gogo, 2woBunnies, MDU aka TRP and many more…\nGRAB YOUR TICKETS NOW !\nTuesday, 29 December 2026Castle of Good Hope, Cape Town",
+   "description": "OUTLAWZ – AMAPIANO & AFRO ELECTRONIC FESTIVAL\nCAPE TOWN, ARE YOU READY?\nOn Tuesday, 29 December 2026, Outlawz takes over the iconic Castle of Good Hope in Cape Town for a massive open-air celebration of Amapiano and Afro Electronic music.From 2 PM to 2 AM, experience 12 hours of music, culture and pure energy in one of South Africa's most iconic historical landmarks.With over 20 artists from South Africa and Europe, Outlawz brings together some of the most exciting names in the scene for an unforgettable musical experience.\nTHE LINE-UPScotts MaphumaDBN Gogo2woBunniesJayJayyGeneral C'mamaneDjy BizaArgento DustMacdeedozerEunice BeckmannColiniInter B & DraadSamiProdthina\nPLUS MORE ARTISTS TO…",
    "url": "https://www.quicket.co.za/events/406620-outlawz-festival-cape-town/",
    "image": "https://images.quicket.co.za/1016906_247_247.jpeg",
    "start": "2026-12-29T12:00:00.000Z",
@@ -7724,7 +7757,7 @@
    "categories": [
     "festivals"
    ],
-   "score": 3,
+   "score": 5,
    "alsoOn": [],
    "firstSeen": "2026-11-09T10:31:44.896Z"
   },
@@ -8237,6 +8270,43 @@
    "firstSeen": "2026-11-09T10:22:41.753Z"
   },
   {
+   "id": "quicket:409957",
+   "source": "quicket",
+   "sourceName": "Quicket",
+   "sourceId": "409957",
+   "title": "Meerendal Full Moon Hike 23 January 2027",
+   "description": "FULL MOON HIKE AT MEERENDAL\nWhen the sun goes down, Meerendal looks completely different.\nGather your favourite people and experience the estate after dark — 5km of fresh air, beautiful views, glowing torches and a little full-moon adventure. Whether you walk it with friends, bring the family or simply come for the atmosphere, it’s a wonderful way to spend an evening outdoors.\nTHE HIKEStart: 20:005km route A family-friendly, easy to medium hike. Not suitable for strollers.\nTickets exclusively through Quicket. No gate sales.Ticket sales close at 12:00 on 22 January 2027.\nCOME PREPAREDComfortable walking shoesJacket – evenings can get chilly Source of lightRaincoat if rain is forecastedPlease…",
+   "url": "https://www.quicket.co.za/events/409957-meerendal-full-moon-hike-23-january-2027/",
+   "image": "https://images.quicket.co.za/1026868_247_247.jpeg",
+   "start": "2027-01-23T18:00:00.000Z",
+   "end": "2027-01-23T20:00:00.000Z",
+   "allDay": false,
+   "timezone": "Africa/Johannesburg",
+   "venue": "Meerendal Wine Estate, Vissershok Road, Durbanville",
+   "address": "Vissershok Road , Durbanville, 7550, Cape Town, Western Cape, South Africa",
+   "city": "Cape Town",
+   "area": "cape-town",
+   "lat": -33.799015,
+   "lng": 18.6239872,
+   "price": {
+    "text": "R30 – R60",
+    "amount": 30,
+    "currency": "ZAR",
+    "free": false
+   },
+   "organiser": "Meerendal Wine Estate",
+   "sourceCategories": [
+    "Other"
+   ],
+   "categories": [
+    "wellness",
+    "tastings"
+   ],
+   "score": 3,
+   "alsoOn": [],
+   "firstSeen": "2026-11-23T13:52:29.918Z"
+  },
+  {
    "id": "quicket:396699",
    "source": "quicket",
    "sourceName": "Quicket",
@@ -8408,6 +8478,43 @@
    "score": 5,
    "alsoOn": [],
    "firstSeen": "2026-11-09T10:31:44.896Z"
+  },
+  {
+   "id": "quicket:409924",
+   "source": "quicket",
+   "sourceName": "Quicket",
+   "sourceId": "409924",
+   "title": "Friday Night Market at Boschendal",
+   "description": "Boschendal Friday Night Market\nJoin us for another season of magical evenings on the Werf, with good food, live music and Boschendal wines. Unwind, connect, and close the week with a memorable evening at the Boschendal Friday Night Market, held every Friday from 17:00 to 21:00.\nThis season, we’ve introduced a R50 adult entry ticket that includes a Boschendal stemless wine glass to use throughout the evening and take home. Under-18s enter free with a reserved ticket.\nPlease note: Our Night Market is a highlight of the season. Due to high demand, walk-in tickets will be subject to capacity limits, so please secure your tickets early to avoid disappointment! Tickets for the market are released…",
+   "url": "https://www.quicket.co.za/events/409924-friday-night-market-at-boschendal/",
+   "image": "https://images.quicket.co.za/1026638_247_247.jpeg",
+   "start": "2027-02-05T15:00:00.000Z",
+   "end": "2027-02-05T19:00:00.000Z",
+   "allDay": false,
+   "timezone": "Africa/Johannesburg",
+   "venue": "Boschendal Wine Estate",
+   "address": "Boschendal Estate, Pniel Road, Groot, Franschhoek, 7690, South Africa, 7690, Franschhoek, Western Cape, South Africa",
+   "city": "Franschhoek",
+   "area": "winelands",
+   "lat": -33.87749,
+   "lng": 18.97273,
+   "price": {
+    "text": "Free – R50",
+    "amount": 0,
+    "currency": "ZAR",
+    "free": false,
+    "hasFreeOption": true
+   },
+   "organiser": "Boschendal",
+   "sourceCategories": [
+    "Food & Drink"
+   ],
+   "categories": [
+    "festivals"
+   ],
+   "score": 5,
+   "alsoOn": [],
+   "firstSeen": "2026-11-23T13:52:29.918Z"
   },
   {
    "id": "quicket:396702",
@@ -9298,6 +9405,49 @@
    "score": 5,
    "alsoOn": [],
    "firstSeen": "2026-11-10T11:57:11.406Z"
+  },
+  {
+   "id": "eventbrite:1995176914861",
+   "source": "eventbrite",
+   "sourceName": "Eventbrite",
+   "sourceId": "1995176914861",
+   "title": "TECHSPO Cape Town 2027 Technology Expo (AI ~ SaaS ~ AdTech ~ MarTech)",
+   "description": "TECHSPO Cape Town Technology Expo (AI ~ SaaS ~ Internet ~ Mobile ~ AdTech ~ MarTech) - October 7, 2027  - Cape Town, South Africa",
+   "url": "https://www.eventbrite.com/e/techspo-cape-town-2027-technology-expo-ai-saas-adtech-martech-tickets-1995176914861",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196025982%2F167645577512%2F1%2Foriginal.20261018-022948?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=dba55c2b8d5501315afac0a24d1f34be",
+   "start": "2027-10-07T07:00:00.000Z",
+   "end": "2027-10-07T15:00:00.000Z",
+   "allDay": false,
+   "timezone": "Africa/Johannesburg",
+   "venue": "Cape Town",
+   "address": "Dock Rd, Victoria & Alfred Waterfront, Cape Town, 8001",
+   "city": "Cape Town",
+   "area": "cape-town",
+   "lat": -33.9107029,
+   "lng": 18.4191167,
+   "price": null,
+   "organiser": null,
+   "sourceCategories": [
+    "Sales & Marketing",
+    "Business & Professional",
+    "Tradeshow, Consumer Show, or Expo",
+    "Marketing",
+    "Tech",
+    "Technology",
+    "Ai",
+    "Saas",
+    "Expo",
+    "Internet",
+    "Martech",
+    "Adtech",
+    "Capetown"
+   ],
+   "categories": [
+    "festivals"
+   ],
+   "score": 4,
+   "alsoOn": [],
+   "firstSeen": "2026-11-23T13:52:29.918Z"
   }
  ]
 }
